@@ -21,6 +21,8 @@ type ChapterPageProps = {
   }>
 }
 
+export const dynamicParams = false
+
 export async function generateStaticParams() {
   return getBibleChapterStaticParams()
 }
