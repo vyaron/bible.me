@@ -448,11 +448,60 @@ main {
   margin-top: 1.2rem;
 }
 
+.hebrew-block {
+  padding: 1rem;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.68);
+}
+
+.hebrew-block h2 {
+  margin: 0 0 0.75rem;
+  font-size: 1.2rem;
+}
+
 .hebrew-note {
   margin: 0 0 0.75rem;
   color: var(--muted);
   font-family: var(--font-ui);
   font-size: 0.92rem;
+}
+
+.hebrew-verse-list {
+  display: grid;
+  gap: 0.55rem;
+}
+
+.hebrew-verse-row {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.75rem;
+  align-items: start;
+  padding: 0.45rem 0;
+  border-bottom: 1px solid rgba(73, 52, 31, 0.08);
+}
+
+.hebrew-verse-row:last-child {
+  border-bottom: 0;
+}
+
+.hebrew-verse-number {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 2rem;
+  height: 2rem;
+  padding: 0 0.45rem;
+  border-radius: 999px;
+  background: rgba(122, 78, 37, 0.16);
+  color: #583514;
+  font-family: var(--font-ui);
+  font-size: 0.86rem;
+  font-weight: 700;
+}
+
+.hebrew-verse-text {
+  font-size: 1.14rem;
 }
 
 .verse {
@@ -527,5 +576,14 @@ main {
 
   .verse-body {
     padding-inline-end: 2rem;
+  }
+
+  .hebrew-verse-row {
+    grid-template-columns: 1fr;
+    gap: 0.35rem;
+  }
+
+  .hebrew-verse-number {
+    width: fit-content;
   }
 }

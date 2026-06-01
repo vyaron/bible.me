@@ -154,21 +154,33 @@ export default async function ChapterPage({ params }: ChapterPageProps) {
           ))}
         </div>
 
-        <div id="original-hebrew-verse" className="hebrew-inline-help">
-          {hebrewChapterData ? (
-            <p className="hebrew-note" dir="rtl" lang="he">
-              לגרסה העברית המקורית: לחצו על סימון אות הפסוק ליד כל פסוק. {hebrewChapterData.book.hebrewName} פרק {hebrewChapterData.chapter.numeral}
-            </p>
-          ) : (
-            <p className="hebrew-note">Hebrew not available for this book and chapter yet.</p>
-          )}
-        </div>
       </article>
 
       <p className="footer-note">
         Canonical route: <a href={`${siteUrl}${getChapterUrl(book.slug, chapter.number)}`}>{siteUrl}{getChapterUrl(book.slug, chapter.number)}</a>
         {bookIndex ? ` • ${bookIndex.name}` : ''}
       </p>
+
+      <div id="original-hebrew-verse" className="hebrew-inline-help">
+        {hebrewChapterData ? (
+          <div className="hebrew-block">
+            <h2>Original Hebrew Chapter</h2>
+            <p className="hebrew-note" dir="rtl" lang="he">
+              {hebrewChapterData.book.hebrewName} פרק {hebrewChapterData.chapter.numeral}
+            </p>
+            <div className="hebrew-verse-list" dir="rtl" lang="he">
+              {hebrewChapterData.chapter.verses.map((verse) => (
+                <div key={verse.number} className="hebrew-verse-row">
+                  <span className="hebrew-verse-number">{verse.numeral}</span>
+                  <span className="hebrew-verse-text">{verse.text}</span>
+                </div>
+              ))}
+            </div>
+          </div>
+        ) : (
+          <p className="hebrew-note">Hebrew not available for this book and chapter yet.</p>
+        )}
+      </div>
     </section>
   )
 }
