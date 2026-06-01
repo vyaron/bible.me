@@ -1,0 +1,813 @@
+{
+  "id": "NT-09-GAL",
+  "code": "GAL",
+  "slug": "galatians",
+  "name": "Galatians",
+  "testament": "NT",
+  "testamentOrder": 9,
+  "order": 48,
+  "source": {
+    "file": "src/GAL.rtf",
+    "format": "rtf"
+  },
+  "stats": {
+    "chapters": 6,
+    "verses": 149
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "This letter comes from Paul, an apostle not appointed by any human organization or human authority.* Quite the contrary: I was appointed by Jesus Christ and God the Father who raised Jesus from the dead."
+        },
+        {
+          "number": 2,
+          "text": "All the brothers and sisters here with me join in sending this letter to the churches in Galatia."
+        },
+        {
+          "number": 3,
+          "text": "May the grace and peace of God the Father and our Lord Jesus Christ be with you!"
+        },
+        {
+          "number": 4,
+          "text": "Jesus gave himself for our sins to set us free from this current world of evil, following the will of our God and Father."
+        },
+        {
+          "number": 5,
+          "text": "To him be glory forever and ever! Amen."
+        },
+        {
+          "number": 6,
+          "text": "I'm shocked at how quickly you're abandoning the God who by the grace of Christ called you. You are turning to a different kind of good news"
+        },
+        {
+          "number": 7,
+          "text": "that isn't good news at all! Some people there are confusing you, wanting to pervert the good news of Christ."
+        },
+        {
+          "number": 8,
+          "text": "But if anyone, even we ourselves, or even an angel from heaven, should promote any other kind of good news* than what we have already told you, let them be condemned!"
+        },
+        {
+          "number": 9,
+          "text": "I repeat what we've told you before: if anyone promotes any other kind of good news* than what you've already accepted, let them be condemned!"
+        },
+        {
+          "number": 10,
+          "text": "Whose approval do you think I want—that of people, or of God? Do you think I'm trying to please people? If I wanted to please people I wouldn't be a servant of Christ!"
+        },
+        {
+          "number": 11,
+          "text": "Let me make it clear, my friends, regarding the good news I'm declaring—it did not come from any human being."
+        },
+        {
+          "number": 12,
+          "text": "I didn't receive it from anyone, and nobody taught it to me—it was Jesus Christ who revealed it to me."
+        },
+        {
+          "number": 13,
+          "text": "You heard how I behaved as a follower of the Jewish religion—how I fanatically persecuted God's church, savagely trying to destroy it."
+        },
+        {
+          "number": 14,
+          "text": "I surpassed my contemporaries in the practice of the Jewish religion because I was so fervently devoted to the traditions of my ancestors."
+        },
+        {
+          "number": 15,
+          "text": "But when God (who had set me apart from birth) called me through his grace, and was pleased"
+        },
+        {
+          "number": 16,
+          "text": "to reveal his Son to me so that I could announce the good news to the nations,* I didn't discuss this with anyone."
+        },
+        {
+          "number": 17,
+          "text": "I didn't go to Jerusalem to talk to those who preceded me as apostles; instead I left for Arabia, and then later returned to Damascus."
+        },
+        {
+          "number": 18,
+          "text": "After three years I went to Jerusalem to visit Peter. I stayed with him for two weeks."
+        },
+        {
+          "number": 19,
+          "text": "I didn't see any other apostles except James, the Lord's brother."
+        },
+        {
+          "number": 20,
+          "text": "(Let me assure you before God that I'm not lying about what I'm writing to you!)"
+        },
+        {
+          "number": 21,
+          "text": "Then I went to Syria and Cilicia."
+        },
+        {
+          "number": 22,
+          "text": "Even so, my face wasn't known to those in the churches of Judea."
+        },
+        {
+          "number": 23,
+          "text": "They had only heard people say, “The man who used to persecute us is now spreading the faith he once tried to destroy!”"
+        },
+        {
+          "number": 24,
+          "text": "—and they praised God because of me."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "1:1",
+          "text": "Literally, “not by men nor through man.”"
+        },
+        {
+          "ref": "1:8",
+          "text": "Clearly Paul doesn't think this is good news at all, so maybe should be in ironic quotes: “good news.”"
+        },
+        {
+          "ref": "1:9",
+          "text": "As 1:8."
+        },
+        {
+          "ref": "1:16",
+          "text": "Or “Gentiles.”"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Fourteen years later I returned to Jerusalem with Barnabas. I took Titus along with me."
+        },
+        {
+          "number": 2,
+          "text": "I went because of what God had shown me.* I met with the recognized church leaders there in private and explained to them the good news I was sharing with the foreigners.* I didn't want the course I had followed, and what I was working so hard for, to come to nothing."
+        },
+        {
+          "number": 3,
+          "text": "But as it turned out, nobody even insisted that Titus who was with me should be circumcised, though he was Greek."
+        },
+        {
+          "number": 4,
+          "text": "(That issue only arose because some false Christians slipped in to spy on the freedom we have in Christ Jesus, trying to make us slaves."
+        },
+        {
+          "number": 5,
+          "text": "We never gave in to them, not even for a moment. We wanted to make sure to keep the truth of the good news unchanged for you.)"
+        },
+        {
+          "number": 6,
+          "text": "But those considered to be important didn't add anything* to what I said. (It doesn't concern me what kind of leaders they were, because God doesn't judge people the way we do.)"
+        },
+        {
+          "number": 7,
+          "text": "On the contrary, once they realized that I'd been given responsibility to share the good news with the foreigners just as Peter had been given the responsibility to share the good news with the Jews,"
+        },
+        {
+          "number": 8,
+          "text": "(for the same God* who worked through Peter as apostle to the Jews also worked through me as apostle to the foreigners),"
+        },
+        {
+          "number": 9,
+          "text": "and once they recognized the grace that had been given to me, then James, Peter, and John, who bore the responsibility* of church leadership, shook Barnabas and me by the hand as their fellow-workers."
+        },
+        {
+          "number": 10,
+          "text": "We were to work for the foreigners, while they would work for the Jews. Their only instruction was to remember to look after the poor, something I was already very committed to."
+        },
+        {
+          "number": 11,
+          "text": "However, when Peter came to Antioch I did have to confront him directly, because he was clearly wrong in what he did."
+        },
+        {
+          "number": 12,
+          "text": "Before some of James' friends arrived, Peter used to eat with the foreigners. But when these people came he stopped doing this and stayed away from the foreigners. He was afraid of being criticized by those who insisted that men had to be circumcised."
+        },
+        {
+          "number": 13,
+          "text": "As well as Peter, other Jewish Christians became hypocritical too, to the extent that even Barnabas was persuaded to follow their hypocrisy."
+        },
+        {
+          "number": 14,
+          "text": "When I realized that they weren't taking a firm stand for the truth of the good news, I said to Peter in front of everyone, “If you're a Jew yet live like the foreigners and not like Jews, why are you forcing the foreigners to live like Jews?"
+        },
+        {
+          "number": 15,
+          "text": "We may be Jews by birth, and not ‘sinners’ like the foreigners,"
+        },
+        {
+          "number": 16,
+          "text": "but we know that nobody is made right by doing what the law demands—it is only through trusting in Jesus Christ. We have trusted in Christ Jesus so that we could be made right by placing our confidence in Christ, and not through doing what the law says—because nobody is made right by observing the requirements of the law.”"
+        },
+        {
+          "number": 17,
+          "text": "For if, as we look to be made right in Christ, we ourselves prove to be sinners, does that then mean that Christ is in the service of sin?* Of course not!"
+        },
+        {
+          "number": 18,
+          "text": "For if I were to rebuild what I've destroyed, then I only demonstrate I'm a law-breaker.*"
+        },
+        {
+          "number": 19,
+          "text": "For through the law I died to the law in order that I could live for God."
+        },
+        {
+          "number": 20,
+          "text": "I've been crucified with Christ— so it's no longer I who lives, but it is Christ living in me. The life I now live in this body, I live by trusting in the Son of God, who loved me, and who gave himself for me."
+        },
+        {
+          "number": 21,
+          "text": "How could I dismiss God's grace? For if we could be made right through keeping the law then Christ died a pointless death!"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "2:2",
+          "text": "Literally, “according to revelation.”"
+        },
+        {
+          "ref": "2:2",
+          "text": "Literally, “Gentiles.”"
+        },
+        {
+          "ref": "2:6",
+          "text": "Or “made no changes.”"
+        },
+        {
+          "ref": "2:8",
+          "text": "Literally, “the One.”"
+        },
+        {
+          "ref": "2:9",
+          "text": "Literally, “considered pillars.”"
+        },
+        {
+          "ref": "2:17",
+          "text": "The idea here is that by giving up observance of the Jewish law we then become sinners, and Christ has led us into sin—a concept that Paul strongly rejects."
+        },
+        {
+          "ref": "2:18",
+          "text": "In other words, if I return to the old system of law as the means of being set right with God, all I do is prove that I am in violation of the law as a sinner."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "You Galatians, you've lost your heads!* Who has put you under a spell? The death of Jesus Christ on a cross was clearly presented to you so you could see!"
+        },
+        {
+          "number": 2,
+          "text": "So tell me—did you receive the Spirit by keeping the law, or by placing your trust in what you heard?"
+        },
+        {
+          "number": 3,
+          "text": "You really have lost your heads! You began living* in the Spirit. Do you really think you can now make yourselves perfect by your own human efforts?*"
+        },
+        {
+          "number": 4,
+          "text": "Did you go through so much suffering for nothing? (It really wasn't for nothing was it?)"
+        },
+        {
+          "number": 5,
+          "text": "Let me ask you: does God* give you the Spirit and do so many miracles among you because you keep the law, or is it because you trust in what you heard?"
+        },
+        {
+          "number": 6,
+          "text": "It's just like Abraham who “trusted God, and was considered to be right.”*"
+        },
+        {
+          "number": 7,
+          "text": "So you should acknowledge that those who trust in God are the children of Abraham."
+        },
+        {
+          "number": 8,
+          "text": "In Scripture it was foreseen that God would make right the foreigners who trusted in him. The good news is revealed to Abraham beforehand with the words, “Through you all the nations will be blessed.”"
+        },
+        {
+          "number": 9,
+          "text": "Consequently those who trust in God are blessed along with Abraham who trusted God."
+        },
+        {
+          "number": 10,
+          "text": "All those who rely on keeping the law* are under a curse, for as Scripture says, “Cursed is everyone who doesn't carefully obey everything that's written in the book of the law.”"
+        },
+        {
+          "number": 11,
+          "text": "Clearly nobody is made right with God by attempting to keep the law, for “Those who are made right will live by trusting God.”*"
+        },
+        {
+          "number": 12,
+          "text": "Obedience to the law has nothing to do with trusting God. Scripture only says, “You will live if you observe everything the law requires.”*"
+        },
+        {
+          "number": 13,
+          "text": "Christ has rescued us from the curse of the law by becoming a curse for us.* As Scripture says, “Cursed is everyone who is hanged on a tree”*—"
+        },
+        {
+          "number": 14,
+          "text": "so that through Christ Jesus the blessing of Abraham could come to the foreigners as well, and we could receive the promise of the Spirit by trusting God."
+        },
+        {
+          "number": 15,
+          "text": "Brothers and sisters, here's an example from daily life. If a contract is drawn up and agreed, signed and sealed, nobody can ignore it or add to it."
+        },
+        {
+          "number": 16,
+          "text": "Now the promises were given to Abraham, and to his son.* It doesn't say, “sons” as if plural, but singular: “and to your son,” meaning Christ."
+        },
+        {
+          "number": 17,
+          "text": "Let me explain. The law, coming four hundred and thirty years later, doesn't cancel the previous agreement* that God made, breaking the promise."
+        },
+        {
+          "number": 18,
+          "text": "If the inheritance is derived from obedience to the law, it no longer comes from the promise. But God graciously gave it to Abraham by means of the promise."
+        },
+        {
+          "number": 19,
+          "text": "What was the point of the law, then? It was added to show what wrongdoing really is, until the son came to whom the promise had been made. The law was put in place by angels through the hand of a mediator."
+        },
+        {
+          "number": 20,
+          "text": "But a mediator isn't needed when there's only one person involved. And God is one!*"
+        },
+        {
+          "number": 21,
+          "text": "So does the law work against God's promises? Of course not! For if there was a law that could give life, then we could be made right by keeping it."
+        },
+        {
+          "number": 22,
+          "text": "But Scripture tells us that we all are prisoners of sin. The only way we can receive God's promises is by trusting in Jesus Christ."
+        },
+        {
+          "number": 23,
+          "text": "Before we trusted in Jesus we remained in the custody of the law until this way of trusting was revealed."
+        },
+        {
+          "number": 24,
+          "text": "The law was our guardian until Christ came, so that we could be made right by trusting him."
+        },
+        {
+          "number": 25,
+          "text": "But now this way of trusting Jesus has come, we no longer need such a guardian."
+        },
+        {
+          "number": 26,
+          "text": "For you are all God's children through your trust in Christ Jesus."
+        },
+        {
+          "number": 27,
+          "text": "All of you who were baptized into Christ have clothed yourselves with Christ."
+        },
+        {
+          "number": 28,
+          "text": "There's no longer Jew or Greek, slave or free, male or female—you are all one in Christ Jesus."
+        },
+        {
+          "number": 29,
+          "text": "If you are Christ's, then you are Abraham's children, and you are heirs of the promise!"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "3:1",
+          "text": "The word used here is usually translated as “foolish”; however today that has become more of an epithet. Paul's point is that they are not thinking—the word really means “mindless.” The same word is used again in verse 3."
+        },
+        {
+          "ref": "3:3",
+          "text": "Meaning, “You began your Christian lives.”"
+        },
+        {
+          "ref": "3:3",
+          "text": "Or “by human means.”"
+        },
+        {
+          "ref": "3:5",
+          "text": "Literally, “the one.”"
+        },
+        {
+          "ref": "3:6",
+          "text": "Quoting Genesis 15:6."
+        },
+        {
+          "ref": "3:10",
+          "text": "As a means of salvation."
+        },
+        {
+          "ref": "3:11",
+          "text": "Quoting Habakkuk 2:4."
+        },
+        {
+          "ref": "3:12",
+          "text": "Quoting Leviticus 18:5."
+        },
+        {
+          "ref": "3:13",
+          "text": "“By becoming a curse for us”: meaning by experiencing the consequences of sin. The idea that this was an imposed curse by God is not the meaning here. It is sin itself that brings the curse (see Romans 6:23)."
+        },
+        {
+          "ref": "3:13",
+          "text": "Quoting Deuteronomy 21:23."
+        },
+        {
+          "ref": "3:16",
+          "text": "Literally, “seed.” See Genesis 12:7 and Genesis 13:15."
+        },
+        {
+          "ref": "3:17",
+          "text": "Or “covenant.”"
+        },
+        {
+          "ref": "3:20",
+          "text": "The idea here is that the Old Testament law needed a mediator (Moses). But in the case of the promise this was made directly to Abraham, and according the argument that Paul is developing here, directly fulfilled that promise through Jesus Christ. In this way, says Paul, the promise and its fulfillment are superior to the law."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Let me explain what I'm saying. An heir who is underage is no different from a slave, even though the heir may be the owner of everything."
+        },
+        {
+          "number": 2,
+          "text": "An heir is subject to guardians and managers until the time set by the father."
+        },
+        {
+          "number": 3,
+          "text": "It's just the same for us. When we were children, we were slaves subject to the basic rules* of the law."
+        },
+        {
+          "number": 4,
+          "text": "But at the appropriate time God sent his Son, born of a woman, born under the rule of law,"
+        },
+        {
+          "number": 5,
+          "text": "so that he could rescue those who were kept under the rule of law, so that we could receive the inheritance of adopted children."
+        },
+        {
+          "number": 6,
+          "text": "To show you are his children, God sent the Spirit of his Son to convince us, causing us to call out, “Abba,” meaning “Father.”"
+        },
+        {
+          "number": 7,
+          "text": "Since you are now no longer a slave, but a child, and if you are his child, then God has made you his heir."
+        },
+        {
+          "number": 8,
+          "text": "At the time when you didn't know God, you were enslaved by the supposed “gods” of this world."
+        },
+        {
+          "number": 9,
+          "text": "But now you've come to know God—or better, to be known by God. So how can you go back to those useless and worthless rules? Do you want to be slaves to those rules all over again?"
+        },
+        {
+          "number": 10,
+          "text": "You're observing special days and months, seasons and years.*"
+        },
+        {
+          "number": 11,
+          "text": "I'm concerned that all I did for you has been wasted!"
+        },
+        {
+          "number": 12,
+          "text": "I'm pleading with you, my friends: be like me, because I became like you.* You've never treated me badly."
+        },
+        {
+          "number": 13,
+          "text": "You remember that it was because I was sick that I shared with you the good news on my first visit.*"
+        },
+        {
+          "number": 14,
+          "text": "Even though my illness was difficult for you, you didn't despise or reject me—in fact you treated me like an angel of God, like Christ Jesus himself."
+        },
+        {
+          "number": 15,
+          "text": "So what's happened to all your gratefulness? I tell you, back then if you could have pulled out your eyes and given them to me, you would have!"
+        },
+        {
+          "number": 16,
+          "text": "So what has happened—have I become your enemy by telling you the truth?"
+        },
+        {
+          "number": 17,
+          "text": "These people are keen to gain your support, but not for any good reasons. On the contrary, they want to keep you away from us so that you will enthusiastically support them."
+        },
+        {
+          "number": 18,
+          "text": "Of course it's good to want to do good. But this should be at all times, not just when I'm there with you!*"
+        },
+        {
+          "number": 19,
+          "text": "My dear friends, I want to work with you until Christ's character is duplicated in you."
+        },
+        {
+          "number": 20,
+          "text": "I really wish I could be with you right now so I could change my tone of voice… I'm so worried about you."
+        },
+        {
+          "number": 21,
+          "text": "Answer me this, you people who want to live under the law: Don't you hear what the law is saying?"
+        },
+        {
+          "number": 22,
+          "text": "As Scripture says, Abraham had two sons, one from the servant girl, and one from the free woman.*"
+        },
+        {
+          "number": 23,
+          "text": "However, the son from the servant girl was born following a human plan,* while the son from the free woman was born as the result of the promise."
+        },
+        {
+          "number": 24,
+          "text": "This provides an analogy: these two women represent two agreements. One agreement is from Mount Sinai—Hagar—and she gives birth to slave children."
+        },
+        {
+          "number": 25,
+          "text": "Hagar symbolizes Mount Sinai in Arabia, and corresponds to the current Jerusalem, because she is in slavery with her children."
+        },
+        {
+          "number": 26,
+          "text": "But the heavenly Jerusalem is free. She is our mother."
+        },
+        {
+          "number": 27,
+          "text": "As Scripture says, “Rejoice you who are childless and who have never given birth! Shout aloud for joy, you who have never been in labor—for the abandoned woman has more children than the woman who has a husband!”*"
+        },
+        {
+          "number": 28,
+          "text": "Now my friends, we are children of promise just like Isaac."
+        },
+        {
+          "number": 29,
+          "text": "However, just as the one born according to a human plan persecuted the one born through the Spirit, so it is today."
+        },
+        {
+          "number": 30,
+          "text": "But what does Scripture say? “Send away the servant girl and her son, for the son of the servant girl will not be an heir together with the son of the free woman.”*"
+        },
+        {
+          "number": 31,
+          "text": "Therefore, my friends, we're not children of a servant girl, but of the free woman."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "4:3",
+          "text": "The word translated “rules” here is subject to wide interpretation. Originally the word referred to the alphabet, then took the meaning of the “ABC's” of life. Paul is comparing the ceremonial law to such letters and symbols, basic instructions useful for existence but having no power to save and heal. The same word is used in verse 9."
+        },
+        {
+          "ref": "4:10",
+          "text": "This refers to the observing of special feast days and times in the Old Testament system."
+        },
+        {
+          "ref": "4:12",
+          "text": "In other words, a “liberated Gentile.”"
+        },
+        {
+          "ref": "4:13",
+          "text": "It seems that because Paul was delayed due to sickness that he had the chance to share the good news with the Galatians."
+        },
+        {
+          "ref": "4:18",
+          "text": "Suggesting these people were only wanting to be helpful to the Galatians to fulfill their own agenda."
+        },
+        {
+          "ref": "4:22",
+          "text": "See Genesis 16:15 and Genesis 21:2-3."
+        },
+        {
+          "ref": "4:23",
+          "text": "Referring to Sarah's plan to have a child through her servant-girl."
+        },
+        {
+          "ref": "4:27",
+          "text": "Quoting Isaiah 54:1."
+        },
+        {
+          "ref": "4:30",
+          "text": "Quoting Genesis 21:10."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Christ set us free so we could have real freedom. So stand firm and don't get burdened down again by a yoke of slavery."
+        },
+        {
+          "number": 2,
+          "text": "Let me, Paul, tell you bluntly: if you rely on the way of circumcision, Christ will be of absolutely no benefit to you."
+        },
+        {
+          "number": 3,
+          "text": "Let me repeat: every man who is circumcised has to keep the whole of the law."
+        },
+        {
+          "number": 4,
+          "text": "Those of you who think you can be made right by the law are cut off from Christ—you have abandoned grace."
+        },
+        {
+          "number": 5,
+          "text": "For through the Spirit we trust and wait in hope to be made right."
+        },
+        {
+          "number": 6,
+          "text": "For in Christ Jesus being circumcised or uncircumcised doesn't achieve anything; it's only trust working through love that matters."
+        },
+        {
+          "number": 7,
+          "text": "You were doing so well! Who got in the way and prevented you from being convinced by the truth?"
+        },
+        {
+          "number": 8,
+          "text": "This “persuasion” certainly isn't from the one who calls you."
+        },
+        {
+          "number": 9,
+          "text": "You only need a little bit of yeast to raise the whole batch of dough."
+        },
+        {
+          "number": 10,
+          "text": "I'm confident in the Lord that you won't change the way you think, and that the one who is confusing you will face the consequences,* whoever he is."
+        },
+        {
+          "number": 11,
+          "text": "As for me, brothers and sisters, if I were still advocating circumcision—why am I still persecuted? If that was true, it would remove the issue of the cross that offends people so much."
+        },
+        {
+          "number": 12,
+          "text": "If only those who are causing you trouble would go even further than circumcision and castrate themselves!*"
+        },
+        {
+          "number": 13,
+          "text": "You, my brothers and sisters, were called to freedom! Just don't use your freedom as an excuse to indulge your sinful human nature—instead serve one another in love."
+        },
+        {
+          "number": 14,
+          "text": "For the whole law is summed up in this one command, “You shall love your neighbor as yourself.”*"
+        },
+        {
+          "number": 15,
+          "text": "But if you attack and tear into one another, watch out that you don't completely destroy yourselves!"
+        },
+        {
+          "number": 16,
+          "text": "My advice is to walk by the Spirit. Don't satisfy the desires of your sinful human nature."
+        },
+        {
+          "number": 17,
+          "text": "For the desires of the sinful nature are opposed to the Spirit, and the desires of the Spirit are opposed to the sinful nature. They fight one another, so you don't do what you want to do."
+        },
+        {
+          "number": 18,
+          "text": "But if the Spirit leads you, you're not under the law."
+        },
+        {
+          "number": 19,
+          "text": "It's clear what the sinful human nature produces: sexual immorality, indecency, sensuality,"
+        },
+        {
+          "number": 20,
+          "text": "idolatry, sorcery, hatred, rivalry, jealousy, anger, selfish ambition, dissension, heresy,"
+        },
+        {
+          "number": 21,
+          "text": "envy, drunkenness, feasting, and similar things. As I warned you before so I warn you again: nobody who behaves like this will inherit the kingdom of God."
+        },
+        {
+          "number": 22,
+          "text": "But the Spirit produces fruit such as love, joy, peace, patience, kindness, goodness, trust,"
+        },
+        {
+          "number": 23,
+          "text": "gentleness, self-control—and there's no law against these kinds of things!"
+        },
+        {
+          "number": 24,
+          "text": "Those who belong to Christ Jesus have nailed to the cross their sinful human nature, together with all their sinful passions and desires."
+        },
+        {
+          "number": 25,
+          "text": "If we live in the Spirit we should also walk in the Spirit."
+        },
+        {
+          "number": 26,
+          "text": "Let's not become boastful, or irritate and envy one another."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "5:10",
+          "text": "Or “judgment.”"
+        },
+        {
+          "ref": "5:12",
+          "text": "Not to be taken literally, of course, but symbolically, pushing the circumcision philosophy to the extreme."
+        },
+        {
+          "ref": "5:14",
+          "text": "Quoting Leviticus 19:18."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "My friends, if someone is led astray by sin, you who are spiritual should bring them back with a gentle spirit. Watch out that you don't get tempted too."
+        },
+        {
+          "number": 2,
+          "text": "Carry each other's burdens, for in this way you fulfill the law of Christ."
+        },
+        {
+          "number": 3,
+          "text": "Those who think they're really something—when they're actually nothing—only fool themselves."
+        },
+        {
+          "number": 4,
+          "text": "Carefully examine your actions. Then you can be satisfied with yourself, without comparing yourself to anyone else."
+        },
+        {
+          "number": 5,
+          "text": "We have to take responsibility for ourselves."
+        },
+        {
+          "number": 6,
+          "text": "Those that are taught the Word should treat their teachers well, sharing with them all good things."
+        },
+        {
+          "number": 7,
+          "text": "Don't be fooled, God can't be treated with contempt: whatever you sow, that's what you reap."
+        },
+        {
+          "number": 8,
+          "text": "If you sow according to your sinful human nature, from that nature you'll reap self-destruction. But if you sow according to the Spirit, from the Spirit you'll reap eternal life."
+        },
+        {
+          "number": 9,
+          "text": "Let's never tire of doing good, for we'll reap a harvest at the proper time, if we don't give up."
+        },
+        {
+          "number": 10,
+          "text": "So while we have time,* let's do good to everyone—especially to those who belong to the family of faith."
+        },
+        {
+          "number": 11,
+          "text": "Notice how big the letters are, now that I'm writing with my own hand!"
+        },
+        {
+          "number": 12,
+          "text": "Those people who only want to make a good impression are forcing you to be circumcised just so they won't be persecuted for the cross of Christ."
+        },
+        {
+          "number": 13,
+          "text": "Even those who are circumcised don't keep the law, but they want to have you circumcised so that they can boast about you and claim you as their followers.*"
+        },
+        {
+          "number": 14,
+          "text": "May I never boast except in the cross of our Lord Jesus Christ. Through this cross, the world has been crucified to me, and I've been crucified as far as the world is concerned."
+        },
+        {
+          "number": 15,
+          "text": "Circumcision or uncircumcision doesn't matter—what matters is that we're created brand new!"
+        },
+        {
+          "number": 16,
+          "text": "Peace and mercy to all who follow this principle, and to the Israel of God!"
+        },
+        {
+          "number": 17,
+          "text": "Please, don't anyone trouble me anymore, because I carry on my body the scars of Jesus.*"
+        },
+        {
+          "number": 18,
+          "text": "My brothers and sisters, may the grace of our Lord Jesus Christ be with your spirit. Amen."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "6:10",
+          "text": "That is, the time of opportunity."
+        },
+        {
+          "ref": "6:13",
+          "text": "The boast is that they have convinced others to follow their belief in the ongoing importance of the Jewish rite of circumcision (and other Jewish practices, the problem noted throughout Galatians)."
+        },
+        {
+          "ref": "6:17",
+          "text": "In other words, the wounds Paul received when he was persecuted for following Jesus."
+        }
+      ]
+    }
+  ]
+}

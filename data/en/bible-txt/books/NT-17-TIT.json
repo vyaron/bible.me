@@ -1,0 +1,235 @@
+{
+  "id": "NT-17-TIT",
+  "code": "TIT",
+  "slug": "titus",
+  "name": "Titus",
+  "testament": "NT",
+  "testamentOrder": 17,
+  "order": 56,
+  "source": {
+    "file": "src/TIT.rtf",
+    "format": "rtf"
+  },
+  "stats": {
+    "chapters": 3,
+    "verses": 46
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "This letter comes from Paul, servant of God and an apostle of Jesus Christ. I'm sent to build up the trust of God's chosen people and to share the knowledge of the truth that leads to lives lived for God."
+        },
+        {
+          "number": 2,
+          "text": "This gives them the hope of eternal life that God (who cannot lie) promised ages ago,"
+        },
+        {
+          "number": 3,
+          "text": "but which at the proper time he revealed through his word in the message which I was entrusted to give, following the command of God our Savior."
+        },
+        {
+          "number": 4,
+          "text": "This letter is sent to Titus, my true son through the trust in God we share in common. May you have grace and peace from God the Father and Christ Jesus our Savior."
+        },
+        {
+          "number": 5,
+          "text": "The reason I left you in Crete was for you to organize what was still needed and to appoint elders in every town, as I told you."
+        },
+        {
+          "number": 6,
+          "text": "An elder must have a good reputation, the husband of one wife, and have children who believe and who are not accused of being wild or disobedient."
+        },
+        {
+          "number": 7,
+          "text": "As a leader for God, a head elder must have a good reputation and not be arrogant. He should not have a quick temper nor get drunk; he shouldn't be violent or greedy for money."
+        },
+        {
+          "number": 8,
+          "text": "He should be hospitable, someone who loves what's good and does what's right. He should be living a life for God, self-controlled,"
+        },
+        {
+          "number": 9,
+          "text": "and must be devoted to the trustworthy message as it's taught. In this way he can encourage others through correct teaching, and be able to convince those who disagree."
+        },
+        {
+          "number": 10,
+          "text": "For there are many rebels around who talk a lot of deceptive nonsense, especially from the circumcision group.*"
+        },
+        {
+          "number": 11,
+          "text": "Their talking must stop, these people who throw whole families into turmoil, teaching things that aren't right for the sake of making money."
+        },
+        {
+          "number": 12,
+          "text": "As someone of their own people,* a prophet, has stated, “Cretans are always liars, evil beasts who are lazy, greedy people.”"
+        },
+        {
+          "number": 13,
+          "text": "This is a true statement! Consequently give them a good telling-off so that they can have a healthy trust in God,"
+        },
+        {
+          "number": 14,
+          "text": "not paying attention to Jewish myths and human commandments from those who deviate from the truth."
+        },
+        {
+          "number": 15,
+          "text": "To those who have clean minds everything is clean, but to those who are corrupt and refuse to trust in God, nothing is clean—both their minds and their consciences are corrupt."
+        },
+        {
+          "number": 16,
+          "text": "They claim to know God, but they prove this is false by what they do. They are detestable and disobedient, worthless for doing anything good."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "1:10",
+          "text": "Referring to those Jewish believers who taught that circumcision was necessary for salvation."
+        },
+        {
+          "ref": "1:12",
+          "text": "Not necessarily of the circumcision faction or any other dissident group, but someone from Crete."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "You, however, must teach what is consistent with healthy beliefs."
+        },
+        {
+          "number": 2,
+          "text": "Older men shouldn't drink; they should be respectable and sensible,* with a healthy trust in God, loving and patient."
+        },
+        {
+          "number": 3,
+          "text": "Similarly older women ought to behave in a way that shows they live their lives for God. They shouldn't destroy people's reputations by what they say, and they shouldn't be addicted to wine."
+        },
+        {
+          "number": 4,
+          "text": "They should be teachers of what's good, teaching the young wives to love their husbands and their children."
+        },
+        {
+          "number": 5,
+          "text": "They are to be sensible and pure, working in their homes, doing good and listening to what their husbands tell them. In this way the word of God will not be spoken about badly."
+        },
+        {
+          "number": 6,
+          "text": "Likewise tell the young men to be sensible."
+        },
+        {
+          "number": 7,
+          "text": "You should set an example of doing good in all areas of life: show integrity and seriousness in what you teach,"
+        },
+        {
+          "number": 8,
+          "text": "sharing healthy beliefs that can't be criticized. In this way those who are opposed will be ashamed of themselves and won't have anything bad to say about us."
+        },
+        {
+          "number": 9,
+          "text": "Tell servants to always obey their masters. They should try to please them and not talk back to them."
+        },
+        {
+          "number": 10,
+          "text": "They shouldn't steal things for themselves, but show they are completely trustworthy so that they may rightly represent the truth about God our Savior in every way."
+        },
+        {
+          "number": 11,
+          "text": "For God's grace has been revealed, bringing salvation to everyone."
+        },
+        {
+          "number": 12,
+          "text": "It teaches us to reject a godless way of life with the desires of this world. Instead we should live thoughtful, self-controlled lives that are right before God in the present world"
+        },
+        {
+          "number": 13,
+          "text": "as we look for the wonderful hope of the glorious appearing of our great God and Savior Jesus Christ."
+        },
+        {
+          "number": 14,
+          "text": "He gave himself for us, so that he could set us free from all our wickedness, and to make us clean for him—a people who belong to him, keen to do good."
+        },
+        {
+          "number": 15,
+          "text": "This is what you should be teaching. You have the authority to encourage and to correct as necessary. Don't let anyone look down on you."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "2:2",
+          "text": "“Sensible,” or “thoughtful,” “self-controlled,” “decent.” Also in 2:5, 2:6, and 2:12."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Remind them to follow what rulers tell them to do, and to obey authorities. They should always be ready to do what is good."
+        },
+        {
+          "number": 2,
+          "text": "They should not speak badly about anyone, and they should not be argumentative. Tell them to show gentleness and kindness to everyone."
+        },
+        {
+          "number": 3,
+          "text": "For there was a time when we too were foolish and disobedient. We were deceived and slaves to various desires and pleasures. We lived wicked lives full of jealousy, hateful people hating one another."
+        },
+        {
+          "number": 4,
+          "text": "But when the goodness and love of God our Savior was revealed, he saved us,"
+        },
+        {
+          "number": 5,
+          "text": "not because of anything good that we've done, but because of his mercy. He did this through the cleansing of rebirth and renewal of the Holy Spirit,"
+        },
+        {
+          "number": 6,
+          "text": "which he poured out on us abundantly through Jesus Christ our Savior."
+        },
+        {
+          "number": 7,
+          "text": "Now that we are set right by his grace we have become heirs having the hope of eternal life."
+        },
+        {
+          "number": 8,
+          "text": "You can trust what I'm saying, and I want you to emphasize these instructions so that those who trust in God will think seriously about them and continue to do good. They are excellent and helpful for everyone."
+        },
+        {
+          "number": 9,
+          "text": "Avoid pointless discussions, and obsessions about ancestry. Don't get into arguments, and avoid fights over the Jewish laws—they're useless and don't help at all."
+        },
+        {
+          "number": 10,
+          "text": "Warn someone who is divisive once, and then again—after that don't pay them any attention,"
+        },
+        {
+          "number": 11,
+          "text": "realizing that they're perverse and sinful and have condemned themselves."
+        },
+        {
+          "number": 12,
+          "text": "As soon as I send Artemas or Tychicus to you, try and come to me at Nicopolis because I'm planning to spend the winter there."
+        },
+        {
+          "number": 13,
+          "text": "Do all you can to help Zenas the lawyer and Apollos on their way so that they have everything they need."
+        },
+        {
+          "number": 14,
+          "text": "May our people learn the habit of doing good in providing for the daily needs of others. They need to be productive!"
+        },
+        {
+          "number": 15,
+          "text": "Everyone here with me sends their greetings. Give our best wishes to those who love us, those who trust in God. May grace be with you all."
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

@@ -1,0 +1,558 @@
+{
+  "id": "NT-23-1JN",
+  "code": "1JN",
+  "slug": "1-john",
+  "name": "1 John",
+  "testament": "NT",
+  "testamentOrder": 23,
+  "order": 62,
+  "source": {
+    "file": "src/1JN.rtf",
+    "format": "rtf"
+  },
+  "stats": {
+    "chapters": 5,
+    "verses": 105
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "This letter is about the Word of Life which existed from the beginning, which we have heard, which we have seen with our very own eyes and gazed upon, and which our hands have touched.*"
+        },
+        {
+          "number": 2,
+          "text": "This Life was revealed to us; we saw it and give evidence about it. We are telling you about the one who is Eternal Life, who was with the Father, and who was revealed to us."
+        },
+        {
+          "number": 3,
+          "text": "What we have seen and heard we are now explaining to you, so that you may also share in this friendship* together with us—this friendship that is with the Father, and with his Son Jesus Christ."
+        },
+        {
+          "number": 4,
+          "text": "We're writing to tell you about this in order to make our happiness complete."
+        },
+        {
+          "number": 5,
+          "text": "This is the message we received from him and that we declare to you: God is light, and there is absolutely no darkness in him at all.*"
+        },
+        {
+          "number": 6,
+          "text": "If we claim to share this friendship with him and yet go on living* in darkness, we're lying, and not living in the truth."
+        },
+        {
+          "number": 7,
+          "text": "But if we are living in the light, as he is in the light, then we share in this friendship with one another, and the blood of Jesus, his Son, makes us clean from every sin."
+        },
+        {
+          "number": 8,
+          "text": "If we claim to be sinless we only fool ourselves, and the truth is not in us."
+        },
+        {
+          "number": 9,
+          "text": "But if we confess our sins, he is trustworthy and right so that he can forgive us our sins and make us clean from all that is not right in us."
+        },
+        {
+          "number": 10,
+          "text": "If we claim we haven't sinned, we turn him into a liar, and his word is not in us."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "1:1",
+          "text": "The Greek sentence structure has been adjusted to make better sense in English."
+        },
+        {
+          "ref": "1:3",
+          "text": "Literally, “fellowship.”"
+        },
+        {
+          "ref": "1:5",
+          "text": "In the Greek there is a double negative for emphasis, literally, “darkness in him not there is, not at all.”"
+        },
+        {
+          "ref": "1:6",
+          "text": "Literally, “walking.” Also in 1:7."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "My dear children, I'm writing this to you so you shouldn't sin. But if anybody should happen to sin, we have someone who defends us before the Father—Jesus Christ, who is truly good and right."
+        },
+        {
+          "number": 2,
+          "text": "Through him our sins are forgiven—and not only our sins, but those of the whole world."
+        },
+        {
+          "number": 3,
+          "text": "We can be sure that we do know him if we follow his commands."
+        },
+        {
+          "number": 4,
+          "text": "Anyone who says, “I know him,” but doesn't do what he says, is a liar. They don't have the truth."
+        },
+        {
+          "number": 5,
+          "text": "But those who follow God's word have his love totally fill their minds. This is how we know that we live in him."
+        },
+        {
+          "number": 6,
+          "text": "Whoever claims to be living in him should behave like Jesus."
+        },
+        {
+          "number": 7,
+          "text": "My friends, I'm not writing to you giving some new commandment, but an old commandment you've had from the beginning. This old commandment is one you have already heard."
+        },
+        {
+          "number": 8,
+          "text": "But in a sense I am giving you a new commandment. Its truth is revealed in Jesus and in you, for the darkness is coming to an end and the true light is already shining."
+        },
+        {
+          "number": 9,
+          "text": "Those who say they live in the light but hate a fellow Christian* still have the darkness inside them."
+        },
+        {
+          "number": 10,
+          "text": "Those who love their fellow Christians live in the light, and don't cause others to sin.*"
+        },
+        {
+          "number": 11,
+          "text": "Those who hate a fellow Christian are in darkness. They stumble around in the dark, not knowing where they're going because the darkness has blinded them."
+        },
+        {
+          "number": 12,
+          "text": "Dear friends, I'm writing to you children,* for your sins have been forgiven through the name of Jesus."
+        },
+        {
+          "number": 13,
+          "text": "I'm writing to you fathers, for you know him who has existed from the beginning. I'm writing to you young people, for you have defeated the evil one."
+        },
+        {
+          "number": 14,
+          "text": "I write to you little children, for you know the Father. I write to you fathers, for you know him who has existed from the beginning. I write to you young people, for you are strong. The word of God lives in you, and you have defeated the evil one."
+        },
+        {
+          "number": 15,
+          "text": "Don't be in love with the world, and don't long for the things of this world. If you love the world, you won't have the Father's love in you."
+        },
+        {
+          "number": 16,
+          "text": "For all the things of this world—our sinful desires, wanting everything we see, boasting about what we've accomplished in life— these things don't come from the Father but from the world."
+        },
+        {
+          "number": 17,
+          "text": "The world and its evil desires are coming to an end, but those who do the will of God will live forever."
+        },
+        {
+          "number": 18,
+          "text": "Dear friends, this is the last hour. As you've heard, the antichrist is coming. Many antichrists have already come. This is how we know this is the last hour."
+        },
+        {
+          "number": 19,
+          "text": "They left us, but they didn't belong with us, for if they did, they would have remained with us. When they left they showed that none of them belonged with us."
+        },
+        {
+          "number": 20,
+          "text": "But you have been anointed* with the Holy Spirit's blessing, and all of you know what's true."
+        },
+        {
+          "number": 21,
+          "text": "I'm not writing because you don't know the truth, but because you do know it, and because no lie comes from the truth."
+        },
+        {
+          "number": 22,
+          "text": "Who is the liar?—anyone who denies that Jesus is the Christ.* The antichrist is anyone who denies the Father and the Son."
+        },
+        {
+          "number": 23,
+          "text": "Anyone that denies the Son does not have the Father; anyone who acknowledges the Son has the Father too."
+        },
+        {
+          "number": 24,
+          "text": "As for you, make sure what you heard from the beginning continues to live in you. If what you heard from the beginning lives in you, you will also live in the Son and in the Father."
+        },
+        {
+          "number": 25,
+          "text": "Eternal life—this is what he has promised us!"
+        },
+        {
+          "number": 26,
+          "text": "I'm writing this to warn you against those who want to lead you astray."
+        },
+        {
+          "number": 27,
+          "text": "But the anointing you received from him means the Spirit* lives in you, and you don't need to be taught by anyone. The Spirit's anointing teaches you about everything. It is the truth and not a lie. So live in Christ, just as you've been taught!"
+        },
+        {
+          "number": 28,
+          "text": "Now, my dear friends, continue to live in Christ, so that when he appears, we can be confident and not feel ashamed before him at his coming."
+        },
+        {
+          "number": 29,
+          "text": "If you know he is good and right,* then you also know that everyone who does what is right has been born of God."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "2:9",
+          "text": "Literally, “brother.”"
+        },
+        {
+          "ref": "2:10",
+          "text": "Literally, “there is no snare.” In other words something that trips others up."
+        },
+        {
+          "ref": "2:12",
+          "text": "John identifies three groups: children, fathers, and young people. They probably refer to different ages of Christian experience rather than literal groups."
+        },
+        {
+          "ref": "2:20",
+          "text": "Anointing is an act of pouring a liquid (usually oil) on someone's head to indicate they are specially blessed and set apart for a particular role (like kingship in the Old Testament). Here anointing refers to the blessing of the Holy Spirit who, in the words of Jesus, leads to all truth."
+        },
+        {
+          "ref": "2:22",
+          "text": "Meaning Messiah. (Christ in Greek.) Both refer to one who is anointed."
+        },
+        {
+          "ref": "2:27",
+          "text": "Spirit, supplied from verse 20."
+        },
+        {
+          "ref": "2:29",
+          "text": "Literally, “righteous”—however this word is normally only used in a religious connection today and does not have much meaning in general English."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Look at the amazing kind of love the Father has for us! This is why we can be called God's children—for that's who we are! The reason why the people of this world don't recognize us as God's children is because they don't recognize him."
+        },
+        {
+          "number": 2,
+          "text": "My friends, we are already God's children; however what we shall become hasn't been revealed just yet. But we do know that when he appears, we shall be like him, because we shall see him as he really is."
+        },
+        {
+          "number": 3,
+          "text": "All those who have this hope in them make sure they are pure, just as he is pure."
+        },
+        {
+          "number": 4,
+          "text": "All those who sin are lawless, because sin is lawlessness."
+        },
+        {
+          "number": 5,
+          "text": "But of course you know that Jesus came to take away sins, and that there is no sin in him."
+        },
+        {
+          "number": 6,
+          "text": "All those who live in him don't go on sinning; all those who keep on sinning haven't seen him and haven't known him."
+        },
+        {
+          "number": 7,
+          "text": "Dear friends, don't let anyone fool you: those who do what is right are right, in the same way as Jesus is right."
+        },
+        {
+          "number": 8,
+          "text": "Those who sin are of the devil, for the devil has been sinning from the beginning. That's the reason why the Son of God came—to destroy what the devil has done."
+        },
+        {
+          "number": 9,
+          "text": "All those who are born of God don't keep on sinning, for God's nature* lives in them. They can't keep on sinning because they are born of God."
+        },
+        {
+          "number": 10,
+          "text": "This is how God's children and the devil's children can be distinguished: all those who don't do what's right don't belong to God, nor do those who don't love their fellow Christians."
+        },
+        {
+          "number": 11,
+          "text": "The message you've heard from the beginning is simply this: we should love one another."
+        },
+        {
+          "number": 12,
+          "text": "We cannot be like Cain, who belonged to the evil one, and murdered his brother. Why did he murder him? Because Cain did what was evil, while his brother did what was right."
+        },
+        {
+          "number": 13,
+          "text": "So don't be surprised, my friends, if this world hates you!"
+        },
+        {
+          "number": 14,
+          "text": "The reason we know that we have changed from death to life is because we love our Christian brothers and sisters. Anyone who doesn't love remains dead."
+        },
+        {
+          "number": 15,
+          "text": "All those who hate their Christian brothers and sisters are murderers, and you know that no murderers have eternal life within them!"
+        },
+        {
+          "number": 16,
+          "text": "This is how we know what love is: Jesus laid down his life for us, and we ought to lay down our lives for our Christian brothers and sisters."
+        },
+        {
+          "number": 17,
+          "text": "If one of you is living well in this world and you see your Christian brother or sister in need, but you don't show compassion—how can God's love be living in you?"
+        },
+        {
+          "number": 18,
+          "text": "Dear friends, let's not just say we love with words, but show our love in what we do and how we demonstrate the truth."
+        },
+        {
+          "number": 19,
+          "text": "This is how we will know that we belong to the truth, and how we will set our minds* at rest before God"
+        },
+        {
+          "number": 20,
+          "text": "whenever we think we're in the wrong. God is greater than how we think, and he knows everything."
+        },
+        {
+          "number": 21,
+          "text": "Dear friends, if we're reassured we're not in the wrong, we can have confidence before God."
+        },
+        {
+          "number": 22,
+          "text": "We'll receive from him whatever we ask him for, because we follow his commands and do what pleases him."
+        },
+        {
+          "number": 23,
+          "text": "This is what he commands: we should trust in the name* of his Son Jesus Christ, and love one another, just as he commanded us to do."
+        },
+        {
+          "number": 24,
+          "text": "Those who keep his commands continue to live in him, and he lives in them. We know that he lives in us by the Spirit he has given us."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "3:9",
+          "text": "Literally, “his seed.”"
+        },
+        {
+          "ref": "3:19",
+          "text": "Literally, “hearts.” It was believed that the heart was where you did your thinking."
+        },
+        {
+          "ref": "3:23",
+          "text": "Name in the sense of character and reputation rather than just a given name."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Dear friends, don't trust every spirit, but put the spirits to the test to find out whether they're from God, for there are many false prophets out there in the world."
+        },
+        {
+          "number": 2,
+          "text": "How can you recognize God's Spirit? Every spirit that accepts Jesus Christ came with a human body is from God;"
+        },
+        {
+          "number": 3,
+          "text": "while every spirit that doesn't accept Jesus, that spirit isn't from God. In fact it is the spirit of the antichrist which you heard was coming, and which is already in the world."
+        },
+        {
+          "number": 4,
+          "text": "But you belong to God, my friends, and you have defeated them,* for the one who is in you is greater than the one who is in the world."
+        },
+        {
+          "number": 5,
+          "text": "They belong to the world, so they speak like people of the world, and the world listens to them."
+        },
+        {
+          "number": 6,
+          "text": "We belong to God and whoever knows God listens to us, while whoever doesn't belong to God doesn't listen to us. This is how we can distinguish the spirit of truth from the spirit of deception."
+        },
+        {
+          "number": 7,
+          "text": "Dear friends, let's go on loving one another, for love comes from God. All those who love are born of God and know God."
+        },
+        {
+          "number": 8,
+          "text": "Those who don't love don't know God, for God is love."
+        },
+        {
+          "number": 9,
+          "text": "How was God's love shown to us? God sent his one and only Son into the world so that we could live through him."
+        },
+        {
+          "number": 10,
+          "text": "This is love! It's not that we loved God, but that he loved us, and he sent his Son to be the means by which our sins are forgiven."
+        },
+        {
+          "number": 11,
+          "text": "Friends, if this is the way God loves us, we ought to love one another like this too."
+        },
+        {
+          "number": 12,
+          "text": "No one has ever seen God. However, if we love one another then God lives in us, and his love is fulfilled in us."
+        },
+        {
+          "number": 13,
+          "text": "How can we know that we live in him, and that he lives in us? He's given us the ability to love* by his Spirit."
+        },
+        {
+          "number": 14,
+          "text": "For we are witnesses to what we have seen and testify that the Father sent the Son as the Savior of the world."
+        },
+        {
+          "number": 15,
+          "text": "God lives in everyone who declares that Jesus is the Son of God, and they live in God."
+        },
+        {
+          "number": 16,
+          "text": "We have experienced and trusted in the love that God has for us. God is love, and those who live in love, live in God, and God lives in them."
+        },
+        {
+          "number": 17,
+          "text": "This is how love is made complete in us so that we can be confident on judgment day: by the fact that we live just like him in this world."
+        },
+        {
+          "number": 18,
+          "text": "Where there is love there can be no fear. God loves us completely, and this love drives all our fears away. If we do fear, it's because we fear being punished, and this shows that we have not been fully remade by the completeness of God's love."
+        },
+        {
+          "number": 19,
+          "text": "We love because he loved us first."
+        },
+        {
+          "number": 20,
+          "text": "Anyone who says, “I love God,” but hates a Christian brother or sister, is a liar. Anyone who doesn't love a brother whom they can see, can't love God whom they can't see."
+        },
+        {
+          "number": 21,
+          "text": "This is the command he gave to us: those who love God love their brothers and sisters too."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "4:4",
+          "text": "Referring back to the false prophets and the spirit that inspires them."
+        },
+        {
+          "ref": "4:13",
+          "text": "Implied."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Whoever trusts that Jesus is the Christ is born of God, and whoever loves the father also loves his child."
+        },
+        {
+          "number": 2,
+          "text": "How do we know that we love God's children? When we love God and follow his commands."
+        },
+        {
+          "number": 3,
+          "text": "Loving God means that we follow his commands, and his commands are not hard to bear."
+        },
+        {
+          "number": 4,
+          "text": "Everyone who is born of God defeats the world. The way we gain victory and defeat the world is by trusting God."
+        },
+        {
+          "number": 5,
+          "text": "Who can defeat the world? Only those who trust in Jesus, believing he is the Son of God."
+        },
+        {
+          "number": 6,
+          "text": "He is the one who came through water and blood, Jesus Christ. He did not only come by water, but by water and blood.* The Spirit gives evidence to confirm this, for the Spirit is the truth."
+        },
+        {
+          "number": 7,
+          "text": "So there are three that give evidence:"
+        },
+        {
+          "number": 8,
+          "text": "the Spirit, the water, and the blood, and all three agree as one.*"
+        },
+        {
+          "number": 9,
+          "text": "If we accept the evidence that human witnesses provide, then the evidence that God provides is much more important. The evidence that God provides is his testimony about his Son."
+        },
+        {
+          "number": 10,
+          "text": "Those trusting in the Son of God have accepted and hold on to this evidence. Those who don't trust God make God out to be a liar, because they don't believe the evidence God has given about his Son."
+        },
+        {
+          "number": 11,
+          "text": "The evidence is this: God has given eternal life to us, and we have this life through his Son."
+        },
+        {
+          "number": 12,
+          "text": "Whoever has the Son has life; whoever doesn't have the Son of God doesn't have life."
+        },
+        {
+          "number": 13,
+          "text": "I'm writing to tell those of you who trust in the name of the Son of God so you can be certain you have eternal life."
+        },
+        {
+          "number": 14,
+          "text": "We can be confident that he will listen to us as long as we ask in accordance with his will."
+        },
+        {
+          "number": 15,
+          "text": "If we know that he hears our requests, we can be sure that we will receive what we've asked him for."
+        },
+        {
+          "number": 16,
+          "text": "If you see your Christian brother or sister committing a sin that is not a deadly sin,* you ought to pray and God will grant life to the one who's sinned. (But not for a deadly sin. There's a sin that is deadly, and I'm not saying people should pray about that."
+        },
+        {
+          "number": 17,
+          "text": "Yes, all that is not right is sin, but there's sin that is not deadly.)"
+        },
+        {
+          "number": 18,
+          "text": "We recognize that those who are born of God don't keep on sinning. The Son of God* protects them and the devil cannot harm them."
+        },
+        {
+          "number": 19,
+          "text": "We know that we belong to God, and that the world is under the power of the evil one."
+        },
+        {
+          "number": 20,
+          "text": "We also know that the Son of God has come, and has helped us to understand so we can recognize the one who is true. We live in him who is true, in his Son Jesus Christ. He is the true God, and is eternal life.*"
+        },
+        {
+          "number": 21,
+          "text": "Dear friends, stay away from idol worship."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "5:6",
+          "text": "This is often interpreted to mean the water of baptism and the blood meaning his death."
+        },
+        {
+          "ref": "5:8",
+          "text": "The authenticity of verses 7 and 8 has been disputed."
+        },
+        {
+          "ref": "5:16",
+          "text": "Deadly sin. Literally, “a sin to death.”"
+        },
+        {
+          "ref": "5:18",
+          "text": "Literally, the One born of God, following the concept at the beginning of the verse. The identification is made clear in the following verse."
+        },
+        {
+          "ref": "5:20",
+          "text": "This can be understood to mean he gives eternal life, and also that he lives eternally."
+        }
+      ]
+    }
+  ]
+}

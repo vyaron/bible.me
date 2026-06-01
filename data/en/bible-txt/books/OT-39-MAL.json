@@ -1,0 +1,391 @@
+{
+  "id": "OT-39-MAL",
+  "code": "MAL",
+  "slug": "malachi",
+  "name": "Malachi",
+  "testament": "OT",
+  "testamentOrder": 39,
+  "order": 39,
+  "source": {
+    "file": "src/MAL.rtf",
+    "format": "rtf"
+  },
+  "stats": {
+    "chapters": 4,
+    "verses": 55
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A prophecy:* This message came from the Lord concerning Israel through Malachi."
+        },
+        {
+          "number": 2,
+          "text": "I have loved* you, says the Lord. But you ask, “How have you loved us?” Wasn't Esau Jacob's brother? the Lord responds. But I loved Jacob"
+        },
+        {
+          "number": 3,
+          "text": "and despised Esau. I have made Esau's mountain homeland into a wasteland, and turned his inheritance into a desert for jackals."
+        },
+        {
+          "number": 4,
+          "text": "The people of Edom may be saying: “We have been beaten down, but we will rebuild the ruins.” But this is what the Lord Almighty says, They may try and build, but I will tear down. They will be called a land of wickedness, and the people those who make the Lord angry* forever."
+        },
+        {
+          "number": 5,
+          "text": "You* will see this destruction with your own eyes, and you will say, “The Lord is great, even beyond the borders of Israel.”"
+        },
+        {
+          "number": 6,
+          "text": "A son honors his father, and a servant respects his master. So if I am your father, where is my honor? If I am your master, where is my respect? says the Lord Almighty to you priests who show contempt for me. But you ask, “How have we shown contempt for you?”"
+        },
+        {
+          "number": 7,
+          "text": "By making defiled* offerings on my altar. Then you ask, “How have we defiled you?” By saying* the Lord's table doesn't deserve respect."
+        },
+        {
+          "number": 8,
+          "text": "When you offer a blind animal as a sacrifice, isn't that wrong? Or when you offer an animal that is crippled or sick, isn't that wrong? Would you give such gifts to your governor? Would he be pleased with you? Would he be kind and show favor to you? asks the Lord Almighty."
+        },
+        {
+          "number": 9,
+          "text": "So why don't you try being kind to God, begging him to be merciful to you?* But when you bring such offerings, why should he show favor to you? asks the Lord Almighty."
+        },
+        {
+          "number": 10,
+          "text": "I really wish one of you would shut the Temple doors to stop you lighting pointless fires* on my altar! I am not pleased with you, says the Lord Almighty, and I will not accept offerings from you."
+        },
+        {
+          "number": 11,
+          "text": "I am honored by nations from the farthest east to the distant west; everywhere people make offerings to me of incense and pure sacrifices. I am honored among the nations, says the Lord Almighty."
+        },
+        {
+          "number": 12,
+          "text": "But you dishonor me when you say the Lord's table doesn't deserve respect, and that its food can be treated with contempt."
+        },
+        {
+          "number": 13,
+          "text": "You say, “All this is too much trouble!” and you sniff scornfully at it, says the Lord Almighty. But when you bring animals that are stolen or crippled or sick and offer them as sacrifices, should I accept what you're giving? asks the Lord."
+        },
+        {
+          "number": 14,
+          "text": "Cursed are those who cheat by vowing to bring a ram as a sacrifice and then offers an imperfect animal to the Lord. For I am a great King, says the Lord Almighty, and I am respected* among the nations!"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "1:1",
+          "text": "Literally, “burden.”"
+        },
+        {
+          "ref": "1:2",
+          "text": "The tense of the verb indicates not just a past action but a past action that continues in the present."
+        },
+        {
+          "ref": "1:4",
+          "text": "Divine anger must not be equated with human anger. Here it has the sense of God's total hostility to evil, rather than an emotional self-centered reaction."
+        },
+        {
+          "ref": "1:5",
+          "text": "The people of Israel."
+        },
+        {
+          "ref": "1:7",
+          "text": "“Defiled”: the concept here is that the priests have not followed the Lord's instructions as to how sacrifices were to be offered, showing a careless contempt in their worship of the Lord."
+        },
+        {
+          "ref": "1:7",
+          "text": "The priests may not have said so audibly but their actions show what they were saying to themselves."
+        },
+        {
+          "ref": "1:9",
+          "text": "This line is usually taken as ironic."
+        },
+        {
+          "ref": "1:10",
+          "text": "Fires were lit on the altar to burn up the sacrifices. God is saying he doesn't want such sacrifices. They are pointless, because they do not represent any repentance on the part of the worshipers."
+        },
+        {
+          "ref": "1:14",
+          "text": "Literally, “feared,” but in this instance is linked to the respect that is missing mentioned in 1:6."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Now this command* is for you priests!"
+        },
+        {
+          "number": 2,
+          "text": "If you will not listen and if you will not take it to heart to honor me, says the Lord Almighty, then I will place a curse on you and I will curse your blessings—in fact I have already cursed them because you haven't taken what I said to heart."
+        },
+        {
+          "number": 3,
+          "text": "Watch out! I am going to penalize* your descendants. I will spread manure on your faces from the animals you sacrifice, the manure from your religious festivals, and you will be thrown out with it."
+        },
+        {
+          "number": 4,
+          "text": "Then you will know that I sent you this command so that my agreement with Levi* can continue, says the Lord Almighty."
+        },
+        {
+          "number": 5,
+          "text": "My agreement with him was one of life and peace, which I gave to him, and respect—he respected me. He stood in awe of me."
+        },
+        {
+          "number": 6,
+          "text": "He taught the people the truth; nothing in his teaching was false. He walked with me in peace and did what was right, and he helped many to turn away from sin."
+        },
+        {
+          "number": 7,
+          "text": "A priest should explain the truth about God,* they should go to him to be taught, for he is the Lord Almighty's messenger."
+        },
+        {
+          "number": 8,
+          "text": "But you have turned from my way. You have made many people to fall into sin. By your teaching you have broken the agreement with Levi, says the Lord Almighty."
+        },
+        {
+          "number": 9,
+          "text": "So I have destroyed any respect you had, and humiliated you before all the people. For you have not kept my ways, and have shown favoritism in what you teach.*"
+        },
+        {
+          "number": 10,
+          "text": "Don't we all have one Father? Didn't one God create us? So why are we unfaithful to each other, violating the agreement made by our forefathers?"
+        },
+        {
+          "number": 11,
+          "text": "The people of Judah have been unfaithful and have committed a disgusting sin* in Israel and Jerusalem. For the men of Judah have defiled the Lord's Temple* (which he loves) by marrying women who worship idols."
+        },
+        {
+          "number": 12,
+          "text": "May the Lord expel the family of any man who does this from the nation of Israel! May there be no one left to bring an offering to the Lord Almighty!*"
+        },
+        {
+          "number": 13,
+          "text": "Something else you do is to pour out your tears on the Lord's altar weeping and moaning because he no longer pays attention to your offerings or doesn't want to accept them."
+        },
+        {
+          "number": 14,
+          "text": "“Why not?” you ask. Because the Lord witnessed the vows you and your wife exchanged when you were young.* You were unfaithful to her, your wife and partner joined to you by marriage contract."
+        },
+        {
+          "number": 15,
+          "text": "Did he not make you one, and give some of his Spirit to you? And what does he want? Children of God.* So watch what you do, and don't be unfaithful to the wife you married when you were young."
+        },
+        {
+          "number": 16,
+          "text": "For I hate divorce, says the Lord God of Israel, for it's a violent attack on the wife,* says the Lord Almighty. So watch what you do, and don't be unfaithful."
+        },
+        {
+          "number": 17,
+          "text": "You have worn the Lord out with your words.* “How have we worn him out?” you ask. By saying everyone who does evil is good in the sight of the Lord and he is happy with them, or by asking, where is the Lord's justice?"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "2:1",
+          "text": "“Command” in the sense of instructions to follow, a warning."
+        },
+        {
+          "ref": "2:3",
+          "text": "Or “rebuke.”"
+        },
+        {
+          "ref": "2:4",
+          "text": "“Levi”: this refers not only to Levi, but to his descendants as priests."
+        },
+        {
+          "ref": "2:7",
+          "text": "“A priest should explain the truth about God”: literally, “A priest should guard knowledge.”"
+        },
+        {
+          "ref": "2:9",
+          "text": "Or “You have not brought blessings to people through your teaching.”"
+        },
+        {
+          "ref": "2:11",
+          "text": "“A disgusting sin”: or “an abominable thing.”"
+        },
+        {
+          "ref": "2:11",
+          "text": "“Temple”: literally, “holiness.”"
+        },
+        {
+          "ref": "2:12",
+          "text": "There is much debate over the meaning of the Hebrew text here."
+        },
+        {
+          "ref": "2:14",
+          "text": "Some believe that these priests not only divorced their wives but then married foreign women."
+        },
+        {
+          "ref": "2:15",
+          "text": "This is one of the most obscure verses in the Old Testament, and consequently there are many very different interpretations. Some take this line to refer to the man and wife become one flesh, as noted in Genesis. Others see the “not one” as the subject of the sentence and so another possible translation would be something like: “No one would have acted like that if he had a remnant of the spirit.” Some have seen the “one” as referring to Abraham as the father of Israel, and the fact that he divorced Hagar may have cited as a precedent by some for their divorces. The response then would be that Abraham was protecting the “children of God” through Isaac. Whatever the case, it seems best to leave some of the ambiguity present, though in the context of discussing marriage relationships it would seem that the original design for marriage in Eden would be a relevant aspect for Malachi to mention."
+        },
+        {
+          "ref": "2:16",
+          "text": "“A violent attack on the wife”: literally, “covers his garment with violence.”"
+        },
+        {
+          "ref": "2:17",
+          "text": "This may be a reference to mindless repetitions of prayers."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Look! I am sending my messenger,* and he will prepare the way for me. The Lord you are seeking* will suddenly arrive at his Temple. The messenger of the agreement you say is so happy with you* is coming, says the Lord Almighty."
+        },
+        {
+          "number": 2,
+          "text": "Who can survive the day when he comes? Who can stand before him when he appears? For he will be like a blazing furnace that refines metal, or like the strong alkali that cleanses stains."
+        },
+        {
+          "number": 3,
+          "text": "He will sit down like a refiner who purifies silver; he will purify Levi's descendants and refine them like gold and silver so they can present pure offerings to the Lord."
+        },
+        {
+          "number": 4,
+          "text": "Then the offerings of Judah and Jerusalem will please the Lord as they did in the old days, in the former years."
+        },
+        {
+          "number": 5,
+          "text": "I will come and put you on trial. I am ready to be a witness against those who: practice witchcraft commit adultery tell lies give false evidence cheat employees oppress widows and orphans abuse foreigners and do not respect me, says the Lord Almighty."
+        },
+        {
+          "number": 6,
+          "text": "For I am the Lord, I don't change, and you haven't stopped being descendants of Jacob.*"
+        },
+        {
+          "number": 7,
+          "text": "From the time of your forefathers onward, you have turned away from my laws and not kept them. Return to me, and I will return to you, says the Lord Almighty. But you ask, “How should we return?”*"
+        },
+        {
+          "number": 8,
+          "text": "Should people defraud God? Yet you are defrauding me!* But you ask, “How have we defrauded you?” In tithes and offerings."
+        },
+        {
+          "number": 9,
+          "text": "You are under a curse, for you and the whole nation are defrauding me."
+        },
+        {
+          "number": 10,
+          "text": "Bring the full tithe into the storehouse so that there will be food in my Temple. Put me to the test in this, says the Lord Almighty, and I will open the windows of heaven and pour out so much blessing that you won't have enough room for it."
+        },
+        {
+          "number": 11,
+          "text": "I will prevent locusts* from destroying your crops, and your vineyards will not fail to bear fruit, says the Lord Almighty."
+        },
+        {
+          "number": 12,
+          "text": "All nations will call you blessed because you live in such a wonderful land, says the Lord Almighty."
+        },
+        {
+          "number": 13,
+          "text": "You have said harsh things about me, says the Lord. But you say, “What have we said against you?”"
+        },
+        {
+          "number": 14,
+          "text": "You have said, “What's the point of serving God? What benefit is there in keeping his commandments or going before the Lord Almighty with long faces?*"
+        },
+        {
+          "number": 15,
+          "text": "From now on we'll say that the proud are blessed. Evil people do well, and nothing happens when they dare God to punish them.”"
+        },
+        {
+          "number": 16,
+          "text": "Then those who truly respected the Lord spoke to each other, and the Lord heard what they said. A scroll of remembrance was written in his presence of those who respected the Lord and paid attention to him.*"
+        },
+        {
+          "number": 17,
+          "text": "They shall be mine, says the Lord Almighty, my prized possession on the day when I take action. I will treat them kindly, as a father treats an obedient son."
+        },
+        {
+          "number": 18,
+          "text": "Then you will once again be able to distinguish those who do right from those who do wrong, between those who serve him and those who don't."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "3:1",
+          "text": "Malachi means “my messenger.”"
+        },
+        {
+          "ref": "3:1",
+          "text": "In the light of the previous verses, the idea that God is being sought is surely ironic."
+        },
+        {
+          "ref": "3:1",
+          "text": "“You say is so happy with you”: referring back to 2:17."
+        },
+        {
+          "ref": "3:6",
+          "text": "There is debate over the meaning of this second part of the verse. It could be interpreted that it is because of God's unchanging nature that the descendants of Jacob have not been destroyed. However, in context it seems more likely that God is saying “I haven't changed, and you haven't changed either—you are just like your forefather Jacob who was a deceiver too…” The word used can mean either “ended as in destroyed,” or simply “stopped.”"
+        },
+        {
+          "ref": "3:7",
+          "text": "The sense seems to be that the people do not see any necessity to return, not recognizing they have done anything wrong."
+        },
+        {
+          "ref": "3:8",
+          "text": "“Defraud”: this is closer to the original meaning than rob. It also continues the theme of the people being descendants of the deceiver Jacob, who defrauded his brother out of his birthright."
+        },
+        {
+          "ref": "3:11",
+          "text": "Literally, “the devourer.”"
+        },
+        {
+          "ref": "3:14",
+          "text": "“Long faces”: literally, “as mourners”—however it does not appear that the people were sincerely repentant."
+        },
+        {
+          "ref": "3:16",
+          "text": "“Paid attention to him”: literally, “pondered his name.”"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Watch out! The day is coming—it burns like an oven—when the proud and the wicked will be burned like straw. When that day comes they will be completely burned up, root and branch, says the Lord Almighty."
+        },
+        {
+          "number": 2,
+          "text": "But for those who have reverence for me, the sun of God's salvation will rise with healing in its wings, and you will be set free, leaping like calves released from their stalls."
+        },
+        {
+          "number": 3,
+          "text": "You will trample the wicked as ashes under your feet on the day when I take action, says the Lord Almighty."
+        },
+        {
+          "number": 4,
+          "text": "Remember the law of Moses my servant that I commanded him and all Israel to follow—all the instructions and ceremonies I gave on Mount Sinai.*"
+        },
+        {
+          "number": 5,
+          "text": "Look! I am going to send Elijah the prophet before the day of the Lord arrives, the great and terrifying day."
+        },
+        {
+          "number": 6,
+          "text": "He will restore harmony between parents and children, and if that does not happen, I will come and strike the land with a curse."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "4:4",
+          "text": "Literally, “Horeb.”"
+        }
+      ]
+    }
+  ]
+}

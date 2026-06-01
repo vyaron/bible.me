@@ -1,0 +1,323 @@
+{
+  "id": "OT-32-JON",
+  "code": "JON",
+  "slug": "jonah",
+  "name": "Jonah",
+  "testament": "OT",
+  "testamentOrder": 32,
+  "order": 32,
+  "source": {
+    "file": "src/JON.rtf",
+    "format": "rtf"
+  },
+  "stats": {
+    "chapters": 4,
+    "verses": 48
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The Lord spoke* to Jonah the son of Amittai, telling him,"
+        },
+        {
+          "number": 2,
+          "text": "“Go immediately to the great city of Nineveh and condemn it because I have seen the wickedness of its people.”"
+        },
+        {
+          "number": 3,
+          "text": "But Jonah left and ran away to Tarshish* to get away from the Lord.* He went to Joppa where he found a ship leaving for Tarshish. He paid the fare and went on board to sail to Tarshish in order to get away from the Lord."
+        },
+        {
+          "number": 4,
+          "text": "But the Lord sent a terrible wind across the sea, creating a violent storm that threatened to break up the ship."
+        },
+        {
+          "number": 5,
+          "text": "The sailors were terrified and each of them prayed to their own god to save them. They threw the cargo overboard to make the ship lighter. Meanwhile, Jonah had gone down into the hold where he had laid down and fallen fast asleep."
+        },
+        {
+          "number": 6,
+          "text": "The ship's captain went to Jonah and asked him, “How can you be sleeping? Get up and pray to your God. Maybe he will take notice of what's happening to us and we won't drown.”"
+        },
+        {
+          "number": 7,
+          "text": "Then the sailors said to each other, “Let's draw lots* so we can find out who's to blame for this disaster that's fallen on us.” They drew lots and Jonah's name came up."
+        },
+        {
+          "number": 8,
+          "text": "So they asked him, “Tell us who is responsible for this trouble that we're in. What do you do for a living? Where are you from? What is your country? What is your nationality?”"
+        },
+        {
+          "number": 9,
+          "text": "“I am a Hebrew,” Jonah replied, “and I worship* the Lord, the God of the heavens, the sea, and the land.”"
+        },
+        {
+          "number": 10,
+          "text": "The sailors became even more terrified and said to Jonah, “What have you done?” because Jonah had explained to them that he was running away from the Lord."
+        },
+        {
+          "number": 11,
+          "text": "“What shall we do to you to calm the storm?” they asked him, since the storm was getting worse."
+        },
+        {
+          "number": 12,
+          "text": "“Pick me up and throw me into the sea,” Jonah replied. “Then the sea will become calm, because I know it's because of me that you're in this terrible storm.”"
+        },
+        {
+          "number": 13,
+          "text": "Instead the sailors tried to row to get back to the shore, but they couldn't because the sea had become so wild from the worsening storm."
+        },
+        {
+          "number": 14,
+          "text": "Then they called out to the Lord,* “Lord! Please don't kill us for sacrificing this man's life or for spilling innocent blood, for you, Lord, made it happen.”*"
+        },
+        {
+          "number": 15,
+          "text": "So they picked Jonah up and threw him into the sea, and it became calm."
+        },
+        {
+          "number": 16,
+          "text": "The sailors were overcome with fear. They offered a sacrifice to the Lord and made many promises* to him."
+        },
+        {
+          "number": 17,
+          "text": "The Lord sent a huge fish* to swallow Jonah. Jonah spent three days and nights in the belly of the fish."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "1:1",
+          "text": "Literally, “the word of the Lord came to...” indicating a specific message delivered to a prophet."
+        },
+        {
+          "ref": "1:3",
+          "text": "Probably Tartessus on the southern coast of Spain."
+        },
+        {
+          "ref": "1:3",
+          "text": "Literally, “from before the face of the Lord.” He was trying to remove himself from God's presence, showing that he was rejecting God's call."
+        },
+        {
+          "ref": "1:7",
+          "text": "A process similar to drawing straws."
+        },
+        {
+          "ref": "1:9",
+          "text": "Literally, “fear.”"
+        },
+        {
+          "ref": "1:14",
+          "text": "The sailors use the same name for God as Jonah did, Yahweh, showing that they believe him to be responsible."
+        },
+        {
+          "ref": "1:14",
+          "text": "Or “it pleased you Lord to do this.”"
+        },
+        {
+          "ref": "1:16",
+          "text": "Or “vows.”"
+        },
+        {
+          "ref": "1:17",
+          "text": "Note that a whale is not mentioned."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Then Jonah prayed* to the Lord his God from the belly of the fish."
+        },
+        {
+          "number": 2,
+          "text": "He began, “In my agony I cried out to the Lord and he answered me; from the depths of Sheol* I pleaded for help and you answered me."
+        },
+        {
+          "number": 3,
+          "text": "You threw me into the deep, all the way down to the bottom of the sea.* Water flooded all around me; your crashing waves rolled over me."
+        },
+        {
+          "number": 4,
+          "text": "I said to myself, ‘The Lord has banished me from his sight. Will I ever see your holy Temple again?’*"
+        },
+        {
+          "number": 5,
+          "text": "The water swirled over me so I couldn't breathe; the deep sucked me down; seaweed wrapped itself around my head."
+        },
+        {
+          "number": 6,
+          "text": "I sank down to the base of the mountains; the earth barred me in forever. But you, my Lord, my God, brought me back up from the abyss."
+        },
+        {
+          "number": 7,
+          "text": "As my life ebbed away, I remembered the Lord; my prayer came to you in your holy Temple."
+        },
+        {
+          "number": 8,
+          "text": "Those who worship worthless idols give up their trust in God's goodness."
+        },
+        {
+          "number": 9,
+          "text": "But I will offer you sacrifices, shouting out my thanks. I will keep my promises to you, for salvation comes from the Lord.”"
+        },
+        {
+          "number": 10,
+          "text": "Then the Lord told the fish to spit out Jonah onto the shore."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "2:1",
+          "text": "It is significant that Jonah is not recorded as praying until this point in the story."
+        },
+        {
+          "ref": "2:2",
+          "text": "Sheol: the place of the dead."
+        },
+        {
+          "ref": "2:3",
+          "text": "Literally, “the heart of the sea.”"
+        },
+        {
+          "ref": "2:4",
+          "text": "Or “but even so I will see your holy Temple again.”"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Then the Lord spoke to Jonah for a second time."
+        },
+        {
+          "number": 2,
+          "text": "“Go immediately to the great city of Nineveh and announce the message I'm giving you.”"
+        },
+        {
+          "number": 3,
+          "text": "Jonah did what God told him. He set out and went to Nineveh, a city that was so big* it took three days to walk through it."
+        },
+        {
+          "number": 4,
+          "text": "Jonah went into the city, walking for one day, shouting out, “In forty days Nineveh will be destroyed!”"
+        },
+        {
+          "number": 5,
+          "text": "The people of Nineveh believed in God. They announced a fast, and all of them, from the greatest to the least, put on sackcloth.*"
+        },
+        {
+          "number": 6,
+          "text": "When the news of what was happening reached the king of Nineveh he came down from his throne, took off his robe, put on sackcloth, and sat in ashes."
+        },
+        {
+          "number": 7,
+          "text": "Then the king and the nobles issued a proclamation throughout Nineveh: “No person, no animal, no herd, and no flock, shall eat or drink anything."
+        },
+        {
+          "number": 8,
+          "text": "Every person and every animal is to wear sackcloth. Everyone is to pray sincerely* to God, give up the evil things they do, and stop using violence."
+        },
+        {
+          "number": 9,
+          "text": "Who knows? God may change his mind and relent. He may decide not to destroy us in his fierce anger.”"
+        },
+        {
+          "number": 10,
+          "text": "God saw what they had done—that they had given up their evil ways—so he changed his mind and did not carry out the destruction he had threatened."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "3:3",
+          "text": "Literally, “great to God.”"
+        },
+        {
+          "ref": "3:5",
+          "text": "To show their repentance."
+        },
+        {
+          "ref": "3:8",
+          "text": "Literally, “with force.”"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "But this really upset* Jonah, and he became very angry."
+        },
+        {
+          "number": 2,
+          "text": "He prayed to the Lord and told him, “Lord, wasn't this what I said when I was back home?* That's why I ran away to Tarshish in the first place! For I knew that you are a gracious and compassionate God, very patient* and full of kindhearted love, who relents from sending disaster."
+        },
+        {
+          "number": 3,
+          "text": "So just kill me now, Lord, because I'd prefer to die than to live!”"
+        },
+        {
+          "number": 4,
+          "text": "The Lord responded, “Do you have a good reason to be so angry?”*"
+        },
+        {
+          "number": 5,
+          "text": "Jonah left the city and sat down to the east of it. There he made himself a shelter so he could sit in the shade and watch what would happen to the city."
+        },
+        {
+          "number": 6,
+          "text": "The Lord God had a plant grow up and provide shade over Jonah's head to ease his discomfort. Jonah was very happy with the plant."
+        },
+        {
+          "number": 7,
+          "text": "The next day at dawn the Lord had a maggot attack the plant and it withered."
+        },
+        {
+          "number": 8,
+          "text": "Then as the sun came up the Lord arranged for a scorching east wind to blow, and the sun beat down on Jonah's head so that he became faint and wanted to die. “I'd rather die than live!” he said."
+        },
+        {
+          "number": 9,
+          "text": "But the Lord asked Jonah, “Do you have a good reason to be so angry about the plant?” “Yes I do!” Jonah replied. “I'm angry enough to die!”"
+        },
+        {
+          "number": 10,
+          "text": "Then the Lord told Jonah, “You're concerned about a plant which you did nothing about, and you didn't make it grow. It came up overnight and died overnight."
+        },
+        {
+          "number": 11,
+          "text": "Shouldn't I be concerned about the great city of Nineveh where one hundred and twenty thousand people live who don't know their right hand from their left,* not to mention all the animals?”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "4:1",
+          "text": "In the sense that Jonah thought that this was a wrong decision on God's part."
+        },
+        {
+          "ref": "4:2",
+          "text": "Literally, “in my land.”"
+        },
+        {
+          "ref": "4:2",
+          "text": "Or “slow to become angry.”"
+        },
+        {
+          "ref": "4:4",
+          "text": "Or “Is it good for you to be so angry?” or “What right do you have to be so angry?”"
+        },
+        {
+          "ref": "4:11",
+          "text": "In other words they are spiritually ignorant."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "id": "NT-14-2TH",
+  "code": "2TH",
+  "slug": "2-thessalonians",
+  "name": "2 Thessalonians",
+  "testament": "NT",
+  "testamentOrder": 14,
+  "order": 53,
+  "source": {
+    "file": "src/2TH.rtf",
+    "format": "rtf"
+  },
+  "stats": {
+    "chapters": 3,
+    "verses": 47
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "This letter comes from Paul, Silvanus, and Timothy to the church of the Thessalonians who belong to God our Father and the Lord Jesus Christ."
+        },
+        {
+          "number": 2,
+          "text": "May you have grace and peace from God the Father and the Lord Jesus Christ."
+        },
+        {
+          "number": 3,
+          "text": "We keep on thanking God for you, brothers and sisters—we just have to! This is the right thing to do because your trust in God is growing in leaps and bounds, and the love you all have for each other increases more and more."
+        },
+        {
+          "number": 4,
+          "text": "We speak so proudly of you among the churches of God because of your patient courage and trust in God during all the persecution and trouble you're going through."
+        },
+        {
+          "number": 5,
+          "text": "For this is evidence that God is right in the decisions he makes, and that you deserve the kingdom of God for which you are suffering."
+        },
+        {
+          "number": 6,
+          "text": "Since God does what's right he will deal appropriately with those who cause you trouble."
+        },
+        {
+          "number": 7,
+          "text": "He will free you from your suffering—and us too—when the Lord Jesus appears from heaven in blazing fire with his powerful angels,"
+        },
+        {
+          "number": 8,
+          "text": "bringing judgment on those who reject God and refuse to accept the good news of our Lord Jesus."
+        },
+        {
+          "number": 9,
+          "text": "They will rightly experience the consequence of eternal loss, separated from the presence of the Lord and his glorious power,"
+        },
+        {
+          "number": 10,
+          "text": "on the day when he comes to receive glory from his people, admired by all those who trust in him. This includes you because you were convinced about what we told you."
+        },
+        {
+          "number": 11,
+          "text": "That's why we continue to pray for you, that our God may make you worthy of what he's called us to do. May God powerfully fulfill every desire you have to do good and every action that comes from trusting him"
+        },
+        {
+          "number": 12,
+          "text": "so that the name of our Lord Jesus may be honored by what you do—and in turn you are honored by him through the grace of our God and the Lord Jesus Christ."
+        }
+      ],
+      "notes": []
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Talking about the coming of our Lord Jesus Christ and how we're brought together to him, brothers and sisters—"
+        },
+        {
+          "number": 2,
+          "text": "please don't become upset or concerned by any spiritual revelation, or message, or letter supposedly from us that makes you think that the day of the Lord has already come."
+        },
+        {
+          "number": 3,
+          "text": "Don't let anyone deceive you in any way, because the Rebellion* must come first, and the lawless man be revealed, the one whose end is destruction."
+        },
+        {
+          "number": 4,
+          "text": "He is the enemy of God, and proudly sets himself up over everything that is called God and is worshiped. He even installs himself in God's Temple, claiming to be God."
+        },
+        {
+          "number": 5,
+          "text": "Don't you remember that I told you all this while I was still with you?"
+        },
+        {
+          "number": 6,
+          "text": "Now you know what's keeping him in check, because he will be revealed for what he is at the appropriate time.*"
+        },
+        {
+          "number": 7,
+          "text": "For the secret ways of lawlessness* are already at work; however he who now restrains it will continue to do so until he is out of the way."
+        },
+        {
+          "number": 8,
+          "text": "Then the lawless one will be revealed, the one whom the Lord Jesus will wipe out, blowing him away,* destroying him by the brilliance of his coming."
+        },
+        {
+          "number": 9,
+          "text": "He (the lawless one) comes to do Satan's work, having all kinds of powers, using miracles, and performing amazing but deceptive displays."
+        },
+        {
+          "number": 10,
+          "text": "Using every type of evil trick he deludes those who are on their way to destruction, because they refused to love the truth and so be saved."
+        },
+        {
+          "number": 11,
+          "text": "Because of this God sends them a convincing delusion so that they put their trust in the lie.*"
+        },
+        {
+          "number": 12,
+          "text": "As a result everyone who did not trust in the truth will be condemned, for they preferred what is evil."
+        },
+        {
+          "number": 13,
+          "text": "But we just have to keep on thanking God for you, brothers and sisters loved by the Lord, because God from the beginning chose you to be saved through the Spirit who makes you right as you trust in the truth."
+        },
+        {
+          "number": 14,
+          "text": "This is what he called you to through the good news we shared with you, so that you could participate in the glory of our Lord Jesus Christ."
+        },
+        {
+          "number": 15,
+          "text": "So, brothers and sisters, stand firm, and hold on to what you've been taught, whether by what you were told, or through a letter from us."
+        },
+        {
+          "number": 16,
+          "text": "Now may our Lord Jesus Christ himself and God the Father (who through his grace gave us eternal confidence and a trustworthy hope),"
+        },
+        {
+          "number": 17,
+          "text": "encourage you and strengthen you so you can say and do everything that is good."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "2:3",
+          "text": "Literally, “apostasy,” the end-time, final rejection of God."
+        },
+        {
+          "ref": "2:6",
+          "text": "This whole section (2:6-12) is much debated as to its meaning."
+        },
+        {
+          "ref": "2:7",
+          "text": "Literally, “mystery of lawlessness,” indicating the “revealed secret” of the anti-God power that is not only law-breaking but is truly law-less—without any respect for law."
+        },
+        {
+          "ref": "2:8",
+          "text": "Literally, “by the breath of his mouth.”"
+        },
+        {
+          "ref": "2:11",
+          "text": "The lie: in this context surely meaning the fundamental Lie about the nature and character of God told by the Enemy (Isaiah 14, Ezekiel 28), who even claims to be God (2:4). In terms of God's “sending” of this delusion, note that in Scripture God is often speaking of causing that which he does not prevent."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Lastly, brothers and sisters, please pray for us, so that the Lord's message may spread and be truly appreciated, just as it is by you—"
+        },
+        {
+          "number": 2,
+          "text": "and that we may be kept safe from immoral and evil men, because not everyone trusts in God."
+        },
+        {
+          "number": 3,
+          "text": "But the Lord is trustworthy and will strengthen you, and protect you from the evil one."
+        },
+        {
+          "number": 4,
+          "text": "We have great confidence in the Lord that you are doing and will continue to do what we told you."
+        },
+        {
+          "number": 5,
+          "text": "May the Lord lead you into a deeper understanding of God's love for you and the endurance of Christ.*"
+        },
+        {
+          "number": 6,
+          "text": "Now we want to tell you, brothers and sisters, in the name of our Lord Jesus Christ, not to associate with any believer who can't be bothered to work for their living—those who don't follow the teachings they learned from us."
+        },
+        {
+          "number": 7,
+          "text": "You certainly know that you should follow our example, because while we were with you we weren't lazy,"
+        },
+        {
+          "number": 8,
+          "text": "—we didn't eat anyone's food without paying for it. Instead we worked hard day and night so we wouldn't be a burden to any of you."
+        },
+        {
+          "number": 9,
+          "text": "Not that we don't have the right to do so—but we wanted to be an example to you, so that you could copy what we did."
+        },
+        {
+          "number": 10,
+          "text": "Even while we were with you we gave strict instructions that anybody who didn't want to work shouldn't eat."
+        },
+        {
+          "number": 11,
+          "text": "But now we hear that there are some lazy busybodies among you who don't work at all."
+        },
+        {
+          "number": 12,
+          "text": "We're ordering such people, urging them in the Lord Jesus, to settle down and work to pay for their own food."
+        },
+        {
+          "number": 13,
+          "text": "Brothers and sisters, don't give up doing good."
+        },
+        {
+          "number": 14,
+          "text": "Take note of anyone who doesn't do what we're telling you in this letter, and make sure you don't associate with them, so that they may become embarrassed.*"
+        },
+        {
+          "number": 15,
+          "text": "Don't consider them enemies, but warn them as a brother or sister."
+        },
+        {
+          "number": 16,
+          "text": "May the Lord of peace himself grant you peace in every situation in every way. May the Lord be with all of you."
+        },
+        {
+          "number": 17,
+          "text": "Notice the greeting to you from me, Paul, in my own handwriting. This is my signature on every letter I write."
+        },
+        {
+          "number": 18,
+          "text": "May the grace of our Lord Jesus Christ be with all of you."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "3:5",
+          "text": "“The endurance of Christ” could mean the endurance demonstrated by Christ, or the endurance given by Christ—or both."
+        },
+        {
+          "ref": "3:14",
+          "text": "In other words, that they would be encouraged to do what they should."
+        }
+      ]
+    }
+  ]
+}

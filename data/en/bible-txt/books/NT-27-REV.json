@@ -1,0 +1,2181 @@
+{
+  "id": "NT-27-REV",
+  "code": "REV",
+  "slug": "revelation",
+  "name": "Revelation",
+  "testament": "NT",
+  "testamentOrder": 27,
+  "order": 66,
+  "source": {
+    "file": "src/REV.rtf",
+    "format": "rtf"
+  },
+  "stats": {
+    "chapters": 22,
+    "verses": 405
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "This is the Revelation of Jesus Christ, which God gave him to show his servants what will happen soon. He sent his angel to reveal it to his servant John"
+        },
+        {
+          "number": 2,
+          "text": "who confirmed everything he saw concerning the word of God and the testimony* of Jesus Christ."
+        },
+        {
+          "number": 3,
+          "text": "Anyone who reads* this is blessed, as are those who hear these prophetic words and pay attention to what's written, because the time is near."
+        },
+        {
+          "number": 4,
+          "text": "This letter comes from John and is sent to the seven churches in the province of Asia.* May you have grace and peace from the one who was, who is, and who is to come, and from the seven Spirits before his throne,"
+        },
+        {
+          "number": 5,
+          "text": "and from Jesus Christ the trustworthy witness, the firstborn from the dead, the ruler of earthly kings. To Jesus who loves us and freed us from our sins by his blood,"
+        },
+        {
+          "number": 6,
+          "text": "who made us into his kingdom, priests to his God and Father—to Jesus be glory and authority for ever and ever. Amen."
+        },
+        {
+          "number": 7,
+          "text": "Look, he is coming surrounded by clouds, and everybody shall see him, even those who killed him. All the peoples of the earth will weep because of him. May it be so! Amen."
+        },
+        {
+          "number": 8,
+          "text": "“I am the Beginning and the End,”* says the All-powerful Lord God, who was, who is, and who is to come."
+        },
+        {
+          "number": 9,
+          "text": "I am John, your brother who shares with you in the suffering and in the kingdom and in the patient waiting that are our experience in Jesus. I was detained on the island of Patmos for sharing the word of God and the truth as revealed by Jesus."
+        },
+        {
+          "number": 10,
+          "text": "I was filled by the Spirit on the Lord's day, and I heard a loud voice behind me that sounded like a trumpet."
+        },
+        {
+          "number": 11,
+          "text": "It told me, “Write down in a book what you see and send it to the seven churches: Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, and Laodicea.”"
+        },
+        {
+          "number": 12,
+          "text": "I turned around to see who was speaking to me. When I turned I saw seven golden candlesticks,"
+        },
+        {
+          "number": 13,
+          "text": "and standing among the candlesticks was someone who looked like a Son of man.* He was wearing a robe that reached down to his feet with a golden sash across his chest."
+        },
+        {
+          "number": 14,
+          "text": "His hair looked like white wool, and his eyes like flaming fire."
+        },
+        {
+          "number": 15,
+          "text": "His feet looked like polished brass that had been refined in a furnace. His voice sounded like a thundering waterfall."
+        },
+        {
+          "number": 16,
+          "text": "He was holding seven stars in his right hand, and a sharp double-edged sword came out of his mouth. His face shone like the sun at its brightest."
+        },
+        {
+          "number": 17,
+          "text": "When I saw him I fell down at his feet as if I were dead. But he touched me with his right hand and said, “Don't be afraid, I am the first and the last,"
+        },
+        {
+          "number": 18,
+          "text": "the living one. I was dead, but look! Now I am alive for ever and ever, and I hold the keys of death and the grave.*"
+        },
+        {
+          "number": 19,
+          "text": "So write down what you've seen—what's happening in the present and what will happen in the future."
+        },
+        {
+          "number": 20,
+          "text": "The meaning of the seven stars that you saw me holding in my right hand and the seven golden candlesticks is this: the seven stars are the angels* of the seven churches and the seven candlesticks are the seven churches.”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "1:2",
+          "text": "That is, the witness and evidence given by and about Jesus."
+        },
+        {
+          "ref": "1:3",
+          "text": "Referring particularly to those who read this book out loud to others."
+        },
+        {
+          "ref": "1:4",
+          "text": "In Asia Minor, modern-day Turkey."
+        },
+        {
+          "ref": "1:8",
+          "text": "Literally, “Alpha and Omega,” the first and last letters of the Greek alphabet."
+        },
+        {
+          "ref": "1:13",
+          "text": "Son of man: the term Jesus often used to describe himself, and also an apocalyptic term used in the book of Daniel: Daniel 7:13."
+        },
+        {
+          "ref": "1:18",
+          "text": "Literally, “Hades.”"
+        },
+        {
+          "ref": "1:20",
+          "text": "Angel means “messenger.”"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "“Write this to the angel of the Ephesus church: This is what the one who holds the seven stars in his right hand says, the one who walks among the seven golden candlesticks:"
+        },
+        {
+          "number": 2,
+          "text": "I know what you've accomplished, your hard work and perseverance. I know you can't tolerate evil people, and how you investigated those who claimed to be apostles but are not, and discovered they were frauds."
+        },
+        {
+          "number": 3,
+          "text": "I know about your patience, and what you endured for my sake—and that you didn't give up!"
+        },
+        {
+          "number": 4,
+          "text": "But I have something against you: you have neglected your first love."
+        },
+        {
+          "number": 5,
+          "text": "So remember how far you've fallen—repent and go back to what you were doing at first. Otherwise I'll come to you and I will remove your candlestick from where it is—unless you repent."
+        },
+        {
+          "number": 6,
+          "text": "However, you do have this to your credit: you hate the actions of the Nicolaitans,* just as I do."
+        },
+        {
+          "number": 7,
+          "text": "If you have ears, listen to what the Spirit is telling the churches.* I will give to those who are victorious the privilege of eating from the tree of life, which stands in the Paradise of God."
+        },
+        {
+          "number": 8,
+          "text": "Write this to the angel of the Smyrna church: This is what the first and last says, the one who was dead and came back to life:"
+        },
+        {
+          "number": 9,
+          "text": "I know the troubles you are going through, and how poor you are (but you are rich), and the abuse from those who say they are Jews but are not, but belong to Satan's synagogue."
+        },
+        {
+          "number": 10,
+          "text": "Don't be afraid about what you are going to suffer. Yes, the devil will throw some of you into prison to test you, and you will suffer persecution for ten days. Just remain faithful, even if it means death, and I will give you the crown of life!"
+        },
+        {
+          "number": 11,
+          "text": "If you have ears, listen to what the Spirit is telling the churches. The second death will not harm those who are victorious."
+        },
+        {
+          "number": 12,
+          "text": "Write this to the angel of the Pergamum church: This is what the one holding the sharp two-edged sword says:"
+        },
+        {
+          "number": 13,
+          "text": "I know you're living where Satan has his throne, and that you have stayed true to me. You have not denied your trust in me, even when my faithful witness Antipas was killed right among you there where Satan lives!"
+        },
+        {
+          "number": 14,
+          "text": "But I have a few things against you: There are some among you who hold to the teaching of Balaam, who taught Balak* how to entrap the children of Israel by means of eating food sacrificed to idols and committing sexual sins."
+        },
+        {
+          "number": 15,
+          "text": "Similarly you also have some who hold to the teaching of the Nicolaitans."
+        },
+        {
+          "number": 16,
+          "text": "So repent, or soon I will come to you and fight against them using the sword of my mouth."
+        },
+        {
+          "number": 17,
+          "text": "If you have ears, listen to what the Spirit is telling the churches. I will give the hidden manna to those who are victorious. I will give them a white stone with a new name written on it that nobody knows except those who receive it."
+        },
+        {
+          "number": 18,
+          "text": "Write this to the angel of the Thyatira church: This is what the Son of God says, the one who has eyes like flaming fire and feet like polished brass."
+        },
+        {
+          "number": 19,
+          "text": "I know what you have accomplished, your love and faithfulness and service and perseverance, and that you are doing more now than when you first believed."
+        },
+        {
+          "number": 20,
+          "text": "But I have something against you: you are allowing the woman called Jezebel who calls herself a prophetess to teach my followers, leading them astray into sexual sins, and to eat food sacrificed to idols."
+        },
+        {
+          "number": 21,
+          "text": "I gave her time to repent of her sexual sins, but she's not willing to repent."
+        },
+        {
+          "number": 22,
+          "text": "So I'm throwing her into a bed together with her adulterous partners and they will suffer terribly unless they repent of what they have done with her."
+        },
+        {
+          "number": 23,
+          "text": "I will put her children to death. Then all the churches will know that I am the one who examines thoughts and motives.* I will repay each of you according to what you've done."
+        },
+        {
+          "number": 24,
+          "text": "For the rest of you there in Thyatira who don't follow this teaching, who have not learned Satan's ‘deep depravities’ as they are called, I don't place on you any other burden. I say to you,"
+        },
+        {
+          "number": 25,
+          "text": "‘Just hold on to what you have until I come.’"
+        },
+        {
+          "number": 26,
+          "text": "I will give authority over the nations to those who are victorious and who do what I say until the end."
+        },
+        {
+          "number": 27,
+          "text": "He will rule the nations with an iron rod, breaking them into pieces like clay pots.* In the same way that I received authority from my Father,"
+        },
+        {
+          "number": 28,
+          "text": "I will give them the morning star.*"
+        },
+        {
+          "number": 29,
+          "text": "If you have ears, listen to what the Spirit is telling the churches.”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "2:6",
+          "text": "Nicolaitans: little is known about this group. It is suggested that they taught the physical had no impact on the spiritual, so the kind of life you led was not important."
+        },
+        {
+          "ref": "2:7",
+          "text": "In other words, if you are able to hear what is said, then listen and pay attention."
+        },
+        {
+          "ref": "2:14",
+          "text": "Referring to the story in Numbers 22 and following."
+        },
+        {
+          "ref": "2:23",
+          "text": "“Thoughts and motives”—Literally, “kidneys and hearts.”"
+        },
+        {
+          "ref": "2:27",
+          "text": "See Psalms 2:8-9."
+        },
+        {
+          "ref": "2:28",
+          "text": "“Morning star”—an ancient reference to the planet Venus, associated with victory. It is also a title given to Christ."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "“Write this to the angel of the Sardis church: This is what the one who has the seven Spirits of God and the seven stars says: I know what you have accomplished, and that you give the appearance of being alive—but in reality you are dead."
+        },
+        {
+          "number": 2,
+          "text": "Wake up, and try to revive what is left that's about to die! For I have discovered that from the perspective of my God, nothing you've done has been finished."
+        },
+        {
+          "number": 3,
+          "text": "So remind yourselves of how this message came to you, and what you heard. Observe what you were told to do, and repent. If you don't watch out, I'll come unexpectedly like a thief, and you won't know at what time I'll come to you!"
+        },
+        {
+          "number": 4,
+          "text": "But there are some among you in Sardis who have not ruined their clothes,* and they will walk with me dressed in white, for they deserve to do so."
+        },
+        {
+          "number": 5,
+          "text": "Those who are victorious will be dressed in white like this. Their names will not be removed from the book of life, and I will speak for them in the presence of my Father and his angels."
+        },
+        {
+          "number": 6,
+          "text": "If you have ears, listen to what the Spirit is telling the churches."
+        },
+        {
+          "number": 7,
+          "text": "Write this to the angel of the Philadelphia church: This is what the one says, the one who is holy and true, who has the key of David.* He can open and nobody is able to shut, he can shut, and nobody is able to open:"
+        },
+        {
+          "number": 8,
+          "text": "I know what you have accomplished—look, I've opened a door for you that no one can shut. I know that you only have a little strength, but you did what I told you, and you did not deny me."
+        },
+        {
+          "number": 9,
+          "text": "From Satan's synagogue I will bring those who say they are Jews (but are not, they are liars), making them come and worship at your feet, so that they will acknowledge that I love you."
+        },
+        {
+          "number": 10,
+          "text": "Because you have persevered as I told you to, I will take care of you during the testing time that is coming on the whole world when those who live on the earth will be on trial."
+        },
+        {
+          "number": 11,
+          "text": "I am coming soon! Keep a tight grasp on what you have, so that no one takes your crown."
+        },
+        {
+          "number": 12,
+          "text": "Those who are victorious I will make into pillars in the Temple of my God. They won't ever have to leave. I will write on them the name of my God, the name of the city of my God called New Jerusalem which descends from heaven from my God, and my own new name."
+        },
+        {
+          "number": 13,
+          "text": "If you have ears, listen to what the Spirit is telling the churches."
+        },
+        {
+          "number": 14,
+          "text": "Write this to the angel of the Laodicea church: This is what the Amen says, who is the faithful, true witness, highest ruler of God's creation:"
+        },
+        {
+          "number": 15,
+          "text": "I know what you have accomplished—you're neither hot nor cold. I wish you were hot or cold!"
+        },
+        {
+          "number": 16,
+          "text": "But because you're lukewarm, neither hot nor cold, I'm going to spit you out of my mouth."
+        },
+        {
+          "number": 17,
+          "text": "You say to yourselves, ‘I'm rich, I have wealth, and don't need anything.’ But you don't know that you are miserable and pitiful and poor and blind and naked."
+        },
+        {
+          "number": 18,
+          "text": "I advise you to buy from me gold refined* by fire so you may be rich; and have white clothes so you can be properly dressed and you won't reveal your nakedness and shame; and ointment to put on your eyes so you can see."
+        },
+        {
+          "number": 19,
+          "text": "Those I love I correct and discipline. So be really sincere, and repent."
+        },
+        {
+          "number": 20,
+          "text": "Look, I'm standing at the door, knocking. If anyone hears me calling and opens the door, I will come in and eat with them, and they with me."
+        },
+        {
+          "number": 21,
+          "text": "I will have those who are victorious sit down with me beside my throne, just as I was victorious and sat down beside my Father on his throne."
+        },
+        {
+          "number": 22,
+          "text": "If you have ears, listen to what the Spirit is telling the churches.”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "3:4",
+          "text": "Meaning that they had not defiled themselves by doing evil."
+        },
+        {
+          "ref": "3:7",
+          "text": "“The key of David”: see Isaiah 22:22."
+        },
+        {
+          "ref": "3:18",
+          "text": "Or “purified.”"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "After this I saw a door that had been opened in* heaven. The voice that I'd heard before, the one that sounded like a trumpet, told me, “Come up here, and I will show you what will happen next.”"
+        },
+        {
+          "number": 2,
+          "text": "Immediately I was filled by the Spirit and saw a throne set up in heaven, with someone sitting on the throne."
+        },
+        {
+          "number": 3,
+          "text": "The one sitting there shone like jewels, like jasper and carnelian, and there was a rainbow that circled the throne, shining like an emerald."
+        },
+        {
+          "number": 4,
+          "text": "Around the throne were twenty-four other thrones, and twenty-four elders were sitting on these thrones, dressed in white and wearing golden crowns on their heads."
+        },
+        {
+          "number": 5,
+          "text": "From the throne lightning flashed and thunder roared. Seven torches blazed in front of the throne—these are the seven Spirits of God."
+        },
+        {
+          "number": 6,
+          "text": "Stretching out in front of the throne was a sea of glass, as clear as crystal. In the center and all around the throne were four living creatures covered in eyes, both front and back."
+        },
+        {
+          "number": 7,
+          "text": "The first creature looked like a lion, the second like a young bull, the third had a human face, and the fourth looked like a flying eagle."
+        },
+        {
+          "number": 8,
+          "text": "The four living creatures each had six wings also covered with eyes. Day and night they never stop saying, “Holy, holy, holy is the All-powerful Lord God, who was, who is, and who is to come.”"
+        },
+        {
+          "number": 9,
+          "text": "Whenever the living creatures glorify, honor, and thank the one that sits on the throne, who lives for ever and ever,"
+        },
+        {
+          "number": 10,
+          "text": "the twenty-four elders fall down before him that sits on the throne. They will worship the one who lives for ever and ever, and throw down their crowns before the throne. They say,"
+        },
+        {
+          "number": 11,
+          "text": "“Our Lord and our God, you are worthy to be given glory, and honor, and authority, for you created everything. Your will brought Creation into existence.”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "4:1",
+          "text": "Or “into.”"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "I saw the one sitting on the throne holding a scroll in his right hand.* The scroll was written on both sides and was sealed with seven seals."
+        },
+        {
+          "number": 2,
+          "text": "I saw a powerful angel shouting in a loud voice, “Who is worthy to open the scroll and break its seals?”"
+        },
+        {
+          "number": 3,
+          "text": "Nobody in heaven, or on earth, or under the earth* was able to open the scroll and read it."
+        },
+        {
+          "number": 4,
+          "text": "I cried many tears because nobody could be found who was worthy to open the book and read it."
+        },
+        {
+          "number": 5,
+          "text": "One of the elders spoke to me and said, “Don't cry. Look, the Lion of the tribe of Judah, the descendant of David, has won the battle and can open the scroll and its seven seals.”"
+        },
+        {
+          "number": 6,
+          "text": "I saw a Lamb that looked as if it had been killed standing in the center by the throne and the four living creatures, among the elders. He had seven horns and seven eyes that are the seven Spirits of God that are sent out to all the earth."
+        },
+        {
+          "number": 7,
+          "text": "He went and took the scroll from the right hand of the one that sat on the throne."
+        },
+        {
+          "number": 8,
+          "text": "When he had taken the scroll, the four living creatures and the twenty-four elders fell down before the Lamb. Each of them had a harp and golden bowls full of incense, which are the prayers of the believers."
+        },
+        {
+          "number": 9,
+          "text": "They sang a new song, “You are worthy to take the scroll and open its seals, for you were slain and with your blood you redeemed for God people from every tribe, language, people, and nation."
+        },
+        {
+          "number": 10,
+          "text": "You made them into a kingdom and priests for our God, and they will reign on the earth.”"
+        },
+        {
+          "number": 11,
+          "text": "As I looked I heard the voices of millions of angels around the throne, together with the living creatures and the elders,"
+        },
+        {
+          "number": 12,
+          "text": "shouting loudly together: “The Lamb that was slain is worthy to receive authority, wealth, wisdom, strength, honor, glory, and blessing.”"
+        },
+        {
+          "number": 13,
+          "text": "Then I heard every creature in heaven, on earth, and under the earth, in the sea—every creature everywhere—replying: “To the one who sits on the throne, and to the Lamb be blessing, honor, glory, and authority, for ever and ever.”"
+        },
+        {
+          "number": 14,
+          "text": "The four living creatures said, “Amen!” and the elders fell down and worshiped."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "5:1",
+          "text": "“Right hand.” This is assumed, the Greek simply says “in/on his right.”"
+        },
+        {
+          "ref": "5:3",
+          "text": "“In heaven, or on earth, or under the earth.” This is simply referring to “everywhere.” It does not necessarily imply that there are people who are conscious “under the earth.” Also 5:13."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "I watched as the Lamb broke open the first of the seven seals. I heard one of the four living creatures shout with a thunderous voice, “Come!*”"
+        },
+        {
+          "number": 2,
+          "text": "I looked and saw a white horse. Its rider was holding a bow. He was given a crown, and he rode out conquering so that he would be victorious."
+        },
+        {
+          "number": 3,
+          "text": "When he opened the second seal, I heard the second living creature say, “Come!”"
+        },
+        {
+          "number": 4,
+          "text": "Another horse came out, a red one. Its rider was given a large sword, and the power to take away peace from the earth so that people would slaughter one another."
+        },
+        {
+          "number": 5,
+          "text": "When he opened the third seal, I heard the third living creature say, “Come!” I looked and saw a black horse. Its rider was holding a pair of scales in his hand."
+        },
+        {
+          "number": 6,
+          "text": "I heard what seemed to be a voice coming from among the four living creatures that said, “Two pounds of wheat cost a day's wages, and six pounds of barley cost the same.* But don't damage the oil or the wine.”*"
+        },
+        {
+          "number": 7,
+          "text": "When he opened the fourth seal, I heard the fourth living creature say, “Come!”"
+        },
+        {
+          "number": 8,
+          "text": "I looked and saw a pale horse. The rider was called Death, and Hades followed him.* They received authority over a quarter of the earth to kill people by the sword, by famine, by plague, and by wild beasts."
+        },
+        {
+          "number": 9,
+          "text": "When he opened the fifth seal, I saw underneath the altar those* who had been killed because of their dedication to the word of God and their faithful witness."
+        },
+        {
+          "number": 10,
+          "text": "They cried out, shouting, “How long, Lord who is holy and true, before you will judge and bring to justice those on earth who spilled our blood?”"
+        },
+        {
+          "number": 11,
+          "text": "Each one of them was given a white robe, and they were told to wait for a little longer until their number was complete—their fellow-believers and brothers who would be killed like them."
+        },
+        {
+          "number": 12,
+          "text": "When he opened the sixth seal there was a tremendous earthquake. The sun turned black like hair sackcloth and the whole moon turned red like blood."
+        },
+        {
+          "number": 13,
+          "text": "The stars of heaven fell to earth like unripe figs falling from a fig tree shaken by a windstorm."
+        },
+        {
+          "number": 14,
+          "text": "The sky disappeared like a scroll rolling up, and all the mountains and islands were moved from where they were."
+        },
+        {
+          "number": 15,
+          "text": "The kings of the earth, the great leaders, the wealthy, the powerful, and all people, slave or free, hid themselves in caves and among the rocks in the mountains."
+        },
+        {
+          "number": 16,
+          "text": "They called on the mountains and the rocks, telling them, “Fall upon us! Hide us* from the face of the one who sits on the throne, and from the judgment* of the Lamb."
+        },
+        {
+          "number": 17,
+          "text": "For the terrible day of their judgment has come, and who can stand against it?”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "6:1",
+          "text": "The command could also be, “Go!”"
+        },
+        {
+          "ref": "6:6",
+          "text": "Two pounds/three pounds—an approximate measurement. The Greek measure is about one quart, or just over one liter. The point being made here is just how expensive basic foods have become."
+        },
+        {
+          "ref": "6:6",
+          "text": "The command to the rider is not to inflict damage on these other staple food items."
+        },
+        {
+          "ref": "6:8",
+          "text": "Hades—the Greek word for the grave, the place of the dead."
+        },
+        {
+          "ref": "6:9",
+          "text": "“Those.” In the original the word means “lives,” often translated as “souls.” However, the Biblical concept of the “soul” references a living person (e.g. Genesis 2:7) and can die (Ezekiel 18:20) and is not the disembodied spirit of Hellenistic thought. Like many aspects in Revelation the fact that these dead martyrs should speak is symbolic rather than literal."
+        },
+        {
+          "ref": "6:16",
+          "text": "“Fall upon us! Hide us”: the reference is from Hosea 10:8."
+        },
+        {
+          "ref": "6:16",
+          "text": "Literally, “anger,” and in the following verse. However, this human emotion when applied to God can misrepresent what is meant here. The old term “wrath” includes something of the idea of judgment and punishment, but is obsolete. What is clearly happening here is the execution of God's judgment which is right and true, and does not fit with human aspects of anger that include “being mad” or “furious rage.”"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Then I saw four angels standing at the four corners of the earth* holding back the earth's four winds to prevent any wind from blowing on the earth, or over the sea, or against any tree."
+        },
+        {
+          "number": 2,
+          "text": "I watched another angel rise up from the east, holding the seal of the living God. He shouted in a loud voice to the four angels who had been given the power to damage the earth and the sea,"
+        },
+        {
+          "number": 3,
+          "text": "“Don't hurt the earth or the sea or the trees until we have placed a seal on the foreheads of God's true followers!”"
+        },
+        {
+          "number": 4,
+          "text": "I was told the number of those who were sealed: one hundred and forty-four thousand. Those who were sealed came from every tribe of the children of Israel:"
+        },
+        {
+          "number": 5,
+          "text": "twelve thousand from the tribe of Judah, twelve thousand from the tribe of Reuben, twelve thousand from the tribe of Gad,"
+        },
+        {
+          "number": 6,
+          "text": "twelve thousand from the tribe of Asher, twelve thousand from the tribe of Naphtali, twelve thousand from the tribe of Manasseh,"
+        },
+        {
+          "number": 7,
+          "text": "twelve thousand from the tribe of Simeon, twelve thousand from the tribe of Levi, twelve thousand from the tribe of Issachar,"
+        },
+        {
+          "number": 8,
+          "text": "twelve thousand from the tribe of Zebulun, twelve thousand from the tribe of Joseph, twelve thousand from the tribe of Benjamin."
+        },
+        {
+          "number": 9,
+          "text": "After this I looked and saw a great crowd that nobody could count, made up of every nation, tribe, people and language. They were standing in front of the throne and the Lamb, dressed in white robes, with palm branches in their hands."
+        },
+        {
+          "number": 10,
+          "text": "They gave a loud shout, “Salvation is from our God who sits on the throne, and from the Lamb.”"
+        },
+        {
+          "number": 11,
+          "text": "All the angels surrounding the throne, and the elders and the four living creatures, fell down on their faces before the throne, worshiping God."
+        },
+        {
+          "number": 12,
+          "text": "“Amen!” they said. “Blessing, glory, wisdom, gratitude, honor, power, and strength, be to God for ever and ever. Amen.”"
+        },
+        {
+          "number": 13,
+          "text": "One of the elders spoke to me and asked, “Who are those who are dressed in white robes, and where have they come from?”"
+        },
+        {
+          "number": 14,
+          "text": "I replied, “My Lord, you know the answer.” He told me, “These are the ones who have passed through great persecution. They washed their robes, making them white through the blood of the Lamb."
+        },
+        {
+          "number": 15,
+          "text": "That's why they can stand in front of God's throne, and they serve him day and night in his Temple. The one who sits on the throne will protect them with his presence.*"
+        },
+        {
+          "number": 16,
+          "text": "They will never be hungry ever again, or thirsty; the sun will not beat down on them and they will not suffer scorching heat,*"
+        },
+        {
+          "number": 17,
+          "text": "because the Lamb who is at the center of the throne will be their shepherd,* and will lead them to springs of living water,* and God will wipe away every tear from their eyes.”*"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "7:1",
+          "text": "In ancient times the earth is seen as having these four corners from where the winds blow."
+        },
+        {
+          "ref": "7:15",
+          "text": "“Protect with his presence”: literally, “tents among them,” using the same word for Jesus' coming in John 1:14."
+        },
+        {
+          "ref": "7:16",
+          "text": "Quoting Isaiah 49:10."
+        },
+        {
+          "ref": "7:17",
+          "text": "See Psalms 23:1."
+        },
+        {
+          "ref": "7:17",
+          "text": "Quoting Isaiah 49:10."
+        },
+        {
+          "ref": "7:17",
+          "text": "Quoting Isaiah 25:8."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "When he opened the seventh seal, there was silence in heaven for around half an hour."
+        },
+        {
+          "number": 2,
+          "text": "I saw the seven angels that stand before God. They were given seven trumpets."
+        },
+        {
+          "number": 3,
+          "text": "Then another angel came and stood at* the altar. He had a golden censer* and he was given a large quantity of incense to add to the prayers of all the saints on the golden altar that stands in front of the throne."
+        },
+        {
+          "number": 4,
+          "text": "The smoke of the incense rose together with the prayers of the saints before God from the hand of the angel."
+        },
+        {
+          "number": 5,
+          "text": "The angel took the censer and filled it with fire from the altar, and threw it down upon the earth; there was the sound of thunder, with lightning flashes, and a terrible earthquake."
+        },
+        {
+          "number": 6,
+          "text": "Then the seven angels holding the seven trumpets prepared to blow them."
+        },
+        {
+          "number": 7,
+          "text": "The first angel blew his trumpet. Hail and fire mixed with blood rained down on the earth. One third of the earth was burned up, one third of the trees were burned up and all the green grass was burned up."
+        },
+        {
+          "number": 8,
+          "text": "The second angel blew his trumpet. Something looking like a huge mountain of flaming fire was thrown into the sea. One third of the sea turned to blood,"
+        },
+        {
+          "number": 9,
+          "text": "and one third of the creatures that lived in the sea died, and one third of all ships were destroyed."
+        },
+        {
+          "number": 10,
+          "text": "The third angel blew his trumpet. A great star fell from heaven, blazing brightly. It fell on a third of the rivers and springs of water."
+        },
+        {
+          "number": 11,
+          "text": "The name of the star is Wormwood, and one third of the water turned bitter,* and many people died from drinking the water because it had become poisonous.*"
+        },
+        {
+          "number": 12,
+          "text": "The fourth angel blew his trumpet. One third of the sun, moon, and stars were struck so a third of them would be darkened, and a third part of the day would not give light, similarly the night."
+        },
+        {
+          "number": 13,
+          "text": "I saw and heard an eagle* flying in mid-heaven, shouting loudly, “Disaster, disaster, disaster is coming to those who live on the earth because of what is going to happen when the three remaining angels blow their trumpets.”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "8:3",
+          "text": "Literally, “on.”"
+        },
+        {
+          "ref": "8:3",
+          "text": "An object that is used to hold burning incense."
+        },
+        {
+          "ref": "8:11",
+          "text": "In Greek, “Wormwood” is synonymous with “bitter.”"
+        },
+        {
+          "ref": "8:11",
+          "text": "A different word is used here, “to make bitter or sour,” but due to its effects it is probably best to translate this as “poisonous.”"
+        },
+        {
+          "ref": "8:13",
+          "text": "Or vulture."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The fifth angel blew his trumpet. I watched a star fall from heaven to earth. The star was given the key to the opening of the Abyss.*"
+        },
+        {
+          "number": 2,
+          "text": "He opened the entrance to the Abyss, and smoke came up out of the Abyss like the smoke of a huge furnace. The sun and the atmosphere became dark because of the smoke from the Abyss."
+        },
+        {
+          "number": 3,
+          "text": "Locusts came out of the smoke onto the earth, and they were given power like that possessed by scorpions."
+        },
+        {
+          "number": 4,
+          "text": "They were told not to harm the grass or any vegetation or any trees, only those who did not have the seal of God on their foreheads."
+        },
+        {
+          "number": 5,
+          "text": "They were not allowed to kill, but they could torture these people for five months. The torture was like that of a scorpion when it stings someone."
+        },
+        {
+          "number": 6,
+          "text": "During that time people will look for death, but won't find it; they will want to die, but death will run away from them!"
+        },
+        {
+          "number": 7,
+          "text": "The locusts looked like war-horses. They wore what seemed to be golden crowns on their heads, and their faces looked human."
+        },
+        {
+          "number": 8,
+          "text": "They had long hair like women and had teeth like lions."
+        },
+        {
+          "number": 9,
+          "text": "Their breastplates looked like they were made of iron, and the noise made by their wings sounded like many horses and chariots racing into battle."
+        },
+        {
+          "number": 10,
+          "text": "They had tails like scorpions, complete with stingers. They had the power to hurt people for five months with their tails."
+        },
+        {
+          "number": 11,
+          "text": "Ruling over them as their king was the angel of the Abyss who is called Abaddon in Hebrew and Apollyon in Greek.*"
+        },
+        {
+          "number": 12,
+          "text": "The first Disaster is over, but there are still two more to come."
+        },
+        {
+          "number": 13,
+          "text": "The sixth angel blew his trumpet. I heard a voice come from the horns of the golden altar that stands in front of God"
+        },
+        {
+          "number": 14,
+          "text": "speaking to the sixth angel that had the trumpet: “Release the four angels that are tied up beside the great River Euphrates.”"
+        },
+        {
+          "number": 15,
+          "text": "The four angels who had been kept ready for this particular hour, day, month and year were released to kill one third of humanity."
+        },
+        {
+          "number": 16,
+          "text": "I was told the number of the army of soldiers on horseback: it was 200 million."
+        },
+        {
+          "number": 17,
+          "text": "In my vision I saw the horses and their riders who wore breastplates as red as fire, and dark blue and yellow.* The heads of the horses looked like lions, and fire and smoke and sulfur streamed out of their mouths."
+        },
+        {
+          "number": 18,
+          "text": "One third of humanity was killed by these three plagues, by the fire and smoke and sulfur streaming out of their mouths."
+        },
+        {
+          "number": 19,
+          "text": "The horses' power was in their tails as well as their mouths, for their tails were like serpents' heads that they used to hurt people."
+        },
+        {
+          "number": 20,
+          "text": "But the rest of humanity who were not killed by these plagues did not repent of what they were doing. They did not stop worshiping demons and idols of gold, silver, bronze, and stone—which can't see or hear or walk!"
+        },
+        {
+          "number": 21,
+          "text": "They did not repent of their murders, their witchcraft, their sexual sins, or their thefts."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "9:1",
+          "text": "Sometimes translated “bottomless pit.”"
+        },
+        {
+          "ref": "9:11",
+          "text": "Abaddon in Hebrew means “destruction” while Apollyon in Greek means “destroyer.”"
+        },
+        {
+          "ref": "9:17",
+          "text": "Literally, “hyacinth and sulfur.”"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Then I saw another powerful angel descending from heaven, with a cloud wrapped around him and with a rainbow over his head. His face looked like the sun, and his feet like pillars of fire."
+        },
+        {
+          "number": 2,
+          "text": "He was holding a small scroll that had already been opened. He placed his right foot on the sea, and his left foot on the land."
+        },
+        {
+          "number": 3,
+          "text": "He gave a great shout, like a lion roaring. When he shouted, the seven thunders responded."
+        },
+        {
+          "number": 4,
+          "text": "When the seven thunders spoke, I was about to write down what they said when I heard a voice from heaven that told me, “Keep under seal what the seven thunders said. Don't write them down.”"
+        },
+        {
+          "number": 5,
+          "text": "The angel I saw standing on the sea and on the land held up his right hand to heaven."
+        },
+        {
+          "number": 6,
+          "text": "He made a sacred oath by the one who lives for ever and ever, who created the heavens and everything in them, and the earth and everything in it, and the sea and everything in it. “No more delay!” he said."
+        },
+        {
+          "number": 7,
+          "text": "But at the time when the seventh angel speaks, when he blows his trumpet, then the mystery* of God will be completed—the good news he announced through his servants the prophets."
+        },
+        {
+          "number": 8,
+          "text": "Then I heard again the voice from heaven telling me, “Go and take the scroll that is open in the hand of the angel that stands on the sea and on the land.”"
+        },
+        {
+          "number": 9,
+          "text": "So I went to the angel, and asked him to give me the little scroll. He said to me, “Take it and eat it up. It will be sour in your stomach, but sweet as honey in your mouth.”*"
+        },
+        {
+          "number": 10,
+          "text": "I took the little scroll from the angel and ate it up. In my mouth it was as sweet as honey, but it was sour in my stomach."
+        },
+        {
+          "number": 11,
+          "text": "I was told, “You must prophesy again regarding many peoples, nations, languages, and kings.”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "10:7",
+          "text": "As always, this is a “revealed mystery.” In other words, “God's mysterious plan will be accomplished.”"
+        },
+        {
+          "ref": "10:9",
+          "text": "For reference see Numbers 5:24 and Ezekiel 3:3."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "I was given a measuring rod and told, “Get up and measure the Temple of God, and the altar, and count those who are worshiping there."
+        },
+        {
+          "number": 2,
+          "text": "Don't measure the court outside the Temple, leave that, because it has been handed over to the nations. They will trample down the holy city for forty-two months."
+        },
+        {
+          "number": 3,
+          "text": "I will give my two witnesses power, and they will prophesy 1,260 days, dressed in sackcloth.”"
+        },
+        {
+          "number": 4,
+          "text": "They are the two olive trees and the two candlesticks that stand in front of the Lord of the earth.*"
+        },
+        {
+          "number": 5,
+          "text": "If anyone tries to harm them, fire comes out of their mouths and burns up their enemies. This is how anyone who tries to harm them will be killed."
+        },
+        {
+          "number": 6,
+          "text": "These two witnesses have the power to close the sky so that it will not rain during the time of their prophecy. They also have the power to turn the waters into blood, and to strike the earth with all kinds of plagues, as often as they want."
+        },
+        {
+          "number": 7,
+          "text": "When they finish their testimony, the beast coming from the Abyss will attack them, defeat them, and kill them."
+        },
+        {
+          "number": 8,
+          "text": "Their dead bodies will lie on the open street of the great city, called Sodom and Egypt in spiritual symbolism—also the place where their Lord was crucified.*"
+        },
+        {
+          "number": 9,
+          "text": "For three and a half days those from the peoples and tribes and languages and nations will look at their dead bodies, and will not allow their corpses to be buried."
+        },
+        {
+          "number": 10,
+          "text": "The inhabitants of the earth are delighted they are dead, and celebrate, sending gifts to each other, because these two prophets had been a torment to them."
+        },
+        {
+          "number": 11,
+          "text": "But three and a half days later God's life-giving breath entered them and they stood on their feet. Those who saw this were absolutely terrified.*"
+        },
+        {
+          "number": 12,
+          "text": "The two witnesses heard a loud voice from heaven telling them, “Come up here!” So they ascended to heaven in a cloud while their enemies watched."
+        },
+        {
+          "number": 13,
+          "text": "At the same time there was a huge earthquake, and one tenth of the city collapsed. Seven thousand people were killed in the earthquake, and the rest were terrified, and gave glory to the God of heaven."
+        },
+        {
+          "number": 14,
+          "text": "The second Disaster is over; the third Disaster is about to arrive!"
+        },
+        {
+          "number": 15,
+          "text": "The seventh angel blew his trumpet, and loud voices shouted in heaven, “The kingdom of the world has become the kingdom of our Lord, and of his Christ, and he shall reign for ever and ever.”"
+        },
+        {
+          "number": 16,
+          "text": "The twenty-four elders who sit on their thrones in God's presence fell down on their faces and worshiped God."
+        },
+        {
+          "number": 17,
+          "text": "They said, “We thank you, Lord God, the All-powerful One, who is and was, because you have taken up your great power and have asserted your rule.”"
+        },
+        {
+          "number": 18,
+          "text": "The nations became furious, but your judgment has come,* the time when the dead will be judged. This is the time when your servants the prophets and the believers will be given their reward, those who respect your authority, both the weak and the powerful. This is also the time when you will destroy those who destroy the earth."
+        },
+        {
+          "number": 19,
+          "text": "Then the Temple of God in heaven was opened, and the Ark of the Agreement* could be seen inside his Temple. There were lightning flashes, the sound of thunder, an earthquake, and a great hailstorm."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "11:4",
+          "text": "A reference to Zechariah 4:14."
+        },
+        {
+          "ref": "11:8",
+          "text": "Clearly referring to Jerusalem."
+        },
+        {
+          "ref": "11:11",
+          "text": "The verb tense in this passage (11:7-11) in Greek changes from future to present to past. This translation has maintained this change."
+        },
+        {
+          "ref": "11:18",
+          "text": "In other words, the day of judgment. On the issue of human anger as opposed to divine anger see on 6:16."
+        },
+        {
+          "ref": "11:19",
+          "text": "Or “covenant.”"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Then an amazing sign appeared in heaven: a woman clothed with the sun, with the moon under her feet, and a crown of twelve stars on her head."
+        },
+        {
+          "number": 2,
+          "text": "She was pregnant, and she cried out because of her labor pains, groaning as she was giving birth."
+        },
+        {
+          "number": 3,
+          "text": "Another sign appeared in heaven: a great red dragon with seven heads and ten horns, with seven small crowns* on his heads."
+        },
+        {
+          "number": 4,
+          "text": "His tail swept away a third of the stars of heaven and threw them down to the earth. The dragon stood right in front of the woman who was giving birth, so that he could eat her child as soon as it was born."
+        },
+        {
+          "number": 5,
+          "text": "She gave birth to a son, a male child, who will rule all nations with an iron rod.* Her son was snatched up to God and his throne."
+        },
+        {
+          "number": 6,
+          "text": "The woman ran away into the desert, where God had prepared a place for her, so that she could be looked after for 1,260 days."
+        },
+        {
+          "number": 7,
+          "text": "There was war in heaven. Michael and his angels fought with the dragon. The dragon and his angels fought"
+        },
+        {
+          "number": 8,
+          "text": "but he was not strong enough, and they could no longer remain in heaven."
+        },
+        {
+          "number": 9,
+          "text": "The great dragon, the ancient serpent called the devil and Satan who deceives the whole world, was thrown down to the earth, and his angels with him."
+        },
+        {
+          "number": 10,
+          "text": "Then I heard a loud voice in heaven saying, “Now salvation has come, and power, and the kingdom of our God, and the authority of his Christ. The Accuser of the believers* has been thrown down—the one who accuses them in God's presence day and night."
+        },
+        {
+          "number": 11,
+          "text": "They conquered him through the blood of the Lamb and through their personal testimony—they did not love their lives so much that they were willing to die if necessary."
+        },
+        {
+          "number": 12,
+          "text": "So celebrate, heaven, and everyone who lives there! Mourn, earth and sea, for the devil has come down to you and is very angry, knowing his time is short.”"
+        },
+        {
+          "number": 13,
+          "text": "When the dragon realized he had been thrown down to the earth, he persecuted the woman that had given birth to the male child."
+        },
+        {
+          "number": 14,
+          "text": "The woman was given the wings of a large eagle so she could fly away to a deserted place where she could be looked after for a time, times, and half a time, protected from the serpent."
+        },
+        {
+          "number": 15,
+          "text": "The serpent spewed water like a river out of his mouth, trying to sweep her away in the flood."
+        },
+        {
+          "number": 16,
+          "text": "The earth came to the woman's aid by opening its mouth and swallowing up the river that the dragon spewed out of his mouth."
+        },
+        {
+          "number": 17,
+          "text": "The dragon was furious with the woman, and went off to attack the rest of her offspring, those who keep God's commandments and have the testimony of Jesus."
+        },
+        {
+          "number": 18,
+          "text": "*"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "12:3",
+          "text": "Or “diadems” (also 13:1). The Greek word used here is different from that used in 12:1."
+        },
+        {
+          "ref": "12:5",
+          "text": "See Psalms 2:9."
+        },
+        {
+          "ref": "12:10",
+          "text": "Literally, “brothers.”"
+        },
+        {
+          "ref": "12:18",
+          "text": "Some versions place the first line of verse 1 of the following chapter here as the last verse of chapter 12."
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "verses": [
+        {
+          "number": 1,
+          "text": "And the dragon stood on the sea shore. Then I saw a beast rising out of the sea. He had ten horns and seven heads, with ten small crowns on his horns, and had blasphemous names on his heads."
+        },
+        {
+          "number": 2,
+          "text": "The beast I saw looked like a leopard, but his feet looked like those of a bear, and his mouth looked like that of a lion. The dragon gave the beast his power, his throne, and great authority."
+        },
+        {
+          "number": 3,
+          "text": "One of his heads seemed to have suffered a death-blow, but this fatal wound had been healed. The whole world was filled with wonder at the beast,"
+        },
+        {
+          "number": 4,
+          "text": "and they worshiped the dragon because he had given his authority to the beast; and they worshiped the beast, asking “Who is like the beast? Who could defeat him?”"
+        },
+        {
+          "number": 5,
+          "text": "He was given the ability* to make great boasts and speak blasphemies, and he was also given the authority to do this for forty-two months."
+        },
+        {
+          "number": 6,
+          "text": "As soon as he opened his mouth he spoke blasphemies against God, insulting his character,* his sanctuary,* and those who live in heaven."
+        },
+        {
+          "number": 7,
+          "text": "The beast was given power to attack believers and defeat them, and he was also given authority over every people, tribe, language, and nation."
+        },
+        {
+          "number": 8,
+          "text": "Everybody living on earth will worship him, those whose names had not been written in the book of life—the book of life that belongs to the Lamb slain from the beginning of the world."
+        },
+        {
+          "number": 9,
+          "text": "If you have ears, listen!"
+        },
+        {
+          "number": 10,
+          "text": "Anyone who has to go into captivity will go into captivity; anyone who has to die by the sword will die by the sword.* This demonstrates the patient endurance and confidence in God of the believers."
+        },
+        {
+          "number": 11,
+          "text": "Then I saw another beast, rising up from the earth. He had two horns like a lamb, but he spoke like a dragon."
+        },
+        {
+          "number": 12,
+          "text": "He imposed the same authority as the first beast on his behalf, and made the earth and those who live there worship the first beast, whose fatal wound had been healed."
+        },
+        {
+          "number": 13,
+          "text": "He performed great miracles, even bringing fire down from heaven to earth while people watched."
+        },
+        {
+          "number": 14,
+          "text": "He deceived those who live on the earth by the miracles he performed on behalf of the beast, ordering the people that they should make an image for the beast who had received the fatal sword wound but came back to life."
+        },
+        {
+          "number": 15,
+          "text": "He was permitted to breathe life into the image of the beast so that it could speak, ordering anyone who did not worship it put to death."
+        },
+        {
+          "number": 16,
+          "text": "He made everyone, whether weak or powerful, rich or poor, free or slave, receive a mark on their right hand or on their foreheads."
+        },
+        {
+          "number": 17,
+          "text": "Nobody was permitted to buy or sell except those who had the mark, which was the name of the beast or the number of his name."
+        },
+        {
+          "number": 18,
+          "text": "Wisdom is needed here. Whoever has understanding should calculate the number of the beast, for it is the number of a man. His number is 666."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "13:5",
+          "text": "Literally, “given a mouth.”"
+        },
+        {
+          "ref": "13:6",
+          "text": "Literally, “name.”"
+        },
+        {
+          "ref": "13:6",
+          "text": "Sanctuary: or “dwelling place.”"
+        },
+        {
+          "ref": "13:10",
+          "text": "There are two textual variants here. The text could also say that those who kill with the sword will themselves be killed with the sword, paralleling Matthew 26:52. However, in view of the next verse that encourages the believers to endure persecution, rather than expecting retribution, the text as translated is the one preferred here. See Jeremiah 15:2."
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "verses": [
+        {
+          "number": 1,
+          "text": "I looked, and saw the Lamb standing on Mount Zion. With him were 144,000 who had his name, and the name of his Father, written on their foreheads."
+        },
+        {
+          "number": 2,
+          "text": "I heard a voice from heaven that sounded like rushing water and loud thunder and many harps being played."
+        },
+        {
+          "number": 3,
+          "text": "They sang a new song in front of the throne and the four living creatures and the elders. Nobody could learn the song except the 144,000, those who had been redeemed from the earth."
+        },
+        {
+          "number": 4,
+          "text": "They have not become morally impure by sinning with women; spiritually they are virgins. They follow the Lamb wherever he goes. They were redeemed from humankind as the firstfruits to God and the Lamb."
+        },
+        {
+          "number": 5,
+          "text": "They speak no lies; they are without fault."
+        },
+        {
+          "number": 6,
+          "text": "Then I saw another angel flying in mid-heaven. He had the eternal good news to announce to those who lived on the earth, to every nation, tribe, language, and people."
+        },
+        {
+          "number": 7,
+          "text": "He cried out in a loud voice, “Give God reverence and glory, for the time of his judgment has come. Worship the one who made heaven and earth and sea and springs of water.”"
+        },
+        {
+          "number": 8,
+          "text": "A second angel followed, calling out, “Babylon the great has collapsed into ruins!* She made all the nations drink the wine of her sexual immorality that brings God's furious opposition.”*"
+        },
+        {
+          "number": 9,
+          "text": "A third angel followed the first two, and cried out in a loud voice, “If anyone worships the beast and his image and receives a mark on their forehead or on their hand,"
+        },
+        {
+          "number": 10,
+          "text": "they will also drink of the wine of God's furious opposition that is poured undiluted into the cup of his anger,* and they will suffer anguish* in fire and burning sulfur before the holy angels and the Lamb."
+        },
+        {
+          "number": 11,
+          "text": "The smoke of their anguish ascends for ever and ever. They don't have any relief day or night, those who worship the beast and his image and who receive the mark of his name.”"
+        },
+        {
+          "number": 12,
+          "text": "This means the believers must patiently endure, keeping God's commandments and trusting in Jesus."
+        },
+        {
+          "number": 13,
+          "text": "Then I heard a voice from heaven that told me, “Write this down! Blessed are the dead who die in the Lord from now on. Yes, says the Spirit, because they can rest from their troubles. What they have accomplished will speak for them.”*"
+        },
+        {
+          "number": 14,
+          "text": "I looked and I saw a white cloud. Sitting on the cloud was someone that looked like the Son of man,* wearing a golden crown on his head and holding a sharp sickle in his hand."
+        },
+        {
+          "number": 15,
+          "text": "Another angel came out of the Temple and shouted in a loud voice to the one sitting on the cloud, “Take your sickle and start reaping, for it is harvest-time, and earth's harvest is ripe.”"
+        },
+        {
+          "number": 16,
+          "text": "The one sitting on the cloud swung his sickle towards the earth, and reaped earth's harvest."
+        },
+        {
+          "number": 17,
+          "text": "Another angel came out of the Temple in heaven. He also had a sharp sickle."
+        },
+        {
+          "number": 18,
+          "text": "He was followed by an angel coming from the altar that was in charge of the fire, who called in a loud voice to the angel with the sharp sickle, “Take your sharp sickle and harvest the bunches of grapes from the earth's vine, because its grapes are ripe.”"
+        },
+        {
+          "number": 19,
+          "text": "The angel swung his sickle on the earth and harvested the grapes from the vine, and threw them into the great winepress of God's judgment.*"
+        },
+        {
+          "number": 20,
+          "text": "They were trampled in the winepress outside the city. Blood flowed out of the winepress to the height of a horse's bridle, and to a distance of 1,600 stadia.*"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "14:8",
+          "text": "See Isaiah 21:9."
+        },
+        {
+          "ref": "14:8",
+          "text": "This alludes to Jeremiah 51:7. In view of verse 10 that follows and the Jeremiah allusion is seems appropriate to conclude that it is this “wine of God's furious opposition” that is in view here. Of course human language is being used to describe God so while his intense opposition to sin is clear, words like “fury” and “anger” should not be understood in terms of fallen human nature."
+        },
+        {
+          "ref": "14:10",
+          "text": "Or “indignation.”"
+        },
+        {
+          "ref": "14:10",
+          "text": "Or “tortured.” Note that the term here (also used in the following verse) is in the passive."
+        },
+        {
+          "ref": "14:13",
+          "text": "Literally, “will follow after them.”"
+        },
+        {
+          "ref": "14:14",
+          "text": "See Daniel 7:13."
+        },
+        {
+          "ref": "14:19",
+          "text": "Literally, “fury,” (also 15:7, 16:1, 19:15), but see note on “anger” in footnote to 6:16."
+        },
+        {
+          "ref": "14:20",
+          "text": "184 miles (296 kilometers)."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Then I saw another amazing, important sign in heaven. Seven angels held the seven last plagues which complete God's judgment."
+        },
+        {
+          "number": 2,
+          "text": "I saw what looked like a sea of glass mixed with fire. Standing beside the sea of glass were those who had defeated the beast and his image and the number of his name. They had harps given to them by God"
+        },
+        {
+          "number": 3,
+          "text": "and they sang the song of Moses, the servant of God, and the song of the Lamb: “What you have done is tremendous and marvelous, Lord God, the All-powerful One. Your ways are right and true, King of the nations.*"
+        },
+        {
+          "number": 4,
+          "text": "Who would not be in awe of you, Lord? Who would not glorify your name? For only you are holy. All nations will come and worship you because you have demonstrated by your actions that you do what is right!”"
+        },
+        {
+          "number": 5,
+          "text": "After this I looked and the Temple of the “Tent of Witness” was opened.*"
+        },
+        {
+          "number": 6,
+          "text": "Out of the Temple came the seven angels who held the seven plagues, wearing clean, white linen clothes and golden sashes on their chests."
+        },
+        {
+          "number": 7,
+          "text": "One of the four living creatures gave to the seven angels seven golden bowls full of the judgment of God, who lives for ever and ever."
+        },
+        {
+          "number": 8,
+          "text": "The Temple was filled with smoke that came from the glory of God and from his power. Nobody was able to enter the Temple until the seven plagues that came from the seven angels were over."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "15:3",
+          "text": "Or “King of the ages.”"
+        },
+        {
+          "ref": "15:5",
+          "text": "There is some debate as to what is referred to here."
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Then I heard a loud voice coming from the Temple telling the seven angels, “Go and pour out the seven bowls of God's judgment on the earth.”"
+        },
+        {
+          "number": 2,
+          "text": "So the first angel went and poured out his bowl on the earth, and terrible, painful sores broke out on those who had the mark of the beast and who worshiped his image."
+        },
+        {
+          "number": 3,
+          "text": "The second poured out his bowl on the sea, and it became like the blood of a corpse and everything living in the sea died."
+        },
+        {
+          "number": 4,
+          "text": "The third poured out his bowl on the rivers and springs of water, and the water turned into blood."
+        },
+        {
+          "number": 5,
+          "text": "I heard the angel who had power over the waters declare, “You are truly right, you who are and was, the Holy One, as this judgment demonstrates."
+        },
+        {
+          "number": 6,
+          "text": "These people shed the blood of believers. Now you've given them blood to drink, as they deserve!”"
+        },
+        {
+          "number": 7,
+          "text": "I heard a voice from the altar saying, “Yes, Lord God, the All-powerful One, your judgments are right and true!”"
+        },
+        {
+          "number": 8,
+          "text": "The fourth angel poured out his bowl on the sun, and it was given the power to scorch people with fire."
+        },
+        {
+          "number": 9,
+          "text": "They were scorched by intense heat, and they cursed the name of God who controlled these plagues. They did not repent and give him glory."
+        },
+        {
+          "number": 10,
+          "text": "The fifth angel poured out his bowl on the beast's throne, and darkness fell over his kingdom. The people bit their tongues because of the pain they felt,"
+        },
+        {
+          "number": 11,
+          "text": "and they cursed the God of heaven because of their pain and their sores, but they did not repent and stop what they were doing."
+        },
+        {
+          "number": 12,
+          "text": "The sixth angel poured out his bowl on the mighty River Euphrates, and its water was dried up, so that a way could be prepared for the kings that come from the east."
+        },
+        {
+          "number": 13,
+          "text": "Then I saw three evil spirits that looked like frogs coming out of the mouths of the dragon, the beast, and the false prophet."
+        },
+        {
+          "number": 14,
+          "text": "These are demonic spirits that perform miracles, going out to gather together all the kings of the whole world for the battle on God the All-powerful One's great day of judgment."
+        },
+        {
+          "number": 15,
+          "text": "(Pay attention! I will come like a thief.* Blessed are those who keep watch, and have their clothes ready so that they don't have to go out naked and be embarrassed.)"
+        },
+        {
+          "number": 16,
+          "text": "The evil spirits gathered the kings for battle at a place called Armageddon in Hebrew."
+        },
+        {
+          "number": 17,
+          "text": "The seventh angel poured out his bowl on the air, and a loud voice came from the Temple, from the throne, shouting out, “It's over!”"
+        },
+        {
+          "number": 18,
+          "text": "Lightning flashed and thunder boomed, and a massive earthquake shook the earth. It was the worst earthquake that had ever happened since people lived there."
+        },
+        {
+          "number": 19,
+          "text": "The great city was split into three. The cities of the nations were destroyed. Babylon the great was remembered in God's presence so that she should be given the cup filled with the wine of his hostility."
+        },
+        {
+          "number": 20,
+          "text": "All the islands vanished, and all the mountains disappeared."
+        },
+        {
+          "number": 21,
+          "text": "Huge hailstones, each one weighing one hundred pounds,* rained down from the sky on people. The people cursed God because the plague of hail was so terrible."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "16:15",
+          "text": "That is, unexpectedly."
+        },
+        {
+          "ref": "16:21",
+          "text": "The Greek says a “weight of a talent.”"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "verses": [
+        {
+          "number": 1,
+          "text": "One of the seven angels with the seven bowls came and talked with me. “Come here,” he said, “and I will show you the judgment of the infamous prostitute that sits* beside many waters.*"
+        },
+        {
+          "number": 2,
+          "text": "The kings of the earth have committed adultery with her, and those who live on the earth became drunk on the wine of her immorality.”"
+        },
+        {
+          "number": 3,
+          "text": "Then he carried me off in the Spirit to a deserted place, and I saw a woman sitting on a scarlet beast that had seven heads and ten horns and was covered in blasphemous names."
+        },
+        {
+          "number": 4,
+          "text": "The woman was clothed in purple and scarlet, and wore jewelry made of gold and gems and pearls. She held in her hand a golden cup full of obscene things and her disgusting immorality."
+        },
+        {
+          "number": 5,
+          "text": "A name of mystery* was written on her forehead: Babylon the Great, the Mother of Prostitutes and of the World's Obscene Things."
+        },
+        {
+          "number": 6,
+          "text": "I saw that the woman was drunk on the blood of believers, and on the blood of martyrs who had died for Jesus. When I saw her, I was totally amazed."
+        },
+        {
+          "number": 7,
+          "text": "The angel asked me, “Why were you amazed? I will explain to you the mystery of the woman and the beast she rode which has seven heads and ten horns."
+        },
+        {
+          "number": 8,
+          "text": "The beast you saw once was, but is not,* will soon come up again out of the Abyss, and will then be completely destroyed. Those that live on the earth who don't have their names written in the book of life will be amazed when they see the beast that once was but is not, and yet shall return."
+        },
+        {
+          "number": 9,
+          "text": "A mind that has understanding is needed here. The seven heads are seven hills where the woman sits,*"
+        },
+        {
+          "number": 10,
+          "text": "they are seven kings. Five have already fallen, one is reigning now, and the last is still to come—and his reign will be short."
+        },
+        {
+          "number": 11,
+          "text": "The beast that was, and is not, is also an eighth king and belongs to the seven. He too will be completely destroyed."
+        },
+        {
+          "number": 12,
+          "text": "The ten horns that you saw are ten kings who have not begun to reign yet. However, they will be given authority to reign as kings together with the beast for one hour."
+        },
+        {
+          "number": 13,
+          "text": "They have one agreed purpose: to give their power and authority to the beast."
+        },
+        {
+          "number": 14,
+          "text": "They will make war on the Lamb, and the Lamb will defeat them for he is Lord of lords and King of kings. His followers are called and chosen, and they trust in him.”"
+        },
+        {
+          "number": 15,
+          "text": "The angel went on to explain to me, “The waters that you saw where the prostitute was sitting represent peoples, crowds of people, nations, and languages."
+        },
+        {
+          "number": 16,
+          "text": "The ten horns that you saw and the beast will detest the prostitute, and will take away everything she has and strip her naked, eat her flesh and burn her to ashes."
+        },
+        {
+          "number": 17,
+          "text": "For God put into their minds to do what he wanted, to have one agreed purpose: to give their kingdom to the beast—and so God's words will be fulfilled."
+        },
+        {
+          "number": 18,
+          "text": "The woman you saw is the great city which rules over the kings of the earth.”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "17:1",
+          "text": "To be seated has a similar idea to that in English of being “seated” as a ruler, also in verse 9."
+        },
+        {
+          "ref": "17:1",
+          "text": "This is a reference to the city of Babylon and its rivers and waterways."
+        },
+        {
+          "ref": "17:5",
+          "text": "“Mystery”: having a hidden meaning; now revealed."
+        },
+        {
+          "ref": "17:8",
+          "text": "Or “that once existed but does not exist now.”"
+        },
+        {
+          "ref": "17:9",
+          "text": "Again the idea here is of being seated as a ruler, see also verse 1."
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "verses": [
+        {
+          "number": 1,
+          "text": "After this I saw another angel descending from heaven. He had great power* and the earth was lit up by his glory."
+        },
+        {
+          "number": 2,
+          "text": "He shouted out in a powerful voice, “Babylon the great has collapsed into ruins!* She has become a place where demons live, the refuge of every unclean spirit, and the roost of every unclean and detestable bird."
+        },
+        {
+          "number": 3,
+          "text": "For all the nations have drunk* the wine of her mad sexual immorality. The kings of the earth have committed adultery with her, and the traders of the earth have grown rich from her excessive sensuality.”"
+        },
+        {
+          "number": 4,
+          "text": "Then I heard another voice from heaven calling out, “My people, come out of her,* so that you don't participate in her sinful ways, and so that you don't experience her plagues."
+        },
+        {
+          "number": 5,
+          "text": "Her sins have piled up all the way to heaven, and God is very much aware of her wickedness."
+        },
+        {
+          "number": 6,
+          "text": "Give back to her what she gave; repay her double for what she did. In her own cup mix double the trouble she mixed for others."
+        },
+        {
+          "number": 7,
+          "text": "As much as she boasted about herself and indulged her lusts, give her back just as much anguish and sorrow. She told herself, ‘I reign* as queen. I am no widow; I will never be in mourning.’"
+        },
+        {
+          "number": 8,
+          "text": "Because of this her plagues will come upon her in just one day: death, mourning, and famine. She will be completely destroyed by fire, for the Lord God who condemns* her has great power."
+        },
+        {
+          "number": 9,
+          "text": "The kings of the earth who had committed adultery with her and indulged their lusts with her will cry and mourn over her when they see the smoke of the fire that destroys her."
+        },
+        {
+          "number": 10,
+          "text": "Standing off at a distance because they are afraid they will suffer the same agony as her, they say, ‘Disaster, disaster has struck Babylon, the great city! In just one hour your sentence of doom was executed!’"
+        },
+        {
+          "number": 11,
+          "text": "The traders of the earth cry and grieve over her, because nobody is buying their goods any more—"
+        },
+        {
+          "number": 12,
+          "text": "products made of gold, silver, gems and pearls; fine linen, purple cloth, silk, and scarlet material; all kinds of objects made of scented wood, or from ivory, or expensive woods, or bronze, iron, or marble;"
+        },
+        {
+          "number": 13,
+          "text": "shipments of cinnamon, spice, incense, myrrh, frankincense, wine, olive oil, fine flour and wheat, cattle and sheep, horses and wagons, and slaves and prisoners.*"
+        },
+        {
+          "number": 14,
+          "text": "You've lost the sweet pleasures* you loved so much; all your luxurious, glittering possessions are gone—you'll never get any of them back."
+        },
+        {
+          "number": 15,
+          "text": "The traders who sold these things and became rich from trading with her will stand at a distance because they are afraid they will suffer the same agony as her. They will cry and grieve, saying,"
+        },
+        {
+          "number": 16,
+          "text": "‘Disaster, disaster has hit the great city! She was clothed in fine linen and purple robes, and wore jewelry made of gold and gems and pearls."
+        },
+        {
+          "number": 17,
+          "text": "In just one hour all this wealth was destroyed!’ Every sea captain and everyone who travels by sea and every sailor and everyone who earns their living from the sea stood at a distance."
+        },
+        {
+          "number": 18,
+          "text": "As they watched the smoke of the fire that destroys her, they shouted out, ‘What city could ever compare to this great city?’"
+        },
+        {
+          "number": 19,
+          "text": "They threw dust on their heads, shouting and crying and grieving, ‘Disaster, disaster has struck the great city that made every ship-owner rich because of her extravagance! In just one hour she was destroyed!’"
+        },
+        {
+          "number": 20,
+          "text": "Celebrate what's happened to her, heaven and believers and apostles and prophets, for God has condemned her as she condemned you.”"
+        },
+        {
+          "number": 21,
+          "text": "A powerful angel picked up a rock the size of a large millstone and threw it into the sea, saying, “With this kind of violence the great city of Babylon will be thrown down, and will never exist again.”"
+        },
+        {
+          "number": 22,
+          "text": "“Never again will anyone hear music in you: the sound of harps, singers, flutes, and trumpets. Never again will craftsmen of any trade work in you. Never again will the sound of a mill be heard in you."
+        },
+        {
+          "number": 23,
+          "text": "Never again will the light of a lamp shine in you. Never again will the voices of bridegroom and bride be heard in you. Your traders led the world. Through your witchcraft all the nations were deceived."
+        },
+        {
+          "number": 24,
+          "text": "In her the blood of prophets and believers was found, and of all those who have been killed on the earth.”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "18:1",
+          "text": "Or “authority.”"
+        },
+        {
+          "ref": "18:2",
+          "text": "See Isaiah 21:9."
+        },
+        {
+          "ref": "18:3",
+          "text": "Or “have fallen because of…”"
+        },
+        {
+          "ref": "18:4",
+          "text": "See Jeremiah 51:45."
+        },
+        {
+          "ref": "18:7",
+          "text": "Literally, “sit.”"
+        },
+        {
+          "ref": "18:8",
+          "text": "Or “judges.”"
+        },
+        {
+          "ref": "18:13",
+          "text": "Literally, “bodies and souls of men.”"
+        },
+        {
+          "ref": "18:14",
+          "text": "Literally, “ripe fruit.”"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "verses": [
+        {
+          "number": 1,
+          "text": "After this I heard what sounded like the noise of an enormous crowd in heaven, shouting, “Hallelujah! Salvation, glory, and power describe our God,"
+        },
+        {
+          "number": 2,
+          "text": "because his judgments are true and right, for he has condemned the infamous prostitute who corrupted the earth with her immorality, and has brought her to justice for her murders of his servants.”*"
+        },
+        {
+          "number": 3,
+          "text": "Again they shouted, “Hallelujah! The smoke from her destruction ascends for ever and ever.”"
+        },
+        {
+          "number": 4,
+          "text": "The twenty-four elders and the four living creatures fell down and worshiped God who sits on the throne. “Amen! Hallelujah!” they shouted."
+        },
+        {
+          "number": 5,
+          "text": "A voice spoke from the throne that said, “Praise our God, everyone who serves him and respects him, from the smallest to the greatest.”"
+        },
+        {
+          "number": 6,
+          "text": "Then I heard what sounded like the noise of an enormous crowd, like rushing water and loud thunder, shouting, “Hallelujah! For the Lord our God, the All-powerful One, he reigns!"
+        },
+        {
+          "number": 7,
+          "text": "Let's celebrate and be glad and give him the glory, because the wedding day of the Lamb has arrived, and his bride has prepared herself.”"
+        },
+        {
+          "number": 8,
+          "text": "She was given fine linen to wear, white and clean. (Fine linen represents the good works of believers.)"
+        },
+        {
+          "number": 9,
+          "text": "The angel told me, “Write this down: How happy are those who are invited to the Lamb's wedding feast.” Then he said to me, “These are God's true words.”"
+        },
+        {
+          "number": 10,
+          "text": "I fell down at his feet to worship him. He told me, “Don't do that! I am one of God's servants just as you are, and those who accept Jesus' testimony. Worship God, for Jesus' testimony is the prophetic spirit.”"
+        },
+        {
+          "number": 11,
+          "text": "I saw heaven was opened. A white horse was standing there. Its rider was called Trustworthy and True. He is right when he judges, and he is right when he makes war."
+        },
+        {
+          "number": 12,
+          "text": "His eyes were like flaming fire. On his head were many crowns. He had a name written on him which no one but he himself knows."
+        },
+        {
+          "number": 13,
+          "text": "He wore a robe covered in blood, and his name is The Word of God."
+        },
+        {
+          "number": 14,
+          "text": "Heaven's armies were following him, riding on white horses and clothed in fine linen, white and clean."
+        },
+        {
+          "number": 15,
+          "text": "From his mouth came a sharp sword to strike the nations. He will rule them with an iron rod,* and he himself treads the winepress of the All-powerful God's judgment.*"
+        },
+        {
+          "number": 16,
+          "text": "Written on his robe and on his thigh was the name, King of kings and Lord of lords."
+        },
+        {
+          "number": 17,
+          "text": "I saw an angel standing in the sun, shouting in a loud voice to all the birds that fly in the sky, “Come and gather together for God's great feast."
+        },
+        {
+          "number": 18,
+          "text": "Here you can eat the flesh of the dead: kings, leaders, and powerful men, as well as that of horses and their riders, the flesh of all people, free and slave, great and small.”"
+        },
+        {
+          "number": 19,
+          "text": "I saw the beast and the kings of the earth gathered together to wage war on the one sitting on the horse and his army."
+        },
+        {
+          "number": 20,
+          "text": "The beast was captured, along with the false prophet who performed miracles in his presence (by which he deceived those who had received the mark of the beast and those who worshiped the beast's image). Both of them were thrown alive into the lake of fire that burns with sulfur."
+        },
+        {
+          "number": 21,
+          "text": "The rest were killed with the sword of the one sitting on the horse—the sword that came out of his mouth. All the birds gorged themselves on their flesh."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "19:2",
+          "text": "Literally, “for the blood of his servants at her hand.”"
+        },
+        {
+          "ref": "19:15",
+          "text": "See Psalms 2:9."
+        },
+        {
+          "ref": "19:15",
+          "text": "Literally, “of the fury of the anger.” See on 14:9, and 6:16."
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "verses": [
+        {
+          "number": 1,
+          "text": "I saw an angel descending from heaven, holding the key of the Abyss and a large chain in his hand."
+        },
+        {
+          "number": 2,
+          "text": "He seized the dragon, the ancient serpent, who is the devil and Satan, and bound him in chains for one thousand years."
+        },
+        {
+          "number": 3,
+          "text": "The angel threw him into the Abyss and shut it and sealed it over him, so that he would no longer be able to deceive the nations until the thousand years were over. After that he has to be set free for a little while."
+        },
+        {
+          "number": 4,
+          "text": "I saw people sitting on thrones who had been given the responsibility to judge, and those who had been beheaded for their testimony about Jesus and for sharing the word of God.* They had not worshiped the beast or his image, nor had they received the mark on their foreheads or their hands. They lived and reigned with Christ for a thousand years."
+        },
+        {
+          "number": 5,
+          "text": "This is the first resurrection. (The rest of the dead did not live again until the thousand years had ended.)"
+        },
+        {
+          "number": 6,
+          "text": "Blessed and holy are those who take part in the first resurrection! The second death has no power over them. They will be priests of God, and of Christ, and they will reign with him for one thousand years."
+        },
+        {
+          "number": 7,
+          "text": "Once the thousand years are over, Satan will be set free from his prison,"
+        },
+        {
+          "number": 8,
+          "text": "and will go out to deceive the nations, symbolized by Gog and Magog,* to gather them together for battle from the four corners of the world. Their number is as uncountable as sand on the seashore."
+        },
+        {
+          "number": 9,
+          "text": "They marched over the earth on a broad front and encircled the camp of the believers, the beloved city. But fire rained down from heaven and burned them up."
+        },
+        {
+          "number": 10,
+          "text": "The devil, who had deceived them, was thrown into the lake of fire and sulfur where the beast and the false prophet had also been thrown, and they will suffer in anguish day and night for ever and ever."
+        },
+        {
+          "number": 11,
+          "text": "Then I saw a large white throne with the one who sits on it. Heaven and earth vanished, and they were never seen again.*"
+        },
+        {
+          "number": 12,
+          "text": "I saw the dead, great and small, standing before the throne, and the books were opened. Another book, the Book of Life, was opened and the dead were judged based on what was written in the books about what they had done."
+        },
+        {
+          "number": 13,
+          "text": "The sea handed over the dead in it, and death and Hades handed over the dead that were in them,* and everyone was judged according to what they had done."
+        },
+        {
+          "number": 14,
+          "text": "Then death and Hades were thrown into the lake of fire. The lake of fire is the second death."
+        },
+        {
+          "number": 15,
+          "text": "Anyone whose name was not found written in the book of life was thrown into the lake of fire."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "20:4",
+          "text": "Some believe those who are sitting on the thrones are the same as those who have been beheaded. See note under Revelation 6:9 on the word “soul.”"
+        },
+        {
+          "ref": "20:8",
+          "text": "See Ezekiel 38:1-2."
+        },
+        {
+          "ref": "20:11",
+          "text": "This does not mean that the universe disappeared, but that God is recreating damaged Creation."
+        },
+        {
+          "ref": "20:13",
+          "text": "In other words, all those who have died, wherever they were buried, will be judged."
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Then I saw a new heaven and a new earth.* The first heaven and the first earth had disappeared, and the sea no longer existed."
+        },
+        {
+          "number": 2,
+          "text": "I saw the holy city, New Jerusalem, descending from God out of heaven, prepared like a bride made beautiful for her husband."
+        },
+        {
+          "number": 3,
+          "text": "I heard a loud voice from the throne say, “Now God's home* is with human beings and he will live with them. They will be his people. God himself will be with them as their God.*"
+        },
+        {
+          "number": 4,
+          "text": "He will wipe away every tear from their eyes,* and death will never happen again. There will be no mourning or crying or pain ever again for the former world no longer exists.”"
+        },
+        {
+          "number": 5,
+          "text": "The one who sits on the throne said, “I am making everything new!” He told me, “Write this down, for these words are trustworthy and true.”"
+        },
+        {
+          "number": 6,
+          "text": "Then he said to me, “Everything's done! I am the Alpha and Omega, the beginning and the end. To anyone who is thirsty I will give the free gift of water from the spring of the water of life."
+        },
+        {
+          "number": 7,
+          "text": "Those who are victorious will inherit all these things, and I will be their God and they shall be my children."
+        },
+        {
+          "number": 8,
+          "text": "But anyone who is a coward, who doesn't trust me, who does disgusting things, who is a murderer, who is sexually immoral, who practices witchcraft, who worships idols, who tells lies—their chosen place* is in the lake that burns with fire and sulfur. This is the second death.”"
+        },
+        {
+          "number": 9,
+          "text": "One of the seven angels who had the seven bowls containing the seven last plagues came and spoke to me. He told me, “Come with me. I will show you the bride, the Lamb's wife.”"
+        },
+        {
+          "number": 10,
+          "text": "He took me in the Spirit to the top of a very high mountain. There he showed me the holy city Jerusalem descending from God out of heaven,"
+        },
+        {
+          "number": 11,
+          "text": "shining with the glory of God's presence. The light sparkled like that from a gemstone, a jasper, clear and bright."
+        },
+        {
+          "number": 12,
+          "text": "The city wall was high and thick, with twelve gates guarded by twelve angels. On the gates were inscribed the names of the twelve tribes of Israel."
+        },
+        {
+          "number": 13,
+          "text": "There were three gates on the east, three on the north, three on the south, and three on the west."
+        },
+        {
+          "number": 14,
+          "text": "The city wall had twelve foundations, and inscribed on them were the names of the twelve apostles of the Lamb."
+        },
+        {
+          "number": 15,
+          "text": "The angel who spoke to me had a golden measuring rod to measure the city, its gates, and its wall."
+        },
+        {
+          "number": 16,
+          "text": "The city was square. The length was the same as the width. He measured the city with the rod, it was 12,000 furlongs.* The length, width, and height were all the same."
+        },
+        {
+          "number": 17,
+          "text": "He measured the wall and it was 144 cubits* thick in human measurements that the angel was using."
+        },
+        {
+          "number": 18,
+          "text": "The wall was built out of jasper. The city was made of pure gold that looked like glass."
+        },
+        {
+          "number": 19,
+          "text": "The foundations of the city wall were decorated with all kinds of gemstones. The first foundation was jasper, the second sapphire, the third chalcedony, the fourth emerald,"
+        },
+        {
+          "number": 20,
+          "text": "the fifth sardonyx, the sixth carnelian, the seventh chrysolite, the eighth beryl, the ninth topaz, the tenth, chrysoprase, the eleventh jacinth, the twelfth amethyst."
+        },
+        {
+          "number": 21,
+          "text": "The twelve gates were made of pearl, each one made from a single pearl. The main street was made of pure gold, clear like glass."
+        },
+        {
+          "number": 22,
+          "text": "I did not see a temple there, because the Lord God the All-powerful One, and the Lamb, they are its temple."
+        },
+        {
+          "number": 23,
+          "text": "The city does not need the sun or the moon to shine on it because the glory of God provides its light—the Lamb is its lamp."
+        },
+        {
+          "number": 24,
+          "text": "The nations will walk by its light, and the kings of the earth bring their glory into the city."
+        },
+        {
+          "number": 25,
+          "text": "The gates of the city will never be shut during the day (and there will be no night there)."
+        },
+        {
+          "number": 26,
+          "text": "The nations' honor and glory will be brought into the city."
+        },
+        {
+          "number": 27,
+          "text": "Nothing unclean will ever enter into it, or anyone who worships idols, or who is a liar—only those who are written in the Lamb's book of life."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "21:1",
+          "text": "See Isaiah 65:17, Isaiah 66:22."
+        },
+        {
+          "ref": "21:3",
+          "text": "The word is literally, “to pitch a tent.”"
+        },
+        {
+          "ref": "21:3",
+          "text": "“As their God” is not found in all ancient manuscripts."
+        },
+        {
+          "ref": "21:4",
+          "text": "Quoting Isaiah 25:8."
+        },
+        {
+          "ref": "21:8",
+          "text": "“Their chosen place”: or “their lot.”"
+        },
+        {
+          "ref": "21:16",
+          "text": "About 1,500 miles."
+        },
+        {
+          "ref": "21:17",
+          "text": "Over 200 feet."
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The angel showed me the river of water of life, crystal-clear, flowing out of the throne of God and of the Lamb,"
+        },
+        {
+          "number": 2,
+          "text": "right in the middle of the main street of the city. On both sides of the river was the tree of life, producing twelve crops of fruit, one every month. The leaves of the tree were used to heal people from all nations."
+        },
+        {
+          "number": 3,
+          "text": "There will no longer be any curse.* The throne of God and of the Lamb will be there in the city, and his servants will worship him."
+        },
+        {
+          "number": 4,
+          "text": "They will see his face, and his name will be on their foreheads."
+        },
+        {
+          "number": 5,
+          "text": "There will be no more night, and they will not need the light of a lamp, or the light of the sun, because the Lord God will give them light. They shall reign for ever and ever."
+        },
+        {
+          "number": 6,
+          "text": "The angel told me, “These words are trustworthy and true. The Lord God, who gave his Spirit to the prophets, sent his angel to show his servants what is about to happen.”"
+        },
+        {
+          "number": 7,
+          "text": "“I am coming soon!* Blessed are those who obey the prophetic words of this book.”"
+        },
+        {
+          "number": 8,
+          "text": "I am John who heard and saw all this. When I heard and saw them, I fell down at the feet of the angel who had shown me these things to worship him."
+        },
+        {
+          "number": 9,
+          "text": "He told me, “Don't do that! I am one of God's servants just as you are, together with your brothers the prophets, and those who obey the words of this book. Worship God!”"
+        },
+        {
+          "number": 10,
+          "text": "Then he told me, “Don't seal up the words of prophecy of this book and keep them secret, for the time is near."
+        },
+        {
+          "number": 11,
+          "text": "Whoever doesn't do what is right, let them stay that way. Whoever is impure, let them stay that way. Whoever does what is right, let them stay that way. Whoever is holy, let them stay that way.”"
+        },
+        {
+          "number": 12,
+          "text": "“I am coming soon, and I am bringing my reward to give to everybody based on what they've done."
+        },
+        {
+          "number": 13,
+          "text": "I am the Alpha and Omega, the first and the last, the beginning and the end."
+        },
+        {
+          "number": 14,
+          "text": "Blessed are those who wash their robes* so that they have the right to the tree of life, and can enter into the city through the gates."
+        },
+        {
+          "number": 15,
+          "text": "Those outside the city are dogs, those who practice witchcraft, those who are sexually immoral, those who murder, those who worship idols, and all those who love and invent lies."
+        },
+        {
+          "number": 16,
+          "text": "I, Jesus, have sent my angel to give you this testimony to share with the churches. I am both the root and the descendant of David, the bright morning star.”"
+        },
+        {
+          "number": 17,
+          "text": "The Spirit and the bride say, “Come.” Whoever hears this, say, “Come.” Whoever is thirsty, come, and whoever wants to, freely drink of the water of life."
+        },
+        {
+          "number": 18,
+          "text": "I solemnly declare to everyone who hears the prophetic words of this book that if anyone adds to them then God will add to them the plagues described in this book."
+        },
+        {
+          "number": 19,
+          "text": "If anyone takes away the prophetic words of this book, God will take away their share of the tree of life and of the holy city that are described in this book."
+        },
+        {
+          "number": 20,
+          "text": "He who confirms all this says, “Yes, I am coming soon.” Amen, come, Lord Jesus."
+        },
+        {
+          "number": 21,
+          "text": "May the grace of the Lord Jesus be with the believers. Amen."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "22:3",
+          "text": "Or “anything under a curse.”"
+        },
+        {
+          "ref": "22:7",
+          "text": "These are understood to be the words of Jesus, see also verses 12 and 20."
+        },
+        {
+          "ref": "22:14",
+          "text": "Or “who keep his commandments.”"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3851 @@
+{
+  "id": "OT-03-LEV",
+  "code": "LEV",
+  "slug": "leviticus",
+  "name": "Leviticus",
+  "testament": "OT",
+  "testamentOrder": 3,
+  "order": 3,
+  "source": {
+    "file": "src/LEV.rtf",
+    "format": "rtf"
+  },
+  "stats": {
+    "chapters": 27,
+    "verses": 859
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The Lord called Moses and spoke to him from the Tent of Meeting, saying,"
+        },
+        {
+          "number": 2,
+          "text": "“Go and speak to the Israelites and tell them: When you present an offering to the Lord, you may bring as your offering an animal from the herd of cattle or the flock of sheep or goats."
+        },
+        {
+          "number": 3,
+          "text": "If your offering is a burnt offering from a herd of cattle, you must offer a male without any defects. Bring it to the entrance of the Tent of Meeting so it can be accepted before the Lord."
+        },
+        {
+          "number": 4,
+          "text": "Put your hand on the head of the burnt offering, so it can be accepted on your behalf to make you right.*"
+        },
+        {
+          "number": 5,
+          "text": "You are to kill the bull in the Lord's presence, and Aaron's sons, the priests, are to take the blood and sprinkle it on all sides of the altar at the entrance to the Tent of Meeting."
+        },
+        {
+          "number": 6,
+          "text": "Then you are to skin the burnt offering and cut it into pieces."
+        },
+        {
+          "number": 7,
+          "text": "The sons of Aaron the priest shall start a fire on the altar and put wood on it."
+        },
+        {
+          "number": 8,
+          "text": "Then the priests shall carefully place the pieces, including the head and the fat, on the wood burning on the altar."
+        },
+        {
+          "number": 9,
+          "text": "You shall wash the insides and legs with water, and the priest shall burn all of it on the altar as a burnt offering, a food offering, to be accepted by the Lord.*"
+        },
+        {
+          "number": 10,
+          "text": "If your offering is a burnt offering from a flock, either sheep or goats, you must offer a male without any defects."
+        },
+        {
+          "number": 11,
+          "text": "You are to kill it on the north side of the altar in the Lord's presence, and Aaron's sons, the priests, are to take the blood and sprinkle it on all sides of the altar."
+        },
+        {
+          "number": 12,
+          "text": "Then you are to cut it into pieces, and the priest shall carefully place the pieces, including the head and the fat, on the wood burning on the altar."
+        },
+        {
+          "number": 13,
+          "text": "You shall wash the insides and legs with water, and the priest shall burn all of it on the altar as a burnt offering, a food offering, to be accepted by the Lord."
+        },
+        {
+          "number": 14,
+          "text": "If your offering to the Lord is a burnt offering of birds, you are to offer a turtledove or a young pigeon."
+        },
+        {
+          "number": 15,
+          "text": "The priest shall take it to the altar, twist off its head, and burn it on the altar. Its blood shall be drained out on the side of the altar."
+        },
+        {
+          "number": 16,
+          "text": "He must remove the crop and the feathers, and throw them to the east side of the altar into the ash pile."
+        },
+        {
+          "number": 17,
+          "text": "He shall tear it open by its wings, but not completely apart. The priest is to burn it on the altar on the burning wood. It is a burnt offering, a food offering, to be accepted by the Lord.”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "1:4",
+          "text": "“Make you right”: or, “make atonement.” The concept is that due to sin, the relationship with God has been fractured. The various rituals described in Leviticus are symbols of how the relationship can be restored, or “made right” in God's eyes. In addition, people and objects (for example, the altar) can also be “made right” in the sense of being purified, so this term is also used in this translation."
+        },
+        {
+          "ref": "1:9",
+          "text": "“Accepted by the Lord”: literally, “smelled a pleasing aroma.” This is a “figurative extension” of this sensory process which means that in the same way we like something, and by extension, accept it, so does God. Also in verses 13 and 17 etc."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "“When you bring a grain offering to the Lord, your offering must be of the best flour. Pour olive oil on it and put frankincense on it,"
+        },
+        {
+          "number": 2,
+          "text": "and take it to Aaron's sons the priests. The priest shall take a handful of the flour and olive oil mixture, as well as all the frankincense, and burn this as a ‘reminder part’ on the altar, a food offering, to be accepted by the Lord."
+        },
+        {
+          "number": 3,
+          "text": "The rest of the grain offering is for Aaron and his sons; it is a most holy part of the offerings given to the Lord as food offerings."
+        },
+        {
+          "number": 4,
+          "text": "If your offering is of grain baked in an oven, it must be made from fine flour without using yeast. It can be cakes mixed with olive oil or wafers with olive oil spread on them."
+        },
+        {
+          "number": 5,
+          "text": "If your offering is a grain offering cooked on a griddle, it must be made of fine flour mixed with olive oil without using yeast."
+        },
+        {
+          "number": 6,
+          "text": "Break it up and pour olive oil over it; it is a grain offering."
+        },
+        {
+          "number": 7,
+          "text": "If your offering is a grain offering cooked in a pan, it must be made of fine flour with olive oil."
+        },
+        {
+          "number": 8,
+          "text": "Bring to the Lord the grain offering in whatever way it has been prepared. Present it to the priest, who will take it to the altar."
+        },
+        {
+          "number": 9,
+          "text": "The priest is to take the ‘reminder part’ from the grain offering and burn it on the altar as a food offering, to be accepted by the Lord."
+        },
+        {
+          "number": 10,
+          "text": "The rest of the grain offering is for Aaron and his sons; it is a most holy part of the food offerings given to the Lord."
+        },
+        {
+          "number": 11,
+          "text": "No grain offering that you give to the Lord may be made using yeast. Don't burn any yeast or honey as a food offering to the Lord."
+        },
+        {
+          "number": 12,
+          "text": "You may give them to the Lord when you present your offerings of firstfruits, but they must not be offered on the altar to be accepted by the Lord."
+        },
+        {
+          "number": 13,
+          "text": "All of your grain offerings are to be seasoned with salt. Don't leave the salt of God's agreement out of your grain offering. Add salt to all of your offerings."
+        },
+        {
+          "number": 14,
+          "text": "When you bring a grain offering of firstfruits to the Lord, offer crushed heads of new grain roasted on the fire."
+        },
+        {
+          "number": 15,
+          "text": "Put olive oil and frankincense on it; it is a grain offering."
+        },
+        {
+          "number": 16,
+          "text": "The priest will burn the ‘reminder part’ of the crushed grain and olive oil, as well as all its frankincense, as a food offering to the Lord.”"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "“When you want to give a peace offering and you offer an animal from a herd of cattle, whether male or female, you must present one without any defects before the Lord."
+        },
+        {
+          "number": 2,
+          "text": "Put your hand on the head of the offering and kill it at the entrance to the Tent of Meeting. Then Aaron's sons the priests will sprinkle the blood on all sides of the altar."
+        },
+        {
+          "number": 3,
+          "text": "From the peace offering you are to bring a food offering to the Lord: all the fat that covers the insides,"
+        },
+        {
+          "number": 4,
+          "text": "both kidneys with the fat on them by the loins, and the best part of the liver, which you are to remove together with the kidneys."
+        },
+        {
+          "number": 5,
+          "text": "Aaron's sons are to burn this on the altar on top of the burnt offering that is on the burning wood, as a food offering, to be accepted by the Lord."
+        },
+        {
+          "number": 6,
+          "text": "When you want to give a peace offering and you offer an animal from a flock of sheep or goats, either male or female, you must present one without any defects before the Lord."
+        },
+        {
+          "number": 7,
+          "text": "If you are giving a lamb as your offering, you must present it before the Lord."
+        },
+        {
+          "number": 8,
+          "text": "Put your hand on the head of the offering and kill it in front of the Tent of Meeting. Then Aaron's sons the priests will sprinkle the blood on all sides of the altar."
+        },
+        {
+          "number": 9,
+          "text": "From the peace offering you are to bring a food offering to the Lord made up of its fat: the whole fat tail* removed from close to the tailbone, all the fat that covers the insides,"
+        },
+        {
+          "number": 10,
+          "text": "both kidneys with the fat on them by the loins, and the best part of the liver, which you are to remove together with the kidneys."
+        },
+        {
+          "number": 11,
+          "text": "Then the priest is to burn this on the altar as a food offering, a food offering to the Lord."
+        },
+        {
+          "number": 12,
+          "text": "If your offering is a goat, you are to present it before the Lord."
+        },
+        {
+          "number": 13,
+          "text": "Put your hand on its head and kill it in front of the Tent of Meeting. Then Aaron's sons the priests will sprinkle the blood on all sides of the altar."
+        },
+        {
+          "number": 14,
+          "text": "From your offering you are to present a food offering to the Lord made up of all the fat that covers the insides,"
+        },
+        {
+          "number": 15,
+          "text": "both kidneys with the fat on them by the loins, and the best part of the liver, which you are to remove together with the kidneys."
+        },
+        {
+          "number": 16,
+          "text": "Then the priest is to burn this on the altar as a food offering, an offering to the Lord using fire. All the fat is for the Lord."
+        },
+        {
+          "number": 17,
+          "text": "You must not eat any fat or any blood. This regulation is for all time and for all future generations everywhere you live.”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "3:9",
+          "text": "Tails of sheep in Israel were very large and considered a delicacy."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The Lord told Moses,"
+        },
+        {
+          "number": 2,
+          "text": "“Tell the Israelites that these are the rules to handle cases* of those who sin unintentionally against any of the Lord's commandments and do what is not permitted."
+        },
+        {
+          "number": 3,
+          "text": "If it is the high priest who sins and brings guilt on everyone, he must present to the Lord a young bull without defects as a sin offering for his sin."
+        },
+        {
+          "number": 4,
+          "text": "He must take the bull to the entrance of the Tent of Meeting before the Lord, put his hand on its head and kill it before the Lord."
+        },
+        {
+          "number": 5,
+          "text": "Then the high priest shall take some of the bull's blood into the Tent of Meeting."
+        },
+        {
+          "number": 6,
+          "text": "The high priest shall dip his finger in the blood and sprinkle some of it seven times before the Lord in front of the veil of the sanctuary."
+        },
+        {
+          "number": 7,
+          "text": "The priest shall put some of the blood on the horns of the altar of aromatic incense that stands before the Lord in the Tent of Meeting. The rest of the bull's blood he is to pour out at the bottom of the altar of burnt offering at the entrance to the Tent of Meeting."
+        },
+        {
+          "number": 8,
+          "text": "Then he shall remove all the fat from the bull of the sin offering: all the fat that covers the insides,"
+        },
+        {
+          "number": 9,
+          "text": "both kidneys with the fat on them by the loins, and the best part of the liver, which he is to remove together with the kidneys"
+        },
+        {
+          "number": 10,
+          "text": "in the same way as the fat is removed from the bull of the peace offering. Then the priest shall burn this on the altar of burnt offering."
+        },
+        {
+          "number": 11,
+          "text": "But the skin of the bull, all its flesh, head, legs, insides and waste—"
+        },
+        {
+          "number": 12,
+          "text": "all the rest of it—he has to take outside the camp to a place that is ceremonially clean, where the ashes are dumped, and he must burn it on a wood fire there on the ash heap."
+        },
+        {
+          "number": 13,
+          "text": "If the whole Israelite community goes astray unintentionally, and even though they are unaware of doing what is not permitted by any of the Lord's commandments, they are all still guilty."
+        },
+        {
+          "number": 14,
+          "text": "When they realize their sin, then they must bring a young bull as a sin offering and present it before the Tent of Meeting."
+        },
+        {
+          "number": 15,
+          "text": "The elders of Israel are to put their hands on its head and kill it before the Lord."
+        },
+        {
+          "number": 16,
+          "text": "Then the high priest shall take some of the bull's blood into the Tent of Meeting."
+        },
+        {
+          "number": 17,
+          "text": "He shall dip his finger in the blood and sprinkle it seven times before the Lord in front of the veil."
+        },
+        {
+          "number": 18,
+          "text": "He shall put some of the blood on the horns of the altar that stands before the Lord in the Tent of Meeting. Then he is to pour out the rest of the bull's blood at the bottom of the altar of burnt offering at the entrance to the Tent of Meeting."
+        },
+        {
+          "number": 19,
+          "text": "Then he shall remove all the fat from the bull and burn it on the altar."
+        },
+        {
+          "number": 20,
+          "text": "He shall offer this bull in the same way he did for the sin offering. This is how the priest will make them right, and they will be forgiven."
+        },
+        {
+          "number": 21,
+          "text": "Then he shall take the bull outside the camp and burn it, just as he burned the bull previously mentioned. It is the sin offering for the whole community."
+        },
+        {
+          "number": 22,
+          "text": "If a leader sins unintentionally and does what is not permitted by any of the commandments of the Lord his God, he is guilty."
+        },
+        {
+          "number": 23,
+          "text": "When he realizes his sin, he must bring a male goat without defects as his offering."
+        },
+        {
+          "number": 24,
+          "text": "He must put his hand on the head of the goat and kill it at the place where the burnt offering is killed before the Lord. It is a sin offering."
+        },
+        {
+          "number": 25,
+          "text": "Then the priest is to take some of the blood of the sin offering with his finger and put it on the horns of the altar of burnt offering, and pour out the rest of the blood at the bottom of the altar."
+        },
+        {
+          "number": 26,
+          "text": "He shall burn all its fat on the altar like the fat of the peace offerings. In this way the priest will make the man's sin right, and he will be forgiven."
+        },
+        {
+          "number": 27,
+          "text": "If any other Israelite sins unintentionally and does what is not permitted by any of the commandments of the Lord his God, he is guilty."
+        },
+        {
+          "number": 28,
+          "text": "When he realizes his sin, he must bring a female goat without defects as his offering for that sin."
+        },
+        {
+          "number": 29,
+          "text": "He must put his hand on the head of the sin offering and kill it at the place of the burnt offering."
+        },
+        {
+          "number": 30,
+          "text": "Then the priest is to take some of its blood with his finger and put it on the horns of the altar of burnt offering, and pour out the rest of the blood at the bottom of the altar."
+        },
+        {
+          "number": 31,
+          "text": "He shall remove all its fat like the fat of the peace offerings and burn it on the altar and it will be accepted by the Lord. In this way the priest will make the man's sin right, and he will be forgiven."
+        },
+        {
+          "number": 32,
+          "text": "If he brings a lamb as a sin offering, he is to bring a female without defects."
+        },
+        {
+          "number": 33,
+          "text": "He must put his hand on the head of the sin offering and kill it as a sin offering at the place where the burnt offering is killed."
+        },
+        {
+          "number": 34,
+          "text": "Then the priest is to take some of its blood with his finger and put it on the horns of the altar of burnt offering, and pour out the rest of the blood at the bottom of the altar."
+        },
+        {
+          "number": 35,
+          "text": "He shall remove all its fat like the fat of the lamb is removed from the peace offerings and burn it on the altar to be accepted by the Lord. In this way the priest will make the man's sin right, and he will be forgiven.”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "4:2",
+          "text": "“The rules to handle cases”: supplied for clarity."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "“If you sin by not giving the evidence you have about a legal case, whether you saw something yourself or heard about it, you bear responsibility for your guilt."
+        },
+        {
+          "number": 2,
+          "text": "If you touch anything unclean such as the dead body of any unclean* wild animal or farm animal or vermin, even if you're unaware of it, you become unclean and guilty."
+        },
+        {
+          "number": 3,
+          "text": "If you touch something unclean from someone else who is unclean, even if you're unaware of it, you become guilty."
+        },
+        {
+          "number": 4,
+          "text": "If you foolishly swear to do something (whether good or bad, and in whatever way people impulsively swear an oath), even if you're unaware of it being wrong, when you eventually realize it, you are guilty."
+        },
+        {
+          "number": 5,
+          "text": "If you become guilty in one of these ways, you must confess your sin,"
+        },
+        {
+          "number": 6,
+          "text": "and you must take your guilt offering of a female lamb or goat to the Lord as a sin offering for your sin. The priest will make your sin right."
+        },
+        {
+          "number": 7,
+          "text": "If you can't afford a lamb, you may offer to the Lord as compensation for your sin two turtledoves or two young pigeons, one as a sin offering and one as a burnt offering."
+        },
+        {
+          "number": 8,
+          "text": "You are to take them to the priest, who shall present the first one as the sin offering. He is to wring its head from the neck without removing it completely."
+        },
+        {
+          "number": 9,
+          "text": "Then he is to sprinkle some of the blood of the sin offering on the side of the altar while the rest of the blood is poured out at the bottom of the altar. It is a sin offering."
+        },
+        {
+          "number": 10,
+          "text": "The priest must then prepare the second bird as a burnt offering according to the regulations. In this way the priest will make you right for your sin, and you will be forgiven."
+        },
+        {
+          "number": 11,
+          "text": "If you can't afford two turtledoves or two young pigeons you may bring a tenth of an ephah of the best flour as a sin offering. Don't put olive oil or frankincense on it, because it is a sin offering."
+        },
+        {
+          "number": 12,
+          "text": "Take it to the priest, who shall take a handful as a ‘reminder part’ and burn it on the altar on top of the burnt offerings to the Lord. It is a sin offering."
+        },
+        {
+          "number": 13,
+          "text": "This is how the priest will make right any of these sins you have committed, and you will be forgiven. The rest of the offering will belong to the priest, just like the grain offering.”"
+        },
+        {
+          "number": 14,
+          "text": "The Lord told Moses,"
+        },
+        {
+          "number": 15,
+          "text": "“If any of you neglects unintentionally anything that the Lord has declared belong to him and are holy,* you must bring your guilt offering to the Lord: a ram without defects from your herd or the equivalent value in silver shekels (according to the sanctuary shekel standard). It is a guilt offering."
+        },
+        {
+          "number": 16,
+          "text": "As regards any holy requirement you failed to contribute, you must pay compensation by adding a fifth of its value to it and then give it to the priest, who will make it right for you with the ram as a guilt offering, and you will be forgiven."
+        },
+        {
+          "number": 17,
+          "text": "If you sin and break any of the Lord's commandments, even if you are unaware of it, you are still guilty and bear responsibility for your guilt."
+        },
+        {
+          "number": 18,
+          "text": "You must take to the priest a ram without defects of the appropriate value from the flock as a guilt offering. Then the priest will make right for you the wrong you did in ignorance, and you will be forgiven."
+        },
+        {
+          "number": 19,
+          "text": "It is a guilt offering because you were guilty as far as the Lord was concerned.”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "5:2",
+          "text": "The concept of ceremonial uncleanness is frequent here and in other books of the Old Testament. It is primarily a “religious” concept but does have a basis in some areas related to aspects of health and hygiene."
+        },
+        {
+          "ref": "5:15",
+          "text": "This would include everything the Lord has said his people must give to him, including for example firstfruits, tithes, the firstborn etc."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The Lord told Moses,"
+        },
+        {
+          "number": 2,
+          "text": "“If you sin against the Lord, breaking your commitment to him, then this is what must happen.* You may have lied to your neighbor about something you entrusted to them, about some deposit paid, about something that was stolen, or maybe you were trying to cheat them."
+        },
+        {
+          "number": 3,
+          "text": "You may have found property someone lost, and you lied and made false statements about it, or you have sinned in other ways that people do in such situations."
+        },
+        {
+          "number": 4,
+          "text": "If you have sinned and become guilty you must return what you have stolen or cheated from your victims, the deposit you took, the lost property you found,"
+        },
+        {
+          "number": 5,
+          "text": "or anything else that must be given back that you lied about. You must pay full compensation plus a fifth of the value, and give it to the owner as soon as you accept that you are guilty of sin."
+        },
+        {
+          "number": 6,
+          "text": "Then you must take to the priest your guilt offering for the Lord: a ram without defects of the appropriate value from the flock."
+        },
+        {
+          "number": 7,
+          "text": "This is how the priest will make you right before the Lord, and you will be forgiven whatever sins you may have done that you are guilty of.”"
+        },
+        {
+          "number": 8,
+          "text": "The Lord told Moses,"
+        },
+        {
+          "number": 9,
+          "text": "“Give Aaron and his sons these instructions regarding the burnt offering. The burnt offering is to be left on the fireplace of the altar throughout night until morning, and the fire must be kept burning on the altar."
+        },
+        {
+          "number": 10,
+          "text": "The priest shall put on his linen clothes and underwear, and he shall take from the altar the greasy ashes of the burnt offering that the fire has burned up and set them down beside the altar."
+        },
+        {
+          "number": 11,
+          "text": "Then he has to change his clothes, and take the ashes outside the camp to a place that's ceremonially clean."
+        },
+        {
+          "number": 12,
+          "text": "The fire on the altar must be kept burning—don't let it go out. Each morning the priest is to add wood to the fire, carefully place the burnt offering on it, and burn the fat parts of the peace offerings on it."
+        },
+        {
+          "number": 13,
+          "text": "The fire must be kept burning on the altar continually—don't let it go out."
+        },
+        {
+          "number": 14,
+          "text": "These are the regulations for the grain offering: Aaron's sons are to present it before the Lord, in front of the altar."
+        },
+        {
+          "number": 15,
+          "text": "The priest shall remove a handful of the best flour mixed with olive oil, as well as all the frankincense from the grain offering, and burn the ‘reminder part’ on the altar to be to be accepted by the Lord."
+        },
+        {
+          "number": 16,
+          "text": "The rest is for Aaron and his sons to eat. It must be eaten without yeast in a holy place—the courtyard of the Tent of Meeting."
+        },
+        {
+          "number": 17,
+          "text": "It must not be baked with yeast. I have provided it as their share of my food offerings. It is most holy, just like the sin offering and the guilt offering."
+        },
+        {
+          "number": 18,
+          "text": "Any of Aaron's male descendants may eat it. This is a permanent allowance from the food offerings to the Lord for future generations. Whatever touches them shall become holy.”"
+        },
+        {
+          "number": 19,
+          "text": "The Lord told Moses,"
+        },
+        {
+          "number": 20,
+          "text": "“This is the offering that Aaron and his sons are to present to the Lord when they're anointed: a tenth of an ephah of the best flour as a usual grain offering, half in the morning and half in the evening."
+        },
+        {
+          "number": 21,
+          "text": "Cook it with olive oil on a griddle. Bring it well-kneaded and present it as a grain offering broken into pieces, to be accepted by the Lord."
+        },
+        {
+          "number": 22,
+          "text": "It is to be cooked by the priest who is one of Aaron's descendants and who is to be anointed to take his place. In this case since it is permanently allocated to the Lord, it must be burned completely."
+        },
+        {
+          "number": 23,
+          "text": "Every grain offering for a priest is to be burned completely. It must not be eaten.”"
+        },
+        {
+          "number": 24,
+          "text": "The Lord told Moses,"
+        },
+        {
+          "number": 25,
+          "text": "“Tell Aaron and his sons that these are the regulations for the sin offering. The sin offering is to be killed where the burnt offering is killed before the Lord, and it is most holy."
+        },
+        {
+          "number": 26,
+          "text": "The priest who offers the sin offering is to eat it. It must be eaten without yeast in a holy place—the courtyard of the Tent of Meeting."
+        },
+        {
+          "number": 27,
+          "text": "Whatever touches it shall become holy and if any of the blood is splashed on clothing, you must wash it in a holy place."
+        },
+        {
+          "number": 28,
+          "text": "The clay pot used to boil the sin offering must be broken. If it's boiled in a bronze pot, the pot must be thoroughly cleaned and washed out with water."
+        },
+        {
+          "number": 29,
+          "text": "Any male among the priests may eat it, it is most holy."
+        },
+        {
+          "number": 30,
+          "text": "But no sin offering may be eaten if its blood has been taken into the Tent of Meeting as a means to make things right in the Holy Place. In that case it must be burned.”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "6:2",
+          "text": "“Then this is what must happen”: supplied for clarity."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "“These are the regulations for the guilt offering, it is most holy."
+        },
+        {
+          "number": 2,
+          "text": "The guilt offering is to be killed where the burnt offering is killed, and the priest shall sprinkle its blood on all sides of the altar."
+        },
+        {
+          "number": 3,
+          "text": "All the fat from it shall be offered: the fat tail, the fat that covers the insides,"
+        },
+        {
+          "number": 4,
+          "text": "both kidneys with the fat on them by the loins, and the best part of the liver, which the priest is to remove together with the kidneys."
+        },
+        {
+          "number": 5,
+          "text": "He shall burn them on the altar as a food offering to the Lord; it is a guilt offering."
+        },
+        {
+          "number": 6,
+          "text": "Any male among the priests may eat it. It must be eaten in a holy place, it is most holy."
+        },
+        {
+          "number": 7,
+          "text": "The guilt offering is like the sin offering; the regulations are the same for both. The priest who presents the offering that ‘makes things right’ is to have it."
+        },
+        {
+          "number": 8,
+          "text": "In the case of ordinary burnt offerings, the priest shall have the animal's skin."
+        },
+        {
+          "number": 9,
+          "text": "In the same way all grain offerings that are baked in an oven or cooked in a pan or on a griddle is for the priest who presents it,"
+        },
+        {
+          "number": 10,
+          "text": "and all grain offerings, whether they are mixed with olive oil or dry, they are for all of Aaron descendants."
+        },
+        {
+          "number": 11,
+          "text": "These are the regulations for the peace offering that you may present to the Lord."
+        },
+        {
+          "number": 12,
+          "text": "If you offer it in a spirit of thanks, then along with the sacrifice of thanksgiving, you must offer bread, wafers, and well-kneaded cakes of the best flour all made without yeast and mixed or coated with olive oil."
+        },
+        {
+          "number": 13,
+          "text": "In addition to your peace offering of thanksgiving of breads made without yeast, you shall present an offering of breads made with yeast."
+        },
+        {
+          "number": 14,
+          "text": "Present one of each kind of bread of the offering as a contribution to the Lord. It is for the priest who sprinkles the blood of the peace offering."
+        },
+        {
+          "number": 15,
+          "text": "The meat of the sacrifice of your peace offering of thanksgiving must be eaten the same day you offer it. Don't leave any of it until the morning."
+        },
+        {
+          "number": 16,
+          "text": "If the sacrifice you're offering is to pay a vow or a freewill offering, it shall be eaten on the day you present your sacrifice, but what's left can be eaten the next day."
+        },
+        {
+          "number": 17,
+          "text": "However, any meat of the sacrifice still remaining on the third day must be burned."
+        },
+        {
+          "number": 18,
+          "text": "If you eat any of the meat from your peace offering on the third day, it won't be accepted. You won't receive credit for offering it. In fact it will be treated as something disgusting, and anyone who eats it will bear responsibility for their guilt."
+        },
+        {
+          "number": 19,
+          "text": "If this meat touches anything unclean it must not be eaten; it must be burned. This meat may be eaten by those who are ceremonially clean."
+        },
+        {
+          "number": 20,
+          "text": "If anyone who is unclean eats meat from the peace offering given to the Lord, they must be expelled from their people."
+        },
+        {
+          "number": 21,
+          "text": "Anyone who touches anything unclean, whether it's from a person, an unclean animal, or an unclean revolting thing, and then eats meat from the peace offering given to the Lord, they must be expelled from their people.”"
+        },
+        {
+          "number": 22,
+          "text": "The Lord told Moses,"
+        },
+        {
+          "number": 23,
+          "text": "“Give these instructions to the Israelites. Tell them, ‘You must not eat any of the fat of a bull, a sheep, or a goat."
+        },
+        {
+          "number": 24,
+          "text": "You can use the fat of an animal found dead or killed by wild beasts for whatever purpose you want, but you must not eat it."
+        },
+        {
+          "number": 25,
+          "text": "Anyone who eats the fat of an animal from a food offering presented to the Lord must be expelled from their people."
+        },
+        {
+          "number": 26,
+          "text": "You must not eat the blood of any bird or animal in any of your homes."
+        },
+        {
+          "number": 27,
+          "text": "Anyone who eats blood must be expelled from their people.’”"
+        },
+        {
+          "number": 28,
+          "text": "The Lord told Moses,"
+        },
+        {
+          "number": 29,
+          "text": "“Give these instructions to the Israelites. Tell them that if you present a peace offering to the Lord you must bring part of it as a special gift to the Lord."
+        },
+        {
+          "number": 30,
+          "text": "You must personally bring the food offerings to the Lord; bring the fat as well as the breast, and wave the breast as a wave offering before the Lord."
+        },
+        {
+          "number": 31,
+          "text": "The priest shall burn the fat on the altar, but the breast is for Aaron and his sons."
+        },
+        {
+          "number": 32,
+          "text": "Give the right thigh to the priest as a contribution from your peace offering."
+        },
+        {
+          "number": 33,
+          "text": "The priest as a descendant of Aaron who offers the blood and fat of the peace offering has the right thigh as his share."
+        },
+        {
+          "number": 34,
+          "text": "I have required from the Israelites the breast of the wave offering and the contribution of the thigh from their peace offerings, and I have given them to Aaron the priest and his sons as their share from the Israelites for all time.”"
+        },
+        {
+          "number": 35,
+          "text": "This is the share of the food offerings given to the Lord that belongs to Aaron and his sons since the day they were appointed to serve the Lord as priests."
+        },
+        {
+          "number": 36,
+          "text": "From the time they were anointed, the Lord ordered that this be given them by the sons of Israel. It is their share for future generations."
+        },
+        {
+          "number": 37,
+          "text": "These are the regulations regarding the burnt offering, the grain offering, the sin offering, the guilt offering, the ordination offering, and the peace offering."
+        },
+        {
+          "number": 38,
+          "text": "The Lord gave these to Moses on Mount Sinai at the time he ordered the Israelites to give their offerings to him in the Wilderness of Sinai."
+        }
+      ],
+      "notes": []
+    },
+    {
+      "number": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The Lord told Moses,"
+        },
+        {
+          "number": 2,
+          "text": "“Go with Aaron and his sons, and take their priestly clothes, anointing oil, the bull of the sin offering, two rams, and the basket of bread made without yeast,"
+        },
+        {
+          "number": 3,
+          "text": "and have everyone assemble at the entrance to the Tent of Meeting.”"
+        },
+        {
+          "number": 4,
+          "text": "Moses did as the Lord instructed him, and everyone gathered at the entrance to the Tent of Meeting."
+        },
+        {
+          "number": 5,
+          "text": "Moses told them, “The following is what the Lord has ordered to be done.”"
+        },
+        {
+          "number": 6,
+          "text": "Moses had Aaron and his sons come forward, and he washed them with water."
+        },
+        {
+          "number": 7,
+          "text": "He dressed Aaron with the tunic, tied the sash around him, put the robe on him and then the ephod. He tied the waistband of the ephod around him, fastening it to him."
+        },
+        {
+          "number": 8,
+          "text": "Then Moses attached the breastpiece to Aaron and put the Urim and Thummim in the breastpiece."
+        },
+        {
+          "number": 9,
+          "text": "He put the turban on Aaron's head and placed the gold plate, the holy crown, on the front of the turban, as the Lord had instructed him to do."
+        },
+        {
+          "number": 10,
+          "text": "Then Moses took the anointing oil and anointed the Tabernacle and everything in it to dedicate it all."
+        },
+        {
+          "number": 11,
+          "text": "He sprinkled some of the oil on the altar seven times to anoint it and all its utensils, as well as the basin with its stand to dedicate them."
+        },
+        {
+          "number": 12,
+          "text": "Moses poured some of the anointing oil on Aaron's head to anoint him and to dedicate him."
+        },
+        {
+          "number": 13,
+          "text": "Then Moses had Aaron's sons come forward. He dressed them in tunics, tied sashes around them, and wrapped headbands on them, as the Lord had ordered him to do."
+        },
+        {
+          "number": 14,
+          "text": "Moses brought the bull over for the sin offering, and Aaron and his sons put their hands on its head."
+        },
+        {
+          "number": 15,
+          "text": "Moses killed the bull and took some of the blood. He used his finger to put the blood on all four horns of the altar to dedicate it and purify it. He poured out the rest of the blood at the bottom of the altar, and consecrated the altar so that it could be used to make people right."
+        },
+        {
+          "number": 16,
+          "text": "Moses took all the fat that covers the insides, the best part of the liver, both kidneys with the fat on them, burned all of it on the altar."
+        },
+        {
+          "number": 17,
+          "text": "But the rest of the bull—the skin, the meat, and the waste he burned outside the camp, as the Lord had ordered him to do."
+        },
+        {
+          "number": 18,
+          "text": "Moses brought the ram for the burnt offering, and Aaron and his sons put their hands on its head."
+        },
+        {
+          "number": 19,
+          "text": "Moses killed the ram and sprinkled the blood on all sides of the altar."
+        },
+        {
+          "number": 20,
+          "text": "He divided the ram into pieces and burned the head, the pieces, and the fat."
+        },
+        {
+          "number": 21,
+          "text": "He washed the insides and legs with water and burned the whole ram on the altar as a burnt offering, a food offering to be accepted by the Lord, as the Lord had ordered Moses to do."
+        },
+        {
+          "number": 22,
+          "text": "Moses brought the second ram, the ram of ordination, and Aaron and his sons put their hands on its head."
+        },
+        {
+          "number": 23,
+          "text": "Moses killed the ram and took some of its blood. He put it on Aaron's right earlobe, on the thumb of his right hand, and on the big toe of his right foot."
+        },
+        {
+          "number": 24,
+          "text": "Then Moses had Aaron and his sons come forward and put some of the blood on their right earlobes, on the thumbs of their right hands, and on the big toes of their right feet. Then he sprinkled blood on all sides of the altar."
+        },
+        {
+          "number": 25,
+          "text": "Moses took the fat, including the fat tail, all the fat on the insides, the best part of the liver, both kidneys with the fat on them. Moses took the fat, together with the right thigh."
+        },
+        {
+          "number": 26,
+          "text": "He took one loaf of bread without yeast, one loaf made with olive oil, and one wafer from the basket of bread without yeast that was in the presence of the Lord. He placed them on top of the portions of fat and on the right thigh."
+        },
+        {
+          "number": 27,
+          "text": "Then he gave them to Aaron and his sons, and waved them before the Lord as a wave offering."
+        },
+        {
+          "number": 28,
+          "text": "After this Moses took them back and burned them on the altar with the burnt offering. This was an ordination offering, a food offering to be accepted by the Lord."
+        },
+        {
+          "number": 29,
+          "text": "Moses then took the breast, his share of the ordination ram, and waved it before the Lord as a wave offering, as the Lord had ordered him to do."
+        },
+        {
+          "number": 30,
+          "text": "Moses then took some of the anointing oil and some of the blood from the altar. He sprinkled them both on the clothes of Aaron and his sons. This is how he dedicated the clothes of Aaron and his sons."
+        },
+        {
+          "number": 31,
+          "text": "Moses told Aaron and his sons, “You are to boil the meat at the entrance to the Tent of Meeting, and then eat it there with the bread that is in the basket of offerings for the ordination, as I ordered: ‘It is for Aaron and his sons to eat.’"
+        },
+        {
+          "number": 32,
+          "text": "Afterwards you must burn what's left over of the meat and bread."
+        },
+        {
+          "number": 33,
+          "text": "You are not to leave the entrance to the Tent of Meeting for seven days until the ordination ceremony is completed, because your ordination will take seven days."
+        },
+        {
+          "number": 34,
+          "text": "What was done today was ordered by the Lord as a means of making you right."
+        },
+        {
+          "number": 35,
+          "text": "You must stay at the entrance to the Tent of Meeting for seven days, day and night, and follow the Lord's commands so that you will not die, for this is what I have been ordered to do.”"
+        },
+        {
+          "number": 36,
+          "text": "Aaron and his sons did everything that the Lord had ordered through Moses."
+        }
+      ],
+      "notes": []
+    },
+    {
+      "number": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "On the eighth day after the ordination* Moses called Aaron and his sons, and the elders of Israel, to meet with him."
+        },
+        {
+          "number": 2,
+          "text": "He told Aaron, “You need to bring a young bull as a sin offering and a ram as a burnt offering, both without defects, and present them before the Lord."
+        },
+        {
+          "number": 3,
+          "text": "Then tell the Israelites, ‘Bring the following offerings: a male goat as a sin offering; a calf and a lamb (both a year old and without defects), for a burnt offering;"
+        },
+        {
+          "number": 4,
+          "text": "a bull and a ram as a peace offering to sacrifice before the Lord; and a grain offering mixed with olive oil. Do this because the Lord is going to reveal himself to you today.’”"
+        },
+        {
+          "number": 5,
+          "text": "Following Moses' orders they brought what he'd said to the front of the Tent of Meeting. Everyone came and stood before the Lord."
+        },
+        {
+          "number": 6,
+          "text": "Moses said, “This is what the Lord ordered me to tell you to do, so that you may see his glory.”"
+        },
+        {
+          "number": 7,
+          "text": "Then Moses told Aaron, “Go to the altar and sacrifice your sin offering and your burnt offering to make you and the people right. Then sacrifice the offerings brought by the people as a means to make them right, as the Lord ordered.”"
+        },
+        {
+          "number": 8,
+          "text": "So Aaron went to the altar and killed the calf as a sin offering for himself."
+        },
+        {
+          "number": 9,
+          "text": "His sons brought the blood to him. He dipped his finger in the blood and put it on the horns of the altar. He poured out the rest of the blood at the bottom of the altar."
+        },
+        {
+          "number": 10,
+          "text": "He burned the fat, the kidneys, and the best part of the liver from the sin offering on the altar, as the Lord had ordered Moses to do."
+        },
+        {
+          "number": 11,
+          "text": "However, he burned up the meat and the skin outside the camp."
+        },
+        {
+          "number": 12,
+          "text": "Aaron killed the burnt offering. His sons brought him the blood, and he sprinkled it on the sides of the altar."
+        },
+        {
+          "number": 13,
+          "text": "They brought him the head and all the other pieces of the burnt offering, and he burned them on the altar."
+        },
+        {
+          "number": 14,
+          "text": "He washed the insides and the legs and burned them with the rest of the burnt offering on the altar."
+        },
+        {
+          "number": 15,
+          "text": "Then Aaron presented the offerings of the people. He killed the male goat as the sin offering for the people, and offered it in the same way as his own sin offering."
+        },
+        {
+          "number": 16,
+          "text": "He presented the burnt offering, doing so in accordance with the regulations."
+        },
+        {
+          "number": 17,
+          "text": "He presented the grain offering. He took a handful from it and burned it on the altar, in addition to the burnt offering presented earlier that morning."
+        },
+        {
+          "number": 18,
+          "text": "Aaron killed the bull and the ram as the peace offering for the people. His sons brought him the blood, and he sprinkled it on the sides of the altar."
+        },
+        {
+          "number": 19,
+          "text": "They also brought him the fat portions from the bull, and from the ram—the fat tail, the fat covering the insides, the kidneys, and the best part of the liver—"
+        },
+        {
+          "number": 20,
+          "text": "and put them on the breasts. Aaron burned the fat portions on the altar,"
+        },
+        {
+          "number": 21,
+          "text": "but he waved the breasts and the right thigh as a wave offering before the Lord, as Moses had ordered him to do."
+        },
+        {
+          "number": 22,
+          "text": "Then Aaron held up his hands towards the people and blessed them. After that he came down from the altar, having completed the sin offering, the burnt offering, and the peace offering."
+        },
+        {
+          "number": 23,
+          "text": "Moses and Aaron went into the Tent of Meeting. When they came out, they blessed the people, and the glory of the Lord was revealed to everyone."
+        },
+        {
+          "number": 24,
+          "text": "Fire came from the presence of the Lord and burned up the burnt offering and the fat portions on the altar. When everyone saw this, they shouted for joy and fell down with their faces to the ground."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "9:1",
+          "text": "“After the ordination”: supplied for clarity."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Aaron's sons, Nadab and Abihu, set light to their incense burners using ordinary fire* and put in incense, and in this way offered forbidden* fire in the Lord's presence, something he had not authorized."
+        },
+        {
+          "number": 2,
+          "text": "Fire came out from the Lord's presence* and burned them up. They died in the Lord's presence."
+        },
+        {
+          "number": 3,
+          "text": "Moses explained to Aaron, “This is what the Lord was talking about when he said: ‘I will show my holiness to those who approach me; I will reveal my glory so everyone can see.” But Aaron didn't reply."
+        },
+        {
+          "number": 4,
+          "text": "Moses called Mishael and Elzaphan, sons of Aaron's uncle Uzziel, and told them, “Come and carry away the bodies of your cousins and take them outside the camp, away from the front of the sanctuary.”"
+        },
+        {
+          "number": 5,
+          "text": "They came and picked them up by their clothes, and took them outside the camp, as Moses had ordered."
+        },
+        {
+          "number": 6,
+          "text": "Then Moses told Aaron and his sons Eleazar and Ithamar, “Don't leave your hair uncombed, and don't tear your clothes,* otherwise you will die, and the Lord will be angry with everyone. But your relatives and all the other Israelites may mourn for those the Lord killed by fire."
+        },
+        {
+          "number": 7,
+          "text": "Don't go outside the entrance to the Tent of Meeting, or you will die, because you have been anointed by the Lord.” They did what Moses said."
+        },
+        {
+          "number": 8,
+          "text": "The Lord told Aaron,"
+        },
+        {
+          "number": 9,
+          "text": "“You and your descendants must not drink wine or any other alcohol when you go in to the Tent of Meeting, otherwise you will die. This regulation is for all time and for all future generations."
+        },
+        {
+          "number": 10,
+          "text": "You must realize the difference between the holy and the ordinary, between clean and unclean,"
+        },
+        {
+          "number": 11,
+          "text": "so you can teach the Israelites all the regulations that the Lord has given to them through Moses.”"
+        },
+        {
+          "number": 12,
+          "text": "Moses told Aaron and his two sons who were left, Eleazar and Ithamar, “Take the grain offering that is left over from the food offerings given to the Lord and eat it without yeast beside the altar, because it is most holy."
+        },
+        {
+          "number": 13,
+          "text": "You must eat it in a holy place, because it is the share for you and your descendants from the food offerings given to the Lord. This is what I have been ordered."
+        },
+        {
+          "number": 14,
+          "text": "You and your male and female descendants can eat the breast of the wave offering and the thigh contribution anywhere that is ceremonially clean, because you and your descendants have been given these as your share from the peace offerings of the Israelites."
+        },
+        {
+          "number": 15,
+          "text": "The thigh contribution and the breast of the wave offering, as well as the fat portions of the food offerings made, they are to bring and wave as a wave offering before the Lord. They belong to you and your children forever as the Lord has ordered.”"
+        },
+        {
+          "number": 16,
+          "text": "Moses checked what had happened to the goat of the sin offering, and found out that it had been burned. He got angry with Eleazar and Ithamar, the sons Aaron had left, and asked them,"
+        },
+        {
+          "number": 17,
+          "text": "“Why didn't you take the sin offering and eat it in the holy place, because it is most holy and it was given to you to take away the people's guilt by making them right before the Lord."
+        },
+        {
+          "number": 18,
+          "text": "As its blood was not taken into the holy place, you should have eaten it in the sanctuary area, as I ordered.”"
+        },
+        {
+          "number": 19,
+          "text": "So Aaron explained to Moses, “Look, it was today that they presented their sin offering and their burnt offering before the Lord. After all that's just happened to me, would the Lord have been pleased if I'd eaten the sin offering today?”"
+        },
+        {
+          "number": 20,
+          "text": "When Moses heard what Aaron had to say, he accepted the explanation."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "10:1",
+          "text": "“Using ordinary fire”: supplied for clarity."
+        },
+        {
+          "ref": "10:1",
+          "text": "“Forbidden”: the words used here means “strange” or “alien.” Clearly the issue was acting in disobedience to God's explicit commands regarding the way in which such items were to be used in his service. The fire was to come from the altar."
+        },
+        {
+          "ref": "10:2",
+          "text": "“The Lord's presence”: because the Tabernacle was seen as where God “lived,” the concept of being in “the Lord's presence” or being “before the Lord” is frequently mentioned."
+        },
+        {
+          "ref": "10:6",
+          "text": "In distress or mourning."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The Lord told Moses and Aaron,"
+        },
+        {
+          "number": 2,
+          "text": "“Give these instructions to the Israelites. These are the animals you are allowed to eat:"
+        },
+        {
+          "number": 3,
+          "text": "any animal that both has a divided hoof and also chews the cud."
+        },
+        {
+          "number": 4,
+          "text": "However, if it either chews the cud, or has a divided hoof, then you may not eat it. These include: the camel, which though it chews the cud doesn't have a divided hoof, so it is unclean for you."
+        },
+        {
+          "number": 5,
+          "text": "The rock hyrax, which though it chews the cud doesn't have a divided hoof, so it is unclean for you."
+        },
+        {
+          "number": 6,
+          "text": "The hare, which though it chews the cud doesn't have a divided hoof, so it is unclean for you."
+        },
+        {
+          "number": 7,
+          "text": "The pig, which though it has a divided hoof doesn't chew the cud, so it is unclean for you."
+        },
+        {
+          "number": 8,
+          "text": "You are not to eat their meat or touch their dead bodies. They are unclean for you."
+        },
+        {
+          "number": 9,
+          "text": "You are allowed to eat any creature with fins and scales that lives in the water, whether in the sea or in fresh water."
+        },
+        {
+          "number": 10,
+          "text": "But you are not allowed to eat any of the many creatures that don't have fins and scales that live in the water, whether in the sea or in fresh water."
+        },
+        {
+          "number": 11,
+          "text": "They are repulsive.* You must not eat their meat, and you must treat their dead bodies as repulsive."
+        },
+        {
+          "number": 12,
+          "text": "All such water creatures that don't have fins and scales are to be repulsive to you."
+        },
+        {
+          "number": 13,
+          "text": "As for the birds,* these must not be eaten because they are repulsive: eagle, griffon vulture, bearded vulture,"
+        },
+        {
+          "number": 14,
+          "text": "buzzard, kite and similar birds of prey,"
+        },
+        {
+          "number": 15,
+          "text": "any raven or crow,"
+        },
+        {
+          "number": 16,
+          "text": "tawny owl, long-eared owl, gulls, any kind of hawk,"
+        },
+        {
+          "number": 17,
+          "text": "little owl, fish owl, eagle owl,"
+        },
+        {
+          "number": 18,
+          "text": "barn owl, desert owl, Egyptian vulture,"
+        },
+        {
+          "number": 19,
+          "text": "storks and any kind of heron, hoopoe, and bats."
+        },
+        {
+          "number": 20,
+          "text": "All flying insects that crawl* are repulsive to you."
+        },
+        {
+          "number": 21,
+          "text": "But you can eat the following kinds of flying insects that crawl: those that have jointed legs they use to jump."
+        },
+        {
+          "number": 22,
+          "text": "So in this category you can eat any kind of locust, bald locust, cricket, or grasshopper."
+        },
+        {
+          "number": 23,
+          "text": "All other flying insects that crawl are repulsive to you,"
+        },
+        {
+          "number": 24,
+          "text": "and will make you unclean. If you touch their dead bodies you will be unclean until the evening,"
+        },
+        {
+          "number": 25,
+          "text": "and if you pick up one of their dead bodies you must wash your clothes, and you will be unclean until the evening."
+        },
+        {
+          "number": 26,
+          "text": "Every animal with hooves that are not divided, or that does not chew the cud, is unclean for you. If you touch any of them you will be unclean."
+        },
+        {
+          "number": 27,
+          "text": "Any four-legged animal that walks on its paws are unclean for you. If you touch their dead bodies you will be unclean until the evening,"
+        },
+        {
+          "number": 28,
+          "text": "and if you pick up one of their dead bodies you must wash your clothes, and you will be unclean until the evening. They are unclean for you."
+        },
+        {
+          "number": 29,
+          "text": "The following animals* that run along the ground are unclean for you: rats, mice, any kind of large lizards,"
+        },
+        {
+          "number": 30,
+          "text": "geckos, monitor lizards, wall lizards, skinks, and chameleons."
+        },
+        {
+          "number": 31,
+          "text": "These animals that run along the ground are unclean for you. If you touch a dead one of them you will be unclean until the evening."
+        },
+        {
+          "number": 32,
+          "text": "Anything that one of them dies and lands on becomes unclean. Whatever it is—something made of wood, clothing, leather, sackcloth, or any work tool—it must be washed with water and will be unclean until the evening. Then it will become clean."
+        },
+        {
+          "number": 33,
+          "text": "If one of them falls into a clay pot, all that's in it becomes unclean. You must smash the pot."
+        },
+        {
+          "number": 34,
+          "text": "If water from that pot touches any food, that food becomes unclean, and any drink from a pot like that also becomes unclean."
+        },
+        {
+          "number": 35,
+          "text": "Anything that one of their dead bodies falls on becomes unclean. If it's an oven or a stove,* it must be smashed. It is permanently unclean for you."
+        },
+        {
+          "number": 36,
+          "text": "On the other hand, if it's a spring or cistern containing water then it will remain clean, but if you touch one of these dead bodies in it you will be unclean."
+        },
+        {
+          "number": 37,
+          "text": "Similarly, if one of their dead bodies falls on any seed used for sowing, the seed remains clean;"
+        },
+        {
+          "number": 38,
+          "text": "but if the seed has been soaked in water and one of their dead bodies falls on it, it is unclean for you."
+        },
+        {
+          "number": 39,
+          "text": "If an animal that you are allowed to eat dies, anyone who touches the dead body will be unclean until the evening."
+        },
+        {
+          "number": 40,
+          "text": "If you eat anything from the dead body you must wash your clothes and you will be unclean until the evening. If you pick up the dead body you must wash your clothes and you will be unclean until the evening."
+        },
+        {
+          "number": 41,
+          "text": "Every animal that crawls along the ground is repulsive—you must not eat it."
+        },
+        {
+          "number": 42,
+          "text": "Don't eat any animal that crawls along the ground, whether it moves on its belly or walks on four feet or many feet. All such animals are repulsive."
+        },
+        {
+          "number": 43,
+          "text": "Don't defile yourselves by any such crawling animal. Don't make yourselves unclean or defiled by them,"
+        },
+        {
+          "number": 44,
+          "text": "because I am the Lord your God; so dedicate yourselves and be holy, because I am holy. Don't defile yourselves by any animal that crawls along the ground."
+        },
+        {
+          "number": 45,
+          "text": "I am the Lord who led you out of Egypt so that I could be your God. So be holy, because I am holy."
+        },
+        {
+          "number": 46,
+          "text": "These are the regulations about animals, birds, everything that lives in the water, and all animals that crawl along the ground."
+        },
+        {
+          "number": 47,
+          "text": "You must recognize the difference between unclean and clean, between those animals that can be eaten and those that can't.”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "11:11",
+          "text": "“Repulsive”: not only in a sensory way, but also in the sense that they are ceremonially unclean."
+        },
+        {
+          "ref": "11:13",
+          "text": "The identification of the specific birds in the list that follows is uncertain. However, it primarily refers to birds of prey and other birds that eat carrion or unclean animals. In addition the word translated “birds” really means “flying creatures,” which accounts for the inclusion of bats at the end of the list."
+        },
+        {
+          "ref": "11:20",
+          "text": "“Crawl”: literally, “that go on all fours.” However, this does not mean that insects had only four legs when they do in fact have six, it simply refers to the usual way animals move, most having four legs."
+        },
+        {
+          "ref": "11:29",
+          "text": "The identification of the specific animals in the list that follows is uncertain."
+        },
+        {
+          "ref": "11:35",
+          "text": "“Stove”: the word here is only used once in the Old Testament and so its meaning is uncertain. Clearly it is made of something breakable such a pottery."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The Lord told Moses, “Give these instructions to the Israelites."
+        },
+        {
+          "number": 2,
+          "text": "Any woman who becomes pregnant and has a boy, she will be unclean for one week, in the same way that she is unclean during her period."
+        },
+        {
+          "number": 3,
+          "text": "The boy's foreskin must be circumcised on the eighth day."
+        },
+        {
+          "number": 4,
+          "text": "The woman must wait a further thirty-three days for the purification of her bleeding. She is not allowed to touch anything holy, and she is not allowed to enter the sanctuary until her time of purification is finished."
+        },
+        {
+          "number": 5,
+          "text": "If a woman has a daughter, she will be unclean for two weeks, in the same way that she is unclean during her menstrual period. The woman must wait a further sixty-six days for the purification of her blood."
+        },
+        {
+          "number": 6,
+          "text": "Once the time of purification is finished for either a son or a daughter, the woman must bring a year-old lamb as a burnt offering and a young pigeon or turtledove as a purification offering. She is to bring her offerings to the priest at the entrance of the Tent of Meeting."
+        },
+        {
+          "number": 7,
+          "text": "The priest will then present them to the Lord to purify her so she will be clean from her bleeding. These are the regulations for a woman after she's had a son or a daughter."
+        },
+        {
+          "number": 8,
+          "text": "If a woman can't afford to bring a lamb, she is to bring two turtledoves or two young pigeons. One is for the burnt offering and the other for the purification offering. The priest will offer them to purify her, and she will be clean.”"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "number": 13,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The Lord told Moses and Aaron,"
+        },
+        {
+          "number": 2,
+          "text": "“Anyone who has a swelling, a rash, or a spot on the skin that may be an infectious skin disease must be taken to Aaron the priest or to one of his descendants."
+        },
+        {
+          "number": 3,
+          "text": "The priest will inspect whatever is on the skin. If the hair there has turned white and if the issue seems to be more than something on the surface, it is a serious skin disease, and the priest who inspects it will declare the person unclean."
+        },
+        {
+          "number": 4,
+          "text": "But if the spot is only a white discoloration and doesn't seem to be more than superficial, and if the hair on the spot has not turned white, the priest will place the person in isolation for seven days."
+        },
+        {
+          "number": 5,
+          "text": "On the seventh day the priest will conduct another inspection, and if he discovers that the spot hasn't changed and hasn't spread on the skin, the priest must place the person in isolation for another seven days."
+        },
+        {
+          "number": 6,
+          "text": "On the seventh day after this the priest will inspect it again. If the spot has faded and has not spread on the skin, the priest will declare the person clean since it was a rash. They must wash their clothes and will be clean."
+        },
+        {
+          "number": 7,
+          "text": "However, if the rash does spread after the person has been inspected by the priest and has been declared clean, the person must go back to be inspected again."
+        },
+        {
+          "number": 8,
+          "text": "If the priest discovers that the rash has spread, he must declare the person unclean because it is certainly a skin disease."
+        },
+        {
+          "number": 9,
+          "text": "Anyone who develops an infectious skin disease must be taken to the priest."
+        },
+        {
+          "number": 10,
+          "text": "The priest will inspect them, and if there is a white swelling on the skin and the hair there has turned white, and there is an open wound in the swelling,"
+        },
+        {
+          "number": 11,
+          "text": "it is a serious skin disease and the priest must declare them unclean. He doesn't need to place the person in isolation because they are unclean."
+        },
+        {
+          "number": 12,
+          "text": "However, if the skin disease affects all their skin so that it covers their skin from head to toe, everywhere the priest can see,"
+        },
+        {
+          "number": 13,
+          "text": "the priest shall inspect them, and if the disease has covered their entire body, he will declare the person clean. As it has all turned white, they are clean."
+        },
+        {
+          "number": 14,
+          "text": "But if when someone's inspected an open wound is found, they will be unclean."
+        },
+        {
+          "number": 15,
+          "text": "When the priest discovers an open wound, he must declare the person unclean. The open wound is unclean; it is an infectious skin disease."
+        },
+        {
+          "number": 16,
+          "text": "But if the open wound heals and becomes white, the person must go back to the priest."
+        },
+        {
+          "number": 17,
+          "text": "The priest will inspect them again, and if the wound has turned white, the priest is to declare the person clean; then they are clean."
+        },
+        {
+          "number": 18,
+          "text": "When a boil comes up on someone's skin and then it heals,"
+        },
+        {
+          "number": 19,
+          "text": "and a white swelling or a reddish-white spot appears in its place, they must show themselves to the priest."
+        },
+        {
+          "number": 20,
+          "text": "The priest shall inspect it, and if it seems to be more than something on the surface, and if the hair there has turned white, the priest shall declare him unclean. It is a serious skin disease that has infected the boil."
+        },
+        {
+          "number": 21,
+          "text": "However, if when the priest inspects it, it doesn't have white hair in it and doesn't seem to be more than superficial, and has faded, the priest is to place the person in isolation for seven days."
+        },
+        {
+          "number": 22,
+          "text": "If then the spot has spread further on the skin, the priest will declare them unclean; it is a disease."
+        },
+        {
+          "number": 23,
+          "text": "But if the spot stays the same and doesn't spread, it's just the scar from the boil, and the priest will declare them clean."
+        },
+        {
+          "number": 24,
+          "text": "If someone has a burn on their skin and the place where it's raw changes into a reddish-white or white spot,"
+        },
+        {
+          "number": 25,
+          "text": "the priest must inspect it. If the hair in the spot has turned white and the spot seems to be more than something on the surface, it is a serious skin disease that has infected the burn, and the priest who inspects it will declare the person unclean. It is an infectious skin disease."
+        },
+        {
+          "number": 26,
+          "text": "However, if when the priest inspects it, it doesn't have white hair in it and doesn't seem to be more than superficial, and has faded, the priest is to place the person in isolation for seven days."
+        },
+        {
+          "number": 27,
+          "text": "On the seventh day the priest will inspect the person again. If then the spot has spread further on the skin, the priest will declare them unclean; it is a serious skin disease."
+        },
+        {
+          "number": 28,
+          "text": "But if the spot stays the same and hasn't spread on the skin, but has faded, it's the swelling from the burn, and the priest will declare them clean because it's just the scar from the burn."
+        },
+        {
+          "number": 29,
+          "text": "If someone, man or woman, has a sore on the head or chin,"
+        },
+        {
+          "number": 30,
+          "text": "the priest shall inspect it, and if it appears to be more than superficial and the hair in it has become pale and thin, the priest must declare them unclean; it is an infection producing scabs, a serious disease of the head or chin."
+        },
+        {
+          "number": 31,
+          "text": "However, if the priest inspects the scabby infection and it doesn't seem to be more than superficial and has no pale* hair in it, the priest is to place the person in isolation for seven days."
+        },
+        {
+          "number": 32,
+          "text": "On the seventh day the priest will inspect the person again and if the scabby infection has not spread and there is no pale hair in it, and it doesn't seem to be more than superficial,"
+        },
+        {
+          "number": 33,
+          "text": "then the person must shave themselves except for the scaly area. The priest is to place the person in isolation for another seven days."
+        },
+        {
+          "number": 34,
+          "text": "On the seventh day the priest will inspect the scabby infection, and if it has not spread on the skin and doesn't seem to be more than superficial, the priest is to pronounce the person clean. They must wash their clothes and will be clean."
+        },
+        {
+          "number": 35,
+          "text": "However, if the scabby infection has spread on the skin after having been declared clean,"
+        },
+        {
+          "number": 36,
+          "text": "the priest must inspect them, and if the scabby infection has indeed spread on the skin, the priest doesn't need to check for pale hair; the person is unclean."
+        },
+        {
+          "number": 37,
+          "text": "But if the priest sees that the scabby infection hasn't changed, and black hair has grown in it, then it has healed. The person is clean, and the priest must declare it."
+        },
+        {
+          "number": 38,
+          "text": "If someone, man or woman, has white spots on the skin,"
+        },
+        {
+          "number": 39,
+          "text": "the priest shall inspect them, and if the spots appear a dull white, it's just a rash that has developed on the skin; the person is clean."
+        },
+        {
+          "number": 40,
+          "text": "If a man loses his hair and goes bald, he is still clean."
+        },
+        {
+          "number": 41,
+          "text": "If he has a receding hairline and he goes bald on his forehead, he is still clean."
+        },
+        {
+          "number": 42,
+          "text": "But if a reddish-white sore appears on his bald head or forehead, it is an infectious disease developing."
+        },
+        {
+          "number": 43,
+          "text": "The priest must inspect him, and if the swelling of the sore on his bald head or forehead looks reddish-white like a skin disease,"
+        },
+        {
+          "number": 44,
+          "text": "then he has an infectious disease; he is unclean. The priest must declare him unclean because of the infection on his head."
+        },
+        {
+          "number": 45,
+          "text": "Anyone who has such diseases must wear clothes that are torn and let their hair remain uncombed. They must cover their faces* and shout out, ‘Unclean, unclean!’"
+        },
+        {
+          "number": 46,
+          "text": "They remain unclean as long as the infection lasts. They have to live alone somewhere outside the camp."
+        },
+        {
+          "number": 47,
+          "text": "The following regulations relate* to any material that becomes affected by mold,* such as wool or linen clothing,"
+        },
+        {
+          "number": 48,
+          "text": "anything woven or knitted made from linen or wool, or anything made of leather:"
+        },
+        {
+          "number": 49,
+          "text": "If the spot is green or red on the material, whether it's leather, woven, or knitted or some other leather item, then it is infected with mold and must be shown to the priest."
+        },
+        {
+          "number": 50,
+          "text": "The priest must inspect the mold and place the item in isolation for seven days."
+        },
+        {
+          "number": 51,
+          "text": "On the seventh day the priest shall inspect it again, and if the patch of mold has spread in the material, whether it's leather, woven, or knitted or some other leather item, then it is a harmful mold; the article is unclean, whatever it is being used for."
+        },
+        {
+          "number": 52,
+          "text": "The priest is to burn it, whether the affected item is wool or linen or leather. Because the mold is harmful, the article must be burned."
+        },
+        {
+          "number": 53,
+          "text": "However, if when the priest inspects it again, the patch of mold has not spread,"
+        },
+        {
+          "number": 54,
+          "text": "then the priest shall order that the affected item be washed and placed in isolation for another seven days."
+        },
+        {
+          "number": 55,
+          "text": "Once it has been washed, the priest is to inspect it again, and if the item with the mold hasn't changed how it looks, it is unclean. Though the mold hasn't spread, you must burn the item, whether the mold damage is on the inside or the outside."
+        },
+        {
+          "number": 56,
+          "text": "If the priest inspects it and the patch of mold has faded after it has been washed, he is to cut out the affected part of the material, whether it's leather, woven, or knitted."
+        },
+        {
+          "number": 57,
+          "text": "However, if the mold comes back then it is spreading. In that case you must burn the affected item."
+        },
+        {
+          "number": 58,
+          "text": "If the mold disappears after washing, then have it washed again, and it will be clean."
+        },
+        {
+          "number": 59,
+          "text": "These are the regulations regarding what needs to be done when mold contaminates wool or linen material, whether woven or knitted, or any leather item, as to declaring it clean or unclean.”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "13:31",
+          "text": "“Pale”: the Hebrew text reads “black” but this is probably a scribal error."
+        },
+        {
+          "ref": "13:45",
+          "text": "“Faces”: literally, “upper lip.”"
+        },
+        {
+          "ref": "13:47",
+          "text": "“The following regulations relate”: supplied for clarity."
+        },
+        {
+          "ref": "13:47",
+          "text": "“Mold”: the word used is the same as that for the infectious skin disease noted above."
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The Lord told Moses,"
+        },
+        {
+          "number": 2,
+          "text": "“These are the regulations regarding those who have had a skin disease when having been brought to the priest they are declared clean."
+        },
+        {
+          "number": 3,
+          "text": "The priest must go outside the camp and inspect the person. If the skin disease has healed,"
+        },
+        {
+          "number": 4,
+          "text": "the priest shall have two ceremonially clean birds brought to him, with some cedar wood, crimson thread, and hyssop, on behalf of the person to be made clean."
+        },
+        {
+          "number": 5,
+          "text": "The priest will order one of the birds to be killed over a clay pot filled with fresh water."
+        },
+        {
+          "number": 6,
+          "text": "He will take the live bird together with the cedar wood, crimson thread, and hyssop, and dip them in the blood of the bird that was killed over the fresh water."
+        },
+        {
+          "number": 7,
+          "text": "He will use the blood to sprinkle seven times the person being made clean of the skin disease. Then the priest will declare them clean and let the live bird fly away."
+        },
+        {
+          "number": 8,
+          "text": "The one being made clean must wash their clothes, shave off all their hair, and wash themselves with water; then they will be ceremonially clean. After that they can enter the camp, but they must stay outside their tent for seven days."
+        },
+        {
+          "number": 9,
+          "text": "On the seventh day they must shave off all their hair: their head, beard, eyebrows, and the rest of their hair. They must wash their clothes and wash themselves with water, and they will be clean."
+        },
+        {
+          "number": 10,
+          "text": "On the eighth day they are to bring two male lambs and one female lamb, all a year old and without defects; a grain offering consisting of three-tenths of an ephah of the best flour mixed with olive oil, and one ‘log’* of olive oil."
+        },
+        {
+          "number": 11,
+          "text": "The priest who conducts the ceremony will present the person to be made clean to the Lord, along with these offerings, at the entrance to the Tent of Meeting."
+        },
+        {
+          "number": 12,
+          "text": "The priest will take one of the male lambs and present it as a guilt offering, together with the log of olive oil; and he will wave them before the Lord as a wave offering."
+        },
+        {
+          "number": 13,
+          "text": "Then he will kill the lamb near the sanctuary where the sin offering and burnt offering are killed. The sin offering and the guilt offering belong to the priest; they are most holy."
+        },
+        {
+          "number": 14,
+          "text": "The priest will put some of the blood from the guilt offering on their right earlobe, on their right thumb, and on the big toe of their right foot of the person being made clean."
+        },
+        {
+          "number": 15,
+          "text": "The priest will pour some of the log of olive oil into his left palm,"
+        },
+        {
+          "number": 16,
+          "text": "dip his right index finger in it, and using his finger, sprinkle some of the olive oil seven times before the Lord."
+        },
+        {
+          "number": 17,
+          "text": "The priest will then use some of the rest of the olive oil remaining in his palm on the person being made clean, and put it on top of the blood of the guilt offering. This will be on their right earlobe, on their right thumb, and on the big toe of their right foot, on top of the blood of the guilt offering."
+        },
+        {
+          "number": 18,
+          "text": "What is left of the olive oil in his palm, the priest will put on the head of the person being made clean and then make them right before the Lord."
+        },
+        {
+          "number": 19,
+          "text": "The priest will sacrifice the sin offering to make the person right, so that they are now clean from their uncleanness. After that, the priest will kill the burnt offering"
+        },
+        {
+          "number": 20,
+          "text": "and offer it on the altar, together with the grain offering, to make them right, and they will be clean."
+        },
+        {
+          "number": 21,
+          "text": "But those who are poor and can't afford these offerings must bring one male lamb as a guilt offering to be waved to make them right, as well as a tenth of an ephah of the best flour mixed with olive oil for a grain offering, a log of olive oil,"
+        },
+        {
+          "number": 22,
+          "text": "and two turtledoves or two young pigeons, whichever they can afford. One is to be used as a sin offering and the other as a burnt offering."
+        },
+        {
+          "number": 23,
+          "text": "On the eighth day they are to take them to the priest at the entrance to the Tent of Meeting before the Lord so they can be made clean."
+        },
+        {
+          "number": 24,
+          "text": "The priest will take the lamb for the guilt offering, together with the log of olive oil, and wave them as a wave offering before the Lord."
+        },
+        {
+          "number": 25,
+          "text": "After he kills the lamb for the guilt offering, the priest will take some of the blood of the guilt offering and put it on the right earlobe of the one being made clean, on their right thumb, and on the big toe of their right foot."
+        },
+        {
+          "number": 26,
+          "text": "Then the priest will pour some of the olive oil into his left palm"
+        },
+        {
+          "number": 27,
+          "text": "and using his right index finger, will sprinkle some of the oil from his left palm seven times before the Lord."
+        },
+        {
+          "number": 28,
+          "text": "The priest shall also put some of the olive oil in his palm on the right earlobe of the person being made clean, on their right thumb, and on the big toe of their right foot, in the same places as the blood of the guilt offering."
+        },
+        {
+          "number": 29,
+          "text": "What is left of the olive oil in his palm, the priest will put on the head of the person being made clean and then make them right before the Lord."
+        },
+        {
+          "number": 30,
+          "text": "Then they must sacrifice one of the turtledoves or young pigeons, whichever they can afford,"
+        },
+        {
+          "number": 31,
+          "text": "one as a sin offering and the other as a burnt offering, along with the grain offering. This is how the priest will make the person right and clean before the Lord."
+        },
+        {
+          "number": 32,
+          "text": "These are the regulations for those who have a skin disease and can't afford the usual offerings to make people clean.”"
+        },
+        {
+          "number": 33,
+          "text": "Then the Lord told Moses and Aaron,"
+        },
+        {
+          "number": 34,
+          "text": "“When you get to Canaan, the land I'm giving you to own, if I put* some mold into a house there and contaminate it,"
+        },
+        {
+          "number": 35,
+          "text": "the owner of the house must come and tell the priest, ‘It seems my house has something like mold.’"
+        },
+        {
+          "number": 36,
+          "text": "The priest must order the house to be emptied before he goes in to inspect the mold, so that nothing in the house will be declared unclean. Once that's done, the priest is to go in and inspect the house."
+        },
+        {
+          "number": 37,
+          "text": "He will examine the house and see if the mold on the walls is made up of green or red indentations that go under the surface,"
+        },
+        {
+          "number": 38,
+          "text": "the priest shall go out of the door and seal the house for seven days."
+        },
+        {
+          "number": 39,
+          "text": "On the seventh day the priest will return and inspect the house again. If the mold has spread on the walls,"
+        },
+        {
+          "number": 40,
+          "text": "he will order the affected stones to be removed and disposed of in an unclean area outside the town."
+        },
+        {
+          "number": 41,
+          "text": "Then he will order all the plaster inside of the house to be scraped off and dumped in an unclean area outside the town."
+        },
+        {
+          "number": 42,
+          "text": "Different stones must be used to replace the ones removed, and new plaster will be needed to replaster the house."
+        },
+        {
+          "number": 43,
+          "text": "If the mold returns and affects the house again even after the stones have been removed and the house has been scraped and replastered,"
+        },
+        {
+          "number": 44,
+          "text": "the priest must come and inspect it. If he sees the mold has spread in the house, it is a harmful mold; the house is unclean."
+        },
+        {
+          "number": 45,
+          "text": "It must be demolished, and all its stones, timbers, and plaster must be taken and dumped in an unclean area outside the town."
+        },
+        {
+          "number": 46,
+          "text": "Anyone who goes into the house during any time that it is sealed will be unclean until the evening."
+        },
+        {
+          "number": 47,
+          "text": "Anyone who sleeps or eats in the house must wash their clothes."
+        },
+        {
+          "number": 48,
+          "text": "However, if when the priest comes and inspects it and finds that the mold hasn't reappeared after the house was replastered, he shall declare the house clean because the mold is gone."
+        },
+        {
+          "number": 49,
+          "text": "He will bring two birds, cedar wood, crimson thread, and hyssop to make the house clean."
+        },
+        {
+          "number": 50,
+          "text": "He will kill one of the birds over a clay pot filled with fresh water."
+        },
+        {
+          "number": 51,
+          "text": "He will dip the live bird, the cedar wood, crimson thread, and hyssop, in the blood of the bird that was killed and the fresh water, and sprinkle the house seven times."
+        },
+        {
+          "number": 52,
+          "text": "He will make the house clean with the bird's blood, the fresh water, the live bird, the cedar wood, the hyssop, and the crimson thread."
+        },
+        {
+          "number": 53,
+          "text": "Then he will let the live bird fly away outside the town. This is how he will make the house right, and it will be clean."
+        },
+        {
+          "number": 54,
+          "text": "These are the regulations for any infectious skin disease, for a scabby infection,"
+        },
+        {
+          "number": 55,
+          "text": "for mold on clothing and in a house,"
+        },
+        {
+          "number": 56,
+          "text": "as well as for a swelling, rash, or spot."
+        },
+        {
+          "number": 57,
+          "text": "They are used to decide whether something is clean or unclean. These are the regulations regarding skin diseases and mold.”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "14:10",
+          "text": "“Log” is a liquid measure, a little less than a pint."
+        },
+        {
+          "ref": "14:34",
+          "text": "This is another example of the Lord being “credited” for a situation because he is the all-powerful God in charge of the universe. It does not necessarily mean that God directly acts in this way."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The Lord told Moses and Aaron,"
+        },
+        {
+          "number": 2,
+          "text": "“Tell the Israelites, When any man has a discharge from his genitals, the discharge is unclean."
+        },
+        {
+          "number": 3,
+          "text": "The uncleanness comes from his discharge, whether his body allows it to flow out or blocks it. It makes him unclean."
+        },
+        {
+          "number": 4,
+          "text": "Any bed the man with the discharge lies on will be unclean, and anything he sits on will be unclean."
+        },
+        {
+          "number": 5,
+          "text": "Anyone who touches his bed has to wash their clothes, and wash themselves with water, and they will be unclean until the evening."
+        },
+        {
+          "number": 6,
+          "text": "Anyone who sits on whatever the man was sitting on has to wash their clothes, and wash themselves with water, and they will be unclean until the evening."
+        },
+        {
+          "number": 7,
+          "text": "Anyone who touches the man's body has to wash their clothes, and wash themselves with water, and they will be unclean until the evening."
+        },
+        {
+          "number": 8,
+          "text": "If the man with the discharge spits on anyone who is clean, they have to wash their clothes, and wash themselves with water, and they will be unclean until the evening."
+        },
+        {
+          "number": 9,
+          "text": "Whatever the man sits on when he's riding will be unclean."
+        },
+        {
+          "number": 10,
+          "text": "Anyone who touches whatever was under him will be unclean until the evening. Anyone who picks these things up has to wash their clothes, and wash themselves with water, and they will be unclean until the evening."
+        },
+        {
+          "number": 11,
+          "text": "If the man with the discharge touches anyone without washing his hands with water first, the person who was touched has to wash their clothes, and wash themselves with water, and they will be unclean until the evening."
+        },
+        {
+          "number": 12,
+          "text": "Any clay item touched by the man must be broken, and any wooden item must be washed with water."
+        },
+        {
+          "number": 13,
+          "text": "Once the discharge has healed, the man must allocate seven days for his cleaning process, wash his clothes, and wash himself in fresh water, and he will be clean."
+        },
+        {
+          "number": 14,
+          "text": "On the eighth day he must take two turtledoves or two young pigeons, come before the Lord at the entrance to the Tent of Meeting, and give them to the priest."
+        },
+        {
+          "number": 15,
+          "text": "The priest will sacrifice them, one as a sin offering and the other as a burnt offering. This is how the priest will make the man right before the Lord because of his discharge."
+        },
+        {
+          "number": 16,
+          "text": "When a man has a release of semen, he must wash his whole body with water, and he will be unclean until the evening."
+        },
+        {
+          "number": 17,
+          "text": "Any clothing or leather that the release of semen falls on must be washed with water, and it will remain unclean until the evening."
+        },
+        {
+          "number": 18,
+          "text": "If a man sleeps with a woman and there is a release of semen, both of them must wash with water, and they will remain unclean until the evening."
+        },
+        {
+          "number": 19,
+          "text": "When a woman has a discharge of blood from her body, she will be unclean because of her period for seven days, and anyone who touches her will be unclean until the evening."
+        },
+        {
+          "number": 20,
+          "text": "Anything she lies or sits on during her period will be unclean,"
+        },
+        {
+          "number": 21,
+          "text": "and anyone who touches her bed must wash their clothes and wash themselves with water, and will be unclean until the evening."
+        },
+        {
+          "number": 22,
+          "text": "Anyone who touches what she was sitting on has to wash their clothes, and wash themselves with water, and they will be unclean until the evening."
+        },
+        {
+          "number": 23,
+          "text": "Whether it's a bed or something she was sitting on, anyone who touches it will be unclean until the evening."
+        },
+        {
+          "number": 24,
+          "text": "If a man sleeps with her and the blood from her period touches him, he will be unclean for seven days, and any bed he lies on will be unclean."
+        },
+        {
+          "number": 25,
+          "text": "When a woman has a discharge of blood for several days when it's not the time for her period, or if it continues past her period, she will be unclean for the whole time she is bleeding, not just for the days of her period."
+        },
+        {
+          "number": 26,
+          "text": "Any bed she lies on or anything she sits on while she has her discharge will be unclean, just as her bed is during her period."
+        },
+        {
+          "number": 27,
+          "text": "Anyone who touches them has to wash their clothes, and wash themselves with water, and they will be unclean until the evening."
+        },
+        {
+          "number": 28,
+          "text": "Once the woman's discharge has healed, she must allocate seven days for her cleaning process, wash her clothes, and wash herself in fresh water, and she shall be clean."
+        },
+        {
+          "number": 29,
+          "text": "On the eighth day she must take two turtledoves or two young pigeons, come before the Lord at the entrance to the Tent of Meeting, and give them to the priest."
+        },
+        {
+          "number": 30,
+          "text": "The priest will sacrifice them, one as a sin offering and the other as a burnt offering. This is how the priest will make her right before the Lord because of her discharge."
+        },
+        {
+          "number": 31,
+          "text": "This is how you must stop the Israelites from becoming ceremonially unclean, so that they don't die by making my Tabernacle unclean, the place where I live with them."
+        },
+        {
+          "number": 32,
+          "text": "These are the regulations regarding a man who has a discharge, a man who has a release of semen that makes him unclean,"
+        },
+        {
+          "number": 33,
+          "text": "a woman during her period, any male or female who has a discharge, and a man who sleeps with an unclean woman.”"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "number": 16,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The Lord spoke to Moses after the death of two of Aaron's sons when they went into the Lord's presence."
+        },
+        {
+          "number": 2,
+          "text": "The Lord told Moses: “Warn your brother Aaron not to come into the Most Holy Place whenever he wants, otherwise he'll die. For that's where I appear in the cloud above the atonement cover of the Ark, behind the veil."
+        },
+        {
+          "number": 3,
+          "text": "These are the instructions as to how Aaron is to enter the sanctuary. He is to come with a young bull for a sin offering and a ram for a burnt offering."
+        },
+        {
+          "number": 4,
+          "text": "He is to be wearing the holy linen tunic, with linen underwear. He has to tie a linen sash around him and put on the linen turban. These are holy clothes. He must wash himself with water before he puts them on."
+        },
+        {
+          "number": 5,
+          "text": "From the people of Israel he is to bring two male goats for a sin offering, and a ram for a burnt offering."
+        },
+        {
+          "number": 6,
+          "text": "Aaron will present the bull as his own sin offering to make himself and his household right."
+        },
+        {
+          "number": 7,
+          "text": "Then he will bring the two goats and present them before the Lord at the entrance to the Tent of Meeting."
+        },
+        {
+          "number": 8,
+          "text": "Aaron will cast lots to choose between the goats, one for the Lord and the other for the scapegoat."
+        },
+        {
+          "number": 9,
+          "text": "He will present the goat that was chosen by lot for the Lord and sacrifice it as a sin offering."
+        },
+        {
+          "number": 10,
+          "text": "The goat chosen by lot as the scapegoat is to be presented alive before the Lord to make things right by sending it away into the wilderness as the scapegoat."
+        },
+        {
+          "number": 11,
+          "text": "Aaron is to present the bull for his sin offering to make things right for himself and his household by killing the bull as his own sin offering."
+        },
+        {
+          "number": 12,
+          "text": "Then he will fill up an incense burner with burning coals from the altar that is before the Lord, and with his hands full of finely ground sweet-smelling incense, take them behind the veil."
+        },
+        {
+          "number": 13,
+          "text": "In the presence of the Lord he will put the incense on the burning coals, and the smoke from the incense will cover the atonement cover above the Testimony,* so that he will not die."
+        },
+        {
+          "number": 14,
+          "text": "He will take some of the bull's blood and with his finger sprinkle it on the east side of the atonement cover. He shall also sprinkle some of it with his finger seven times in front of the atonement cover."
+        },
+        {
+          "number": 15,
+          "text": "Then Aaron will slaughter the goat for the sin offering for the people and bring its blood behind the veil, and with its blood he must do as he did with the bull's blood. He is to sprinkle it against the atonement cover and in front of it."
+        },
+        {
+          "number": 16,
+          "text": "This is how he will set right the Most Holy Place and purify it from the uncleanness of the Israelites, their acts of rebellion, and all their sins. He will do the same for the Tent of Meeting which is in the middle of their camp, surrounded by their unclean lives."
+        },
+        {
+          "number": 17,
+          "text": "No one can be in the Tent of Meeting from the time Aaron enters to purify the Most Holy Place until he leaves, after he has made things right for himself, his household, and all the Israelites."
+        },
+        {
+          "number": 18,
+          "text": "Then he shall go to the altar that is before the Lord and purify it. He is to take some of the blood from the bull and the goat and put it on all the horns of the altar."
+        },
+        {
+          "number": 19,
+          "text": "He is to sprinkle some of the blood on it with his finger seven times to dedicate it and purify it from the uncleanness of the Israelites."
+        },
+        {
+          "number": 20,
+          "text": "Once Aaron has finished purifying the Most Holy Place, the Tent of Meeting, and the altar, he is to present the live goat."
+        },
+        {
+          "number": 21,
+          "text": "Then he will put both hands on the head of the live goat and confess over it all the wrongs of the Israelites, all their acts of rebellion, and all their sins. He is to put them on the goat's head and send it away into the desert, taken there by a man chosen to do it."
+        },
+        {
+          "number": 22,
+          "text": "The goat will take upon itself all their sins and go into a distant place, and the man will send it away into the desert."
+        },
+        {
+          "number": 23,
+          "text": "Aaron is to return to the Tent of Meeting, take off the linen clothes he put on before he went into the Most Holy Place, and leave them there."
+        },
+        {
+          "number": 24,
+          "text": "He is to wash himself with water in the sanctuary and put on his own clothes. Then he will go out and sacrifice his burnt offering and the people's burnt offering that makes him and the people right."
+        },
+        {
+          "number": 25,
+          "text": "He also must burn the fat of the sin offering on the altar."
+        },
+        {
+          "number": 26,
+          "text": "The man who went and sent away the scapegoat must wash his clothes and wash himself with water; then he may come back into the camp."
+        },
+        {
+          "number": 27,
+          "text": "The remains of the bull used for the sin offering and the goat for the sin offering, whose blood was brought into the Most Holy Place to purify it, must be taken outside the camp. Their skin, meat, and waste must be burned."
+        },
+        {
+          "number": 28,
+          "text": "The person who burns them must wash his clothes and wash himself with water; then he may come back into the camp."
+        },
+        {
+          "number": 29,
+          "text": "This regulation applies to you for all time. The tenth day of the seventh month is a day of self-denial for you. You are not to do any work. This applies to all who are native-born and also any foreigner living among you,"
+        },
+        {
+          "number": 30,
+          "text": "for on this day the process of making you right will be done, to make you clean from all your sins, clean before the Lord."
+        },
+        {
+          "number": 31,
+          "text": "It is a Sabbath of Sabbaths, a day of rest and self-denial. This regulation applies for all time."
+        },
+        {
+          "number": 32,
+          "text": "The priest who is anointed and dedicated to succeed his father as high priest shall carry out the ceremony of making things right, and put on the holy linen clothes."
+        },
+        {
+          "number": 33,
+          "text": "He will carry out the purification of the Most Holy Place, the Tent of Meeting, and the altar, also making right the priests and all the people."
+        },
+        {
+          "number": 34,
+          "text": "This regulation applies to you for all time: once a year the Israelites have all their sins made right.” Moses did everything as the Lord had ordered."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "16:13",
+          "text": "The “Testimony” refers to the two tablets of the Ten Commandments within the Ark."
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The Lord told Moses,"
+        },
+        {
+          "number": 2,
+          "text": "“Tell Aaron, his sons, and all the Israelites that this is what the Lord commands:"
+        },
+        {
+          "number": 3,
+          "text": "Any Israelite who kills a bull, a lamb, or a goat, whether inside the camp or outside of it,"
+        },
+        {
+          "number": 4,
+          "text": "instead of bringing it to the entrance to the Tent of Meeting to present it as an offering to the Lord there, that person shall be held guilty of illegal killing.* They have shed blood and must be expelled from their people."
+        },
+        {
+          "number": 5,
+          "text": "This is why the Israelites have to bring to the Lord the sacrifices they currently offer out in the fields. They must bring them to the priest at the entrance to the Tent of Meeting and offer them as peace offerings to the Lord."
+        },
+        {
+          "number": 6,
+          "text": "The priest will sprinkle the blood on the altar of the Lord at the entrance to the Tent of Meeting, and burn the fat to be accepted by the Lord."
+        },
+        {
+          "number": 7,
+          "text": "They must not continue to offer their sacrifices to the goat devils* with whom they have acted like prostitutes. This is a regulation for all time and for all future generations."
+        },
+        {
+          "number": 8,
+          "text": "Warn them that any Israelite or any foreigner living among them who offers a burnt offering or a sacrifice"
+        },
+        {
+          "number": 9,
+          "text": "without bringing it to the entrance to the Tent of Meeting to sacrifice it to the Lord must be expelled from their people."
+        },
+        {
+          "number": 10,
+          "text": "I will disown any Israelite or any foreigner living among them who eats any blood and I will expel them from their people."
+        },
+        {
+          "number": 11,
+          "text": "Life is in the body's blood. I have given it to you so that by putting it on the altar your lives can be made right, for it is the lifeblood that makes people's lives right."
+        },
+        {
+          "number": 12,
+          "text": "That's why I'm warning the Israelites: None of you is allowed to eat blood, and no foreigner living among you is allowed to eat blood."
+        },
+        {
+          "number": 13,
+          "text": "Any Israelite or foreigner living among them who hunts and kills a wild animal or a bird which are allowed be eaten must drain the blood from its body and cover it with earth,"
+        },
+        {
+          "number": 14,
+          "text": "for life is in the body's blood. That's why I have warned the Israelites: You are not allowed to eat the blood of anything living, for life is in the body's blood. Anyone who eats it must be expelled."
+        },
+        {
+          "number": 15,
+          "text": "Anyone, Israelite or foreigner, who eats anything found dead or killed by wild animals must wash their clothes and wash with water, and they will be unclean until the evening. Then they will be clean."
+        },
+        {
+          "number": 16,
+          "text": "But if they don't wash their clothes and wash themselves with water, then they bear responsibility for their guilt.”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "17:4",
+          "text": "“Illegal killing”: literally simply “blood,” the idea of bloodguilt being implied."
+        },
+        {
+          "ref": "17:7",
+          "text": "Clearly some form of pagan worship."
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The Lord told Moses,"
+        },
+        {
+          "number": 2,
+          "text": "“Tell the Israelites: I am the Lord your God."
+        },
+        {
+          "number": 3,
+          "text": "Don't follow the ways of Egypt where you used to live, and don't follow the ways of Canaan where I'm going to take you. Don't adopt their practices."
+        },
+        {
+          "number": 4,
+          "text": "Do what I tell you and keep my rules. I am the Lord your God."
+        },
+        {
+          "number": 5,
+          "text": "If you keep my rules and do what I tell you, you will live. I am the Lord."
+        },
+        {
+          "number": 6,
+          "text": "Don't have sex with a close relative."
+        },
+        {
+          "number": 7,
+          "text": "Don't shame your father by having sex with your mother. She is your mother; don't have sex with her."
+        },
+        {
+          "number": 8,
+          "text": "Don't have sex with any of your father's wives and shame your father."
+        },
+        {
+          "number": 9,
+          "text": "Don't have sex with your sister,* whether she's your father's daughter or your mother's daughter, or whether she was born in the same house as you or somewhere else."
+        },
+        {
+          "number": 10,
+          "text": "Don't have sex with your granddaughter, your son's daughter or your daughter's daughter, because that would be a shameful thing for you."
+        },
+        {
+          "number": 11,
+          "text": "Don't have sex with the daughter of any of your father's wives or the daughter of your father. She is your sister."
+        },
+        {
+          "number": 12,
+          "text": "Don't have sex with your father's sister. She is a close relative of your father."
+        },
+        {
+          "number": 13,
+          "text": "Don't have sex with your mother's sister. She is a close relative of your mother."
+        },
+        {
+          "number": 14,
+          "text": "Don't bring shame on your uncle by having sex with his wife. She is your aunt."
+        },
+        {
+          "number": 15,
+          "text": "Don't have sex with your daughter-in-law. She is your son's wife. Don't have sex with her."
+        },
+        {
+          "number": 16,
+          "text": "Don't have sex with your brother's wife and bring shame on your brother."
+        },
+        {
+          "number": 17,
+          "text": "Don't have sex with both a woman and her daughter. Don't have sex with her son's daughter or her daughter's daughter. They are her close relatives. That is something I loathe."
+        },
+        {
+          "number": 18,
+          "text": "Don't marry your wife's sister and have sex with her while your wife is still alive. They will be hostile wives to one other."
+        },
+        {
+          "number": 19,
+          "text": "Don't have sex with a woman during the time she is unclean because of her period."
+        },
+        {
+          "number": 20,
+          "text": "Don't commit any sex act with any other man's wife. This would pollute you and make you unclean."
+        },
+        {
+          "number": 21,
+          "text": "Don't give any of your children as a human sacrifice to Molech,* for you must not disgrace the character of your God. I am the Lord."
+        },
+        {
+          "number": 22,
+          "text": "Don't have sex with a man as with a woman. That is something disgusting."
+        },
+        {
+          "number": 23,
+          "text": "Don't have sex with any animal. This would pollute you and make you unclean."
+        },
+        {
+          "number": 24,
+          "text": "A woman must not give herself to an animal to have sex with it. That is something disgusting. Don't pollute yourselves and make yourselves unclean by doing anything like this. That's the reason I'm expelling these nations from the land—they polluted themselves because of all these practices."
+        },
+        {
+          "number": 25,
+          "text": "Even the land has become polluted, so I am punishing it for the sins committed by the people who live there, and the land will vomit them out."
+        },
+        {
+          "number": 26,
+          "text": "You, however, must do what I tell you and keep my rules. You must not do any of these disgusting acts, whether an Israelite or a foreigner living among you."
+        },
+        {
+          "number": 27,
+          "text": "The people who lived in the land before you practiced all these disgusting things, and the land became polluted."
+        },
+        {
+          "number": 28,
+          "text": "If you pollute the land, it will vomit you out just like it did the nations before you."
+        },
+        {
+          "number": 29,
+          "text": "Consequently anyone who does any of these disgusting things must be expelled from their people."
+        },
+        {
+          "number": 30,
+          "text": "You must accept my demand that you don't follow any of these disgusting practices done before you arrived. Don't pollute yourselves and make yourselves unclean. I am the Lord your God.”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "18:9",
+          "text": "This clearly includes a half-sister or a step-sister."
+        },
+        {
+          "ref": "18:21",
+          "text": "Molech was a pagan god. The sacrifices were of children placed alive into the metal idols hands which had been heated with fire."
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The Lord told Moses,"
+        },
+        {
+          "number": 2,
+          "text": "“Tell all the Israelites: You must be holy because I am holy; I am the Lord your God."
+        },
+        {
+          "number": 3,
+          "text": "Show respect for your mother and father, and keep my Sabbaths. I am the Lord your God."
+        },
+        {
+          "number": 4,
+          "text": "Don't turn to idols for help or make metal images of gods. I am the Lord your God."
+        },
+        {
+          "number": 5,
+          "text": "When you sacrifice a peace offering to the Lord, make sure you do it correctly so God will accept you."
+        },
+        {
+          "number": 6,
+          "text": "It needs to be eaten the day you sacrifice it, or the next day. Whatever is left over on the third day must be burned."
+        },
+        {
+          "number": 7,
+          "text": "If you do eat some of it on the third day, the sacrifice becomes repulsive and won't be accepted."
+        },
+        {
+          "number": 8,
+          "text": "Anyone who eats it will bear responsibility for their guilt, for they have made unclean what is holy to the Lord. They must be expelled from their people."
+        },
+        {
+          "number": 9,
+          "text": "When you harvest the crops grown on your land, don't harvest right up to the edges of your field, or collect what has been missed."
+        },
+        {
+          "number": 10,
+          "text": "Don't take every last grape from your vineyard or pick up the ones that have fallen. Leave them for the poor people and foreigners. I am the Lord your God."
+        },
+        {
+          "number": 11,
+          "text": "Don't steal. Don't lie. Don't deceive each other."
+        },
+        {
+          "number": 12,
+          "text": "Don't swear oaths in my name that are not true, otherwise you defame the character* of your God. I am the Lord."
+        },
+        {
+          "number": 13,
+          "text": "Don't cheat others or rob them. Don't refuse to pay wages due to workers until the morning."
+        },
+        {
+          "number": 14,
+          "text": "Don't speak badly about deaf people. Don't put objects in the way of blind people to trip them up. Instead show respect to your God. I am the Lord."
+        },
+        {
+          "number": 15,
+          "text": "Don't be a corrupt judge. Don't show favoritism to the poor or to the rich. Judge others fairly."
+        },
+        {
+          "number": 16,
+          "text": "Don't go around spreading false rumors about people. Don't keep quiet when the lives of others are at risk.* I am the Lord."
+        },
+        {
+          "number": 17,
+          "text": "Don't hold onto hateful feelings towards others. Talk honestly with your neighbors, so that you don't sin because of them."
+        },
+        {
+          "number": 18,
+          "text": "Don't look for revenge or hold a grudge against anybody, but love your neighbor as yourself. I am the Lord."
+        },
+        {
+          "number": 19,
+          "text": "Do what I tell you! Don't make different kinds of livestock breed together. Don't sow your fields with two different kinds of seed. Don't wear clothes made of two different kinds of material."
+        },
+        {
+          "number": 20,
+          "text": "If a man has sex with a servant girl promised to become another man's wife, but who hasn't yet been bought or set free, then compensation has to be paid. However, they are not to be killed, because she hadn't been set free."
+        },
+        {
+          "number": 21,
+          "text": "But the man must bring a ram as his guilt offering to the Lord at the entrance of the Tent of Meeting."
+        },
+        {
+          "number": 22,
+          "text": "The priest will set things right for him before the Lord using the ram of the guilt offering for the sin he has committed, and his sin will be forgiven."
+        },
+        {
+          "number": 23,
+          "text": "When you enter the land and plant any kind of fruit tree, treat the fruit at first as unclean.* For three years you are forbidden to eat it."
+        },
+        {
+          "number": 24,
+          "text": "The fourth year all the fruit must be dedicated to the Lord as a praise offering."
+        },
+        {
+          "number": 25,
+          "text": "However, the fifth year you may eat the fruit and in this way you will have an even greater harvest. I am the Lord your God."
+        },
+        {
+          "number": 26,
+          "text": "Don't eat meat with blood in it. Don't use fortune-telling or witchcraft."
+        },
+        {
+          "number": 27,
+          "text": "Don't cut your hair on the sides of your head or trim the sides of your beard,*"
+        },
+        {
+          "number": 28,
+          "text": "don't cut your bodies in some pagan ritual for the dead, and don't get yourselves tattoos. I am the Lord."
+        },
+        {
+          "number": 29,
+          "text": "Don't bring shame on your daughter by making her a prostitute, otherwise the land will become morally and spiritually depraved."
+        },
+        {
+          "number": 30,
+          "text": "Keep my Sabbaths and show respect for my sanctuary. I am the Lord."
+        },
+        {
+          "number": 31,
+          "text": "Don't try and find help from mediums or spiritists—don't even go looking for them, otherwise they will corrupt you. I am the Lord your God."
+        },
+        {
+          "number": 32,
+          "text": "Stand up and be respectful of older people. Show reverence for your God. I am the Lord."
+        },
+        {
+          "number": 33,
+          "text": "Don't mistreat foreigners who live in your country."
+        },
+        {
+          "number": 34,
+          "text": "Treat them in the same way as a fellow citizen, and love them as you love yourself, because you were once foreigners living in Egypt. I am the Lord your God."
+        },
+        {
+          "number": 35,
+          "text": "Don't use dishonest weights and measures."
+        },
+        {
+          "number": 36,
+          "text": "Make sure your scales and weights are accurate, that your measures of ephah and hin are correct. I am the Lord your God who led you out of Egypt."
+        },
+        {
+          "number": 37,
+          "text": "Keep all my rules and regulations, and make sure you follow them. I am the Lord.”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "19:12",
+          "text": "Literally, “name.” Throughout Scripture “name” is related to aspects of character."
+        },
+        {
+          "ref": "19:16",
+          "text": "Literally, “don't stand still on the blood of your neighbor.”"
+        },
+        {
+          "ref": "19:23",
+          "text": "“Unclean”: literally, “uncircumcised.”"
+        },
+        {
+          "ref": "19:27",
+          "text": "It is thought that this prohibition is associated with the next regarding some pagan ceremony."
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The Lord told Moses,"
+        },
+        {
+          "number": 2,
+          "text": "“Tell the Israelites: These regulations are for both Israelites and foreigners living among them. Anyone who sacrifices their children to Molech must be executed. The community must stone them to death."
+        },
+        {
+          "number": 3,
+          "text": "I will disown them and expel them from their people, because by sacrificing their children to Molech they have polluted my sanctuary and disgraced my reputation."
+        },
+        {
+          "number": 4,
+          "text": "If the community decides to look the other way and not execute those who sacrifice their children to Molech, then I will take action against them myself.*"
+        },
+        {
+          "number": 5,
+          "text": "I will disown them and their family, and expel them from their people—and not just them, but everyone who follows them in spiritually prostituting themselves with Molech."
+        },
+        {
+          "number": 6,
+          "text": "I will also disown and expel from their people anyone who goes to mediums or spiritists and in this way commits spiritual prostitution with them."
+        },
+        {
+          "number": 7,
+          "text": "So dedicate yourselves and be holy, because I am the Lord your God."
+        },
+        {
+          "number": 8,
+          "text": "Keep my rules and put them into practice. I am the Lord who makes you holy."
+        },
+        {
+          "number": 9,
+          "text": "Anyone who curses their father or mother must be executed. They have cursed their father or mother; they bear the responsibility for their punishment.*"
+        },
+        {
+          "number": 10,
+          "text": "Any man who commits adultery with someone else's wife must be executed, as well as the woman."
+        },
+        {
+          "number": 11,
+          "text": "A man who has sex with his father's wife has brought shame on his father. Both the man and the woman must be executed. Both must surely be put to death; they bear the responsibility for their punishment."
+        },
+        {
+          "number": 12,
+          "text": "A man who has sex with his daughter-in-law must be executed, as well as the woman. They have done something perverse; they bear the responsibility for their punishment."
+        },
+        {
+          "number": 13,
+          "text": "Men who have sex with other men as with a woman have done something disgusting. They must be executed; they bear the responsibility for their punishment."
+        },
+        {
+          "number": 14,
+          "text": "A man who marries both a woman and her mother has acted perversely. They must all be burned to death so that there will be no such wickedness among you."
+        },
+        {
+          "number": 15,
+          "text": "A man who has sex with an animal must be executed, and the animal must be killed too."
+        },
+        {
+          "number": 16,
+          "text": "A woman who gives herself to an animal to have sex with it must be executed, along with the animal. They must both be killed; they bear the responsibility for their punishment."
+        },
+        {
+          "number": 17,
+          "text": "A man who marries his sister, whether she's his father's daughter or his mother's daughter, and they have sex, has done something shameful. They must be expelled from their people in front of everybody. He has brought shame on his sister; he bears the responsibility for his punishment."
+        },
+        {
+          "number": 18,
+          "text": "A man who has sex with a woman having her period has exposed where her blood flow comes from, and she has too. They must both be expelled from their people."
+        },
+        {
+          "number": 19,
+          "text": "Don't have sex with your aunt, whether on your father's or your mother's side, because it brings shame on your own family. Both will bear responsibility for their sin."
+        },
+        {
+          "number": 20,
+          "text": "A man who has sex with his uncle's wife brings shame on his uncle. They will bear responsibility for their sin; they shall die without having children."
+        },
+        {
+          "number": 21,
+          "text": "A man who marries his brother's wife does something that is unclean. He has brought shame on his brother; the couple will have no children."
+        },
+        {
+          "number": 22,
+          "text": "So keep all my rules and regulations, so that the land where I'm taking you to live won't vomit you out."
+        },
+        {
+          "number": 23,
+          "text": "Don't follow the practices of the nations I'm expelling for you. I detested them because they did all these evil things."
+        },
+        {
+          "number": 24,
+          "text": "But I have promised you that you will take over their land. I'm going to give it to you to own, a land that flows with milk and honey. I am the Lord your God, who has made you a distinctive people different from all others."
+        },
+        {
+          "number": 25,
+          "text": "So make sure you observe the difference between clean and unclean animals and birds. Don't make yourselves unclean because of any animal or bird, or by anything that runs along the ground. I have made the difference clear: they are unclean for you."
+        },
+        {
+          "number": 26,
+          "text": "You shall be holy to me because I am holy. I am the Lord, and I have made you a distinctive people different from all other nations. You belong to me."
+        },
+        {
+          "number": 27,
+          "text": "Anyone, man or woman, who is a medium or a spiritist must be executed. They are to be stoned to death; they bear the responsibility for their punishment.”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "20:4",
+          "text": "“I will take action against them myself”: supplied for clarity."
+        },
+        {
+          "ref": "20:9",
+          "text": "“They bear the responsibility for their punishment”: literally, “his blood is on him.”"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The Lord told Moses, “Tell Aaron's sons, the priests: A priest is not to make himself unclean by touching the dead body of any of his relatives."
+        },
+        {
+          "number": 2,
+          "text": "The only exceptions are for his immediate family. This includes his mother, father, son, daughter, or brother,"
+        },
+        {
+          "number": 3,
+          "text": "or his unmarried sister since she is a close relative because she doesn't have a husband."
+        },
+        {
+          "number": 4,
+          "text": "He must not make himself unclean for those only related to him by marriage—he is not to make himself ceremonially impure."
+        },
+        {
+          "number": 5,
+          "text": "Priests are not to shave bald spots on their heads, trim the sides of their beards, or cut their bodies.*"
+        },
+        {
+          "number": 6,
+          "text": "They must be holy to their God and not disgrace their God's reputation. They are the ones who present the food offerings to the Lord, the food of their God. Consequently they must be holy."
+        },
+        {
+          "number": 7,
+          "text": "A priest is not to marry a woman made unclean through prostitution* or who is divorced by her husband, for the priest must be holy to his God."
+        },
+        {
+          "number": 8,
+          "text": "You shall consider him holy because he presents the food offerings to your God. He shall be holy to you, because I am holy. I am the Lord, and I chose you as my special people.*"
+        },
+        {
+          "number": 9,
+          "text": "A priest's daughter who makes herself unclean through prostitution makes her father unclean. She must be executed by burning."
+        },
+        {
+          "number": 10,
+          "text": "The high priest has the highest place among the other priests. He has been anointed with olive oil poured on his head and has been ordained to wear the priestly clothing. He must not leave his hair uncombed or tear his clothes.*"
+        },
+        {
+          "number": 11,
+          "text": "He is not to go near any dead body. He must not make himself unclean, even if it is for his own father or mother."
+        },
+        {
+          "number": 12,
+          "text": "He must not leave to deal with someone who has died* or make the sanctuary of his God unclean because he has been dedicated by the anointing oil of his God. I am the Lord."
+        },
+        {
+          "number": 13,
+          "text": "He can only marry a virgin."
+        },
+        {
+          "number": 14,
+          "text": "He must not marry a widow, a divorced woman, or one made unclean through prostitution. He has to marry a virgin from his own people,"
+        },
+        {
+          "number": 15,
+          "text": "so that he doesn't make his children unclean among his people,* for I am the Lord who makes him holy.”"
+        },
+        {
+          "number": 16,
+          "text": "The Lord told Moses,"
+        },
+        {
+          "number": 17,
+          "text": "“Tell Aaron: These rules apply for all future generations. If any of your descendants has a physical defect, he is not allowed to come and present the food offerings of his God."
+        },
+        {
+          "number": 18,
+          "text": "No man is allowed to do this if he has any defects, including anyone who is blind, crippled, facially disfigured, or has deformities,"
+        },
+        {
+          "number": 19,
+          "text": "anyone who has a broken foot or arm,"
+        },
+        {
+          "number": 20,
+          "text": "anyone who is a hunchback or dwarf, or who has cataracts, skin sores or scabs, or a damaged testicle."
+        },
+        {
+          "number": 21,
+          "text": "No descendant of Aaron the priest who has a defect is allowed to come and present the food offerings to the Lord. Because he has a defect, he must not come and offer the food of his God."
+        },
+        {
+          "number": 22,
+          "text": "He is still allowed to eat the food from the Most Holy Place of his God and also from the sanctuary,"
+        },
+        {
+          "number": 23,
+          "text": "but because he has a defect, he is not allowed to go near the curtain or the altar, so that my sanctuary and everything in it* are not made unclean, because I am the Lord who makes them holy.”"
+        },
+        {
+          "number": 24,
+          "text": "Moses repeated this to Aaron and his sons, and to all the Israelites."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "21:5",
+          "text": "See 19:27."
+        },
+        {
+          "ref": "21:7",
+          "text": "This may include cultic prostitution at pagan temples."
+        },
+        {
+          "ref": "21:8",
+          "text": "“Chose you as my special people”: literally, “set you apart.”"
+        },
+        {
+          "ref": "21:10",
+          "text": "These were signs of distress or mourning."
+        },
+        {
+          "ref": "21:12",
+          "text": "“To deal with someone who has died”: supplied for clarity. It doesn't mean the high priest could never leave the sanctuary."
+        },
+        {
+          "ref": "21:15",
+          "text": "Having a foreign wife would mean that any children of the marriage would be considered unclean. They also could not follow their father in the priesthood, and indeed he could not continue as a priest either."
+        },
+        {
+          "ref": "21:23",
+          "text": "“My sanctuary and everything in it”: literally, “my sanctuaries.”"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The Lord told Moses,"
+        },
+        {
+          "number": 2,
+          "text": "“Tell Aaron and his sons to be dedicated* when dealing with the holy offerings that the Israelites have dedicated to me, so that they don't dishonor my holy character. I am the Lord."
+        },
+        {
+          "number": 3,
+          "text": "Tell them: These rules apply for all future generations. If any of your descendants in an unclean state comes close to the holy offerings that the Israelites dedicate to honor the Lord, that person must be expelled from my presence. I am the Lord."
+        },
+        {
+          "number": 4,
+          "text": "If one of Aaron's descendants has a skin disease or a discharge, he is not allowed to eat the holy offerings until he is clean. Anyone who touches anything made unclean by a dead body or by a man who has had a release of semen,"
+        },
+        {
+          "number": 5,
+          "text": "or anyone who touches an unclean animal or an unclean person (whatever the uncleanness is),"
+        },
+        {
+          "number": 6,
+          "text": "anyone who touches anything like this will remain unclean until evening. He is not allowed to eat from the holy offerings unless he has washed himself with water."
+        },
+        {
+          "number": 7,
+          "text": "At sunset he will become clean, and then he is allowed to eat from the holy offerings because they provide his food."
+        },
+        {
+          "number": 8,
+          "text": "He must not eat anything that has died, or has been killed by wild animals, because that would make him unclean. I am the Lord."
+        },
+        {
+          "number": 9,
+          "text": "The priests must do as I demand, so that they don't become guilty and die because they have not done so, treating my requirements with contempt. I am the Lord who makes them holy."
+        },
+        {
+          "number": 10,
+          "text": "Anyone who isn't part of a priest's family is not allowed to eat the holy offerings. This also applies to a priest's guest or his paid worker."
+        },
+        {
+          "number": 11,
+          "text": "However, if a priest uses his own money to buy a slave, or if a slave is born in the priest's household, then that slave is allowed to eat his food."
+        },
+        {
+          "number": 12,
+          "text": "If the priest's daughter gets married to a man who isn't a priest, she is not allowed to eat the holy offerings."
+        },
+        {
+          "number": 13,
+          "text": "But if a priest's daughter without children is widowed or divorced and goes back to her father's house, she is allowed to eat her father's food as she did when she was growing up. But no one outside the priest's family can eat it."
+        },
+        {
+          "number": 14,
+          "text": "Anyone who eats a holy offering by mistake must pay compensation by adding a fifth to its value, and give it all to the priest."
+        },
+        {
+          "number": 15,
+          "text": "The priests must not make the holy offerings the Israelites present to the Lord unclean"
+        },
+        {
+          "number": 16,
+          "text": "by allowing the people to eat them and in so doing take upon themselves the punishment for guilt. For I am the Lord who makes them holy.”"
+        },
+        {
+          "number": 17,
+          "text": "The Lord told Moses,"
+        },
+        {
+          "number": 18,
+          "text": "“Tell Aaron, his sons and all the Israelites: If you or a foreigner living with you wants to make a gift as a burnt offering to the Lord, whether it's to fulfill a promise or as a freewill offering, this is what you are to do."
+        },
+        {
+          "number": 19,
+          "text": "If it is to be accepted on your behalf you must offer a male without defects from the herds of cattle, sheep, or goats."
+        },
+        {
+          "number": 20,
+          "text": "Don't present anything with a defect because it won't be accepted on your behalf."
+        },
+        {
+          "number": 21,
+          "text": "If you want to present a peace offering to the Lord from the herd or flock to fulfill a promise or as a freewill offering, in order to be acceptable the animal must be perfect, completely without defects."
+        },
+        {
+          "number": 22,
+          "text": "Don't present to the Lord an animal that is blind, injured, or damaged in some way, or has warts, skin sores, or scabs. Don't place any animal that has these on the altar as a food offering to the Lord."
+        },
+        {
+          "number": 23,
+          "text": "However, you can present a freewill offering of a bull or sheep that has a leg that is too long or too short, but not if it is a sacrifice to fulfill a promise."
+        },
+        {
+          "number": 24,
+          "text": "Don't present to the Lord an animal with testicles that are accidentally or deliberately damaged. You are not allowed to sacrifice any of these damaged animals in your land."
+        },
+        {
+          "number": 25,
+          "text": "Nor are you allowed to accept such animals from a foreigner that are damaged and defective.”"
+        },
+        {
+          "number": 26,
+          "text": "The Lord told Moses,"
+        },
+        {
+          "number": 27,
+          "text": "“When a bull, a sheep, or a goat is born, it must stay with its mother for seven days. After eight days it can be accepted as a food offering to the Lord."
+        },
+        {
+          "number": 28,
+          "text": "However, don't kill a bull or a sheep and its young on the same day."
+        },
+        {
+          "number": 29,
+          "text": "When you present a thank offering to the Lord, make sure to do so in a way that it will be accepted on your behalf."
+        },
+        {
+          "number": 30,
+          "text": "It has to be eaten on the same day. Don't leave any of it until morning. I am the Lord."
+        },
+        {
+          "number": 31,
+          "text": "Keep my rules and put them into practice. I am the Lord."
+        },
+        {
+          "number": 32,
+          "text": "Don't disgrace my holy character. I must be accepted as holy by you. I am the Lord who makes you holy."
+        },
+        {
+          "number": 33,
+          "text": "I am the one who led you out of Egypt to be your God. I am the Lord.”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "22:2",
+          "text": "“Dedicated”: or “treat with respect.” The sense is that since the offerings made by the people were given in dedication, the priests should deal with them in the same way."
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The Lord told Moses,"
+        },
+        {
+          "number": 2,
+          "text": "“Tell the Israelites that these are my religious festivals, the festivals of the Lord that you are to call as the holy times when we meet together."
+        },
+        {
+          "number": 3,
+          "text": "You have six days to work, but the seventh day is a Sabbath of complete rest, a holy day of meeting together. Don't do any work. It is the Lord's Sabbath everywhere you live."
+        },
+        {
+          "number": 4,
+          "text": "These are the Lord's religious festivals, the holy meetings that you are to announce at their specific times."
+        },
+        {
+          "number": 5,
+          "text": "The Lord's Passover starts on the evening of the fourteenth day of the first month."
+        },
+        {
+          "number": 6,
+          "text": "The Lord's Festival of Unleavened Bread begins on the fifteenth day of the first month. For seven days the bread you eat must be made without yeast."
+        },
+        {
+          "number": 7,
+          "text": "On the first day you are to hold a holy meeting. You must not do any of your usual work."
+        },
+        {
+          "number": 8,
+          "text": "For seven days you shall present food offerings to the Lord. There is to be a holy meeting on the seventh day. You must not do any of your usual work.”"
+        },
+        {
+          "number": 9,
+          "text": "The Lord told Moses,"
+        },
+        {
+          "number": 10,
+          "text": "“Tell the Israelites that when you enter the land that I'm giving you and you harvest your crops, take a stack of grain from the firstfruits of your harvest to the priest."
+        },
+        {
+          "number": 11,
+          "text": "He will wave the stack of grain before the Lord so that it may be accepted on your behalf. The priest is to do this the day following the Sabbath."
+        },
+        {
+          "number": 12,
+          "text": "When you wave the stack of grain, you are to present a one-year-old lamb without defects as a burnt offering to the Lord,"
+        },
+        {
+          "number": 13,
+          "text": "together with its grain offering of two-tenths of an ephah of the best flour mixed with olive oil (a food offering to the Lord to be accepted by him) and its drink offering of a quarter of a hin of wine."
+        },
+        {
+          "number": 14,
+          "text": "Don't eat any bread, roasted grain, or new grain until the time you bring this offering to your God. This regulation is for all time and for future generations everywhere you live."
+        },
+        {
+          "number": 15,
+          "text": "Count seven full weeks from the day after the Sabbath—the day you brought the stack of grain as a wave offering."
+        },
+        {
+          "number": 16,
+          "text": "Count fifty days until the day after the seventh Sabbath, and on that day present an offering of new grain to the Lord."
+        },
+        {
+          "number": 17,
+          "text": "Bring two loaves of bread from your homes as a wave offering. Make them from two-tenths of an ephah of the best flour, baked with yeast, as the firstfruits to the Lord."
+        },
+        {
+          "number": 18,
+          "text": "As well as the bread, present seven one-year-old male lambs without defects, one young bull, and two rams. They will be a burnt offering to the Lord, as well as their grain offerings and drink offerings, a food offering to the Lord to be accepted by him."
+        },
+        {
+          "number": 19,
+          "text": "Present one male goat as a sin offering and two one-year-old male lambs as a peace offering."
+        },
+        {
+          "number": 20,
+          "text": "The priest will wave the lambs as a wave offering before the Lord, along with the bread of the firstfruits. The bread and the two lambs are holy to the Lord and belong to the priest."
+        },
+        {
+          "number": 21,
+          "text": "That same day you are to announce a holy meeting, and you must not do any of your usual work. This regulation is for all time and for future generations everywhere you live."
+        },
+        {
+          "number": 22,
+          "text": "When you harvest the crops grown on your land, don't harvest right up to the edges of your field, or collect what has been missed. Leave them for the poor people and foreigners. I am the Lord your God.”"
+        },
+        {
+          "number": 23,
+          "text": "The Lord told Moses,"
+        },
+        {
+          "number": 24,
+          "text": "“Tell the Israelites that on the first day of the seventh month you are to have a special Sabbath of complete rest, a holy meeting that is announced by the sound of trumpets."
+        },
+        {
+          "number": 25,
+          "text": "Don't do any of your usual work; instead you are to present a food offering to the Lord.”"
+        },
+        {
+          "number": 26,
+          "text": "The Lord told Moses,"
+        },
+        {
+          "number": 27,
+          "text": "“The Day of Atonement is on the tenth day of this seventh month. You are to have a holy meeting, deny yourselves,* and present a food offering to the Lord"
+        },
+        {
+          "number": 28,
+          "text": "On this day you must not do any of your usual work because it is the Day of Atonement, when things are made right for you before the Lord your God."
+        },
+        {
+          "number": 29,
+          "text": "Anyone who does not practice self-denial on this day must be expelled from their people."
+        },
+        {
+          "number": 30,
+          "text": "I will destroy anyone of you who does any work on this day."
+        },
+        {
+          "number": 31,
+          "text": "Don't do any kind of work at all. This regulation is for all time and for future generations everywhere you live."
+        },
+        {
+          "number": 32,
+          "text": "It is to be a Sabbath of complete rest for you, and you shall practice self-denial. You are to observe your Sabbath from the evening of the ninth day of the month until evening the next day.”"
+        },
+        {
+          "number": 33,
+          "text": "The Lord told Moses,"
+        },
+        {
+          "number": 34,
+          "text": "“Tell the Israelites that the Feast of Tabernacles to honor the Lord begins on the fifteenth day of the seventh month and lasts for seven days."
+        },
+        {
+          "number": 35,
+          "text": "On the first day have a holy meeting. You must not do any of your usual work."
+        },
+        {
+          "number": 36,
+          "text": "For seven days you shall present food offerings to the Lord. On the eighth day you are to have another holy meeting and present a food offering to the Lord. It is a meeting for worship. You must not do any of your usual work."
+        },
+        {
+          "number": 37,
+          "text": "These are the Lord's holy festivals, which you are to announce as holy meetings for presenting food offerings to the Lord. These include burnt offerings, grain offerings, sacrifices and drink offerings, each according to the specific day."
+        },
+        {
+          "number": 38,
+          "text": "All of these offerings are in addition to those for the Lord's Sabbaths. They are also in addition to your gifts, to all your offerings to fulfill promises, and to all the freewill offerings you present to the Lord."
+        },
+        {
+          "number": 39,
+          "text": "You shall celebrate a feast to honor the Lord for seven days on the fifteenth day of the seventh month, once you have harvested your crops. The first day and the eighth day are Sabbaths of complete rest."
+        },
+        {
+          "number": 40,
+          "text": "On the first day you are to gather branches from large trees, from palm trees, from leafy trees and of river willows, and celebrate before the Lord your God for seven days."
+        },
+        {
+          "number": 41,
+          "text": "You are to hold this festival to honor the Lord for seven days every year. This regulation is for all time and for all future generations."
+        },
+        {
+          "number": 42,
+          "text": "You are to live in temporary shelters* for seven days. Every Israelite born in the country must live in shelters,"
+        },
+        {
+          "number": 43,
+          "text": "so that your descendants will remember that I made the Israelites live in shelters when I led them out of Egypt. I am the Lord your God.”"
+        },
+        {
+          "number": 44,
+          "text": "So Moses told the Israelites all about the Lord's festivals."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "23:27",
+          "text": "“Deny yourselves”: this is usually taken to mean fasting and the avoidance of pleasures."
+        },
+        {
+          "ref": "23:42",
+          "text": "Made from the tree branches mentioned in verse 40."
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The Lord told Moses,"
+        },
+        {
+          "number": 2,
+          "text": "“Order the Israelites to bring you pure, pressed olive oil for the lamps, so they will always stay lit."
+        },
+        {
+          "number": 3,
+          "text": "From evening until morning Aaron is to constantly look after the lamps before the Lord, outside the veil of the Testimony in the Tent of Meeting. This regulation is for all time and for all future generations."
+        },
+        {
+          "number": 4,
+          "text": "He is to constantly look after the lamps placed on the pure gold lampstand before the Lord."
+        },
+        {
+          "number": 5,
+          "text": "Using the best flour bake twelve loaves, with two-tenths of an ephah of flour per loaf."
+        },
+        {
+          "number": 6,
+          "text": "Place them in two piles, six in each pile, on the table made of pure gold that stands before the Lord."
+        },
+        {
+          "number": 7,
+          "text": "Place pure frankincense beside each pile to go with the bread to act as the ‘reminder part,’* a food offering to the Lord."
+        },
+        {
+          "number": 8,
+          "text": "Every Sabbath day the bread shall be placed before the Lord, given by the Israelites as an ongoing sign of the eternal agreement."
+        },
+        {
+          "number": 9,
+          "text": "It is for Aaron and his descendants. They are to eat it in a holy place; for they must treat it as a most holy part of the food offerings given to the Lord. It is their share of the food offerings for all time.”"
+        },
+        {
+          "number": 10,
+          "text": "One day a man who had an Israelite mother and an Egyptian father went into the Israelite camp and had a fight with an Israelite."
+        },
+        {
+          "number": 11,
+          "text": "The Israelite woman's son cursed the name of the Lord. So they took him before Moses. (His mother's name was Shelomith, daughter of Dibri, from the tribe of Dan.)"
+        },
+        {
+          "number": 12,
+          "text": "They detained him until it was clear what the Lord wanted them to do about it."
+        },
+        {
+          "number": 13,
+          "text": "The Lord told Moses,"
+        },
+        {
+          "number": 14,
+          "text": "“Take the man who cursed me outside the camp. Have all who heard him curse put their hands on his head; then have everyone stone him to death."
+        },
+        {
+          "number": 15,
+          "text": "Tell the Israelites that anyone who curses their God will be punished for their sin."
+        },
+        {
+          "number": 16,
+          "text": "Anyone who curses the name of the Lord must be executed. All of you must stone them to death, whether they are a foreigner who lives with you or an Israelite. If they curse my name, they must be executed."
+        },
+        {
+          "number": 17,
+          "text": "Anyone who kills someone else must be executed."
+        },
+        {
+          "number": 18,
+          "text": "Anyone who kills an animal has to replace it—a life for a life."
+        },
+        {
+          "number": 19,
+          "text": "If anyone injures someone else, whatever they've done must be done to them:"
+        },
+        {
+          "number": 20,
+          "text": "a broken bone for a broken bone, an eye for an eye, a tooth for a tooth. Whatever way they injured the victim, the same must be done to them."
+        },
+        {
+          "number": 21,
+          "text": "Anyone who kills an animal has to replace it, but anyone who kills someone else must be executed."
+        },
+        {
+          "number": 22,
+          "text": "The same laws apply to foreigners who live with you as to Israelites, for I am the Lord your God.”"
+        },
+        {
+          "number": 23,
+          "text": "Moses told this to the Israelites, and they took the man who cursed the Lord outside the camp and stoned him to death. The Israelites did what the Lord ordered Moses to do."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "24:7",
+          "text": "See 2:2."
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The Lord told Moses on Mount Sinai,"
+        },
+        {
+          "number": 2,
+          "text": "“Tell the Israelites: When you enter the land that I'm giving you, the land itself must also observe a Sabbath rest in honor of the Lord."
+        },
+        {
+          "number": 3,
+          "text": "Six years you can cultivate your fields, take care of your vineyards, and harvest your crops."
+        },
+        {
+          "number": 4,
+          "text": "But the seventh year is to be a Sabbath of complete rest for the land, a Sabbath in honor of the Lord. Don't plant your fields or care for your vineyards."
+        },
+        {
+          "number": 5,
+          "text": "Don't harvest what may have grown up in your fields, or collect the grapes from your vineyards that you haven't cared for. The land is to have a year of complete rest."
+        },
+        {
+          "number": 6,
+          "text": "You can eat whatever the land produces during the Sabbath year. This applies to yourself, your male and female slaves, paid workers and foreigners who live with you,"
+        },
+        {
+          "number": 7,
+          "text": "and to your livestock and the wild animals living in your land. Whatever grows can be used for food."
+        },
+        {
+          "number": 8,
+          "text": "Count seven ‘sabbaths’ of years, in other words, seven times seven years, so that the seven sabbaths of years come to forty-nine years."
+        },
+        {
+          "number": 9,
+          "text": "Then blow the trumpet all through the country on the tenth day of the seventh month, which is the Day of Atonement. Make sure this signal is heard throughout your whole country."
+        },
+        {
+          "number": 10,
+          "text": "You are to dedicate the fiftieth year and announce freedom everywhere in the country for all who live there. This is to be your Jubilee, when each of you is to return to reclaim your property and to be part of your family once more.*"
+        },
+        {
+          "number": 11,
+          "text": "The fiftieth year will be a Jubilee for you. Don't sow the land; don't harvest what may have grown up in your fields, or collect the grapes from your vineyards that you haven't cared for."
+        },
+        {
+          "number": 12,
+          "text": "It is a Jubilee and it is to be holy to you. You can eat whatever the land produces."
+        },
+        {
+          "number": 13,
+          "text": "In this Jubilee Year, every one of you shall return to your own property."
+        },
+        {
+          "number": 14,
+          "text": "If you sell land to your neighbor, or buy land from him, don't exploit one another."
+        },
+        {
+          "number": 15,
+          "text": "When you buy from your neighbor work out how many years have passed since the last Jubilee, for he is to sell to you depending on how many years of harvest remain."
+        },
+        {
+          "number": 16,
+          "text": "The more years that are left, the more you shall pay; the fewer years that are left, the less you shall pay, because he is actually selling you a specific number of harvests."
+        },
+        {
+          "number": 17,
+          "text": "Don't exploit one another, but have respect for your God, because I am the Lord your God."
+        },
+        {
+          "number": 18,
+          "text": "Keep my rules and observe my regulations, so you can live in safety in the land."
+        },
+        {
+          "number": 19,
+          "text": "Then the land will produce good harvests, so you will have plenty to eat and live in safety there."
+        },
+        {
+          "number": 20,
+          "text": "But if you ask, ‘What are we going to do in the seventh year if we do not sow or harvest our crops?’"
+        },
+        {
+          "number": 21,
+          "text": "I will bless you in the sixth year, so that the land will produce a crop that will be enough for three years."
+        },
+        {
+          "number": 22,
+          "text": "As you sow in the eighth year, you will still be eating from that harvest, which will last until your harvest in the ninth year."
+        },
+        {
+          "number": 23,
+          "text": "Land must not be permanently sold, because it really belongs to me. To me you are only foreigners and travelers passing through."
+        },
+        {
+          "number": 24,
+          "text": "So whatever land you buy to own, you must make arrangements so it can be returned to its original owner.*"
+        },
+        {
+          "number": 25,
+          "text": "If one of your people becomes poor and sells you some of their land, their close family can come and buy back what they have sold."
+        },
+        {
+          "number": 26,
+          "text": "However, if they don't have anyone who can buy it back, but in the meantime their financial situation improves and they have enough to buy back the land,"
+        },
+        {
+          "number": 27,
+          "text": "they will work however many years it has been since the sale, and pay back the balance to the person who bought it, and go back to their property"
+        },
+        {
+          "number": 28,
+          "text": "If they can't raise enough to pay the person back for the land, the buyer will remain its owner until the Jubilee Year. But in the Jubilee Year the land will be returned so that the original owners can go back to their property."
+        },
+        {
+          "number": 29,
+          "text": "If someone sells a house located in a walled town, they have the right to buy it back for a full year after selling it. It can be bought back any time during that year."
+        },
+        {
+          "number": 30,
+          "text": "If it isn't bought back by the end of a full year, then ownership of the house in the walled town is permanently transferred to the one who bought it and their descendants. It won't be returned in the Jubilee."
+        },
+        {
+          "number": 31,
+          "text": "But houses in villages that don't have walls around them are to be treated as located in the fields. They can be bought back, and will be returned in the Jubilee."
+        },
+        {
+          "number": 32,
+          "text": "However, the Levites always have the right to buy back their houses in the towns that belong to them."
+        },
+        {
+          "number": 33,
+          "text": "Whatever the Levites own can be bought back, even houses sold in their towns, and must be returned in the Jubilee. That's because the houses in the towns of the Levites are what they were given to own as their share among the Israelites."
+        },
+        {
+          "number": 34,
+          "text": "However, the fields surrounding their towns must not be sold because they belong to the Levites permanently."
+        },
+        {
+          "number": 35,
+          "text": "If any of your people become poor and can't survive,* you must help them in the same way you would help a foreigner or a stranger, so that they can go on living in your neighborhood."
+        },
+        {
+          "number": 36,
+          "text": "Don't make them pay you any interest or demand more than they borrowed, but respect your God so that they can remain living in your area."
+        },
+        {
+          "number": 37,
+          "text": "Don't lend them silver with interest or sell them food at an inflated price."
+        },
+        {
+          "number": 38,
+          "text": "Remember, I am the Lord your God who led you out of Egypt to give you the land of Canaan and to be your God."
+        },
+        {
+          "number": 39,
+          "text": "If any of your people become poor and have to sell themselves to work for you, don't force them to work as a slave."
+        },
+        {
+          "number": 40,
+          "text": "Have them live with you like a paid worker who is staying with you for a while. They are to work for you until the Jubilee Year."
+        },
+        {
+          "number": 41,
+          "text": "Then they and their children must be freed, and they can go back to their family and to their family's property."
+        },
+        {
+          "number": 42,
+          "text": "Israelites are not to be sold as slaves because they belong to me as my slaves—I led them out of Egypt."
+        },
+        {
+          "number": 43,
+          "text": "Don't treat them with brutality. Have respect for your God."
+        },
+        {
+          "number": 44,
+          "text": "Buy your male and female slaves from the surrounding nations."
+        },
+        {
+          "number": 45,
+          "text": "You can also buy them from foreigners who have come to live among you, or from their descendants born in your land. You can treat them as your property."
+        },
+        {
+          "number": 46,
+          "text": "You can pass them on to your children to inherit as property after you die. You can make them slaves for life, but you must not brutally treat any of your own people, the Israelites, as a slave."
+        },
+        {
+          "number": 47,
+          "text": "If a foreigner among you becomes successful, and one of your people living nearby becomes poor and sells themselves to the foreigner or to a member of the foreigner's family,"
+        },
+        {
+          "number": 48,
+          "text": "they still have the right of being bought back after the sale. A member of their family can buy them back—"
+        },
+        {
+          "number": 49,
+          "text": "an uncle or cousin or any close relative from their family can buy them back. If they become successful, they can buy themselves back."
+        },
+        {
+          "number": 50,
+          "text": "The person concerned and their buyer will work out the time from the year of the sale up to the Jubilee Year. The price will depend on the number of years, calculated using the daily rate for a paid worker."
+        },
+        {
+          "number": 51,
+          "text": "If there are many years left, they must pay a larger percentage of the purchase price."
+        },
+        {
+          "number": 52,
+          "text": "If there are only a few years remaining before the Jubilee Year, then they only have to pay a percentage depending on the number of years still left."
+        },
+        {
+          "number": 53,
+          "text": "They are to live with their foreign owner just like a paid worker, hired from year to year, but see to it that the owner doesn't treat him brutally."
+        },
+        {
+          "number": 54,
+          "text": "If they are not bought back in any of the ways described, they and their children shall be freed in the Jubilee Year."
+        },
+        {
+          "number": 55,
+          "text": "For the Israelites belong to me as my slaves. They are my slaves—I led them out of Egypt. I am the Lord your God.”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "25:10",
+          "text": "This meant that whatever property had been sold during the previous 50 years now reverted back to its original owner, and that anyone who had become a slave was set free and allowed to return to their own family."
+        },
+        {
+          "ref": "25:24",
+          "text": "“Returned to its original owner”: literally, “the redemption of the land.”"
+        },
+        {
+          "ref": "25:35",
+          "text": "“Can't survive”: literally, “his hand has failed.”"
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "verses": [
+        {
+          "number": 1,
+          "text": "“Don't make yourselves idols anywhere in your land and bow down to worship them, whether they are images or sacred pillars or stone sculptures. For I am the Lord your God."
+        },
+        {
+          "number": 2,
+          "text": "Keep my Sabbaths and show respect for my sanctuary. I am the Lord."
+        },
+        {
+          "number": 3,
+          "text": "If you follow my rules and keep my regulations,"
+        },
+        {
+          "number": 4,
+          "text": "I will make sure it rains at the right time so that the ground will grow good crops and the fruit trees will be productive."
+        },
+        {
+          "number": 5,
+          "text": "Your time of threshing will last right up to the grape harvest, and the grape harvest until the time you have to sow again. You will have more than enough to eat and you will live in safety in your land."
+        },
+        {
+          "number": 6,
+          "text": "I will make sure your land is at peace. You will be able to sleep without being afraid of anything. I will get rid of dangerous animals from the land, and you will not suffer from any violent enemy attacks.*"
+        },
+        {
+          "number": 7,
+          "text": "You will chase your enemies, and kill them with the sword."
+        },
+        {
+          "number": 8,
+          "text": "Five of you will kill one hundred, and one hundred of you will kill ten thousand. You will destroy your enemies."
+        },
+        {
+          "number": 9,
+          "text": "I will come to help you, so you will reproduce and increase in numbers, and I will confirm my agreement with you."
+        },
+        {
+          "number": 10,
+          "text": "You'll still be eating your old stock of grain when you need to get rid of it so you can store the new grain."
+        },
+        {
+          "number": 11,
+          "text": "I will come and live with you—I certainly won't reject you."
+        },
+        {
+          "number": 12,
+          "text": "I shall always be right there with you. I will be your God, and you will be my people."
+        },
+        {
+          "number": 13,
+          "text": "I am the Lord your God, who led you out of Egypt so you wouldn't have to be slaves to the Egyptians any longer. I smashed the yoke that kept you bent down and helped you to stand up straight."
+        },
+        {
+          "number": 14,
+          "text": "But if you don't pay attention to me and do what I tell you;"
+        },
+        {
+          "number": 15,
+          "text": "if you reject my laws, hate my regulations, and refuse to follow my commandments, and consequently break my agreement,"
+        },
+        {
+          "number": 16,
+          "text": "then this is what I am going to do to you: I will make you panic, and suffer from diseases like tuberculosis and fever that make you blind and drain your life away. It will be pointless for you to sow seed in your fields because your enemies will eat the harvest."
+        },
+        {
+          "number": 17,
+          "text": "I will turn against you, and you'll be defeated by your enemies. People who hate you will rule over you, and you'll run away even when there's no one chasing you!"
+        },
+        {
+          "number": 18,
+          "text": "If after all this you still refuse to obey me, I will move to punishing you seven times over for your sins."
+        },
+        {
+          "number": 19,
+          "text": "I will break your self-reliant strength you're so proud of, and make your sky hard as iron and your land hard as bronze."
+        },
+        {
+          "number": 20,
+          "text": "Your strength will be completely wasted* because your land won't produce crops, and your trees won't produce fruit."
+        },
+        {
+          "number": 21,
+          "text": "If you go on opposing me and refusing to do what I tell you, I will make your punishments seven times worse, based on your sins."
+        },
+        {
+          "number": 22,
+          "text": "I will send wild animals to kill your children, wipe out your livestock, and make you so few in number that there won't be anyone on your roads."
+        },
+        {
+          "number": 23,
+          "text": "However, if in spite of all this correction you still don't change but go on opposing me,"
+        },
+        {
+          "number": 24,
+          "text": "then I will take action against you. I will punish you seven times over for your sins."
+        },
+        {
+          "number": 25,
+          "text": "I will send enemies with swords to attack you in retaliation for breaking the agreement. Even though you retreat into your towns for defense, I will plague you with disease, and you will be handed over to your enemies."
+        },
+        {
+          "number": 26,
+          "text": "I will send a famine so bread is in short supply. One oven will serve the needs of ten women baking bread. It will be distributed by weight so that you'll eat but won't have enough."
+        },
+        {
+          "number": 27,
+          "text": "However, if in spite of all this you don't obey me, but go on opposing me,"
+        },
+        {
+          "number": 28,
+          "text": "then I will take action against you in a rage of fury, and I will punish you myself seven times over for your sins."
+        },
+        {
+          "number": 29,
+          "text": "You will eat the bodies of your own sons and daughters."
+        },
+        {
+          "number": 30,
+          "text": "I will destroy your high places* of worship, smash your altars of incense, and pile up your dead bodies on what remains of your idols, which also have no life at all. I will really despise you."
+        },
+        {
+          "number": 31,
+          "text": "I will demolish your towns and destroy your pagan sanctuaries, and I will refuse to accept your sacrifices."
+        },
+        {
+          "number": 32,
+          "text": "I will devastate your land myself, so that your enemies who come and live in it will be horrified at what has happened."
+        },
+        {
+          "number": 33,
+          "text": "I'm going to scatter you among the nations. You will be chased out by armies with swords as your land is ruined and your towns are destroyed."
+        },
+        {
+          "number": 34,
+          "text": "At least then the land will be able to enjoy its Sabbaths all the time it's abandoned while you are in exile in the land of your enemies. The land will finally be able to rest and enjoy its Sabbaths."
+        },
+        {
+          "number": 35,
+          "text": "The whole time it's abandoned the land will observe the Sabbaths of rest that it wasn't able to do while you were living there.*"
+        },
+        {
+          "number": 36,
+          "text": "I will make those of you who survive so discouraged that as you live in the lands of your enemies even the sound of a leaf blowing in the wind will scare you into running away! You'll run away like you're being chased by someone with a sword, and fall down even though no one is after you."
+        },
+        {
+          "number": 37,
+          "text": "You'll trip over each other as you run away from the attack, even though no one's there. You'll have no power to resist your enemies."
+        },
+        {
+          "number": 38,
+          "text": "You'll die in exile and you'll be buried in a foreign country."
+        },
+        {
+          "number": 39,
+          "text": "Those of you who do manage to survive in the countries of your enemies will wither away because of their guilt, decaying as they share the sins of their fathers."
+        },
+        {
+          "number": 40,
+          "text": "They need to confess their sins and those of their fathers, acting in such an unfaithful way towards me, opposing me."
+        },
+        {
+          "number": 41,
+          "text": "Because of this I took action against them and exiled them in the countries of their enemies. However, if they humbly give up their stubborn attitude and accept their punishment for their sins,"
+        },
+        {
+          "number": 42,
+          "text": "then I will fulfill the agreement I made with Jacob, Isaac, and Abraham, and I will not forget my promise about the land."
+        },
+        {
+          "number": 43,
+          "text": "For the land will be left empty by them, and it will enjoy its Sabbaths being abandoned. They will pay for their sins, because they rejected my rules and regulations."
+        },
+        {
+          "number": 44,
+          "text": "But despite all this, even while they are living in land of their enemies, I will not reject or hate them so much as to destroy them and break my agreement with them, because I am the Lord their God."
+        },
+        {
+          "number": 45,
+          "text": "Because of them I will renew the agreement I made with their fathers, those I led out of Egypt as the other nations watched, in order that I might be their God. I am the Lord.”"
+        },
+        {
+          "number": 46,
+          "text": "These are the rules, regulations, and laws that the Lord set up between himself and the Israelites through Moses on Mount Sinai."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "26:6",
+          "text": "“You will not suffer from any violent attacks”: literally, “a sword will not pass through your land.”"
+        },
+        {
+          "ref": "26:20",
+          "text": "In other words attempts to cultivate the land will be pointless."
+        },
+        {
+          "ref": "26:30",
+          "text": "“High places”: often associated with idol worship."
+        },
+        {
+          "ref": "26:35",
+          "text": "Another rebuke since clearly the rule about leaving the ground uncultivated one year in seven was not properly observed."
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The Lord told Moses,"
+        },
+        {
+          "number": 2,
+          "text": "“Tell the Israelites: When you make a special promise to dedicate someone to the Lord, these are the values you are to use."
+        },
+        {
+          "number": 3,
+          "text": "The value of a man aged twenty to sixty is fifty shekels of silver (using the sanctuary shekel standard)."
+        },
+        {
+          "number": 4,
+          "text": "The value of a woman is thirty shekels."
+        },
+        {
+          "number": 5,
+          "text": "The value of someone aged five to twenty is twenty shekels for a male and ten shekels for a female."
+        },
+        {
+          "number": 6,
+          "text": "The value of someone aged one month to five years is five shekels of silver for a male and three shekels of silver for a female."
+        },
+        {
+          "number": 7,
+          "text": "The value of someone aged sixty or older is fifteen shekels for a male and ten shekels of silver for a female."
+        },
+        {
+          "number": 8,
+          "text": "However, if when you fulfill your promise you are poorer than the fixed value, you are to present the person before the priest, who will then set the value depending on what you can afford."
+        },
+        {
+          "number": 9,
+          "text": "If when you fulfill your promise you bring an animal that is permitted as an offering to the Lord, the animal given to the Lord shall be considered holy."
+        },
+        {
+          "number": 10,
+          "text": "You are not allowed to replace it or swap it, either for one that is better or one that is worse. However, if you do replace it then both animals become holy."
+        },
+        {
+          "number": 11,
+          "text": "If when you fulfill your promise you bring any unclean animal that is not permitted as an offering to the Lord, then you must show the animal to the priest."
+        },
+        {
+          "number": 12,
+          "text": "The priest will decide its value, whether high or low. Whatever value the priest places on it is final."
+        },
+        {
+          "number": 13,
+          "text": "If you then decide to buy the animal back, you have to add one-fifth to its value in payment."
+        },
+        {
+          "number": 14,
+          "text": "If you dedicate your house as holy to the Lord, then the priest will decide its value, whether high or low. Whatever value the priest places on it remains final."
+        },
+        {
+          "number": 15,
+          "text": "But if you want to buy back your house, you have to add one-fifth to its value in payment. Then it will belong to you again."
+        },
+        {
+          "number": 16,
+          "text": "If you dedicate some of your land to the Lord, then its value shall be determined by the amount of seed required to sow it: fifty shekels of silver for every homer of barley seed used."
+        },
+        {
+          "number": 17,
+          "text": "If you dedicate your field during the Jubilee Year, the value will be the full amount calculated."
+        },
+        {
+          "number": 18,
+          "text": "But if you dedicate your field after the Jubilee, the priest will work out the value depending on the number of years left until the next Jubilee Year, so reducing the value."
+        },
+        {
+          "number": 19,
+          "text": "But if you want to buy your field back, you have to add one-fifth to its value in payment. Then it will belong to you again."
+        },
+        {
+          "number": 20,
+          "text": "But if you don't buy the field back, or if you've already sold it to someone else, it can't ever be bought back."
+        },
+        {
+          "number": 21,
+          "text": "When the Jubilee comes, the field will become holy, in the same way as a field devoted to the Lord. It will become the property of the priests."
+        },
+        {
+          "number": 22,
+          "text": "If you dedicate to the Lord a field you've bought that was not part of your original property,"
+        },
+        {
+          "number": 23,
+          "text": "the priest will work out the value until the next Jubilee Year. You will pay on that day the exact value, giving it as a holy offering to the Lord."
+        },
+        {
+          "number": 24,
+          "text": "In the Jubilee Year, ownership of the field shall revert back to the person you bought it from—to the original owner of the land."
+        },
+        {
+          "number": 25,
+          "text": "(All values will use the sanctuary shekel standard of twenty gerahs to the shekel.)"
+        },
+        {
+          "number": 26,
+          "text": "No one is allowed to dedicate the firstborn of the livestock, because the firstborn belongs to the Lord. Whether they are cattle, sheep, or goats, they are the Lord's."
+        },
+        {
+          "number": 27,
+          "text": "But if it is an unclean animal, then you can buy it back according to its value, adding on one-fifth extra. If it's not bought back, then it is to be sold according to its value."
+        },
+        {
+          "number": 28,
+          "text": "Anything that you specially dedicate* to the Lord from what you own, whether it's a person, an animal, or your land, can't be sold or bought back. Anything specially dedicated is most holy to the Lord."
+        },
+        {
+          "number": 29,
+          "text": "No one who is specially dedicated to destruction can be bought back. They must be killed."
+        },
+        {
+          "number": 30,
+          "text": "Tithe from your crops or fruit belongs to the Lord; it is holy to the Lord."
+        },
+        {
+          "number": 31,
+          "text": "If you want to buy back some of your tithe, you must add on one-fifth to its value."
+        },
+        {
+          "number": 32,
+          "text": "When you count your herds and flocks, every tenth animal that passes under the shepherd's rod is holy to the Lord."
+        },
+        {
+          "number": 33,
+          "text": "You must not examine it to see if it's good or bad, and you must not replace it. However, if you do replace it then both animals become holy; they can't be bought back.”"
+        },
+        {
+          "number": 34,
+          "text": "These are the laws the Lord gave to Moses for the Israelites on Mount Sinai."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "27:28",
+          "text": "The word used here and in the next verse is a religious term that means to give something to the Lord (set apart), either by destroying them or presenting them as an offering."
+        }
+      ]
+    }
+  ]
+}

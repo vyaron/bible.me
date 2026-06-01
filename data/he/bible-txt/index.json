@@ -1,0 +1,80 @@
+{
+  "id": "torah-teamim-hebrew",
+  "name": "Torah Teamim Hebrew",
+  "language": "he",
+  "sourceFormat": "json",
+  "generatedAt": "2026-06-01T14:01:28.404Z",
+  "sourceUrl": "https://www.mechon-mamre.org/p/pt/pt0.htm",
+  "bookCount": 5,
+  "stats": {
+    "chapters": 187,
+    "verses": 5844
+  },
+  "books": [
+    {
+      "id": "OT-01-GEN",
+      "code": "GEN",
+      "slug": "genesis",
+      "name": "Genesis",
+      "hebrewName": "בראשית",
+      "testament": "OT",
+      "testamentOrder": 1,
+      "order": 1,
+      "chapters": 50,
+      "verses": 1533,
+      "path": "books/OT-01-GEN.he.json"
+    },
+    {
+      "id": "OT-02-EXO",
+      "code": "EXO",
+      "slug": "exodus",
+      "name": "Exodus",
+      "hebrewName": "שמות",
+      "testament": "OT",
+      "testamentOrder": 2,
+      "order": 2,
+      "chapters": 40,
+      "verses": 1209,
+      "path": "books/OT-02-EXO.he.json"
+    },
+    {
+      "id": "OT-03-LEV",
+      "code": "LEV",
+      "slug": "leviticus",
+      "name": "Leviticus",
+      "hebrewName": "ויקרא",
+      "testament": "OT",
+      "testamentOrder": 3,
+      "order": 3,
+      "chapters": 27,
+      "verses": 859,
+      "path": "books/OT-03-LEV.he.json"
+    },
+    {
+      "id": "OT-04-NUM",
+      "code": "NUM",
+      "slug": "numbers",
+      "name": "Numbers",
+      "hebrewName": "במדבר",
+      "testament": "OT",
+      "testamentOrder": 4,
+      "order": 4,
+      "chapters": 36,
+      "verses": 1288,
+      "path": "books/OT-04-NUM.he.json"
+    },
+    {
+      "id": "OT-05-DEU",
+      "code": "DEU",
+      "slug": "deuteronomy",
+      "name": "Deuteronomy",
+      "hebrewName": "דברים",
+      "testament": "OT",
+      "testamentOrder": 5,
+      "order": 5,
+      "chapters": 34,
+      "verses": 955,
+      "path": "books/OT-05-DEU.he.json"
+    }
+  ]
+}

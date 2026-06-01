@@ -1,0 +1,1622 @@
+{
+  "id": "NT-19-HEB",
+  "code": "HEB",
+  "slug": "hebrews",
+  "name": "Hebrews",
+  "testament": "NT",
+  "testamentOrder": 19,
+  "order": 58,
+  "source": {
+    "file": "src/HEB.rtf",
+    "format": "rtf"
+  },
+  "stats": {
+    "chapters": 13,
+    "verses": 303
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "God, who in the past spoke to our forefathers through the prophets at various times and in many ways,"
+        },
+        {
+          "number": 2,
+          "text": "has in these last days spoken to us through his Son. God appointed the Son heir of everything, and made the universe through him."
+        },
+        {
+          "number": 3,
+          "text": "The Son is the radiant glory of God, and the visible expression of his true character. He sustains everything by his powerful command. When he had provided cleansing for sin he sat down at the right hand of the Majesty in heaven."
+        },
+        {
+          "number": 4,
+          "text": "He was placed much higher than the angels since he received a greater name than them."
+        },
+        {
+          "number": 5,
+          "text": "God never said to any angel, “You are my Son; today I have become your Father,” or “I will be a Father to him, and he will be a Son to me.”*"
+        },
+        {
+          "number": 6,
+          "text": "Also, when he brought his firstborn* Son into the world, he said, “Let all God's angels worship him.”*"
+        },
+        {
+          "number": 7,
+          "text": "Regarding the angels, he says, “He makes his angels winds, and his servants flames of fire,”*"
+        },
+        {
+          "number": 8,
+          "text": "but about the Son he says, “Your throne, God, lasts forever and ever, and justice is the ruling scepter of your kingdom."
+        },
+        {
+          "number": 9,
+          "text": "You love what is right, and hate what is lawless. That is why God, your God, has placed you above everyone else by anointing* you with the oil of joy.”*"
+        },
+        {
+          "number": 10,
+          "text": "“You, Lord, laid the foundations of the earth in the beginning. The heavens are the product of your hands."
+        },
+        {
+          "number": 11,
+          "text": "They will come to an end, but you will continue. They will wear out like clothes do,"
+        },
+        {
+          "number": 12,
+          "text": "and you will roll them up like a cloak. Like clothes, they will be changed, but you never change, and your life never ends.”*"
+        },
+        {
+          "number": 13,
+          "text": "But he never said to any angel, “Sit at my right hand until I place your enemies in subjection under your feet.”*"
+        },
+        {
+          "number": 14,
+          "text": "What are the angels? They are beings that serve, sent out to help those who will receive salvation."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "1:5",
+          "text": "Hebrews is full of Old Testament quotations and allusions, some of which are not quoted exactly or are given in summary form. It is therefore difficult at times to identify the exact source or sources. Old Testament quotes that are relatively clear will be identified here. Note that they are taken from the Septuagint, the Greek translation of the Hebrew Scriptures. The quotations referenced in this verse appear to be: Psalms 2:7, 2 Samuel 7:14, and 1 Chronicles 17:13."
+        },
+        {
+          "ref": "1:6",
+          "text": "“Firstborn”: this term is not to be taken that there was a time when Jesus did not exist; it is used to identify rank rather than chronology."
+        },
+        {
+          "ref": "1:6",
+          "text": "Quoting Deuteronomy 32:43 from the Septuagint."
+        },
+        {
+          "ref": "1:7",
+          "text": "Quoting Psalms 104:4."
+        },
+        {
+          "ref": "1:9",
+          "text": "The ancient practice of pouring oil over the head of a person was to indicate they were being chosen for a specific position, a high honor."
+        },
+        {
+          "ref": "1:9",
+          "text": "Quoting Psalms 45:6-7."
+        },
+        {
+          "ref": "1:12",
+          "text": "Literally, “your years never fail.” The quotation is from Psalms 102:25-27."
+        },
+        {
+          "ref": "1:13",
+          "text": "Quoting Psalms 110:1."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "So we should pay even closer attention to what we've learned so we don't drift away from it."
+        },
+        {
+          "number": 2,
+          "text": "If the message the angels brought was trustworthy, and every sin and disobedient act brings its own consequence,*"
+        },
+        {
+          "number": 3,
+          "text": "how will we escape if we don't pay attention to this great salvation that the Lord first announced, and then we had confirmed to us by those who heard him."
+        },
+        {
+          "number": 4,
+          "text": "God also testified through signs and miracles, by acts that show his power, and by the gifts of the Holy Spirit, given as he chose."
+        },
+        {
+          "number": 5,
+          "text": "It's not angels who will be in charge of the world to come that we're talking about."
+        },
+        {
+          "number": 6,
+          "text": "But as it's been said, “What are human beings that you should worry about them? What is a son of man* that you should care about him?"
+        },
+        {
+          "number": 7,
+          "text": "You set him a little lower than the angels; you crowned him with glory and honor, and placed him over all your creation.*"
+        },
+        {
+          "number": 8,
+          "text": "You gave him authority over everything.”* Nothing was left out when God gave him authority over everything. However, we see that not everything is subject to his authority yet."
+        },
+        {
+          "number": 9,
+          "text": "But we see Jesus, for a little while placed a little lower than the angels, through the suffering of death crowned with glory and honor. Through God's grace Jesus experienced death for everyone."
+        },
+        {
+          "number": 10,
+          "text": "It was appropriate that God, who creates and maintains everything, should bring many of his children to glory, and to completely prepare through suffering the one who leads them to salvation."
+        },
+        {
+          "number": 11,
+          "text": "For both the one who makes people holy and those who are made holy belong to the same family.* That's why he doesn't hesitate to call them “brothers,”"
+        },
+        {
+          "number": 12,
+          "text": "saying “I will announce your name to my brothers; I will praise you among your people when they meet together.”*"
+        },
+        {
+          "number": 13,
+          "text": "Also: “I will place my trust in him,” and “Here I am, together with the children God has given to me.”*"
+        },
+        {
+          "number": 14,
+          "text": "Because the children share flesh and blood in common, he shared in this in the same way so that through death he could destroy the one that had the power of death—the devil—"
+        },
+        {
+          "number": 15,
+          "text": "and free everyone who through fear of death were enslaved all their lives."
+        },
+        {
+          "number": 16,
+          "text": "Of course it's not angels he's concerned about; he's concerned to help the children of Abraham."
+        },
+        {
+          "number": 17,
+          "text": "That's why it was necessary for him to become like his brothers in everything, so that he could become a merciful and trustworthy high priest in the things of God, to forgive his people's sins."
+        },
+        {
+          "number": 18,
+          "text": "Because he himself suffered when he was tempted, he is able to help those who are tempted."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "2:2",
+          "text": "Literally, “receives its reward.”"
+        },
+        {
+          "ref": "2:6",
+          "text": "“Son of man”: in normal use means just a human being; however Jesus applied this generic term to himself."
+        },
+        {
+          "ref": "2:7",
+          "text": "Instead of just referring to humanity, this can also refer to Jesus: “You made him less than the angels for a while, and then you crowned him with glory and honor.” The whole passage can be seen in this dual way, referring to Jesus as the son of man, both representative and Savior of humanity."
+        },
+        {
+          "ref": "2:8",
+          "text": "Again this can apply to humanity, God giving authority over the creatures as mentioned in Genesis 1, or it can apply to the authority of Jesus as Lord."
+        },
+        {
+          "ref": "2:11",
+          "text": "Literally, “all from one.”"
+        },
+        {
+          "ref": "2:12",
+          "text": "“Meet together”: the word is “ecclesia” which eventually came to mean “church.” The quotation is from Psalms 22:22."
+        },
+        {
+          "ref": "2:13",
+          "text": "Quoting Isaiah 8:17-18."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "So, my brothers and sisters who live for God and who share in this heavenly calling, we need to think carefully about Jesus—the one we say is sent by God,* and is the High Priest."
+        },
+        {
+          "number": 2,
+          "text": "He was faithful to God in the work he was chosen to do, just like Moses was faithful to God in God's house.*"
+        },
+        {
+          "number": 3,
+          "text": "But Jesus deserves much greater glory than Moses, in the same way that the builder of a house deserves more credit than the house."
+        },
+        {
+          "number": 4,
+          "text": "Every house has its builder; God is the builder of everything."
+        },
+        {
+          "number": 5,
+          "text": "As a servant, Moses was faithful in God's house. He provided evidence of what would be announced later."
+        },
+        {
+          "number": 6,
+          "text": "But Christ is a son, in charge of God's house. And we are God's house as long as we hold on with confidence to the hope we boast we believe in."
+        },
+        {
+          "number": 7,
+          "text": "This is why the Holy Spirit says, “If you hear what God is saying to you today,"
+        },
+        {
+          "number": 8,
+          "text": "don't have a hard-hearted attitude* like the time you rebelled against him, when you tested him in the wilderness."
+        },
+        {
+          "number": 9,
+          "text": "Your fathers put me through it, trying my patience, and they saw the evidence I gave them for forty years."
+        },
+        {
+          "number": 10,
+          "text": "That generation made me angry* and so I said, ‘They're always mistaken in what they think, and they don't know me or what I'm doing.’"
+        },
+        {
+          "number": 11,
+          "text": "So in my frustration I vowed, ‘They shall not enter my rest.’”*"
+        },
+        {
+          "number": 12,
+          "text": "Brothers and sisters, make sure that none of you has an evil mindset that's given up trusting in the God of life."
+        },
+        {
+          "number": 13,
+          "text": "Encourage each other every day while you still have “today,” so that none of you will be deceived by sin and become hard-hearted."
+        },
+        {
+          "number": 14,
+          "text": "For we are partners with Christ as long as we hold on to our confidence in God from beginning to end."
+        },
+        {
+          "number": 15,
+          "text": "As Scripture says, “If you hear what God is saying to you today, don't have a hard-hearted attitude like the time you rebelled against him.”*"
+        },
+        {
+          "number": 16,
+          "text": "Who was it that rebelled against God, even though they heard what he said? Wasn't it all those who were led out of Egypt by Moses?"
+        },
+        {
+          "number": 17,
+          "text": "Who was God upset with for forty years? Wasn't it those who sinned, those who were buried in the desert?"
+        },
+        {
+          "number": 18,
+          "text": "Who was God speaking of when he vowed they should not enter into his rest? Wasn't it those who disobeyed him?"
+        },
+        {
+          "number": 19,
+          "text": "So we see that they were not able to enter because they didn't trust him."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "3:1",
+          "text": "Literally, “apostle.” This word taken from the Greek meant one who is sent."
+        },
+        {
+          "ref": "3:2",
+          "text": "The word “house” here means more than the building: it refers to the members of the house, the household, the family. Here and in verse 5 Moses faithfulness as a servant in God's house is referencing Numbers 12:7."
+        },
+        {
+          "ref": "3:8",
+          "text": "“Hard-hearted attitude,” or stubborn/obstinate."
+        },
+        {
+          "ref": "3:10",
+          "text": "As always, God uses human terms. We should not understand God as being angry as we are, especially when it comes to “losing our temper” and acting in unloving or irrational ways. The same comment applies in 3:11."
+        },
+        {
+          "ref": "3:11",
+          "text": "“Rest.” This concept is developed more in chapter 4 and is related to the Sabbath, the Promised Land, and God's invitation to come to him. While it is not the easiest of phrases, “entering rest” is perhaps the best translation since it retains the basis which is to be developed later, and includes all the various allusions. The quotation is fromPsalms 95:7-11."
+        },
+        {
+          "ref": "3:15",
+          "text": "Quoting Psalms 95:7-8."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Therefore let's take care to make sure that even though God has given us his promise of entering his rest, none of you miss out!"
+        },
+        {
+          "number": 2,
+          "text": "For we've heard the good news just like they did, but it didn't help them because they didn't accept and trust in what they heard."
+        },
+        {
+          "number": 3,
+          "text": "However, those of us who trust in God have entered into that rest God mentioned when he said, “In my frustration I vowed, ‘They shall not enter my rest.’”* (This is so even though God's plans were already complete when he created the world.)"
+        },
+        {
+          "number": 4,
+          "text": "Regarding the seventh day there's a place in Scripture that says, “God rested on the seventh day from all his work.”*"
+        },
+        {
+          "number": 5,
+          "text": "And as the previous passage stated, “They shall not enter my rest.”"
+        },
+        {
+          "number": 6,
+          "text": "God's rest is still there for some to enter, even though those who previously heard the good news failed to enter because of disobedience."
+        },
+        {
+          "number": 7,
+          "text": "So God again sets a day—today—saying a long time later through David as he did before, “If you hear what God is saying to you today, don't have a hard-hearted attitude.”*"
+        },
+        {
+          "number": 8,
+          "text": "For if Joshua had been able to give them rest, God wouldn't have spoken later about another day."
+        },
+        {
+          "number": 9,
+          "text": "So a Sabbath rest remains for God's people."
+        },
+        {
+          "number": 10,
+          "text": "For whoever enters God's rest also rests from what he's doing, just as God did."
+        },
+        {
+          "number": 11,
+          "text": "As a result we should try hard to enter that rest so nobody falls through following the same bad example of disobedience."
+        },
+        {
+          "number": 12,
+          "text": "For God's word is alive and effective, sharper than any twin-edged sword, so penetrating it separates life and breath,* bone joints and their marrow, judging the thoughts and intentions of the mind."
+        },
+        {
+          "number": 13,
+          "text": "No living being is hidden from his sight; everything is exposed and visible to the one we're accountable to."
+        },
+        {
+          "number": 14,
+          "text": "Since we have such a great high priest who has ascended to heaven, Jesus the Son of God, let us make sure we hold on to what we say we believe."
+        },
+        {
+          "number": 15,
+          "text": "For the high priest we have isn't one who doesn't sympathize with our weaknesses, but one who was tempted in all the ways we are, but did not sin."
+        },
+        {
+          "number": 16,
+          "text": "So we should go confidently to God on his throne of grace so we can receive mercy, and discover grace to help us when we really need it."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "4:3",
+          "text": "Quoting Psalms 95:11."
+        },
+        {
+          "ref": "4:4",
+          "text": "Quoting Genesis 2:2."
+        },
+        {
+          "ref": "4:7",
+          "text": "Quoting Psalms 95:7."
+        },
+        {
+          "ref": "4:12",
+          "text": "Greek “psuche” and “pneuma,” sometimes translated “soul” and “spirit,” though it is hard to understand the meaning since in common thought there is no difference between “soul” and “spirit.” The translation of “life” and “breath” is employed since it is considered that this better expresses the original thought."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Every high priest is chosen from the people and is appointed to work for the people as they relate to God. He presents to God both their gifts and sacrifices for their sins."
+        },
+        {
+          "number": 2,
+          "text": "The high priest understands how ignorant and deluded people feel because he also experiences the same kind of human weaknesses."
+        },
+        {
+          "number": 3,
+          "text": "As a result he has to offer sacrifices for his sins as well as for those of the people."
+        },
+        {
+          "number": 4,
+          "text": "No one can take the position of high priest for himself; he must be chosen by God, just like Aaron was."
+        },
+        {
+          "number": 5,
+          "text": "In just the same way Christ did not honor himself by becoming high priest. It was God who said to him, “You are my Son. Today I have become your Father.”*"
+        },
+        {
+          "number": 6,
+          "text": "In another verse, God says, “You are a priest forever, following the order of Melchizedek.”*"
+        },
+        {
+          "number": 7,
+          "text": "Jesus, while he was here in human form, prayed and appealed with loud cries and tears to God, the one who was able to save him from death. Jesus was heard because of his respect for God."
+        },
+        {
+          "number": 8,
+          "text": "Even though he was God's Son, Jesus learned through suffering what obedience really means.*"
+        },
+        {
+          "number": 9,
+          "text": "When his experience was complete,* he became the source of eternal salvation to everyone who does what he says,"
+        },
+        {
+          "number": 10,
+          "text": "having been designated by God as a high priest according to the order of Melchizedek."
+        },
+        {
+          "number": 11,
+          "text": "We have much to say about Jesus, and it's hard to explain because you don't seem able to understand!"
+        },
+        {
+          "number": 12,
+          "text": "By now you should have had enough time to become teachers, but you need someone to teach you the fundamentals, the first principles of God's word. It's like you need to go back to baby milk instead of solid food!"
+        },
+        {
+          "number": 13,
+          "text": "Those who drink baby milk don't have the experience of living the right way—they're just babies."
+        },
+        {
+          "number": 14,
+          "text": "Solid food is for grown-ups—those who by always using their brains have learned to tell the difference between good and evil."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "5:5",
+          "text": "Quoting Psalms 2:7."
+        },
+        {
+          "ref": "5:6",
+          "text": "Quoting Psalms 110:4."
+        },
+        {
+          "ref": "5:8",
+          "text": "The usual translation that Jesus “learned obedience through suffering” could suggest that Jesus was not originally obedient, or that suffering was necessary in order for him to learn—both rather strange ideas to place on Jesus, the pre-existing Son of God. The thought here appears to be that even though Jesus was God's Son, his earthly expereince demonstrated the cost and consequences of obedience. In some ways this parallels Jesus request to have the cup of suffering taken away from him, but then he surrenders his will in obedience to his Father. See Matthew 26:39."
+        },
+        {
+          "ref": "5:9",
+          "text": "Avoiding the term “having been made perfect,” which in the minds of some might suggest he wasn't perfect in the first place."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "So let's not get stuck on the basic teachings about Christ, but let's progress to a more mature understanding. We don't need to go over again the ideas of repenting from what we used to do, about trusting in God—"
+        },
+        {
+          "number": 2,
+          "text": "or teachings about baptism, the laying on of hands, the resurrection of the dead, and eternal judgment."
+        },
+        {
+          "number": 3,
+          "text": "So let's get on with it, as God gives us the opportunity!"
+        },
+        {
+          "number": 4,
+          "text": "It's impossible for those who once understood and experienced God's heavenly gift—who shared in receiving the Holy Spirit,"
+        },
+        {
+          "number": 5,
+          "text": "who had known God's good word and the power of the coming age—"
+        },
+        {
+          "number": 6,
+          "text": "and then completely abandon* God, for them to be brought back to repentance once more. They themselves have crucified the Son of God all over again and publicly humiliated him."
+        },
+        {
+          "number": 7,
+          "text": "Land that has been watered by rain, and produces crops for those who farm it, has God's blessing."
+        },
+        {
+          "number": 8,
+          "text": "But land that only produces weeds and thorns is worthless, and is about to be condemned. In the end all that can be done is to burn it."
+        },
+        {
+          "number": 9,
+          "text": "But dear friends, we believe better of you and your salvation, even if we talk like this!"
+        },
+        {
+          "number": 10,
+          "text": "God wouldn't be so unjust as to forget what you've done and the love you've shown for him by the care you've shown for fellow-believers—something you're still doing."
+        },
+        {
+          "number": 11,
+          "text": "We want each of you to show the same kind of commitment, confident in God's hope until it's fulfilled."
+        },
+        {
+          "number": 12,
+          "text": "Don't be spiritually lazy, but follow the example of those who through trusting in God and patience inherit what God has promised."
+        },
+        {
+          "number": 13,
+          "text": "When God gave his promise to Abraham he could swear by no one greater so he took an oath on himself,"
+        },
+        {
+          "number": 14,
+          "text": "saying, “I will definitely bless you, and multiply your descendants.”*"
+        },
+        {
+          "number": 15,
+          "text": "And so, after patiently waiting, Abraham received the promise."
+        },
+        {
+          "number": 16,
+          "text": "People swear on things that are greater than they are, and when they have some dispute the oath is taken as the final word on the matter."
+        },
+        {
+          "number": 17,
+          "text": "That's why God wanted to demonstrate more clearly to those who would inherit the promise that he would never ever change his mind."
+        },
+        {
+          "number": 18,
+          "text": "So by these two actions* that can't be changed, and since it's impossible for God to lie, we can have total confidence, having run for safety to take hold of the hope God presented to us."
+        },
+        {
+          "number": 19,
+          "text": "This hope is our spiritual anchor—it's both certain and reliable, and it takes us past the curtain to the presence of God."
+        },
+        {
+          "number": 20,
+          "text": "That's where Jesus went in on our behalf, because he had become a high priest according to the order of Melchizedek."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "6:6",
+          "text": "“Completely abandon.” The word in the Greek text is only used once in the New Testament and means to totally renounce and repudiate a belief. It is not the usual word for apostasy."
+        },
+        {
+          "ref": "6:14",
+          "text": "Quoting Genesis 22:17."
+        },
+        {
+          "ref": "6:18",
+          "text": "That is, the promise and the oath."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Melchizedek was king of Salem and priest of the Most High God. He met Abraham who was returning from defeating the kings and blessed him.*"
+        },
+        {
+          "number": 2,
+          "text": "Abraham gave him a tithe of all that he had won. Melchizedek's name means “king of right” while king of Salem means “king of peace.”"
+        },
+        {
+          "number": 3,
+          "text": "We don't have any information about his father or his mother or his family tree. We don't know when he was born or when he died. Like the Son of God he continues as a priest forever."
+        },
+        {
+          "number": 4,
+          "text": "Think how great this man was for Abraham the patriarch to give him a tithe of what was won in battle."
+        },
+        {
+          "number": 5,
+          "text": "Yes, the sons of Levi who are priests were commanded by the law to receive a tithe from the people, their brothers and sisters, who are descended from Abraham."
+        },
+        {
+          "number": 6,
+          "text": "But Melchizedek who doesn't share their ancestry received tithes from Abraham, and blessed the one who had God's promises."
+        },
+        {
+          "number": 7,
+          "text": "There's no argument that the lesser person is blessed by the one who is greater."
+        },
+        {
+          "number": 8,
+          "text": "In the one case tithes are received by men who die, but in the other by one who is said to be living."
+        },
+        {
+          "number": 9,
+          "text": "So you could say that Levi, the one who receives tithes, has paid tithes through being a descendant of Abraham,"
+        },
+        {
+          "number": 10,
+          "text": "for he was yet to be born from his father* when Melchizedek met Abraham."
+        },
+        {
+          "number": 11,
+          "text": "Now if perfection could have been achieved through the priesthood of Levi (for that's how the law was received), what was the need for another priest to come following the order of Melchizedek, and not following the order of Aaron?"
+        },
+        {
+          "number": 12,
+          "text": "If the priesthood is changed, then the law needs to be changed too."
+        },
+        {
+          "number": 13,
+          "text": "The one we're talking about comes from a different tribe, a tribe that has never provided priests to serve at the altar."
+        },
+        {
+          "number": 14,
+          "text": "It's clear that our Lord is a descendant of Judah, and Moses said nothing about priests coming from this tribe."
+        },
+        {
+          "number": 15,
+          "text": "What makes it even clearer is when another priest appears who is similar to Melchizedek,"
+        },
+        {
+          "number": 16,
+          "text": "and who didn't become a priest by virtue of his human ancestry but by the power of a life that cannot be ended."
+        },
+        {
+          "number": 17,
+          "text": "That's why it says, “You are a priest forever according to the order of Melchizedek.”*"
+        },
+        {
+          "number": 18,
+          "text": "So the previous rule has been set aside because it was powerless and didn't work,"
+        },
+        {
+          "number": 19,
+          "text": "(for the law didn't make anything perfect). But now it's been replaced by a better hope by which we can come close to God."
+        },
+        {
+          "number": 20,
+          "text": "This* was not without an oath, even though those who become priests do so without an oath."
+        },
+        {
+          "number": 21,
+          "text": "But he became a priest with an oath because God told him, “The Lord has taken a solemn vow and will not change his mind: You are a priest forever.”*"
+        },
+        {
+          "number": 22,
+          "text": "This is how Jesus became the guarantee of an agreed relationship with God* that is so much better."
+        },
+        {
+          "number": 23,
+          "text": "There have been many priests because death prevented them from being able to continue;"
+        },
+        {
+          "number": 24,
+          "text": "but since Jesus lives forever, his priesthood is permanent."
+        },
+        {
+          "number": 25,
+          "text": "As a result he is able to save completely those who come to God through him, living always to plead their case on their behalf."
+        },
+        {
+          "number": 26,
+          "text": "He is exactly the high priest we need: holy and without fault, pure and separate from sinners, and given a place in the highest heavens."
+        },
+        {
+          "number": 27,
+          "text": "Unlike those human high priests, he doesn't need to offer a daily sacrifice for his sins and then the sins of the people. He did this once, and for everyone, when he offered himself."
+        },
+        {
+          "number": 28,
+          "text": "The law appoints imperfect men as high priests, but God gave his solemn vow after the law, and appointed his Son, perfect forever."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "7:1",
+          "text": "See Genesis 14:18."
+        },
+        {
+          "ref": "7:10",
+          "text": "Literally, “in his father's loins.”"
+        },
+        {
+          "ref": "7:17",
+          "text": "Quoting Psalms 110:4."
+        },
+        {
+          "ref": "7:20",
+          "text": "Referring to the new way of approaching God."
+        },
+        {
+          "ref": "7:21",
+          "text": "Quoting Psalms 110:4."
+        },
+        {
+          "ref": "7:22",
+          "text": "“An agreed relationship with God.” This translates a single word in Greek that has traditionally been translated as “covenant.” However, the word “covenant” does not normally occur in everyday English and so has become a “theological” word. Much has been written about this concept and the terms used, and “covenant” has often been retained as there does not seem to be an effective way of explaining what is meant here. The covenant concept is extensively developed in chapters 8 and 9. Problems exist with alternative words. The word “contract” can mean the result of bargaining, which is not the case here. Similarly “treaty” or “agreement” when seen in human terms may refer to mutual negotiations. But here the word refers to something that is God's initiative, and certainly is not between equals. Perhaps a better concept is “a promise that is agreed to with corresponding obligations,” but such wording would be even more cumbersome."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The main point of what we're saying is this: We have just such a high priest who is seated at the right hand of God, who sits in majesty on his throne in heaven."
+        },
+        {
+          "number": 2,
+          "text": "He serves in the sanctuary, the true Tabernacle that was set up by the Lord and not by human beings."
+        },
+        {
+          "number": 3,
+          "text": "Since it's the responsibility of every high priest to offer gifts and sacrifices, this high priest must also have something to offer."
+        },
+        {
+          "number": 4,
+          "text": "Now if he was here on earth, he wouldn't be a priest at all, because there are already priests to present the offerings that the law requires."
+        },
+        {
+          "number": 5,
+          "text": "The place they serve is a copy, a mere shadow of what is in heaven. That's what God told Moses when he was going to set up the Tabernacle: “Be careful to make everything according to the blueprint you were shown on the mountain.”*"
+        },
+        {
+          "number": 6,
+          "text": "But Jesus has been given a far better ministry just as he is the one who mediates a far better agreed relationship between us and God, which is based on much better promises."
+        },
+        {
+          "number": 7,
+          "text": "If that first agreement had been perfect, then a second wouldn't have been necessary."
+        },
+        {
+          "number": 8,
+          "text": "Pointing out their failings,* God told his people, “Pay attention, says the Lord, because the days are coming when I will make a new agreement with the people of Israel and Judah."
+        },
+        {
+          "number": 9,
+          "text": "This will not be like the agreement I made with their forefathers when I led them by the hand out of the land of Egypt. For they didn't keep their part of the agreed relationship, so I gave up on them, says the Lord."
+        },
+        {
+          "number": 10,
+          "text": "The relationship I promise to the house of Israel is this: After that time, says the Lord, I will place my laws inside them, and write them in their minds. I will be their God, and they will be my people."
+        },
+        {
+          "number": 11,
+          "text": "No one will need to teach their neighbor, and no one will need to teach anyone in their family, telling them, ‘You ought to know the Lord.’ For everyone will know me, from the smallest to the greatest."
+        },
+        {
+          "number": 12,
+          "text": "I will be merciful when they do wrong, and I will forget about their sins.”*"
+        },
+        {
+          "number": 13,
+          "text": "By saying, “A new agreed relationship,” he makes the first agreement out-of-date. The one that's old and worn out has almost disappeared."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "8:5",
+          "text": "Quoting Exodus 25:40."
+        },
+        {
+          "ref": "8:8",
+          "text": "Making it clear that the failure of the “first covenant” was not due to a faulty agreement but that God's people did not live up to their responsibilities under the agreement."
+        },
+        {
+          "ref": "8:12",
+          "text": "Quoting Jeremiah 31:31-34."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The former system had instructions as to how to worship, and an earthly sanctuary."
+        },
+        {
+          "number": 2,
+          "text": "The first room in the Tabernacle housed the candlestick, the table, and the sacred bread. This was called the Holy Place."
+        },
+        {
+          "number": 3,
+          "text": "Past the second veil in the Tabernacle was the room called the Most Holy Place."
+        },
+        {
+          "number": 4,
+          "text": "This contained the golden altar of incense, the gold-covered “agreement chest.”* Inside this were the golden pot containing manna, Aaron's rod that had produced buds, and the stone inscriptions of the agreement.*"
+        },
+        {
+          "number": 5,
+          "text": "Above this were the glorious angel cherubim covering the place of reconciliation. We can't discuss all of this in detail now."
+        },
+        {
+          "number": 6,
+          "text": "Once all of this had been set up, the priests would go in regularly to the first room of the Tabernacle to perform their duties."
+        },
+        {
+          "number": 7,
+          "text": "But only the high priest went into the second room, and only once a year. Even then he had to make a sacrifice involving blood,* which he offered for himself and for the people's sins of ignorance."
+        },
+        {
+          "number": 8,
+          "text": "By this the Holy Spirit indicated that the way into the true Most Holy Place hadn't been revealed while the first Tabernacle still existed.*"
+        },
+        {
+          "number": 9,
+          "text": "This is an illustration for us in the present, showing us that the gifts and sacrifices that are offered can't make the worshiper's conscience clear."
+        },
+        {
+          "number": 10,
+          "text": "They're just religious regulations—about food and drink, and various ceremonies involving washing—which were put in place until the time of God's new way of relating to him."
+        },
+        {
+          "number": 11,
+          "text": "Christ has come as a high priest of all the good experiences we now have. He went into the greater, more complete Tabernacle that wasn't made by human hands—not part of this created world."
+        },
+        {
+          "number": 12,
+          "text": "He didn't enter through the blood of goats and calves, but through his own blood. He entered once, for all time, into the Most Holy Place, setting us free forever."
+        },
+        {
+          "number": 13,
+          "text": "For if the blood of goats and bulls and the ashes of a cow sprinkled on those who are ritually unclean make the body ceremonially clean,"
+        },
+        {
+          "number": 14,
+          "text": "how much more does the blood of Christ—who offered himself in his sinless life to God through the eternal Spirit—clean your consciences from your past sinful lives so you can serve the living God?"
+        },
+        {
+          "number": 15,
+          "text": "This is why he is the mediator of a new agreed relationship. Since a death has occurred to set them free from the sins committed under the first agreed relationship, now those who are called can receive the promise of an eternal inheritance."
+        },
+        {
+          "number": 16,
+          "text": "For a will to be implemented, the person who made it must be dead."
+        },
+        {
+          "number": 17,
+          "text": "A will is only valid when there's been a death—and is never applied while the person who made it is still alive."
+        },
+        {
+          "number": 18,
+          "text": "That's why the first agreement was established with blood."
+        },
+        {
+          "number": 19,
+          "text": "After Moses had given all the commandments of the law to everyone, he took the blood of calves and goats, and together with water, scarlet wool, and hyssop, sprinkled the book* itself and all the people."
+        },
+        {
+          "number": 20,
+          "text": "He said to them, “This is the blood of the agreed relationship that God has told you he wants with you.”*"
+        },
+        {
+          "number": 21,
+          "text": "Moses sprinkled the blood in the same way on the Tabernacle and everything used in worship."
+        },
+        {
+          "number": 22,
+          "text": "According to ceremonial law, almost everything is made clean with blood, and without shedding blood nothing is made ritually free from the stain of sin."
+        },
+        {
+          "number": 23,
+          "text": "So if the copies of what is in heaven needed to be cleansed in this way, the things in heaven needed cleansing by better sacrifices."
+        },
+        {
+          "number": 24,
+          "text": "For Christ hasn't entered a Most Holy Place constructed by human beings that is only a pattern of the original. He has entered heaven itself, and now appears on our behalf, speaking for us in God's presence."
+        },
+        {
+          "number": 25,
+          "text": "This was not to repeatedly offer himself, like a high priest has to enter the Most Holy Place year after year, offering blood that is not his own."
+        },
+        {
+          "number": 26,
+          "text": "Otherwise Christ would have had to suffer many times since the creation of the world. No: just this one time at the end of the present age he came to remove sin by sacrificing himself."
+        },
+        {
+          "number": 27,
+          "text": "Just as human beings die only once, and then are judged,"
+        },
+        {
+          "number": 28,
+          "text": "so too for Christ—having been sacrificed once to take away the sins of many people, he will come again, not to deal with sin, but to save those who wait for him."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "9:4",
+          "text": "Traditionally translated “ark of the covenant,” a wooden box symbolizing the place of meeting, reconciliation, and agreement between God and his people."
+        },
+        {
+          "ref": "9:4",
+          "text": "Usually believed to be the stone inscriptions of the ten commandments."
+        },
+        {
+          "ref": "9:7",
+          "text": "Blood is a frequent theme in the latter part of Hebrews. It is a shorthand symbol for life, and the shed blood of death, and while the original context of the sacrificial system is certainly literal, its use in Hebrews when applied to Christ is primarily as a symbol of what he accomplished by his life, death, and resurrection."
+        },
+        {
+          "ref": "9:8",
+          "text": "The meaning of this statement is the subject of much debate. It could be generally concluded that in the light of the new revelation of God through Jesus, which is the focus of the New Testament and particularly the Book of Hebrews, that this passage is referring to Jesus as the full revelation of God, providing “access” to him, and that this had not happened under the old system (reference Jesus' statement in John 14:6)."
+        },
+        {
+          "ref": "9:19",
+          "text": "The book of the law."
+        },
+        {
+          "ref": "9:20",
+          "text": "Quoting Exodus 24:8."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The law is just a shadow of the good that was to come, and not the actual reality. So it can never through the repeated sacrifices offered year after year make right those who come to worship God."
+        },
+        {
+          "number": 2,
+          "text": "Otherwise wouldn't the sacrifices have stopped being offered? If the worshipers had been made clean once and for all, they wouldn't have had guilty consciences any longer."
+        },
+        {
+          "number": 3,
+          "text": "But in fact those sacrifices remind people of sins year after year,"
+        },
+        {
+          "number": 4,
+          "text": "because it's impossible for the blood of bulls and goats to remove sins."
+        },
+        {
+          "number": 5,
+          "text": "That's why when Christ* came into the world he said, “You didn't want sacrifices or offerings, but you did prepare a body for me."
+        },
+        {
+          "number": 6,
+          "text": "Burnt offerings and sacrifices for sin gave you no pleasure."
+        },
+        {
+          "number": 7,
+          "text": "Then I said, ‘God, see I've come to do what you want me to do, just as it says about me in the book.’”*"
+        },
+        {
+          "number": 8,
+          "text": "As mentioned above, “You didn't want sacrifices or offerings, and burnt offerings and sacrifices for sin gave you no pleasure,” (even though they are offered in accordance with the law's requirements)."
+        },
+        {
+          "number": 9,
+          "text": "Then he said, “See, I've come to do what you want.” He gets rid of the first agreement so he can set up the second,"
+        },
+        {
+          "number": 10,
+          "text": "through which we all are made holy through Jesus Christ offering his body once and for all time."
+        },
+        {
+          "number": 11,
+          "text": "Every priest officiates in the services day after day, again and again offering the same sacrifices that can never remove sins."
+        },
+        {
+          "number": 12,
+          "text": "But this Priest, after he had offered for sins a single sacrifice that lasts forever, sat down at God's right hand."
+        },
+        {
+          "number": 13,
+          "text": "Now he waits until all his enemies are conquered, becoming like a footstool for him."
+        },
+        {
+          "number": 14,
+          "text": "For by a single sacrifice he has set right forever those who are being made holy."
+        },
+        {
+          "number": 15,
+          "text": "As the Holy Spirit also tells us, for having said,"
+        },
+        {
+          "number": 16,
+          "text": "“This is the agreement that I will make with them later on, says the Lord. I will put my laws inside them, and I will write them in their minds.” Then he adds,"
+        },
+        {
+          "number": 17,
+          "text": "“I won't remember their sins and lawlessness anymore.”*"
+        },
+        {
+          "number": 18,
+          "text": "Once free from such things, sin offerings are no longer needed."
+        },
+        {
+          "number": 19,
+          "text": "Now we have the confidence, brothers and sisters, to enter the Most Holy Place by the blood of Jesus."
+        },
+        {
+          "number": 20,
+          "text": "Through his life and death,* he opened up a brand-new, living way through the veil to God."
+        },
+        {
+          "number": 21,
+          "text": "Since we have such a great priest placed in charge over the house of God,"
+        },
+        {
+          "number": 22,
+          "text": "let us come close to God with sincere minds, totally trusting in him. Our minds have been sprinkled to purify them from our evil way of thinking, and our bodies have been washed clean by pure water."
+        },
+        {
+          "number": 23,
+          "text": "So let us hold onto the hope we're telling others about, never hesitating, for God who promised is trustworthy."
+        },
+        {
+          "number": 24,
+          "text": "Let's think about how we can motivate one another to love and to do what is good."
+        },
+        {
+          "number": 25,
+          "text": "We should not give up meeting together, as some have done. In fact we should be encouraging one another, especially as you see the End* approaching."
+        },
+        {
+          "number": 26,
+          "text": "For if we deliberately go on sinning after we've understood the truth, there's no longer any sacrifice for sins."
+        },
+        {
+          "number": 27,
+          "text": "All that's left is fear, expecting the impending judgment and the terrible fire that destroys those who are hostile to God."
+        },
+        {
+          "number": 28,
+          "text": "Someone who rejects the law of Moses is put to death without mercy on the evidence of two or three witnesses."
+        },
+        {
+          "number": 29,
+          "text": "How much worse do you think someone will deserve their punishment if they have trampled underfoot the Son of God, if they have disregarded the blood that sealed the agreement and makes us holy, treating it as ordinary and trivial, and have abused the Spirit of grace?"
+        },
+        {
+          "number": 30,
+          "text": "We know God, and he said, “I will make sure that justice is done; I will give people what they deserve.” He also said, “The Lord will judge his people.”*"
+        },
+        {
+          "number": 31,
+          "text": "It's terrifying to come under the power of the living God."
+        },
+        {
+          "number": 32,
+          "text": "Just remember the past when, after you understood the truth,* you experienced a great deal of suffering."
+        },
+        {
+          "number": 33,
+          "text": "Sometimes you were made a spectacle of, being insulted and attacked; at other times you stood in solidarity with those who were suffering."
+        },
+        {
+          "number": 34,
+          "text": "You showed your sympathy for those in prison, and took it cheerfully when your possessions were confiscated, knowing that you have something better coming that will truly last."
+        },
+        {
+          "number": 35,
+          "text": "So don't lose your confidence in God—it will be richly rewarded."
+        },
+        {
+          "number": 36,
+          "text": "You need to be patient so that having done what God wants, you'll receive what he has promised."
+        },
+        {
+          "number": 37,
+          "text": "“In just a little while he will come, as he said—he won't delay."
+        },
+        {
+          "number": 38,
+          "text": "Those who do what is right will live by trusting in God, and if they draw back from their commitment, I won't be pleased with them.”*"
+        },
+        {
+          "number": 39,
+          "text": "But we're not the kind of people who draw back and end up being lost. We are those who trust in God to save us."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "10:5",
+          "text": "The original simply says “he.” Christ is inferred from 9:24, 9:28."
+        },
+        {
+          "ref": "10:7",
+          "text": "Actually “the heading of a scroll,” meaning the Scriptures. The quoatation is from Psalms 40:6-8."
+        },
+        {
+          "ref": "10:17",
+          "text": "Quoting Jeremiah 31:33-34."
+        },
+        {
+          "ref": "10:20",
+          "text": "“His life and death”: Literally, “his body.”"
+        },
+        {
+          "ref": "10:25",
+          "text": "Literally, “the Day.”"
+        },
+        {
+          "ref": "10:30",
+          "text": "Quoting Deuteronomy 32:35-36; Psalms 135:14."
+        },
+        {
+          "ref": "10:32",
+          "text": "Literally, “were enlightened.”"
+        },
+        {
+          "ref": "10:38",
+          "text": "This is a rather free reference to Isaiah 26:20 and Habakkuk 2:3-4. Clearly the one promising to return is viewed in this context as Jesus."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Now our trust in God is the guarantee of what we hope for, the evidence of what we can't see."
+        },
+        {
+          "number": 2,
+          "text": "People who lived long ago trusted God and this is what gained them God's approval."
+        },
+        {
+          "number": 3,
+          "text": "Through our trust in God we understand that the whole universe was created by God's command, that what can be seen was made out of what cannot be seen."
+        },
+        {
+          "number": 4,
+          "text": "By trusting him Abel offered God a better sacrifice than Cain, and as a result God identified him as someone who lived right. God showed this by accepting his offering. Even though Abel has been dead for a long time, he still speaks to us through what he did."
+        },
+        {
+          "number": 5,
+          "text": "By trusting God Enoch was taken to heaven so he didn't experience death. He couldn't be found on earth because God took him to heaven.* Before this happened he was known as someone God was pleased with."
+        },
+        {
+          "number": 6,
+          "text": "You can't expect God to be pleased with you if you don't trust him! Anyone who comes to God must believe that God exists, and that he rewards those who are searching for him."
+        },
+        {
+          "number": 7,
+          "text": "Noah trusted God, and was warned by him about things that had never happened before. Because Noah paid serious attention to what God said, he constructed an ark to save his family. By trusting God, Noah showed that the world was wrong, and received the reward of being set right by God."
+        },
+        {
+          "number": 8,
+          "text": "Through trusting God Abraham obeyed when God called him to go to the land God was going to give him. He left, not knowing where he was going."
+        },
+        {
+          "number": 9,
+          "text": "Trusting in God he lived in the promised land—but as a foreigner, living in tents, together with Isaac and Jacob who shared with him in inheriting the same promise."
+        },
+        {
+          "number": 10,
+          "text": "For Abraham was looking forward to a city built on foundations that last, with God as its builder and maker."
+        },
+        {
+          "number": 11,
+          "text": "By her trust in God even Sarah* herself was given the ability to conceive a child though she was too old, because she trusted God who had made the promise."
+        },
+        {
+          "number": 12,
+          "text": "That is why the descendants of Abraham (who was as good as dead!) became as numerous as the stars of heaven, as countless as the sand of the sea shore."
+        },
+        {
+          "number": 13,
+          "text": "They all died still trusting in God. Though they didn't receive the things God promised, they were still looking for them as it were from a distance and welcomed them, acknowledging that on this earth they were foreigners, people just passing through."
+        },
+        {
+          "number": 14,
+          "text": "People who say such things make it clear that they're looking for a country of their own."
+        },
+        {
+          "number": 15,
+          "text": "For if they cared about the country they'd left behind, they could have returned."
+        },
+        {
+          "number": 16,
+          "text": "But they're looking for a better country instead, a heavenly country. That is why God isn't disappointed with them, and is happy to be called their God, for he has built a city for them."
+        },
+        {
+          "number": 17,
+          "text": "Abraham trusted God when he was tested and offered Isaac to God. Abraham, who had accepted God's promises, was still ready to offer to God his only son,*"
+        },
+        {
+          "number": 18,
+          "text": "even though he'd been told, “It's through Isaac that your descendants will be counted.”*"
+        },
+        {
+          "number": 19,
+          "text": "Abraham had thought it through and decided that God could bring Isaac back to life from the dead. In a sense that's what did happen—Abraham received Isaac back from the dead."
+        },
+        {
+          "number": 20,
+          "text": "Trusting in God, Isaac blessed Jacob and Esau in regard to what the future would bring."
+        },
+        {
+          "number": 21,
+          "text": "Trusting in God, Jacob as he was dying blessed each of Joseph's sons, and worshiped God, leaning on his staff."
+        },
+        {
+          "number": 22,
+          "text": "Trusting in God, Joseph too, when his own death approached, spoke about the exodus of the Israelites, and gave instructions about what to do with his bones."
+        },
+        {
+          "number": 23,
+          "text": "Trusting in God, Moses' parents hid him for three months after he was born. They recognized he was a special child. They weren't afraid to go against what the king had commanded."
+        },
+        {
+          "number": 24,
+          "text": "Trusting in God, Moses, when he grew up, refused to be known as the adopted son of Pharaoh's daughter."
+        },
+        {
+          "number": 25,
+          "text": "Instead he chose to share in the sufferings of God's people rather than to enjoy the temporary pleasures of sin."
+        },
+        {
+          "number": 26,
+          "text": "He counted the rejection he experienced from following Christ to be of far greater value than the wealth of Egypt—because he was focused on the reward to come."
+        },
+        {
+          "number": 27,
+          "text": "Trusting in God, he left Egypt and wasn't scared of Pharaoh's anger—he kept going with his eyes fixed on the invisible God."
+        },
+        {
+          "number": 28,
+          "text": "Trusting in God he observed the Passover and the sprinkling of blood, so that the destroying angel would not touch the Israelites.*"
+        },
+        {
+          "number": 29,
+          "text": "Trusting in God the Israelites crossed the Red Sea as if it were dry land. When the Egyptians attempted to do the same they were drowned."
+        },
+        {
+          "number": 30,
+          "text": "Trusting in God, the Israelites marched around the walls of Jericho for seven days, and the walls fell down."
+        },
+        {
+          "number": 31,
+          "text": "Trusting in God, Rahab the prostitute didn't die with those who rejected God, because she had welcomed the Israelite spies in peace."
+        },
+        {
+          "number": 32,
+          "text": "What other examples should I give? I don't have time to talk about Gideon, Barak, Samson, Jephthah; about David, Samuel, and the prophets."
+        },
+        {
+          "number": 33,
+          "text": "Because of their trust in God they conquered kingdoms, did what was good and right, received God's promises, shut the mouths of lions,"
+        },
+        {
+          "number": 34,
+          "text": "put out blazing fires, escaped being killed by the sword, were weak but made strong, did mighty deeds in war, and routed enemy armies."
+        },
+        {
+          "number": 35,
+          "text": "Women were given their dead family members back through resurrection. Others were tortured, refusing to compromise and be pardoned, because they wanted to be part of a better resurrection."
+        },
+        {
+          "number": 36,
+          "text": "Yet others suffered insults and whippings; they were put in chains and imprisoned."
+        },
+        {
+          "number": 37,
+          "text": "Some were stoned, cut in pieces, tempted, killed by the sword. Some dressed in sheepskins and goatskins: destitute, oppressed, and mistreated."
+        },
+        {
+          "number": 38,
+          "text": "The world was not worthy to have such people who wandered in the deserts and mountains, living in caves and holes in the ground."
+        },
+        {
+          "number": 39,
+          "text": "All of these people, even though they had God's approval, didn't receive what God had promised."
+        },
+        {
+          "number": 40,
+          "text": "God has given us something even better, so that they can't be complete without us."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "11:5",
+          "text": "See Genesis 5:24."
+        },
+        {
+          "ref": "11:11",
+          "text": "Some versions say Abraham."
+        },
+        {
+          "ref": "11:17",
+          "text": "Of course Isaac was not literally Abraham's only son; the term in Greek indicates primacy."
+        },
+        {
+          "ref": "11:18",
+          "text": "See Genesis 21:12."
+        },
+        {
+          "ref": "11:28",
+          "text": "“Angel” and “Israelites” supplied by context."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "For that reason, since we are surrounded by such a great crowd of people who gave evidence of their trust in God, let's get rid of everything that holds us back, the seductive sins that trip us up, and let's keep on running the race placed before us."
+        },
+        {
+          "number": 2,
+          "text": "We should keep on looking to Jesus, the one who begins and completes our trust in God. Because of the joy ahead of him Jesus endured the cross, disregarding its shame, and sat down at the right hand of God's throne."
+        },
+        {
+          "number": 3,
+          "text": "Think about Jesus who endured such hostility from sinful people so you don't grow tired and become discouraged."
+        },
+        {
+          "number": 4,
+          "text": "Your resistance so far hasn't cost you blood as you fight against sin."
+        },
+        {
+          "number": 5,
+          "text": "Have you forgotten* God's appeal to you when he reasons with you as his children? He says, “My child, don't treat the Lord's discipline lightly, and don't give up when he corrects you either."
+        },
+        {
+          "number": 6,
+          "text": "The Lord disciplines everyone he loves, and he punishes everyone he welcomes as his child.”"
+        },
+        {
+          "number": 7,
+          "text": "Be patient as you experience God's discipline because he is treating you as his children. What child doesn't experience a father's discipline?"
+        },
+        {
+          "number": 8,
+          "text": "If you are not disciplined (which everyone has experienced), then you are illegitimate and not true children."
+        },
+        {
+          "number": 9,
+          "text": "For if we respected our earthly fathers who disciplined us, shouldn't we even more be subject to the discipline of our spiritual Father which leads to life?"
+        },
+        {
+          "number": 10,
+          "text": "They disciplined us for a short while as they thought appropriate, but God does so for our benefit in order that we can share his holy character."
+        },
+        {
+          "number": 11,
+          "text": "When it happens, all discipline seems painful and not something to be happy about. But later on it produces peace in those who have been trained in this way so that they do what is good and right."
+        },
+        {
+          "number": 12,
+          "text": "So strengthen your feeble hands, and your weak knees!*"
+        },
+        {
+          "number": 13,
+          "text": "Make straight paths to walk on,* so that those who are crippled won't lose their way, but will be healed."
+        },
+        {
+          "number": 14,
+          "text": "Do your best to live in peace with everybody, and look for holiness—if you don't have this you won't see the Lord."
+        },
+        {
+          "number": 15,
+          "text": "Make sure that none of you lack God's grace, in case some cause of bitterness* arises to give trouble and end up corrupting many of you."
+        },
+        {
+          "number": 16,
+          "text": "Make sure there's nobody who is sexually immoral, or irreligious, like Esau was. He sold his birthright for a single meal."
+        },
+        {
+          "number": 17,
+          "text": "You remember that even when he wanted to receive the blessing later on he was refused. Even though he really tried, and cried hard, Esau couldn't change what he had done."
+        },
+        {
+          "number": 18,
+          "text": "You haven't arrived at a physical mountain* that can be touched, that burned with fire, to a stormy place of black darkness,"
+        },
+        {
+          "number": 19,
+          "text": "where the sound of a trumpet and a voice speaking was heard—and those who heard the voice begged never to hear it speak to them again."
+        },
+        {
+          "number": 20,
+          "text": "For they couldn't take what they were told to do, such as, “Even if a farm animal touches the mountain, it must be stoned to death.”*"
+        },
+        {
+          "number": 21,
+          "text": "The sight was so terrifying that Moses himself said, “I'm so scared I'm shaking!”*"
+        },
+        {
+          "number": 22,
+          "text": "But you have arrived at Mount Zion, the city of the living God, heavenly Jerusalem, with its thousands and thousands of angels."
+        },
+        {
+          "number": 23,
+          "text": "You have come to the church of the firstborn whose names are written down in heaven, to God, the judge of everyone, and to those good people whose lives are complete."
+        },
+        {
+          "number": 24,
+          "text": "You have come to Jesus, who shares with us the new agreed relationship, to the sprinkled blood that means more than that of Abel.*"
+        },
+        {
+          "number": 25,
+          "text": "Make sure you don't reject the one who is speaking! If they didn't escape when they rejected God on earth, it is even more certain that we won't escape if we turn away from God who warns us from heaven!"
+        },
+        {
+          "number": 26,
+          "text": "Back then God's voice shook the earth, but his promise is now: “One more time I'm going to shake not only the earth, but heaven too.”*"
+        },
+        {
+          "number": 27,
+          "text": "This expression, “one more time,” indicates that all creation that is shaken is removed so that everything that is not shaken may remain."
+        },
+        {
+          "number": 28,
+          "text": "Since we're receiving a kingdom that cannot be shaken, let us have a gracious attitude, so we can serve God in a way that pleases him, with reverence and respect."
+        },
+        {
+          "number": 29,
+          "text": "For “our God is a fire that consumes.”*"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "12:5",
+          "text": "Or “You have forgotten.”"
+        },
+        {
+          "ref": "12:12",
+          "text": "Quoting Isaiah 35:3."
+        },
+        {
+          "ref": "12:13",
+          "text": "Quoting Proverbs 4:26."
+        },
+        {
+          "ref": "12:15",
+          "text": "See Deuteronomy 29:18."
+        },
+        {
+          "ref": "12:18",
+          "text": "Clearly the reference in context is to Mount Sinai."
+        },
+        {
+          "ref": "12:20",
+          "text": "Quoting Exodus 19:12-13"
+        },
+        {
+          "ref": "12:21",
+          "text": "Quoting Deuteronomy 9:19."
+        },
+        {
+          "ref": "12:24",
+          "text": "Probably meaning that Jesus shed his blood in a spirit of forgiveness, while in the context of the first murder God references Abel's blood as calling out for vengeance."
+        },
+        {
+          "ref": "12:26",
+          "text": "Quoting Haggai 2:6."
+        },
+        {
+          "ref": "12:29",
+          "text": "Quoting Deuteronomy 4:24."
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "verses": [
+        {
+          "number": 1,
+          "text": "May love for each other as brothers and sisters always continue!"
+        },
+        {
+          "number": 2,
+          "text": "Don't forget to show love for strangers too, because by doing so some have welcomed angels without knowing it."
+        },
+        {
+          "number": 3,
+          "text": "Remember those who are locked up in prison as if you were imprisoned with them. Remember those who are mistreated as if you were physically suffering with them."
+        },
+        {
+          "number": 4,
+          "text": "Everyone should honor marriage. Husbands and wives should be faithful to each other.* God will judge adulterers."
+        },
+        {
+          "number": 5,
+          "text": "Don't love money; be content with what you have. God himself has said, “I'll never let you down; I'll never give up on you.”*"
+        },
+        {
+          "number": 6,
+          "text": "That's why we can confidently say, “The Lord is the one who helps me, so I won't be afraid. What can anyone do to me?”*"
+        },
+        {
+          "number": 7,
+          "text": "Remember your leaders who explained God's word to you. Look again at the results of their lives, and imitate their trust in God."
+        },
+        {
+          "number": 8,
+          "text": "Jesus Christ is the same yesterday, today, and forever."
+        },
+        {
+          "number": 9,
+          "text": "Don't get distracted by different kinds of strange teachings. It's good for the mind to be convinced by grace, not by laws concerning what we eat.* Those who followed such laws didn't gain anything."
+        },
+        {
+          "number": 10,
+          "text": "We have an altar that those priests of the Tabernacle have no right to eat from."
+        },
+        {
+          "number": 11,
+          "text": "The carcasses of the animals, whose blood is carried by the high priest into the most holy place as an offering for sin, are burned outside the camp."
+        },
+        {
+          "number": 12,
+          "text": "In the same way Jesus also died outside the city gate so that he could make God's people holy through his own blood."
+        },
+        {
+          "number": 13,
+          "text": "So let us go out to him, outside the camp, experiencing and sharing in his shame."
+        },
+        {
+          "number": 14,
+          "text": "For we don't have a permanent city to live in here; we're looking for the home that is still to come."
+        },
+        {
+          "number": 15,
+          "text": "So let us through Jesus always offer a sacrifice of praise to God—this means speaking well of God, declaring his character.*"
+        },
+        {
+          "number": 16,
+          "text": "And don't forget to do what is good, and to share with others what you have, for God is pleased when you make such sacrifices."
+        },
+        {
+          "number": 17,
+          "text": "Follow your leaders, and do what they tell you, for they are watching out for you and are accountable. Act in such a way that they can do this happily—and not with sadness, for that wouldn't help you!"
+        },
+        {
+          "number": 18,
+          "text": "Please pray for us. We're convinced we have acted in good conscience, always wanting to do what's good and right in every situation."
+        },
+        {
+          "number": 19,
+          "text": "I really want you to pray hard so that I can come back to see you soon."
+        },
+        {
+          "number": 20,
+          "text": "Now may the God of peace who raised our Lord Jesus, the great shepherd of the sheep, from the dead, with the blood of an eternal agreement—"
+        },
+        {
+          "number": 21,
+          "text": "may he provide you with all that is good so you can do his will. May he work in us, doing everything that pleases him, through Jesus Christ—glory to him forever and ever. Amen."
+        },
+        {
+          "number": 22,
+          "text": "I want to encourage you, brothers and sisters, to pay attention to what I've written to you in this short letter."
+        },
+        {
+          "number": 23,
+          "text": "You should know that Timothy has been set free. If he gets here soon, I will come with him to see you."
+        },
+        {
+          "number": 24,
+          "text": "Give my greetings to all your leaders, and to all the believers there. The believers here in Italy send their greetings."
+        },
+        {
+          "number": 25,
+          "text": "May God's grace be with all of you. Amen."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "13:4",
+          "text": "Literally, “the bed undefiled.”"
+        },
+        {
+          "ref": "13:5",
+          "text": "Quoting Deuteronomy 31:6-8; Joshua 1:5."
+        },
+        {
+          "ref": "13:6",
+          "text": "Quoting Psalms 118:6."
+        },
+        {
+          "ref": "13:9",
+          "text": "The word here is simply “food,” but the following context indicates that it refers to the ceremonial law and what kinds of food were permissible."
+        },
+        {
+          "ref": "13:15",
+          "text": "Literally, “name,” which frequently refers to the nature and character of the person described. This is found in such English expressions as “having a good name,” i.e. character."
+        }
+      ]
+    }
+  ]
+}

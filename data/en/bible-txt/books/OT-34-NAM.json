@@ -1,0 +1,308 @@
+{
+  "id": "OT-34-NAM",
+  "code": "NAM",
+  "slug": "nahum",
+  "name": "Nahum",
+  "testament": "OT",
+  "testamentOrder": 34,
+  "order": 34,
+  "source": {
+    "file": "src/NAM.rtf",
+    "format": "rtf"
+  },
+  "stats": {
+    "chapters": 3,
+    "verses": 47
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A prophecy about Nineveh: the scroll of the vision that came to Nahum the Elkoshite."
+        },
+        {
+          "number": 2,
+          "text": "The Lord is a jealous and avenging God—the Lord God is avenging and angry. The Lord takes vengeance on his enemies, he is angry with those who are hostile to him."
+        },
+        {
+          "number": 3,
+          "text": "The Lord is slow to become angry, has great power, and will not leave the guilty unpunished. He walks among the whirlwind and the storm; the clouds are like dust beneath his feet."
+        },
+        {
+          "number": 4,
+          "text": "He commands the sea and makes it dry; he dries up all the rivers. Bashan and Carmel* wither; the blossom of Lebanon fades."
+        },
+        {
+          "number": 5,
+          "text": "Mountains quake in his presence; hills melt away. The earth trembles before him—the whole world and everyone who lives there."
+        },
+        {
+          "number": 6,
+          "text": "Who can withstand his fury? Who can endure the heat of his anger? His rage pours out like molten fire; he shatters rocks to pieces."
+        },
+        {
+          "number": 7,
+          "text": "The Lord is good, a place of safety in a time of trouble. He takes care of those who place their trust in him,"
+        },
+        {
+          "number": 8,
+          "text": "but those who oppose him will be swept away by a tremendous flood to their destruction. He pursues his enemies into the darkness of death."
+        },
+        {
+          "number": 9,
+          "text": "Why are you plotting against the Lord? He will end it completely; misery won't arise twice."
+        },
+        {
+          "number": 10,
+          "text": "They* entangle themselves like people caught in thorn bushes; they are like drunks full of drink. They will be completely burned up like dry straw.*"
+        },
+        {
+          "number": 11,
+          "text": "One of you is plotting evil against the Lord, someone who is planning wickedness."
+        },
+        {
+          "number": 12,
+          "text": "This is what the Lord says: Even though they are strong and numerous, they will be cut down and they will pass away. Though I have caused you trouble, I will not do so anymore."
+        },
+        {
+          "number": 13,
+          "text": "Now I will break their yoke from your necks and tear away the chains which bind you."
+        },
+        {
+          "number": 14,
+          "text": "This is what the Lord has ordered concerning you.* You will have no descendants to carry on your name. I will destroy the gods in your temples, all the wooden and metal idols. I am digging your grave, for you are depraved."
+        },
+        {
+          "number": 15,
+          "text": "Look! A messenger is coming over the mountains, bringing good news and proclaiming peace. Judah, celebrate your religious festivals and keep your vows, for never again will wicked enemies invade your land—they will be completely destroyed."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "1:4",
+          "text": "Two places famous for good pasture."
+        },
+        {
+          "ref": "1:10",
+          "text": "God's enemies."
+        },
+        {
+          "ref": "1:10",
+          "text": "This verse is acknowledged as one of the hardest verses to translate in the Bible as the specific interpretation is uncertain. However, the main point of destruction of those opposed to God is clear."
+        },
+        {
+          "ref": "1:14",
+          "text": "Referring to the people of Nineveh."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The one who scatters* has come to attack you! Guard the fortresses! Watch the roads! Get yourselves ready! Call every soldier out!"
+        },
+        {
+          "number": 2,
+          "text": "(For the Lord will restore the splendor of the people of Jacob as he will restore the splendor of Israel, for invaders have plundered them, and destroyed their land.*)*"
+        },
+        {
+          "number": 3,
+          "text": "The shields of his chief soldiers are red; the warriors wear scarlet. His chariots flash like fire in the sunlight as he prepares for battle. Spears with their wooden shafts* are held up and shaken."
+        },
+        {
+          "number": 4,
+          "text": "Chariots race madly through the streets, rushing back and forth across the town squares. Bright as torches, they dash like lightning flashes."
+        },
+        {
+          "number": 5,
+          "text": "He shouts orders to his officers. They stumble as they rush to attack the wall. The battering ram is set up."
+        },
+        {
+          "number": 6,
+          "text": "The river gates are opened; the palace washes away.*"
+        },
+        {
+          "number": 7,
+          "text": "“Queen” Nineveh* is stripped, and led away into exile, with her servant girls mourning like doves, and beating their breasts."
+        },
+        {
+          "number": 8,
+          "text": "Nineveh is a leaky pool—its population is like water running away. “Stop! Stop” people shout, but nobody turns back."
+        },
+        {
+          "number": 9,
+          "text": "Loot the silver! Loot the gold! There's an endless supply—an abundance of everything you could ever want."
+        },
+        {
+          "number": 10,
+          "text": "Deserted, destroyed, devastated! Hearts faint, knees tremble, stomachs ache. Everyone's faces turn pale."
+        },
+        {
+          "number": 11,
+          "text": "Where now is the lion's den? Where is the place where the young lions used to feed? Where is the lion, and the lioness, and the lion cub that were afraid of no one?*"
+        },
+        {
+          "number": 12,
+          "text": "The lion tears apart meat for his cubs, and strangles prey for his lionesses. He fills his den with prey, his lair with carcasses."
+        },
+        {
+          "number": 13,
+          "text": "Watch out! For I am against you, declares the Lord Almighty. I will set fire to your chariots and they will go up in smoke. Your strong young men* will be killed by the sword. I will stop you plundering other peoples.* The demands of your ambassadors* will no longer be heard."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "2:1",
+          "text": "Or “smashes to pieces.”"
+        },
+        {
+          "ref": "2:2",
+          "text": "Literally, “vine branches.”"
+        },
+        {
+          "ref": "2:2",
+          "text": "This sentence is placed in parentheses to indicate that it is not part of the description of the attacking army and its commander."
+        },
+        {
+          "ref": "2:3",
+          "text": "The word for spear here is that of the wood used, and it is debated whether this is pine, cypress, or fir."
+        },
+        {
+          "ref": "2:6",
+          "text": "Or “dissolves in fear.”"
+        },
+        {
+          "ref": "2:7",
+          "text": "The word used here is of uncertain meaning. It does not occur anywhere else in the Old Testament."
+        },
+        {
+          "ref": "2:11",
+          "text": "The symbol of the lion was used extensively by the Assyrians, and also reflects their cruel treatment of their victims."
+        },
+        {
+          "ref": "2:13",
+          "text": "Literally, “young lions.”"
+        },
+        {
+          "ref": "2:13",
+          "text": "Literally, “cut off your prey from the earth.”"
+        },
+        {
+          "ref": "2:13",
+          "text": "Emissaries: the Assyrians sent their representatives to other nations to demand submission and tribute."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "What a disaster is coming upon this murderous city with all its treachery! It is full of wealth it has robbed, and always has plenty of victims.*"
+        },
+        {
+          "number": 2,
+          "text": "Listen to the noise: whips crack, wheels clatter, horses gallop, chariots rattle!"
+        },
+        {
+          "number": 3,
+          "text": "Horsemen charge, swords flash, spears glitter! Many dead, piles of corpses, countless bodies—so many that people stumble over them."
+        },
+        {
+          "number": 4,
+          "text": "All this happens because the repeated prostitution of Nineveh the prostitute, the beautiful mistress with her deadly charms who seduces nations into slavery by her prostitution and her witchcraft."
+        },
+        {
+          "number": 5,
+          "text": "Watch out! For I am against you, declares the Lord Almighty. I will lift your skirts over your face and let the nations see your nakedness, and kingdoms see your shame."
+        },
+        {
+          "number": 6,
+          "text": "I will throw filth at you. I will treat you with contempt, and make a spectacle of you."
+        },
+        {
+          "number": 7,
+          "text": "Then everyone who sees you will shun you saying, “Nineveh is ruined! But who is going to mourn your loss?” Where should I look to find anyone to comfort you?"
+        },
+        {
+          "number": 8,
+          "text": "Are you any better than the city of Thebes* on the River Nile, surrounded by water? Water was its defense, water was its wall.*"
+        },
+        {
+          "number": 9,
+          "text": "The city ruled Egypt and Ethiopia.* Put and Libya were its allies."
+        },
+        {
+          "number": 10,
+          "text": "Yet its people were also taken away into exile, into captivity. Their babies were dashed to pieces in every street. Their nobles were bound in chains and taken away as servants, chosen by lot."
+        },
+        {
+          "number": 11,
+          "text": "You too will behave like a drunk. You will hide in fear, trying to find a place safe from the enemy."
+        },
+        {
+          "number": 12,
+          "text": "All your fortresses are like fig trees ripe with fruit—they fall when they are shaken into the mouth of the one eating."
+        },
+        {
+          "number": 13,
+          "text": "Look! Your soldiers are women among you. The gates of your land are wide open to your enemies; the bars of the gates will be set on fire."
+        },
+        {
+          "number": 14,
+          "text": "Store water to prepare for a siege! Strengthen your fortresses! Go to the clay pits to tread it well, mix the cement, get your brick molds ready!"
+        },
+        {
+          "number": 15,
+          "text": "But even so, there* the fire will consume you, you will be cut down by the sword. You will be destroyed as if you were devoured by a swarm of locusts. So multiply yourselves like locusts, like a swarm of locusts."
+        },
+        {
+          "number": 16,
+          "text": "You increased your merchants so that there are more of them than the stars of heaven. But like locusts they strip everything and then fly away."
+        },
+        {
+          "number": 17,
+          "text": "Your leaders are like locusts, your officials like a swarm of locusts. They rest on walls on a cold day, but when the sun rises they fly away, and no one knows where they've gone."
+        },
+        {
+          "number": 18,
+          "text": "King of Assyria, your shepherds are asleep, your princes are slumbering.* Your people are scattered across the mountains and no one can gather them."
+        },
+        {
+          "number": 19,
+          "text": "There is no way to heal your injuries, you are too badly wounded. Everyone who hears this news will applaud what has happened to you, for was there anyone who escaped your continuous cruelty?"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "3:1",
+          "text": "Literally, “its prey never departs.”"
+        },
+        {
+          "ref": "3:8",
+          "text": "Literally, “No Amon,” the city of the Egyptian god Amen. It had earlier been destroyed by the Assyrians."
+        },
+        {
+          "ref": "3:8",
+          "text": "The Qumran pesher (commentary) on Nahum makes it clear that the pronoun refers to the city."
+        },
+        {
+          "ref": "3:9",
+          "text": "Literally, “Cush.”"
+        },
+        {
+          "ref": "3:15",
+          "text": "Referring to the siege."
+        },
+        {
+          "ref": "3:18",
+          "text": "In Scripture death is often referred to as sleep, so this verse means all the leaders who cared for the people are dead."
+        }
+      ]
+    }
+  ]
+}

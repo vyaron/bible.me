@@ -1,0 +1,1355 @@
+{
+  "id": "OT-21-ECC",
+  "code": "ECC",
+  "slug": "ecclesiastes",
+  "name": "Ecclesiastes",
+  "testament": "OT",
+  "testamentOrder": 21,
+  "order": 21,
+  "source": {
+    "file": "src/ECC.rtf",
+    "format": "rtf"
+  },
+  "stats": {
+    "chapters": 12,
+    "verses": 222
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Here are the words of the Teacher, the king of Jerusalem, David's son."
+        },
+        {
+          "number": 2,
+          "text": "“Everything passes—it's so temporary! It's all so hard to understand!” says the Teacher.*"
+        },
+        {
+          "number": 3,
+          "text": "What benefit* do you get for slaving away in this life?*"
+        },
+        {
+          "number": 4,
+          "text": "People come, and people go, but the earth lasts forever!"
+        },
+        {
+          "number": 5,
+          "text": "The sun comes up, and the sun goes down, and then rushes to its place to rise again."
+        },
+        {
+          "number": 6,
+          "text": "The wind blows south, and then turns to the north. Round and round it spins, finally coming full circle."
+        },
+        {
+          "number": 7,
+          "text": "Streams all flow into the sea, but the sea never becomes full. The streams return to the place from where they came."
+        },
+        {
+          "number": 8,
+          "text": "Everything just keeps on going. You can't say all there is to say. You can't see all there is to see. You can't hear all there is to hear.*"
+        },
+        {
+          "number": 9,
+          "text": "Everything that was will continue to be; everything that has been done will be done again. Nothing new ever happens here.*"
+        },
+        {
+          "number": 10,
+          "text": "There's nothing anyone can point to and say, “Look! Here's something new.” In fact it's been around for ages, long before our time."
+        },
+        {
+          "number": 11,
+          "text": "The problem is* we don't remember people from the past, and people in the future won't remember those who came before them."
+        },
+        {
+          "number": 12,
+          "text": "I am the Teacher, and I was king over Israel, reigning from Jerusalem."
+        },
+        {
+          "number": 13,
+          "text": "I decided to focus my mind to explore, using wisdom, everything that happens here on earth. This is a tough assignment that God has given people to keep them busy!"
+        },
+        {
+          "number": 14,
+          "text": "I examined everything people do here on earth, and discovered that it's all so temporary—trying to understand it is like trying to pin down the wind!*"
+        },
+        {
+          "number": 15,
+          "text": "You can't straighten what is twisted, and you can't count what isn't there.*"
+        },
+        {
+          "number": 16,
+          "text": "I thought to myself, “I've become very wise, wiser than all the kings of Jerusalem before me. My mind has gained a great deal of wisdom and knowledge.”"
+        },
+        {
+          "number": 17,
+          "text": "So I decided to use my mind to learn everything about wisdom, and madness and foolishness as well. But I found out that this is as hard as trying to catch hold of the wind."
+        },
+        {
+          "number": 18,
+          "text": "For with great wisdom comes great frustration. The greater the knowledge, the greater the pain."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "1:2",
+          "text": "The word used here five times! (and frequently repeated in the book) does not really mean “meaningless” as is so often translated. Its basic meaning is “vapor” or “breath,” and is associated with all that is transitory and fleeting. “Transient” or “ephemeral” would also reflect the meaning—it's not that there is no value, but that everything passes so quickly. Nothing lasts! It is the brevity of life that “makes no sense” and causes frustrating uncertainty. The shortness and unsubstantial nature of existence is what the Teacher finds hard to understand. It's “elusive.”"
+        },
+        {
+          "ref": "1:3",
+          "text": "Here is another word that is used in a special sense in Ecclesiastes. Its primary meaning is “gain” or “profit” in a business sense, but here it is being used more in the sense of “life benefit”—in other words, what advantage is gained in the sense of “the meaning of life” and any future reward?"
+        },
+        {
+          "ref": "1:3",
+          "text": "Literally, “under the sun.”"
+        },
+        {
+          "ref": "1:8",
+          "text": "Literally, “man is not able to utter, the eye is not satisfied to see, the ear is not filled with hearing.”"
+        },
+        {
+          "ref": "1:9",
+          "text": "“Here”: literally, “under the sun.”"
+        },
+        {
+          "ref": "1:11",
+          "text": "“The problem is”: implied."
+        },
+        {
+          "ref": "1:14",
+          "text": "“Wind.” There is a problem in translation since the same word is used in this book for “wind,” “breath,” or “spirit.” So the proverbial “chasing after the wind” could indeed mean “chasing after breath/spirit,” which could be interpreted as seeking the meaning of life (breath/spirit). This is why the KJV translates the phrase as “vexation of spirit.”"
+        },
+        {
+          "ref": "1:15",
+          "text": "These were probably everyday proverbs of the time. They really are saying that things have to be accepted as they are."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "So then I thought to myself, “Alright, let me examine pleasure and see how good that is.” But this too turned out to be something temporary that passes."
+        },
+        {
+          "number": 2,
+          "text": "I conclude that laughing your way through life is stupid, and pleasure—what use is that?*"
+        },
+        {
+          "number": 3,
+          "text": "Then I used my mind to examine the attraction* of wine to my body. My mind still guiding me with wisdom, I took it until I acted like a fool,* so that I might see whether this was good for people to do during their time here."
+        },
+        {
+          "number": 4,
+          "text": "Then I tried great construction projects. I built houses for myself; I planted vineyards for myself."
+        },
+        {
+          "number": 5,
+          "text": "I made for myself* gardens and parks, planting them with all kinds of fruit trees."
+        },
+        {
+          "number": 6,
+          "text": "I constructed for myself reservoirs to water all these growing trees."
+        },
+        {
+          "number": 7,
+          "text": "I bought male and female slaves, and their children also belonged to me. I also owned many herds and flocks, more than anyone in Jerusalem before me."
+        },
+        {
+          "number": 8,
+          "text": "I collected for myself great quantities of silver and gold, paid to me as tribute by kings and provinces. I brought in for myself male and female singers, and enjoyed many concubines*—all a man could want!"
+        },
+        {
+          "number": 9,
+          "text": "I became great—greater than anyone in Jerusalem before me. All the while my wisdom stayed with me."
+        },
+        {
+          "number": 10,
+          "text": "I didn't stop myself trying anything I wanted. Whatever I felt like enjoying, I did. I even enjoyed everything I had accomplished, a reward for all my work."
+        },
+        {
+          "number": 11,
+          "text": "But when I thought about what I had worked so hard to achieve, everything I'd done, it was so short-lived—as significant as someone trying to catch the wind. There really is no enduring benefit here on earth."
+        },
+        {
+          "number": 12,
+          "text": "So I started to think about wisdom—and madness and foolishness. For what can anyone who comes after the king do that hasn't already been done?"
+        },
+        {
+          "number": 13,
+          "text": "I recognized that wisdom is better than foolishness just as light is better than darkness."
+        },
+        {
+          "number": 14,
+          "text": "The wise see where they're going,* but fools walk in darkness. But I also realized that they all come to the same end."
+        },
+        {
+          "number": 15,
+          "text": "Then I thought to myself, “If I'm going to end up the same as a fool, what's the point of being so wise?” So I thought to myself, “This is also hard to understand!”"
+        },
+        {
+          "number": 16,
+          "text": "Nobody remembers the wise or the fool for very long—in the future everything will be forgotten. Whether wise or foolish, they both die."
+        },
+        {
+          "number": 17,
+          "text": "So I ended up feeling disgusted* with life because everything that happens here on earth is so distressing.* It's so incomprehensible,* like trying to control the wind."
+        },
+        {
+          "number": 18,
+          "text": "I even ended up hating what I had achieved here on earth because I have to hand it over to whoever comes after me."
+        },
+        {
+          "number": 19,
+          "text": "And who knows whether he will be wise or foolish? Yet he will rule over everything I accomplished through my wisdom here on earth. This is just so frustrating, so hard to understand!*"
+        },
+        {
+          "number": 20,
+          "text": "I decided to give up, my mind in despair over the significance of all my life's achievements."
+        },
+        {
+          "number": 21,
+          "text": "For you can work wisely, knowledgably, and with skill—and who benefits? Someone who hasn't worked for it! This is both frustrating and totally unjust!"
+        },
+        {
+          "number": 22,
+          "text": "What do you get here on earth for all your hard work and worry?"
+        },
+        {
+          "number": 23,
+          "text": "Your working life is full of trouble and strife—even at night your thoughts keep you awake. This is tough to comprehend!"
+        },
+        {
+          "number": 24,
+          "text": "So what's the best thing to do? Eat, drink, and enjoy your work, recognizing as I did that these things are given to us by God,"
+        },
+        {
+          "number": 25,
+          "text": "for who can eat or enjoy life apart from him?"
+        },
+        {
+          "number": 26,
+          "text": "To those who are good, God gives wisdom, knowledge, and joy. But to the sinner God gives the task of gathering and collecting wealth, only to hand it over to someone who pleases God. This also shows how fleeting life is, and hard to understand—like trying to understand how the wind blows."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "2:2",
+          "text": "The Teacher is not saying you should not laugh. He is referring to those people who make a joke of everything, not taking life seriously."
+        },
+        {
+          "ref": "2:3",
+          "text": "The word used means to “draw” or “attract.”"
+        },
+        {
+          "ref": "2:3",
+          "text": "Some believe that this means the Teacher became drunk in this “experiment.” The phrase is literally, “I grasped (it) until folly.”"
+        },
+        {
+          "ref": "2:5",
+          "text": "The repetition of the word “myself” may seem redundant, but that the Teacher was primarily thinking of himself is surely significant."
+        },
+        {
+          "ref": "2:8",
+          "text": "This word does not occur anywhere else in the Bible, so the meaning is assumed from the context."
+        },
+        {
+          "ref": "2:14",
+          "text": "Literally, “The wise has his eyes in his head.”"
+        },
+        {
+          "ref": "2:17",
+          "text": "“Feeling disgusted”: literally “hated.”"
+        },
+        {
+          "ref": "2:17",
+          "text": "“Distressing”: the word used here also means evil, trouble, injury, misery etc."
+        },
+        {
+          "ref": "2:17",
+          "text": "“Incomprehensible”: again the Teacher is not saying life is without meaning, but that it is hard to discover the meaning."
+        },
+        {
+          "ref": "2:19",
+          "text": "This is a good example of what the Teacher is trying to say. He is not saying it is “meaningless” to leave a legacy, the problem is that you cannot know how it will be used, and that this hard to take!"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Everything has its own time—a time for all that happens here:*"
+        },
+        {
+          "number": 2,
+          "text": "A time of birth, and a time of death. A time of planting, and a time of harvest."
+        },
+        {
+          "number": 3,
+          "text": "A time of killing, and a time of healing. A time of tearing down, and a time of building up."
+        },
+        {
+          "number": 4,
+          "text": "A time of crying, and a time of laughing. A time of mourning, and a time of dancing."
+        },
+        {
+          "number": 5,
+          "text": "A time of throwing away stones, and a time of gathering up stones.* A time of embracing, and a time of avoiding embracing."
+        },
+        {
+          "number": 6,
+          "text": "A time of searching, and a time of giving up searching. A time of keeping, and a time of throwing away."
+        },
+        {
+          "number": 7,
+          "text": "A time of tearing, and a time of mending. A time of keeping quiet, a time of speaking up."
+        },
+        {
+          "number": 8,
+          "text": "A time of loving, and a time of hating. A time of warfare, and a time of peace."
+        },
+        {
+          "number": 9,
+          "text": "So what do you get for all your hard work?"
+        },
+        {
+          "number": 10,
+          "text": "I have examined what God gives us to do."
+        },
+        {
+          "number": 11,
+          "text": "Everything God does is beautifully timed, and even though he has also placed the idea of eternity* in our minds, we can't fully understand what God does from beginning to end."
+        },
+        {
+          "number": 12,
+          "text": "I concluded that there's nothing better than being happy and looking for the good in life."
+        },
+        {
+          "number": 13,
+          "text": "In addition everyone should eat and drink and enjoy their work—this is God's gift to us."
+        },
+        {
+          "number": 14,
+          "text": "I also concluded that everything God does lasts forever: nothing can be added to it or taken away from it. God acts in this way so that people may stand in awe of him."
+        },
+        {
+          "number": 15,
+          "text": "Whatever was, is; and whatever will be, has been, and God examines the whole of time.*"
+        },
+        {
+          "number": 16,
+          "text": "I also observed that here on earth there was evil even in the place where there was supposed to be justice; even where things were meant to be right, there was evil."
+        },
+        {
+          "number": 17,
+          "text": "But then I thought to myself, “Ultimately God will judge both those who do right and those who do wrong, and every deed and action, at the appointed time.”"
+        },
+        {
+          "number": 18,
+          "text": "I also thought to myself, “Regarding what happens to human beings—God proves to us that we're no better than animals.”*"
+        },
+        {
+          "number": 19,
+          "text": "For what happens to human beings is the same as what happens to animals—in the same way one dies, the other dies too. They all have the breath of life—so regarding any advantage human beings have over animals, there is none. Definitely this is very hard to understand!*"
+        },
+        {
+          "number": 20,
+          "text": "They all end up in the same place—they all came from dust, and they all return to dust."
+        },
+        {
+          "number": 21,
+          "text": "Who really knows whether the breath of life* of human beings goes up above, and the breath of life of animals goes down below to the earth?"
+        },
+        {
+          "number": 22,
+          "text": "So I concluded that there's nothing better than for people to enjoy their work. This is what we are meant to do. For who can bring anyone back from the dead to show them what will happen after they die?"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "3:1",
+          "text": "This is the Teachers observation, not his instruction. For this reason the verb participle is used, rather than the infinitive, since the infinitive might suggest that this is what should happen, e.g. “a time of killing” (i.e. when it happens) rather than “a time to kill” (when it ought to happen)."
+        },
+        {
+          "ref": "3:5",
+          "text": "This mention of stones and its meaning is debated. Jewish tradition indicates it is a euphemism for making love."
+        },
+        {
+          "ref": "3:11",
+          "text": "“Eternity”: the word used here has the meaning of ages past and ages future, “continuation to the most distant time.”"
+        },
+        {
+          "ref": "3:15",
+          "text": "Literally, “God seeks what has been chased away.” This phrase has been variously interpreted, but perhaps the best in the context is that time is open to God—things forgotten by human beings (“chased away”) are still accessible to him and are what he examines (“seeks”)."
+        },
+        {
+          "ref": "3:18",
+          "text": "This thought is in reaction to the realization that wickedness takes the place of justice, mentioned in 3:16."
+        },
+        {
+          "ref": "3:19",
+          "text": "In addition, since this follows a discussion of “breath” (that can also be translated “spirit”), this can be linked to the continued theme of “transience” and “difficult to understand” which as mentioned before comes from the word for vapor or breath."
+        },
+        {
+          "ref": "3:21",
+          "text": "“Breath of life”: or “spirit.”"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Then I turned to consider all the ways people oppress others here on earth. Look at the tears of the oppressed—there's no one to comfort them! Powerful people oppress them, and there's no one to comfort them!"
+        },
+        {
+          "number": 2,
+          "text": "I congratulated those who were already dead, for the dead are better off than those who are still alive and being oppressed.*"
+        },
+        {
+          "number": 3,
+          "text": "But best of all are those who have never existed—they haven't seen the evil things people do to each other here on earth."
+        },
+        {
+          "number": 4,
+          "text": "I observed that every skill in work comes from competition with others. Once again this is hard to understand, like trying to hold on to the elusive wind."
+        },
+        {
+          "number": 5,
+          "text": "Fools fold their arms and do nothing—so in the end they're all used up."
+        },
+        {
+          "number": 6,
+          "text": "It's better to earn a little* without stress than a lot with too much stress and chasing after the wind."
+        },
+        {
+          "number": 7,
+          "text": "Then I turned to consider something else here on earth that is also frustratingly hard to understand."
+        },
+        {
+          "number": 8,
+          "text": "What about someone who has no family to help him, no brother or son, who works all the time, but isn't satisfied with the money he makes. “Who am I working for?” he asks himself. “Why am I preventing myself from enjoying life?” Such a situation is hard to explain—it's an evil business!"
+        },
+        {
+          "number": 9,
+          "text": "Two are better than one, for they can help each other in their work."
+        },
+        {
+          "number": 10,
+          "text": "If one of them falls down, the other can help them up, but how sad it is for someone who falls down and doesn't have anyone to help them up."
+        },
+        {
+          "number": 11,
+          "text": "In the same way, if two people lie down together, they keep each other warm, but you can't keep yourself warm if you're alone."
+        },
+        {
+          "number": 12,
+          "text": "Someone fighting against one other person may win, but not if they are fighting against two. A cord made of three strands can't be torn apart quickly."
+        },
+        {
+          "number": 13,
+          "text": "A poor young person who's wise is better than an old and foolish king who no longer accepts advice."
+        },
+        {
+          "number": 14,
+          "text": "He may even come out of prison* to reign over his kingdom, even though he was born poor."
+        },
+        {
+          "number": 15,
+          "text": "I observed everyone here on earth following the youth who takes his place.*"
+        },
+        {
+          "number": 16,
+          "text": "He is surrounded by crowds of supporters, but the next generation isn't happy with him. This also illustrates the passing nature of life whose meaning is elusive, like pursuing the wind for understanding."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "4:2",
+          "text": "“And being oppressed”: supplied, but this is the context for the Teacher's statement."
+        },
+        {
+          "ref": "4:6",
+          "text": "Literally, “one handful.”"
+        },
+        {
+          "ref": "4:14",
+          "text": "Perhaps to be understood as “the prison of bad circumstances.”"
+        },
+        {
+          "ref": "4:15",
+          "text": "Presumably the young man mentioned in 4:13 who replaces the old king."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Be careful* when you go into God's house. It's better to listen and respond rather than offer meaningless sacrifices.* People who do that don't even know they are doing wrong."
+        },
+        {
+          "number": 2,
+          "text": "Don't say rash things, and think before you speak to God. For God is in heaven, and you are on earth, so keep it short."
+        },
+        {
+          "number": 3,
+          "text": "When you worry too much, you get nightmares; when you talk too much, you say foolish things."
+        },
+        {
+          "number": 4,
+          "text": "When you make a vow to God, with a curse on you if you don't keep it,* don't be slow in keeping it, for he is not happy with foolish behavior. So do what you promised!"
+        },
+        {
+          "number": 5,
+          "text": "Better not to make any vows at all than to make a vow you don't keep."
+        },
+        {
+          "number": 6,
+          "text": "Don't let your mouth cause you to sin. And don't tell the priest* that your vow was a mistake, for why would you antagonize God by breaking your promise?* He could bring your own curse down on you."
+        },
+        {
+          "number": 7,
+          "text": "There are certainly many dreams, questions of meaning, and lots of different ideas, but you are to follow God."
+        },
+        {
+          "number": 8,
+          "text": "If you see poor people somewhere* being oppressed, or truth and justice violated, don't be shocked at it, for every official is responsible to others higher up, and there are officials over them as well.*"
+        },
+        {
+          "number": 9,
+          "text": "However, what the land produces is for everyone—even the king benefits from what is grown.*"
+        },
+        {
+          "number": 10,
+          "text": "People who love money never have enough money; those who love wealth never have enough income. This too is so temporary and makes little sense."
+        },
+        {
+          "number": 11,
+          "text": "The more you earn, the more you have eating into your income. It only looks like you have more!"
+        },
+        {
+          "number": 12,
+          "text": "Those who work hard sleep well, whether they have a little to eat or plenty, but the rich own so much they don't get any rest."
+        },
+        {
+          "number": 13,
+          "text": "I observed something here that is really sickening:* people who hoard money damage themselves."
+        },
+        {
+          "number": 14,
+          "text": "They put their money into bad investments and lose everything. Now when we're born, we don't bring anything into the world."
+        },
+        {
+          "number": 15,
+          "text": "When we die, we leave just as naked as when we were born, taking nothing with us from all we've worked for."
+        },
+        {
+          "number": 16,
+          "text": "This also makes me sick! What do people gain, working for the wind?*"
+        },
+        {
+          "number": 17,
+          "text": "They live their lives in darkness, very frustrated, sick, and resentful."
+        },
+        {
+          "number": 18,
+          "text": "But I observed that what is good and right is to eat, drink, and to find enjoyment in the work God gives us here in this life. This is God's gift to us."
+        },
+        {
+          "number": 19,
+          "text": "In addition, everyone to whom God gives wealth and possessions he also gives the ability to enjoy these gifts, to be grateful for what they are given, and to enjoy the work they do. This is also God's gift to us."
+        },
+        {
+          "number": 20,
+          "text": "In fact such people have little time to think about life because God keeps them busy with all that makes them happy.*"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "5:1",
+          "text": "Literally, “guard your footsteps.”"
+        },
+        {
+          "ref": "5:1",
+          "text": "“Meaningless sacrifices”: literally, “the sacrifices of fools.”"
+        },
+        {
+          "ref": "5:4",
+          "text": "“With a curse on you if you don't keep it,” implied. Frequently vows to God included a curse for failing to keep the vow."
+        },
+        {
+          "ref": "5:6",
+          "text": "Literally, “messenger.” In Malachi 2:7 priests are identified as messengers. In any case, the situation is one of informing someone at the Temple that the promise (vow) you made was a mistake."
+        },
+        {
+          "ref": "5:6",
+          "text": "Many such promises (vows) included a self-pronounced curse if it was not kept—so by failing to keep the promise, the individual would be subject to the curse they had pronounced on themselves."
+        },
+        {
+          "ref": "5:8",
+          "text": "“Somewhere”: literally, “in the province”—a general term."
+        },
+        {
+          "ref": "5:8",
+          "text": "The Hebrew meaning is unclear. It probably is saying that corruption and injustice are endemic."
+        },
+        {
+          "ref": "5:9",
+          "text": "Again the meaning is unclear in this verse."
+        },
+        {
+          "ref": "5:13",
+          "text": "The two words often translated as “grievous evil” really refer to “miserable illness,” or something that makes you “really sick.” Also in verse 16."
+        },
+        {
+          "ref": "5:16",
+          "text": "As noted in footnote for 1:14, the word here can mean “wind,” “breath,” or “spirit.” So it could just as easily be translated as “What do you gain, working for a breath of air?” etc."
+        },
+        {
+          "ref": "5:20",
+          "text": "Whether this is a good thing or not is not indicated."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "I have observed another evil here on earth, and it has a great impact on humanity."
+        },
+        {
+          "number": 2,
+          "text": "God gives wealth, possessions, and honor to someone. They have everything they want. But God doesn't let them enjoy what they have. Instead somebody else does! This is hard to fathom, and is truly evil."
+        },
+        {
+          "number": 3,
+          "text": "A man could have one hundred children, and grow old, but it wouldn't matter how long his life was if he couldn't enjoy it and at the end receive a decent burial. I would say that a stillborn child would be better off than him."
+        },
+        {
+          "number": 4,
+          "text": "The way a stillborn child comes into the world and then leaves is painfully hard to understand—arriving and departing in darkness—and who he would have been is never known.*"
+        },
+        {
+          "number": 5,
+          "text": "He never saw the light of day or knew what it was like to live. Yet the child finds rest, and not this man."
+        },
+        {
+          "number": 6,
+          "text": "Even if this man were to live a thousand years twice over he still wouldn't be happy. Don't we all end up in the same place—the grave?*"
+        },
+        {
+          "number": 7,
+          "text": "Everyone works so they can live*, but they're never satisfied."
+        },
+        {
+          "number": 8,
+          "text": "So then, what real advantage do wise people have over those who are fools? And do poor people really gain anything in knowing how to behave in front of others?"
+        },
+        {
+          "number": 9,
+          "text": "Be happy with what you have instead of running after what you don't! But this is also hard to do, like running after the wind."
+        },
+        {
+          "number": 10,
+          "text": "Everything that exists has already been described*. Everyone knows what people are like, and that you can't win an argument with a superior.*"
+        },
+        {
+          "number": 11,
+          "text": "For the more words you use, the harder it is to make sense. So what's the point?"
+        },
+        {
+          "number": 12,
+          "text": "Who knows what's best for us and our lives? During our short lives that pass like shadows we have many unanswered questions. And who can tell us what will happen when we're gone?*"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "6:4",
+          "text": "Literally, “In darkness his name will be covered.” However, this is more than simply remaining nameless. Name in Hebrew thought is associated with character and personality, so what is being said here is that the stillborn child will never have the chance to become a person."
+        },
+        {
+          "ref": "6:6",
+          "text": "“The grave”: implied."
+        },
+        {
+          "ref": "6:7",
+          "text": "The word is literally “mouth,” so generally “to eat” is understood. However, human work is to supply all kinds of needs, so it is suggested that the application is more general than simply eating."
+        },
+        {
+          "ref": "6:10",
+          "text": "“Described”: literally, “named.” However, in Hebrew thought “name” is far more than a simple appellation, it is descriptive of the object or person."
+        },
+        {
+          "ref": "6:10",
+          "text": "“A superior”: literally, “stronger”: this could refer to either physical or mental strength. However, some kind of argument is probably in view, but the point is that a superior does not have to “play by the rules” of argument. Some take the “stronger” one to mean God, in which case the gist of the phrase means “you can't argue with God.” In addition, some have seen in this verse an argument for predestination, but the text does not necessarily support this."
+        },
+        {
+          "ref": "6:12",
+          "text": "This could mean what will happen on earth once people die, or what will happen to people after death. Both interpretations are possible from the text."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A good reputation is better than expensive perfume, and the day you die is better than the day you were born."
+        },
+        {
+          "number": 2,
+          "text": "It's better to go to a funeral than to a party.* In the end, everyone dies, and those who are still alive should think about it."
+        },
+        {
+          "number": 3,
+          "text": "Sorrow is better than laughter, for tragedy helps us by making us think.*"
+        },
+        {
+          "number": 4,
+          "text": "Wise people think about the impact of death, while those who are fools only think about having a good time."
+        },
+        {
+          "number": 5,
+          "text": "It's better to listen to criticism from a wise person than to hear the song of fools."
+        },
+        {
+          "number": 6,
+          "text": "The laughter of fools is like the crackling of thorn twigs burning under a pot—without sense and quickly over.*"
+        },
+        {
+          "number": 7,
+          "text": "Extorting money from others makes wise people into fools, and accepting bribes corrupts the mind."
+        },
+        {
+          "number": 8,
+          "text": "Completing something is better than starting it. Being patient is better than being proud."
+        },
+        {
+          "number": 9,
+          "text": "Don't be quick to get angry, for anger controls the minds of fools.*"
+        },
+        {
+          "number": 10,
+          "text": "Don't ask, “Why were the good old days better than now?” Asking such questions shows you are not wise."
+        },
+        {
+          "number": 11,
+          "text": "Wisdom is good—it's like receiving an inheritance. It benefits everyone in life.*"
+        },
+        {
+          "number": 12,
+          "text": "For wisdom provides security, as does money, but the advantage for those who have wisdom is that they are kept safe and sound!"
+        },
+        {
+          "number": 13,
+          "text": "Think about what God does. If he makes something bent, you can't straighten it!"
+        },
+        {
+          "number": 14,
+          "text": "On a good day, be happy. When a bad day comes, stop and think. God made each day, so you don't know what will happen to you next."
+        },
+        {
+          "number": 15,
+          "text": "Throughout my life I've seen so much that is hard to understand. Good people who die young despite doing what is right,* and wicked people who live long evil lives."
+        },
+        {
+          "number": 16,
+          "text": "Don't think you can make yourself right by a lot of religious observance, and don't pretend to be so wise.* Do you want to destroy yourself?*"
+        },
+        {
+          "number": 17,
+          "text": "On the other hand,* don't decide to live an evil life—don't be a fool! Why die before your time?"
+        },
+        {
+          "number": 18,
+          "text": "You ought to keep in mind these warnings. Those who follow God will be sure to avoid both."
+        },
+        {
+          "number": 19,
+          "text": "Wisdom gives a wise person greater power than ten town councilors."
+        },
+        {
+          "number": 20,
+          "text": "There's not one good person in all the world who always does what is right and never sins."
+        },
+        {
+          "number": 21,
+          "text": "Don't take to heart everything that people say, otherwise you may hear your servant talking badly* about you,"
+        },
+        {
+          "number": 22,
+          "text": "for you know how many times you yourself have talked badly about others!"
+        },
+        {
+          "number": 23,
+          "text": "I have examined all this using the principles of wisdom. I told myself, “I will think wisely.” But wisdom eluded me."
+        },
+        {
+          "number": 24,
+          "text": "Everything that exists is beyond our grasp—too deep for our understanding. Who can comprehend it?"
+        },
+        {
+          "number": 25,
+          "text": "I turned my thoughts to discover, investigate, and to find out more about wisdom and what makes sense. I wanted to know more about how stupid evil really is, and how ridiculous it is to be a fool."
+        },
+        {
+          "number": 26,
+          "text": "I discovered something more horrible* than death: foolishness like a woman* who tries to entrap you, who wants to use her mind and hands to catch you and tie you up. Those who follow God will not be caught, but sinners will fall into her trap."
+        },
+        {
+          "number": 27,
+          "text": "This is what I discovered after putting two and two* together to try and find out what it all meant, says the Teacher."
+        },
+        {
+          "number": 28,
+          "text": "Although I really searched, I didn't find what I was looking for. People say, “I found one man among a thousand, but not one woman.”*"
+        },
+        {
+          "number": 29,
+          "text": "But I did find this one thing: God made people to do what's right, but they have followed their own ideas.*"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "7:2",
+          "text": "Literally, “It is better to go to the house of mourning than the house of feasting.”"
+        },
+        {
+          "ref": "7:3",
+          "text": "Literally, “by sadness of countenance the heart is good.” In Hebrew thought, the heart was where thinking occurred."
+        },
+        {
+          "ref": "7:6",
+          "text": "Thorn twigs used for fuel are of limited value, for they while they burn hot, the flames die quickly."
+        },
+        {
+          "ref": "7:9",
+          "text": "“Anger controls the minds of fools”: literally, “anger lodges in the bosom of fools.”"
+        },
+        {
+          "ref": "7:11",
+          "text": "“It benefits everyone in life”: literally, “It is an advantage to those seeing the sun.”"
+        },
+        {
+          "ref": "7:15",
+          "text": "Here the emphasis seems to be on doing right as defined by the Law."
+        },
+        {
+          "ref": "7:16",
+          "text": "Literally, “You must not be righteous excessively, and you must not act wisely excessively.” The word “excessively” here refers to self-reliance rather than quantity."
+        },
+        {
+          "ref": "7:16",
+          "text": "In the sense of trying to make yourself right, and wise, by your own efforts."
+        },
+        {
+          "ref": "7:17",
+          "text": "Implied."
+        },
+        {
+          "ref": "7:21",
+          "text": "“Talking badly”—this in the sense of speaking disparagingly rather than cursing, as some translations suggest."
+        },
+        {
+          "ref": "7:26",
+          "text": "Literally, “bitter.”"
+        },
+        {
+          "ref": "7:26",
+          "text": "“Woman”: symbolic of Folly, see Proverbs 5 and Proverbs 7."
+        },
+        {
+          "ref": "7:27",
+          "text": "Hebrew: “one and one.”"
+        },
+        {
+          "ref": "7:28",
+          "text": "This appears to have been some kind of proverb. It's exact meaning is uncertain."
+        },
+        {
+          "ref": "7:29",
+          "text": "Literally, “but they have sought out many devices.”"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Who can compare to the truly wise?* Who knows how to interpret things? If you have wisdom your face lights up, and your stern look is softened."
+        },
+        {
+          "number": 2,
+          "text": "My advice* is to do what the king says, since that's what you promised God."
+        },
+        {
+          "number": 3,
+          "text": "Don't be quick to walk out on the king without thinking what you're doing, and don't get involved with those who plot against him,* for the king can do what he pleases."
+        },
+        {
+          "number": 4,
+          "text": "The king's orders have supreme authority—who is going to question him, saying, “What are you doing?”"
+        },
+        {
+          "number": 5,
+          "text": "Those who follow his commands will not be involved in doing evil. Wise people think, recognizing there's a right time, and a right way.*"
+        },
+        {
+          "number": 6,
+          "text": "For there's a right time and a right way for everything, even when things are going badly for you.*"
+        },
+        {
+          "number": 7,
+          "text": "No one knows what's going to happen, so who can say what the future holds?"
+        },
+        {
+          "number": 8,
+          "text": "No one can hold onto the breath of life; no one can prevent the day when they die. There's no way of escaping that battle, and the wicked won't be saved by their wickedness!"
+        },
+        {
+          "number": 9,
+          "text": "I examined all these things, and thought about all that happens here on earth, and the damage that's caused when people dominate others."
+        },
+        {
+          "number": 10,
+          "text": "Yes, I have seen wicked people buried with great honor.* They used to go to the holy place,* and were praised in the very city where they did their evil. This is hard to understand!"
+        },
+        {
+          "number": 11,
+          "text": "When people are not punished quickly for their crimes they are even more determined to do wrong."
+        },
+        {
+          "number": 12,
+          "text": "Even though a sinner may do wrong a hundred times, and live a long life, I'm convinced that those who do what God says will be better off."
+        },
+        {
+          "number": 13,
+          "text": "In fact, the wicked will not live long, passing like a shadow, because they refuse to follow God."
+        },
+        {
+          "number": 14,
+          "text": "Another thing that is hard to understand is this: good people are treated as the wicked should be, and the wicked are treated as good people should be. As I say, this is difficult to comprehend!"
+        },
+        {
+          "number": 15,
+          "text": "So I recommend enjoying life. There's nothing better for us here on earth than to eat and drink and be happy. Such an attitude will go with us as we work, and as we live our lives that God gives us here on earth."
+        },
+        {
+          "number": 16,
+          "text": "When I applied my mind to discovering wisdom and observing everything people do here on earth, I couldn't get any sleep, day or night.*"
+        },
+        {
+          "number": 17,
+          "text": "Then I studied everything God does, and I realized that no one can fully understand what happens here. However hard they try, however wise they claim to be, they can't really comprehend it."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "8:1",
+          "text": "In the sense that to be wise is the highest ambition. Literally, “Who is like the wise?”"
+        },
+        {
+          "ref": "8:2",
+          "text": "Taking the initial “I” of the sentence to mean “I say.”"
+        },
+        {
+          "ref": "8:3",
+          "text": "Literally, “the matter is unpleasant.” This term is believed to refer to a plot or a rebellion against a king."
+        },
+        {
+          "ref": "8:5",
+          "text": "Alternatively, “Wise people know there's a time of judgment.”"
+        },
+        {
+          "ref": "8:6",
+          "text": "“Even when things are going badly for you”: literally, “even though trouble is heavy on the mortal.”"
+        },
+        {
+          "ref": "8:10",
+          "text": "The Hebrew simply says “the wicked were buried,” but since this is unremarkable it is understood that they were buried with much show and ceremony."
+        },
+        {
+          "ref": "8:10",
+          "text": "The Hebrew text is unclear. “Holy place” would refer to the Temple or the synagogue."
+        },
+        {
+          "ref": "8:16",
+          "text": "“I couldn't get any sleep, day or night”: alternatively, “no one has any rest, day or night.”"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "I had my mind consider all this. Wise and good people and everything they do are in God's hands. Love or hate—who knows what will happen to them?*"
+        },
+        {
+          "number": 2,
+          "text": "Yet we all share the same destiny—those who do right, those who do evil, the good, the religiously-observant and those that are not,* those who sacrifice and those who don't. Those who do good are as those who sin, those who make vows to God are as those who don't."
+        },
+        {
+          "number": 3,
+          "text": "This is just so wrong—that everyone here on earth should suffer the same fate! On top of that, people's minds are filled with evil. They spend their lives thinking about stupid things, and then they die."
+        },
+        {
+          "number": 4,
+          "text": "But the living still have hope—a live dog is better than a dead lion!"
+        },
+        {
+          "number": 5,
+          "text": "The living are conscious of the fact that they're going to die, but the dead have no consciousness of anything. They don't receive any further benefit; they're forgotten."
+        },
+        {
+          "number": 6,
+          "text": "Their love, hate, and envy—it's all gone. They have no further part in anything that happens here on earth."
+        },
+        {
+          "number": 7,
+          "text": "So go ahead and eat your food, and enjoy it. Drink your wine with a happy heart. That's what God intends that you should do."
+        },
+        {
+          "number": 8,
+          "text": "Always wear smart clothes and look good.*"
+        },
+        {
+          "number": 9,
+          "text": "Enjoy life with the wife that you love—the one God gave you—during all the days of this brief life, all these passing days whose meaning is so hard to understand as you work here on earth."
+        },
+        {
+          "number": 10,
+          "text": "Whatever you do, do it with all your strength, for when you go to the grave there's no more working or thinking, no more knowing or being wise."
+        },
+        {
+          "number": 11,
+          "text": "I thought about other things that happen here on earth. Races are not always won by the fastest runner. Battles are not always decided by the strongest warrior. Also, the wise do not always have food, intelligent people do not always make money, and those who are clever do not always win favor. Time and chance affect all of them."
+        },
+        {
+          "number": 12,
+          "text": "You can't predict when your end* will come. Just like fish caught in a net, or birds caught in a trap, so people are suddenly caught by death when they least expect it."
+        },
+        {
+          "number": 13,
+          "text": "Here's another aspect of wisdom that impressed me about what happens here on earth."
+        },
+        {
+          "number": 14,
+          "text": "Once there was a small town with only a few inhabitants. A powerful king came and besieged the town, building great earth ramps against its walls."
+        },
+        {
+          "number": 15,
+          "text": "In that town lived a man who was wise, but poor. He saved the town by his wisdom. But no one remembered to thank* that poor man."
+        },
+        {
+          "number": 16,
+          "text": "As I've always said, “Wisdom is better than strength.” Yet the wisdom of that poor man was dismissed—people didn't pay attention to what he said."
+        },
+        {
+          "number": 17,
+          "text": "It's better to listen to the calm words of a wise person than the shouts of a ruler of fools."
+        },
+        {
+          "number": 18,
+          "text": "It's better to have wisdom than weapons of war; but a sinner can destroy a lot of good."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "9:1",
+          "text": "The meaning of this last sentence is debated as evidenced by the variety of translations. It seems to be emphasizing the uncertainty of life in terms of what may be experienced."
+        },
+        {
+          "ref": "9:2",
+          "text": "“The religiously-observant and those that are not:” literally, “the clean and the unclean.”"
+        },
+        {
+          "ref": "9:8",
+          "text": "Literally, “white clothes and be sure to put olive oil on your head.” The sense here is to always be in a celebratory mood—white clothes were used for festivals, along with the practice of anointing the head with olive oil."
+        },
+        {
+          "ref": "9:12",
+          "text": "Literally, “time.”"
+        },
+        {
+          "ref": "9:15",
+          "text": "“To thank”: implied."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Dead flies can make perfumed oil smell bad. Likewise a little foolishness outweighs great wisdom and honor."
+        },
+        {
+          "number": 2,
+          "text": "The mind of the wise person chooses the right side, but the mind of the fool goes left!"
+        },
+        {
+          "number": 3,
+          "text": "Just the way that fools walk down the road shows they have no sense, making clear to everyone their stupidity."
+        },
+        {
+          "number": 4,
+          "text": "If your superior gets angry with you, don't give up and leave. If you stay calm even bad mistakes can be resolved."
+        },
+        {
+          "number": 5,
+          "text": "I also realized there's another evil here on earth: rulers make a big mistake"
+        },
+        {
+          "number": 6,
+          "text": "when they put fools in high positions, while those who are richly qualified* are put in low positions."
+        },
+        {
+          "number": 7,
+          "text": "I've seen slaves riding on horseback, while princes walk on the ground like slaves.*"
+        },
+        {
+          "number": 8,
+          "text": "If you dig a pit, you could fall in. If you knock down a wall, you could be bitten by a snake."
+        },
+        {
+          "number": 9,
+          "text": "If you quarry stone, you could be injured. If you split logs,* you could be hurt."
+        },
+        {
+          "number": 10,
+          "text": "If your ax is blunt and you don't sharpen it, you have to use a lot more force. Conclusion:* being wise brings good results."
+        },
+        {
+          "number": 11,
+          "text": "If the snake bites the snake charmer before it's charmed, there's no benefit to the snake charmer!"
+        },
+        {
+          "number": 12,
+          "text": "Wise words are beneficial, but fools destroy themselves by what they say."
+        },
+        {
+          "number": 13,
+          "text": "Fools begin by saying foolish things, and end up talking evil nonsense."
+        },
+        {
+          "number": 14,
+          "text": "Fools talk on and on, however no one knows what's going to happen, so who can say what the future holds?*"
+        },
+        {
+          "number": 15,
+          "text": "Work makes fools so worn out they can't achieve anything.*"
+        },
+        {
+          "number": 16,
+          "text": "You're in trouble if the king of your country is young, and if your leaders are busy feasting from early morning."
+        },
+        {
+          "number": 17,
+          "text": "You're fortunate if your king comes from a noble family, and your leaders feast at the proper time to give themselves energy, and not to get drunk."
+        },
+        {
+          "number": 18,
+          "text": "Lazy people let their roofs collapse; idle people don't repair their leaky houses."
+        },
+        {
+          "number": 19,
+          "text": "A good meal brings pleasure; wine makes life pleasant; money provides for all needs."
+        },
+        {
+          "number": 20,
+          "text": "Don't talk badly about the king, not even in your thoughts. Don't talk badly about leaders,* even in the privacy of your bedroom. A bird may hear what you say and fly away to tell them."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "10:6",
+          "text": "“Richly qualified”: literally simply “the rich,” but surely more is in view here than simply accumulated wealth."
+        },
+        {
+          "ref": "10:7",
+          "text": "In that society, it would have been very unlikely that slaves, often captured enemies, would have ever ridden on horseback. In contrast the image of princes being forced to walk is to show a loss of their dignity."
+        },
+        {
+          "ref": "10:9",
+          "text": "Or “cut down trees.”"
+        },
+        {
+          "ref": "10:10",
+          "text": "Implied."
+        },
+        {
+          "ref": "10:14",
+          "text": "See 8:7."
+        },
+        {
+          "ref": "10:15",
+          "text": "“They can't achieve anything”: literally, “can't find their way to town,” a colloquial expression meaning that people become confused so they are not successful."
+        },
+        {
+          "ref": "10:20",
+          "text": "“Leaders”: literally, “the rich.”"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Send your bread out on the surface of the water, and many days later you will find it again.*"
+        },
+        {
+          "number": 2,
+          "text": "Share what you own with seven or eight people, for you never know what disaster could happen.*"
+        },
+        {
+          "number": 3,
+          "text": "When the clouds are full they pour rain down upon the earth. Whether a tree falls to the north or to the south, it stays where it fell."
+        },
+        {
+          "number": 4,
+          "text": "The farmer who pays attention to the direction of the wind knows when not to sow, and by watching the clouds knows when not to reap.*"
+        },
+        {
+          "number": 5,
+          "text": "Just as you don't know how the breath of life comes to the child in its mother's womb, so you can't understand the work of God, the Creator of everything."
+        },
+        {
+          "number": 6,
+          "text": "In the morning, sow your seed. In the evening, don't stop. For you have no way of knowing which crop will grow well—one may be profitable, or the other—or maybe both."
+        },
+        {
+          "number": 7,
+          "text": "How sweet it is to live in the light, to see the sun rise on another day.*"
+        },
+        {
+          "number": 8,
+          "text": "May you live for many years, and may you enjoy them all. But remember there will be many days of darkness,* and all that is to come is uncertain."
+        },
+        {
+          "number": 9,
+          "text": "Young people, enjoy your youth! Be happy with what's good! While you're young, let your mind guide your life, and do as you think best. But remember that God will judge you for all your thoughts and actions."
+        },
+        {
+          "number": 10,
+          "text": "So don't let your mind worry, and avoid things that hurt your body. Even so, despite youth and enthusiasm, life is still so hard to understand!"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "11:1",
+          "text": "This proverbial statement is a call to generosity, with the implication that it will be rewarded."
+        },
+        {
+          "ref": "11:2",
+          "text": "This is also a proverb that encourages sharing."
+        },
+        {
+          "ref": "11:4",
+          "text": "These statements reflect the local weather. Farmers did not sow when east winds were blowing, since that was dry wind from the desert. West winds brought rain and were a good time to sow. The opposite was true for harvest—dry weather was called for, not clouds bringing rain. What is being encouraged here is the general theme of wisdom through observation."
+        },
+        {
+          "ref": "11:7",
+          "text": "Literally, “Sweet is the light and pleasant for the eyes to see the sun.” However, what is clearly meant is appreciation for continued life."
+        },
+        {
+          "ref": "11:8",
+          "text": "“Days of darkness” may refer to the time spent when people are dead."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Remember your Creator while you are young, before days of trouble come and you grow old, saying, “I'm not enjoying life anymore.”"
+        },
+        {
+          "number": 2,
+          "text": "Before* the light fades—sun, moon, and stars—and rain clouds return to darken the skies."
+        },
+        {
+          "number": 3,
+          "text": "Before the guards of the house tremble and the strong men are bent over, the grinders stop working because there are only a few left, and the ones looking through the windows only see dimly,*"
+        },
+        {
+          "number": 4,
+          "text": "and the doors to the street are shut. Before the sound of the grinding mill grows low, and you wake up early when the birds are singing, but you can hardly hear them."
+        },
+        {
+          "number": 5,
+          "text": "Before you develop a fear of heights and worry about going out on the streets; when the almond tree blossoms, the grasshopper crawls along, and desire fails,* for everyone has to go to their eternal home* as the mourners go up and down the street."
+        },
+        {
+          "number": 6,
+          "text": "Before the silver cord is snapped and the golden bowl is broken; before the water jug is smashed at the spring, or the pulley is broken at the well."
+        },
+        {
+          "number": 7,
+          "text": "Then the dust returns to the earth from which it came, and the breath of life returns to God who gave it."
+        },
+        {
+          "number": 8,
+          "text": "“Everything passes! It's all so hard to understand!” says the Teacher.*"
+        },
+        {
+          "number": 9,
+          "text": "Not only was the Teacher a wise man, he also taught what he knew to others. He thought about many proverbs, studying them and arranging them."
+        },
+        {
+          "number": 10,
+          "text": "The Teacher looked for the best way to explain things, writing truthfully and honestly."
+        },
+        {
+          "number": 11,
+          "text": "The words of the wise are like cattle prods. Their collected sayings are like nails driven home, given by one shepherd."
+        },
+        {
+          "number": 12,
+          "text": "In addition, my student, take care, for there's no end to book writing, and too much study wears you out."
+        },
+        {
+          "number": 13,
+          "text": "To sum up now that everything has been discussed: Respect God by keeping his commandments, for that's what everyone should do."
+        },
+        {
+          "number": 14,
+          "text": "God is going to judge us for everything we do, including what we do secretly, whether good or bad."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "12:2",
+          "text": "“Before”: the call is to remember the Creator before all the rest that follows in the succeeding verses."
+        },
+        {
+          "ref": "12:3",
+          "text": "The allusions to the problems of increasing age are obvious."
+        },
+        {
+          "ref": "12:5",
+          "text": "“Desire fails”: this word only occurs once in the Old Testament. Some think it refers to the caperberry, a fruit reputed to be an aphrodisiac. The whole verse again references the experience of growing old and approaching death."
+        },
+        {
+          "ref": "12:5",
+          "text": "“Eternal home”: referring to the grave."
+        },
+        {
+          "ref": "12:8",
+          "text": "Here the theme introduced in 1:2 is summarized again."
+        }
+      ]
+    }
+  ]
+}

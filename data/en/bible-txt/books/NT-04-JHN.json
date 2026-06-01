@@ -1,0 +1,4174 @@
+{
+  "id": "NT-04-JHN",
+  "code": "JHN",
+  "slug": "john",
+  "name": "John",
+  "testament": "NT",
+  "testamentOrder": 4,
+  "order": 43,
+  "source": {
+    "file": "src/JHN.rtf",
+    "format": "rtf"
+  },
+  "stats": {
+    "chapters": 21,
+    "verses": 879
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "In the beginning the Word already was.* The Word was with God, and the Word was God."
+        },
+        {
+          "number": 2,
+          "text": "From the very beginning he was with God."
+        },
+        {
+          "number": 3,
+          "text": "Everything came into being through him; nothing came into being without him."
+        },
+        {
+          "number": 4,
+          "text": "In him was life, the life that was the light of everyone."
+        },
+        {
+          "number": 5,
+          "text": "The light shines in the darkness, and the darkness has not extinguished it.*"
+        },
+        {
+          "number": 6,
+          "text": "God sent a man named John."
+        },
+        {
+          "number": 7,
+          "text": "He came as a witness to explain about the light so that everyone might believe through him."
+        },
+        {
+          "number": 8,
+          "text": "He himself was not the light, but he came to witness to the light."
+        },
+        {
+          "number": 9,
+          "text": "The true light was coming into the world to give light to everyone."
+        },
+        {
+          "number": 10,
+          "text": "He was in the world, and though the world was made through him, the world didn't know who he was.*"
+        },
+        {
+          "number": 11,
+          "text": "He came to his own people, but they didn't accept him.*"
+        },
+        {
+          "number": 12,
+          "text": "But to all those who accepted him and trusted in him, he gave the right to become God's children."
+        },
+        {
+          "number": 13,
+          "text": "These are the children born not in the usual way, not as the result of human desire or a father's decision, but born of God."
+        },
+        {
+          "number": 14,
+          "text": "The Word became human and lived among us, and we saw his glory, the glory of the Father's one and only* Son, full of grace and truth."
+        },
+        {
+          "number": 15,
+          "text": "John gave his testimony about him, shouting out to the people, “This is the one I was telling you about when I said, ‘The one who is coming after me is more important than me, for before I ever existed he already was.’”"
+        },
+        {
+          "number": 16,
+          "text": "We have all been recipients of his generous nature, one gracious gift after another."
+        },
+        {
+          "number": 17,
+          "text": "For the law was given through Moses; grace and truth came through Jesus Christ."
+        },
+        {
+          "number": 18,
+          "text": "While no one has ever seen God, God the one and only, who is close beside the Father, has shown us what God is like.*"
+        },
+        {
+          "number": 19,
+          "text": "This is what John publicly stated when the Jewish leaders sent priests and Levites from Jerusalem to ask him, “Who are you?”"
+        },
+        {
+          "number": 20,
+          "text": "John declared plainly and clearly without hesitation, “I am not the Messiah.”"
+        },
+        {
+          "number": 21,
+          "text": "“So then, who are you?” they asked. “Elijah?” “No, I'm not,” he answered. “Are you the Prophet?”* “No,” he replied."
+        },
+        {
+          "number": 22,
+          "text": "“Well, who are you, then?” they asked. “We have to give an answer to those who sent us. What do you say about yourself?”"
+        },
+        {
+          "number": 23,
+          "text": "“I am a voice calling in the desert, ‘Make the Lord's way straight!’” he said, using the words of the prophet Isaiah.*"
+        },
+        {
+          "number": 24,
+          "text": "The priests and Levites* sent by the Pharisees"
+        },
+        {
+          "number": 25,
+          "text": "asked him, “Why then are you baptizing, if you're not the Messiah, or Elijah, or the Prophet?”"
+        },
+        {
+          "number": 26,
+          "text": "John replied, “I baptize with water, but standing among you is someone you don't know."
+        },
+        {
+          "number": 27,
+          "text": "He is coming after me, but I am not even worthy to untie his sandals.”"
+        },
+        {
+          "number": 28,
+          "text": "This all happened in Bethany beyond the Jordan, where John was baptizing."
+        },
+        {
+          "number": 29,
+          "text": "The next day John saw Jesus approaching him, and said, “Look, the Lamb of God, who takes away the sin of the world!"
+        },
+        {
+          "number": 30,
+          "text": "This is the one I was talking about when I said, ‘A man who is coming after me is more important than me, for before I ever existed he already was.’"
+        },
+        {
+          "number": 31,
+          "text": "I didn't know myself who he was, but I came baptizing with water so that he could be revealed to Israel.”"
+        },
+        {
+          "number": 32,
+          "text": "John gave his evidence about him, saying, “I saw the Spirit descend from heaven like a dove and rest upon him."
+        },
+        {
+          "number": 33,
+          "text": "I wouldn't have known him except he who sent me to baptize with water had told me, ‘The one you see the Spirit descend to and rest upon, he is the one who baptizes with the Holy Spirit.’"
+        },
+        {
+          "number": 34,
+          "text": "I saw it happen and I declare that this is the Son of God.”"
+        },
+        {
+          "number": 35,
+          "text": "The next day John was standing there with two of his disciples."
+        },
+        {
+          "number": 36,
+          "text": "He saw Jesus passing by, and said, “Look! This is the Lamb of God!”"
+        },
+        {
+          "number": 37,
+          "text": "When the two disciples heard what he said they went and followed Jesus."
+        },
+        {
+          "number": 38,
+          "text": "Jesus turned round and saw them following him. “What are you looking for?” he asked them. “Rabbi (which means ‘Teacher’), where are you staying?” they asked in reply."
+        },
+        {
+          "number": 39,
+          "text": "“Come and see,” he told them. So they went with him and saw where he was staying. It was about four p.m., and they spent the rest of the day with him."
+        },
+        {
+          "number": 40,
+          "text": "Andrew, the brother of Simon Peter, was one of these two disciples who had heard what John said and followed Jesus."
+        },
+        {
+          "number": 41,
+          "text": "He went at once to find his brother Simon and told him, “We've found the Messiah!” (which means “Christ”).*"
+        },
+        {
+          "number": 42,
+          "text": "He took him to Jesus. Looking directly at Simon, Jesus said, “You are Simon, son of John. But now you will be called Cephas,” (which means “Peter”).*"
+        },
+        {
+          "number": 43,
+          "text": "The next day Jesus decided to go to Galilee. Jesus found Philip there, and told him, “Follow me.”"
+        },
+        {
+          "number": 44,
+          "text": "Philip was from Bethsaida, the same town that Andrew and Peter came from."
+        },
+        {
+          "number": 45,
+          "text": "Philip found Nathanael and told him, “We've found the one that Moses wrote about in the law and that the prophets did too—Jesus of Nazareth, the son of Joseph.”"
+        },
+        {
+          "number": 46,
+          "text": "“From Nazareth? Can anything good come from there?” Nathanael wondered. “Just come and see,” Philip replied."
+        },
+        {
+          "number": 47,
+          "text": "As Jesus saw Nathanael approaching, he said about him, “Look, here's a true Israelite! There's nothing false about him.”"
+        },
+        {
+          "number": 48,
+          "text": "“How do you know who I am?” Nathanael asked. “I saw you there under the fig tree, before Philip called you,” Jesus replied."
+        },
+        {
+          "number": 49,
+          "text": "“Rabbi, you are the Son of God, the king of Israel!” Nathaniel exclaimed."
+        },
+        {
+          "number": 50,
+          "text": "“You believe this just because I told you I saw you under the fig tree?” Jesus replied. “You'll get to see much more than that!”"
+        },
+        {
+          "number": 51,
+          "text": "Then Jesus said, “I tell you the truth, you will all see heaven open, and the angels of God going up and down on the Son of man.”*"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "1:1",
+          "text": "In other words, the Word existed from eternity past. The concept of the Word means more than letters making up a word: it is the divine mind, the expression of God, the active aspect of divinity that speaks into existence as in Genesis 1:1."
+        },
+        {
+          "ref": "1:5",
+          "text": "The word in the original can also mean “overpowered” or “understood.”"
+        },
+        {
+          "ref": "1:10",
+          "text": "Or “didn't recognize him.”"
+        },
+        {
+          "ref": "1:11",
+          "text": "Or “He came to his own home but his own people did not welcome him.”"
+        },
+        {
+          "ref": "1:14",
+          "text": "Literally, “only begotten.” This refers to position and uniqueness rather than birth."
+        },
+        {
+          "ref": "1:18",
+          "text": "Or “has made him known.”"
+        },
+        {
+          "ref": "1:21",
+          "text": "In Jewish thought a special prophet was expected before the End."
+        },
+        {
+          "ref": "1:23",
+          "text": "Quoting Isaiah 40:3."
+        },
+        {
+          "ref": "1:24",
+          "text": "“Priests and Levites”: implied from verse 19."
+        },
+        {
+          "ref": "1:41",
+          "text": "Both Messiah and Christ mean “the Anointed One.”"
+        },
+        {
+          "ref": "1:42",
+          "text": "Cephas and Peter both mean “rock” or “stone.”"
+        },
+        {
+          "ref": "1:51",
+          "text": "Referring to Jacob's experience in Genesis 28:12, with the term “Son of man” replacing the word “ladder.”"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Two days* later a wedding was held at Cana in Galilee, and Jesus' mother was there."
+        },
+        {
+          "number": 2,
+          "text": "Jesus and his disciples had also been invited to the wedding."
+        },
+        {
+          "number": 3,
+          "text": "The wine ran out, so Jesus' mother told him, “They don't have any more wine.”"
+        },
+        {
+          "number": 4,
+          "text": "“Mother, why should you involve me?* My time hasn't come yet,” he replied."
+        },
+        {
+          "number": 5,
+          "text": "His mother told the servants, “Do whatever he tells you.”"
+        },
+        {
+          "number": 6,
+          "text": "Standing nearby were six stone jars used by the Jews for ceremonial washing, each one holding twenty to thirty gallons.*"
+        },
+        {
+          "number": 7,
+          "text": "“Fill the jars with water,” Jesus told them. So they filled them right up."
+        },
+        {
+          "number": 8,
+          "text": "Then he told them, “Pour some out, and take it to the master of ceremonies.” So they took him some."
+        },
+        {
+          "number": 9,
+          "text": "The master of ceremonies didn't know where it had come from, only the servants knew. But when he tasted the water that had been turned to wine, he called the bridegroom over."
+        },
+        {
+          "number": 10,
+          "text": "“Everyone serves out the best wine first,” he told him, “and once people have had plenty to drink, then they put out the cheaper wine. But you have kept the best wine till last!”"
+        },
+        {
+          "number": 11,
+          "text": "This was the very first of Jesus' miraculous signs, and was performed in Cana of Galilee. Here he revealed his glory, and his disciples put their trust in him."
+        },
+        {
+          "number": 12,
+          "text": "After this Jesus left for Capernaum with his mother, brothers, and disciples where they stayed for a few days."
+        },
+        {
+          "number": 13,
+          "text": "Since it was almost time for the Jewish Passover, Jesus went on to Jerusalem."
+        },
+        {
+          "number": 14,
+          "text": "In the Temple he found people selling cattle, sheep, and doves; and money-changers sitting at their tables."
+        },
+        {
+          "number": 15,
+          "text": "He made a whip out of cords and drove everyone out of the Temple, along with the sheep and cattle, scattering coins of the money-changers and turning over their tables."
+        },
+        {
+          "number": 16,
+          "text": "He ordered the dove-sellers, “Take these things out of here! Don't turn my Father's house into a market!”"
+        },
+        {
+          "number": 17,
+          "text": "His disciples remembered the Scripture that says, “My devotion for your house is like a fire burning inside me!”*"
+        },
+        {
+          "number": 18,
+          "text": "The Jewish leaders reacted, asking him, “What right do you have to do this? Show us some miraculous sign to prove it!”"
+        },
+        {
+          "number": 19,
+          "text": "Jesus replied, “Destroy this Temple, and in three days I'll raise it up!”"
+        },
+        {
+          "number": 20,
+          "text": "“It took forty-six years to build this Temple, and you're going to raise it up in three days?” the Jewish leaders replied."
+        },
+        {
+          "number": 21,
+          "text": "But the Temple Jesus was speaking of was his body."
+        },
+        {
+          "number": 22,
+          "text": "After he was raised from the dead, his disciples remembered what he said, and so they believed in Scripture and Jesus' own words."
+        },
+        {
+          "number": 23,
+          "text": "As a result of the miracles Jesus did while he was in Jerusalem during the Passover, many believed in him."
+        },
+        {
+          "number": 24,
+          "text": "But Jesus did not trust himself to them, because he knew all about people."
+        },
+        {
+          "number": 25,
+          "text": "He didn't need anyone to tell him about human nature for he knew the way people think."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "2:1",
+          "text": "Literally, “on the third day” (by inclusive reckoning)."
+        },
+        {
+          "ref": "2:4",
+          "text": "Literally, “What to me and to you?” (that is, “What has this got to do with me or you?”)"
+        },
+        {
+          "ref": "2:6",
+          "text": "Literally, “two or three measures.”"
+        },
+        {
+          "ref": "2:17",
+          "text": "Quoting Psalms 69:9."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "There was a man named Nicodemus, a Pharisee and a member of the Jewish ruling council."
+        },
+        {
+          "number": 2,
+          "text": "He came at night to where Jesus was and said, “Rabbi, we know you are a teacher who has come from God, for nobody could do the miraculous signs you're doing unless God was with him.”"
+        },
+        {
+          "number": 3,
+          "text": "“I tell you the truth,” Jesus replied, “Unless you are reborn,* you can't experience God's kingdom.”"
+        },
+        {
+          "number": 4,
+          "text": "“How can you be reborn when you're old?” Nicodemus asked. “You can't go back into your mother's womb and be born a second time!”"
+        },
+        {
+          "number": 5,
+          "text": "“I tell you the truth, you can't enter God's kingdom unless you are born of water and the Spirit,” Jesus told him."
+        },
+        {
+          "number": 6,
+          "text": "“What's born of the body is body, and what's born of the Spirit is Spirit."
+        },
+        {
+          "number": 7,
+          "text": "Don't be surprised at my telling you, ‘You must be reborn.’*"
+        },
+        {
+          "number": 8,
+          "text": "The wind blows wherever it wants, and just as you hear the sound it makes, but don't know where it's coming from or where it's going, that's how it is for everyone who is born of the Spirit.”"
+        },
+        {
+          "number": 9,
+          "text": "“How is this possible?” Nicodemus asked."
+        },
+        {
+          "number": 10,
+          "text": "“You're a famous teacher in Israel,* and yet you don't understand such things?” Jesus replied."
+        },
+        {
+          "number": 11,
+          "text": "“I tell you the truth, we speak of what we know and give evidence regarding what we have seen, but you refuse to accept our testimony."
+        },
+        {
+          "number": 12,
+          "text": "If you don't trust what I say when I tell you about earthly things, how would you ever trust what I say if I were to tell you about heavenly things?"
+        },
+        {
+          "number": 13,
+          "text": "No one has gone up to heaven, but the Son of man came down from heaven."
+        },
+        {
+          "number": 14,
+          "text": "Just as Moses lifted up the serpent in the desert,* so the Son of man must be lifted up,"
+        },
+        {
+          "number": 15,
+          "text": "so that everyone who trusts in him will have eternal life."
+        },
+        {
+          "number": 16,
+          "text": "For God loved the world, and this is how:* he gave his one and only Son, so that everyone who trusts in him shouldn't die, but have eternal life."
+        },
+        {
+          "number": 17,
+          "text": "God didn't send the Son into the world to condemn the world, but to save the world through him."
+        },
+        {
+          "number": 18,
+          "text": "Those who trust in him are not condemned, while those who don't trust in him are condemned* already because they didn't trust in the one and only Son of God."
+        },
+        {
+          "number": 19,
+          "text": "This is how the decision* is made: the light came to the world, but people loved the darkness rather than the light, for their actions were evil."
+        },
+        {
+          "number": 20,
+          "text": "All those who do evil hate the light and don't come into the light, because they don't want their actions to be exposed."
+        },
+        {
+          "number": 21,
+          "text": "But those who do good* come into the light, so that what God accomplishes in them can be revealed.”"
+        },
+        {
+          "number": 22,
+          "text": "After this Jesus and his disciples went into Judea and spent some time with the people, baptizing them."
+        },
+        {
+          "number": 23,
+          "text": "John was also baptizing at Aenon near Salim, because there was plenty of water there and people kept coming to be baptized."
+        },
+        {
+          "number": 24,
+          "text": "(This was before John was imprisoned.)"
+        },
+        {
+          "number": 25,
+          "text": "An argument developed between John's disciples and a Jew over ceremonial purification."
+        },
+        {
+          "number": 26,
+          "text": "They went to John and told him, “Rabbi, the man you were with on the other side of the Jordan River, the one you testified in support of—see, now he's baptizing, and everyone is going to him!”"
+        },
+        {
+          "number": 27,
+          "text": "“No one receives anything unless they're given it from heaven,” John replied."
+        },
+        {
+          "number": 28,
+          "text": "“You yourselves can testify that I declared, ‘I'm not the Messiah. I've been sent to prepare his way.’"
+        },
+        {
+          "number": 29,
+          "text": "The bridegroom is the one who has the bride! The best man waits, listening for the bridegroom, and is so happy when he hears the bridegroom's voice—in the same way my happiness is now complete."
+        },
+        {
+          "number": 30,
+          "text": "He must become more important, and I must become less important.”"
+        },
+        {
+          "number": 31,
+          "text": "He who comes from above is greater* than all; he who comes from the earth belongs to the earth and talks about earthly things. He who comes from heaven is greater than all."
+        },
+        {
+          "number": 32,
+          "text": "He gives evidence about what he has seen and heard, but no one accepts what he has to say."
+        },
+        {
+          "number": 33,
+          "text": "Yet anyone who accepts what he says confirms* that God is truthful."
+        },
+        {
+          "number": 34,
+          "text": "For the one God sent speaks God's words, because God doesn't restrict the Spirit."
+        },
+        {
+          "number": 35,
+          "text": "The Father loves the Son and has placed everything in his hands."
+        },
+        {
+          "number": 36,
+          "text": "Anyone who trusts in the Son has eternal life, but anyone who refuses to trust the Son will not experience eternal life but remains under God's condemnation."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "3:3",
+          "text": "Or “born from above.”"
+        },
+        {
+          "ref": "3:7",
+          "text": "The first “you” refers to Nicodemus in the singular. The second “you” is plural, and refers to a wider audience."
+        },
+        {
+          "ref": "3:10",
+          "text": "Literally, “you are the teacher of Israel.”"
+        },
+        {
+          "ref": "3:14",
+          "text": "See Numbers 21:9."
+        },
+        {
+          "ref": "3:16",
+          "text": "The word often translated “so” (as in “so loved”) is primarily describing the way or manner in which God loves rather than the extent or intensity of his love."
+        },
+        {
+          "ref": "3:18",
+          "text": "Or “have condemned themselves.”"
+        },
+        {
+          "ref": "3:19",
+          "text": "Or “judgment.”"
+        },
+        {
+          "ref": "3:21",
+          "text": "Literally, “doing the truth.”"
+        },
+        {
+          "ref": "3:31",
+          "text": "Or “above” in the sense of authority."
+        },
+        {
+          "ref": "3:33",
+          "text": "Literally, “stamp of approval.”"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "When Jesus realized that the Pharisees had discovered that he was gaining and baptizing more disciples than John,"
+        },
+        {
+          "number": 2,
+          "text": "(although it wasn't Jesus who was baptizing, but his disciples),"
+        },
+        {
+          "number": 3,
+          "text": "he left Judea and returned to Galilee."
+        },
+        {
+          "number": 4,
+          "text": "On the way he had to pass through Samaria."
+        },
+        {
+          "number": 5,
+          "text": "So he came to the Samaritan city of Sychar, near to the field that Jacob had given his son Joseph."
+        },
+        {
+          "number": 6,
+          "text": "Jacob's well was there, and Jesus, who was tired from the journey, sat straight down beside the well. It was around noon."
+        },
+        {
+          "number": 7,
+          "text": "A Samaritan woman came to fetch water. Jesus said to her, “Please could you give me a drink?”"
+        },
+        {
+          "number": 8,
+          "text": "for his disciples had gone to the town to buy food."
+        },
+        {
+          "number": 9,
+          "text": "“You're a Jew, and I'm a Samaritan woman. How can you ask me for a drink?” the woman replied, for Jews don't associate with Samaritans.*"
+        },
+        {
+          "number": 10,
+          "text": "Jesus answered her, “If you only recognized God's gift, and who is asking you, ‘Please could you give me a drink?’ you would have asked him and he would have given you the water of life.”"
+        },
+        {
+          "number": 11,
+          "text": "“Sir, you don't have a bucket, and the well is deep. Where are you going to get the water of life from?” she replied."
+        },
+        {
+          "number": 12,
+          "text": "“Our father Jacob gave us the well. He drank from it himself, as well as his sons and his livestock. Are you greater than he?”"
+        },
+        {
+          "number": 13,
+          "text": "Jesus answered, “Everyone who drinks water from this well will become thirsty again."
+        },
+        {
+          "number": 14,
+          "text": "But those who drink the water I give won't ever be thirsty again. The water I give becomes a bubbling spring of water inside them, bringing them eternal life.”"
+        },
+        {
+          "number": 15,
+          "text": "“Sir,” replied the woman, “Please give me this water so I won't be thirsty, and I won't have to come here to fetch water!”"
+        },
+        {
+          "number": 16,
+          "text": "“Go and call your husband, and come back here,” Jesus told her."
+        },
+        {
+          "number": 17,
+          "text": "“I don't have a husband,” the woman answered. “You're right in saying you don't have a husband,” Jesus told her."
+        },
+        {
+          "number": 18,
+          "text": "“You've had five husbands, and the one you're living with now is not your husband. So what you say is true!”"
+        },
+        {
+          "number": 19,
+          "text": "“I can see you're a prophet, sir,” the woman replied."
+        },
+        {
+          "number": 20,
+          "text": "“Tell me this: our ancestors worshiped here on this mountain, but you* say that Jerusalem is where we must worship.”"
+        },
+        {
+          "number": 21,
+          "text": "Jesus replied,* “Believe me the time is coming when you won't worship the Father either on this mountain or in Jerusalem."
+        },
+        {
+          "number": 22,
+          "text": "You really don't know the God* you're worshiping, while we worship the God we know, for salvation comes from the Jews."
+        },
+        {
+          "number": 23,
+          "text": "But the time is coming—and in fact it's here already—when true worshipers will worship the Father in spirit and in truth, for these are the kind of worshipers the Father wants."
+        },
+        {
+          "number": 24,
+          "text": "God is Spirit, so worshipers must worship in spirit and in truth.”"
+        },
+        {
+          "number": 25,
+          "text": "The woman said, “Well, I know that the Messiah is coming,” (the one who is called Christ). “When he comes he will explain it all to us.”"
+        },
+        {
+          "number": 26,
+          "text": "Jesus replied, “I AM—the one who is speaking to you.”*"
+        },
+        {
+          "number": 27,
+          "text": "Just then the disciples returned. They were shocked that he was talking to a woman, but none of them asked “What are you doing?” or “Why are you talking with her?”"
+        },
+        {
+          "number": 28,
+          "text": "The woman left her water jar behind and ran back to the town, telling the people,"
+        },
+        {
+          "number": 29,
+          "text": "“Come and meet a man who told me everything I ever did! Could this be the Messiah?”"
+        },
+        {
+          "number": 30,
+          "text": "So they went out of the town to go and see him."
+        },
+        {
+          "number": 31,
+          "text": "Meanwhile Jesus' disciples were urging him, “Rabbi, please eat something!”"
+        },
+        {
+          "number": 32,
+          "text": "But Jesus replied, “I have food to eat that you know nothing about.”"
+        },
+        {
+          "number": 33,
+          "text": "“Did someone bring him food?” the disciples asked one another."
+        },
+        {
+          "number": 34,
+          "text": "Jesus told them, “My food is to do the will of the one who sent me, and to complete his work."
+        },
+        {
+          "number": 35,
+          "text": "Don't you have a saying, ‘four more months until harvest?’* Open your eyes and look around! The crops in the fields are ripe, ready for harvest."
+        },
+        {
+          "number": 36,
+          "text": "The reaper is being paid and harvesting a crop for eternal life so that both the sower and the reaper can celebrate."
+        },
+        {
+          "number": 37,
+          "text": "So the proverb ‘one sows, another reaps,’ is true."
+        },
+        {
+          "number": 38,
+          "text": "I sent you to reap what you didn't work for. Others did the hard work and you have reaped the benefits of what they did.”"
+        },
+        {
+          "number": 39,
+          "text": "Many Samaritans from that town trusted in him because of what the woman said: “He told me everything I ever did.”"
+        },
+        {
+          "number": 40,
+          "text": "So when they came to see him they pleaded with him to stay with them. He stayed for two days,"
+        },
+        {
+          "number": 41,
+          "text": "and because of what he told them many more trusted in him."
+        },
+        {
+          "number": 42,
+          "text": "They said to the woman, “Now our trust in him isn't just because of what you told us but because we have heard him for ourselves. We're convinced that he really is the Savior of the world.”"
+        },
+        {
+          "number": 43,
+          "text": "After the two days he continued on to Galilee."
+        },
+        {
+          "number": 44,
+          "text": "Jesus himself had made the comment that a prophet is not respected in his own country."
+        },
+        {
+          "number": 45,
+          "text": "But when he arrived in Galilee, the people welcomed him, because they had also been at the Passover feast and had seen everything he'd done in Jerusalem."
+        },
+        {
+          "number": 46,
+          "text": "He visited Cana in Galilee again, where he had turned water into wine. Nearby in the town of Capernaum lived a royal official whose son was very sick."
+        },
+        {
+          "number": 47,
+          "text": "When he heard that Jesus had returned from Judea to Galilee, he went to Jesus and begged him to come and heal his son who was close to death."
+        },
+        {
+          "number": 48,
+          "text": "“Unless you see signs and wonders you people really won't trust me,” said Jesus."
+        },
+        {
+          "number": 49,
+          "text": "“Lord, just come before my child dies,” the official pleaded."
+        },
+        {
+          "number": 50,
+          "text": "“Go on home,” Jesus told him. “Your son will live!” The man trusted what Jesus told him and left for home."
+        },
+        {
+          "number": 51,
+          "text": "While he was on his way, his servants met him with the news that his son was alive and recovering."
+        },
+        {
+          "number": 52,
+          "text": "He asked them what time it was when his son began to get better. “Yesterday at one p.m. the fever left him,” they told him."
+        },
+        {
+          "number": 53,
+          "text": "Then the father realized this was the precise time when Jesus had told him, “Your son will live!” So he and everyone in his household trusted in Jesus."
+        },
+        {
+          "number": 54,
+          "text": "This was the second miraculous sign Jesus did after coming from Judea to Galilee."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "4:9",
+          "text": "Or “Jews do not share dishes with Samaritans.”"
+        },
+        {
+          "ref": "4:20",
+          "text": "As a Jew."
+        },
+        {
+          "ref": "4:21",
+          "text": "Jesus addresses her as “woman” which is the normal term used, but sounds impolite in English."
+        },
+        {
+          "ref": "4:22",
+          "text": "Literally, “what.”"
+        },
+        {
+          "ref": "4:26",
+          "text": "“I AM” is used in the Old Testament as a name for God. Jesus is telling her he is the Messiah and also identifying his divinity."
+        },
+        {
+          "ref": "4:35",
+          "text": "It was usually four months between sowing and reaping."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "After this there was a Jewish festival, so Jesus went to Jerusalem."
+        },
+        {
+          "number": 2,
+          "text": "Now near the Sheep Gate in Jerusalem is a pool called Bethzatha in Hebrew, with five porches beside it."
+        },
+        {
+          "number": 3,
+          "text": "Crowds of sick people were lying in these porches—those who were blind, lame, or paralyzed."
+        },
+        {
+          "number": 4,
+          "text": "*"
+        },
+        {
+          "number": 5,
+          "text": "One man who was there had been sick for thirty-eight years. Jesus looked at him, knowing he had been lying there for a long time, and asked him,"
+        },
+        {
+          "number": 6,
+          "text": "“Do you want to be healed?”"
+        },
+        {
+          "number": 7,
+          "text": "“Sir,” the sick man answered, “I don't have anyone to help me get into the pool when the water is stirred. While I'm trying to get there, someone always gets in before me.”"
+        },
+        {
+          "number": 8,
+          "text": "“Stand up, pick up your mat, and start walking!” Jesus told him."
+        },
+        {
+          "number": 9,
+          "text": "Immediately the man was healed. He picked up his mat and started walking. Now the day that this happened was the Sabbath."
+        },
+        {
+          "number": 10,
+          "text": "So the Jews said to the man who'd been healed, “This is the Sabbath! It's against the law to carry a mat!”"
+        },
+        {
+          "number": 11,
+          "text": "“The man who healed me told me to pick up my mat and start walking,” he replied."
+        },
+        {
+          "number": 12,
+          "text": "“Who's this person who told you to carry your mat and walk?” they asked."
+        },
+        {
+          "number": 13,
+          "text": "However, the man who'd been healed didn't know who it was, for Jesus had slipped away into the surrounding crowd."
+        },
+        {
+          "number": 14,
+          "text": "Later on Jesus found the man in the Temple, and told him, “Look, now you've been healed. So stop sinning or something worse may happen to you.”"
+        },
+        {
+          "number": 15,
+          "text": "The man went and told the Jews it was Jesus who had healed him."
+        },
+        {
+          "number": 16,
+          "text": "So the Jews started to harass Jesus because he was doing things on the Sabbath."
+        },
+        {
+          "number": 17,
+          "text": "But Jesus told them, “My Father is still working, and so am I.”*"
+        },
+        {
+          "number": 18,
+          "text": "This was why the Jews tried even harder to kill him, for not only did he break the Sabbath but also called God his Father, making himself equal with God."
+        },
+        {
+          "number": 19,
+          "text": "So Jesus explained to them, “I tell you the truth, the Son can do nothing by himself; he can only do what he sees the Father doing. Whatever the Father does the Son does as well."
+        },
+        {
+          "number": 20,
+          "text": "For the Father loves the Son, and reveals to him everything he does; and the Father will show to him even more incredible things that will completely amaze you."
+        },
+        {
+          "number": 21,
+          "text": "For just as the Father gives life to those he resurrects from the dead, in the same way the Son also gives life to those that he wants."
+        },
+        {
+          "number": 22,
+          "text": "The Father judges no one. He has given to the Son all the authority to judge,"
+        },
+        {
+          "number": 23,
+          "text": "so that everyone may honor the Son just as they honor the Father. Anyone who doesn't honor the Son doesn't honor the Father who sent him."
+        },
+        {
+          "number": 24,
+          "text": "I tell you the truth: those who follow* what I say and trust the one who sent me have eternal life. They won't be condemned, but have gone from death to life."
+        },
+        {
+          "number": 25,
+          "text": "I tell you the truth: The time is coming—in fact it's here already—when the dead will hear the voice of the Son of God, and those who hear will live!"
+        },
+        {
+          "number": 26,
+          "text": "Just as the Father has life-giving power in himself, so has he given the Son the same life-giving power in himself."
+        },
+        {
+          "number": 27,
+          "text": "The Father also granted the authority for judgment to him, for he is the Son of man."
+        },
+        {
+          "number": 28,
+          "text": "Don't be surprised at this, for the time is coming when all those in the grave will hear his voice"
+        },
+        {
+          "number": 29,
+          "text": "and will rise again: those who have done good to the resurrection of life, and those who have done evil to the resurrection of condemnation.*"
+        },
+        {
+          "number": 30,
+          "text": "I can do nothing by myself. I judge based on what I'm told,* and my decision is right, for I'm not doing my own will but the will of the one who sent me."
+        },
+        {
+          "number": 31,
+          "text": "If I were to make claims about myself, such claims wouldn't be valid;"
+        },
+        {
+          "number": 32,
+          "text": "but someone else gives evidence about me, and I know what he says about me is true."
+        },
+        {
+          "number": 33,
+          "text": "You asked John about me, and he told the truth,"
+        },
+        {
+          "number": 34,
+          "text": "but I don't need any human endorsement. I'm explaining this to you so you can be saved."
+        },
+        {
+          "number": 35,
+          "text": "John was like a brightly-burning light, and you were willing to enjoy his light for a while."
+        },
+        {
+          "number": 36,
+          "text": "But the evidence I'm giving is greater than John's. For I am doing the work that the Father gave me to do,"
+        },
+        {
+          "number": 37,
+          "text": "and this is the proof that the Father sent me. The Father who sent me, he himself speaks on my behalf. You've never heard his voice, and you've never seen what he looks like,"
+        },
+        {
+          "number": 38,
+          "text": "and you don't accept what he says, because you don't trust in the one he sent."
+        },
+        {
+          "number": 39,
+          "text": "You search the Scriptures because you think that through them you'll gain eternal life. But the evidence they give is in support of me!"
+        },
+        {
+          "number": 40,
+          "text": "And yet you don't want to come to me so that you might live."
+        },
+        {
+          "number": 41,
+          "text": "I'm not looking for human approval"
+        },
+        {
+          "number": 42,
+          "text": "—I know you, and that you don't have God's love in you."
+        },
+        {
+          "number": 43,
+          "text": "For I've come to represent* my Father, and you won't accept me; but if someone comes representing themselves, then you accept them!"
+        },
+        {
+          "number": 44,
+          "text": "How can you trust in me when you look for praise from one another and yet you don't look for praise from the one true God?"
+        },
+        {
+          "number": 45,
+          "text": "But don't think I will be making accusations about you to the Father. It's Moses who is accusing you, the one in whom you place such confidence."
+        },
+        {
+          "number": 46,
+          "text": "For if you really trusted Moses you would trust in me, because he wrote about me."
+        },
+        {
+          "number": 47,
+          "text": "But since you don't trust what he said, why would you trust what I say?”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "5:4",
+          "text": "This text is not in the earliest manuscripts and appears to have been added to explain verse 7. It is added here for information: “There they waited for the water to move, for an angel of the Lord would come down to the pool every so often and stir the water. Whoever got into the pool first after the water was stirred was healed of whatever disease they had.” It seems that this idea was what was believed by some at the time."
+        },
+        {
+          "ref": "5:17",
+          "text": "Or “My Father is always working, and I am working too.”"
+        },
+        {
+          "ref": "5:24",
+          "text": "Literally, “hear.”"
+        },
+        {
+          "ref": "5:29",
+          "text": "See Daniel 12:2."
+        },
+        {
+          "ref": "5:30",
+          "text": "Implying “told by God the Father.”,"
+        },
+        {
+          "ref": "5:43",
+          "text": "Literally, “in the name of.”"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Some time later Jesus left to go to the other side of the Sea of Galilee (also known as the Sea of Tiberias)."
+        },
+        {
+          "number": 2,
+          "text": "A large crowd was following him, for they'd seen his miracles of healing."
+        },
+        {
+          "number": 3,
+          "text": "Jesus went up a hill and sat down there with his disciples."
+        },
+        {
+          "number": 4,
+          "text": "The time for the Jewish festival of the Passover was approaching."
+        },
+        {
+          "number": 5,
+          "text": "When Jesus looked up, and saw a large crowd coming towards him, he asked Philip, “Where can we buy bread to feed these people?”"
+        },
+        {
+          "number": 6,
+          "text": "He only asked this to see how Philip would respond, because Jesus already knew what he was going to do."
+        },
+        {
+          "number": 7,
+          "text": "“Two hundred silver coins* wouldn't buy enough bread to give everyone only a little,” Philip replied."
+        },
+        {
+          "number": 8,
+          "text": "One of his disciples, Andrew, Simon Peter's brother, spoke up."
+        },
+        {
+          "number": 9,
+          "text": "“There's a boy here who has five barley loaves and a couple of fish, but what good is that when there are so many people?”"
+        },
+        {
+          "number": 10,
+          "text": "“Have everybody sit down,” Jesus said. There was plenty of grass there, so they all sat down, the men numbering around five thousand."
+        },
+        {
+          "number": 11,
+          "text": "Jesus took the bread, gave thanks, and had it handed out to the people as they sat there. Then he did the same with the fishes, making sure the people had as much as they wanted."
+        },
+        {
+          "number": 12,
+          "text": "Once they were all full, he said to his disciples, “Collect what's left over so nothing is wasted.”"
+        },
+        {
+          "number": 13,
+          "text": "So they collected and filled twelve baskets with the pieces of the five barley loaves the people had eaten."
+        },
+        {
+          "number": 14,
+          "text": "When the people saw this miracle, they said, “Surely this is the Prophet who was to come into the world.”"
+        },
+        {
+          "number": 15,
+          "text": "Jesus realized that they were about to force him to become their king, so he left them and went up into the hills to be by himself."
+        },
+        {
+          "number": 16,
+          "text": "When evening came, his disciples went down to the sea,"
+        },
+        {
+          "number": 17,
+          "text": "climbed into a boat, and headed across the water towards Capernaum. By now it was night and Jesus had not joined them yet."
+        },
+        {
+          "number": 18,
+          "text": "A strong wind began blowing and the sea grew rough."
+        },
+        {
+          "number": 19,
+          "text": "When they had rowed three or four miles, they saw Jesus walking on the sea, coming towards the boat. They were very frightened."
+        },
+        {
+          "number": 20,
+          "text": "“Don't be afraid!” he told them. “It's me.”"
+        },
+        {
+          "number": 21,
+          "text": "Then they gladly took him into the boat, and immediately they reached the shore where they were going."
+        },
+        {
+          "number": 22,
+          "text": "The next day the crowd that had stayed on the other side of the sea noticed that there had been only one boat there, and that Jesus had not got into the boat with his disciples, but they had left without him."
+        },
+        {
+          "number": 23,
+          "text": "Then other boats arrived from Tiberias, landing near to the place where they'd eaten the bread after the Lord had blessed it."
+        },
+        {
+          "number": 24,
+          "text": "Once the crowd realized that neither Jesus nor his disciples were there, they got into the boats and went over to Capernaum, looking for Jesus."
+        },
+        {
+          "number": 25,
+          "text": "When they found him on the other side of the sea, they asked him, “Rabbi, when did you get here?”*"
+        },
+        {
+          "number": 26,
+          "text": "“I tell you the truth,” Jesus replied, “you're looking for me because you ate as much bread as you wanted, not because you understood the miracles."
+        },
+        {
+          "number": 27,
+          "text": "Don't be preoccupied about food that doesn't last, but concentrate on the lasting food of eternal life which the Son of man will give you, for God the Father has placed his seal of approval on him.”"
+        },
+        {
+          "number": 28,
+          "text": "So they asked him, “What should we be doing in order to do what God wants?”"
+        },
+        {
+          "number": 29,
+          "text": "Jesus replied, “What God wants you to do is to trust in the one he sent.”"
+        },
+        {
+          "number": 30,
+          "text": "“What miracle are you going to perform for us to see so we can trust you? What are you able to do?” they asked."
+        },
+        {
+          "number": 31,
+          "text": "“Our forefathers ate manna in the desert in fulfillment of the Scripture that says, ‘He gave them bread from heaven to eat.’”*"
+        },
+        {
+          "number": 32,
+          "text": "“I tell you the truth, it wasn't Moses who gave you bread from heaven,” Jesus replied. “It's my Father who gives you the true bread of heaven."
+        },
+        {
+          "number": 33,
+          "text": "For the bread of God is the one who comes from heaven and gives life to the world.”"
+        },
+        {
+          "number": 34,
+          "text": "“Lord, please give us this kind of bread all the time!” they said."
+        },
+        {
+          "number": 35,
+          "text": "“I am the bread of life,” Jesus replied. “Anyone who comes to me will never be hungry again, and anyone who trusts in me will never be thirsty again."
+        },
+        {
+          "number": 36,
+          "text": "But as I explained to you before, you have seen me,* but you still don't trust me."
+        },
+        {
+          "number": 37,
+          "text": "All those the Father gives me will come to me, and I won't reject any of them."
+        },
+        {
+          "number": 38,
+          "text": "For I came down from heaven not to do what I want, but to do what the one who sent me wants."
+        },
+        {
+          "number": 39,
+          "text": "What he wants is for me not to lose anyone he has given to me, but for me to raise them up at the last day.*"
+        },
+        {
+          "number": 40,
+          "text": "What my Father wants is for everyone who sees the Son and trusts in him to have eternal life, and for me to raise them up at the last day.”"
+        },
+        {
+          "number": 41,
+          "text": "Then the Jews began to grumble about him because he had said, “I am the bread that came down from heaven.”"
+        },
+        {
+          "number": 42,
+          "text": "They said, “Isn't this Jesus, the son of Joseph? We know his father and his mother. So how can he now tell us, ‘I came down from heaven’?”"
+        },
+        {
+          "number": 43,
+          "text": "“Stop grumbling to each other,” Jesus said."
+        },
+        {
+          "number": 44,
+          "text": "“No one can come to me unless the Father who sent me attracts them, and I will raise them up at the last day."
+        },
+        {
+          "number": 45,
+          "text": "As is written in Scripture by the prophets, ‘Everyone will be taught by God.’* Everyone who listens to and learns from the Father comes to me."
+        },
+        {
+          "number": 46,
+          "text": "Not that anyone has seen God, except he who is from God; he has seen the Father."
+        },
+        {
+          "number": 47,
+          "text": "I tell you the truth: anyone who trusts in him has eternal life."
+        },
+        {
+          "number": 48,
+          "text": "I am the bread of life."
+        },
+        {
+          "number": 49,
+          "text": "Your forefathers ate manna in the desert but they still died."
+        },
+        {
+          "number": 50,
+          "text": "But this is the bread that comes down from heaven, and anyone who eats it won't ever die."
+        },
+        {
+          "number": 51,
+          "text": "I am the life-giving bread from heaven, and anyone who eats this bread will live forever. The bread is my flesh that I give so that the world may live.”"
+        },
+        {
+          "number": 52,
+          "text": "Then the Jews argued heatedly among themselves. “How can this man give us his flesh to eat?” they asked."
+        },
+        {
+          "number": 53,
+          "text": "Jesus told them, “I tell you the truth, unless you eat the flesh of the Son of man and drink his blood, you cannot truly live."
+        },
+        {
+          "number": 54,
+          "text": "Those who eat my flesh and drink my blood have eternal life, and I will raise them up at the last day."
+        },
+        {
+          "number": 55,
+          "text": "For my flesh is true food, and my blood is true drink."
+        },
+        {
+          "number": 56,
+          "text": "Those who eat my flesh and drink my blood remain in me, and I remain in them."
+        },
+        {
+          "number": 57,
+          "text": "Just as the life-giving Father sent me and I live because of the Father, so anyone who feeds on me will live because of me."
+        },
+        {
+          "number": 58,
+          "text": "Now this is the bread that came down from heaven, not the kind your forefathers ate and still died. Anyone who eats this bread will live forever.”"
+        },
+        {
+          "number": 59,
+          "text": "Jesus explained this while he was teaching in a synagogue at Capernaum."
+        },
+        {
+          "number": 60,
+          "text": "Many of his disciples when they heard it said, “This is hard to accept! Who can follow* it?”"
+        },
+        {
+          "number": 61,
+          "text": "Jesus saw that his disciples were complaining about this, so he asked them, “Are you offended by this?"
+        },
+        {
+          "number": 62,
+          "text": "Then what if you were to see the Son ascend to where he was before?"
+        },
+        {
+          "number": 63,
+          "text": "The Spirit gives life; the physical body doesn't do anything.* The words I've told you are spirit and life!"
+        },
+        {
+          "number": 64,
+          "text": "Yet there are some of you who don't trust me.” (Jesus had known from the very beginning who didn't trust him, and who would betray him.)"
+        },
+        {
+          "number": 65,
+          "text": "Jesus added, “This is why I told you that no one can come to me unless it is made possible* by the Father.”"
+        },
+        {
+          "number": 66,
+          "text": "From this time on many of Jesus' disciples gave up and no longer followed him."
+        },
+        {
+          "number": 67,
+          "text": "Then Jesus asked the twelve disciples, “What about you? You don't want to leave as well, do you?”"
+        },
+        {
+          "number": 68,
+          "text": "Simon Peter answered, “Lord, who would we follow? You're the one who has the words of eternal life."
+        },
+        {
+          "number": 69,
+          "text": "We trust in you, and we're convinced that you are God's Holy One.”"
+        },
+        {
+          "number": 70,
+          "text": "Jesus replied, “Didn't I choose you, the twelve disciples? Yet one of you is a devil.”"
+        },
+        {
+          "number": 71,
+          "text": "(Jesus was referring to Judas, son of Simon Iscariot. He was the one of the twelve disciples who would betray Jesus.)"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "6:7",
+          "text": "Literally, denarius . One denarius was worth a day's wage."
+        },
+        {
+          "ref": "6:25",
+          "text": "An oblique question, for they were really wondering how he got there…"
+        },
+        {
+          "ref": "6:31",
+          "text": "Quoting Psalms 78:24 referring to Exodus 16:4."
+        },
+        {
+          "ref": "6:36",
+          "text": "Referring to all that Jesus had done, not just seeing his person. In fact the word “me” is not in all ancient manuscripts."
+        },
+        {
+          "ref": "6:39",
+          "text": "“Last day,” referring to the day of judgment. Also verses 40, 44, and 54."
+        },
+        {
+          "ref": "6:45",
+          "text": "Quoting Isaiah 54:13."
+        },
+        {
+          "ref": "6:60",
+          "text": "“Follow” not only in the sense of “understand,” but also “observe” or “agree with.”"
+        },
+        {
+          "ref": "6:63",
+          "text": "Or “counts for nothing.”"
+        },
+        {
+          "ref": "6:65",
+          "text": "Or “granted.”"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "After this, Jesus spent his time going from place to place in Galilee. He did not want to do so in Judea because the Jews were out to kill him."
+        },
+        {
+          "number": 2,
+          "text": "But as it was almost time for the Jewish festival of the Tabernacles,"
+        },
+        {
+          "number": 3,
+          "text": "his brothers told him, “You ought to leave and go to Judea so your followers will be able to see what miracles you can do."
+        },
+        {
+          "number": 4,
+          "text": "No one who wants to be famous keeps what they do hidden. If you can do such miracles, then show yourself to the world!”"
+        },
+        {
+          "number": 5,
+          "text": "For even his own brothers really didn't believe in him."
+        },
+        {
+          "number": 6,
+          "text": "Jesus told them, “This is not my time to go, not yet; but you can go whenever you want, for any time's the right time for you."
+        },
+        {
+          "number": 7,
+          "text": "The world has no reason to hate you, but it does hate me, because I make it clear that its ways are evil."
+        },
+        {
+          "number": 8,
+          "text": "You go on to the festival. I'm not going to this festival because this is not the right time for me, not yet.”"
+        },
+        {
+          "number": 9,
+          "text": "After saying this he stayed behind in Galilee."
+        },
+        {
+          "number": 10,
+          "text": "After his brothers left to go to the festival, Jesus also went, but not openly—he stayed out of sight."
+        },
+        {
+          "number": 11,
+          "text": "Now at the festival the Jewish leaders were searching for him and kept on asking, “Where is he?”"
+        },
+        {
+          "number": 12,
+          "text": "Many people in the crowds were complaining about him. Some said, “He's a good man,” while others argued, “No! He deceives people.”"
+        },
+        {
+          "number": 13,
+          "text": "But no one dared to speak openly about him because they were afraid of what the Jewish leaders would do to them."
+        },
+        {
+          "number": 14,
+          "text": "When the festival was halfway through, Jesus went to the Temple and began to teach."
+        },
+        {
+          "number": 15,
+          "text": "The Jewish leaders were very surprised, and asked, “How does this man have so much learning* when he hasn't been educated?”"
+        },
+        {
+          "number": 16,
+          "text": "Jesus answered, “My teaching is not from me but from the one who sent me."
+        },
+        {
+          "number": 17,
+          "text": "Anyone who chooses to follow what God wants will know if my teaching comes from God or if I'm only speaking for myself."
+        },
+        {
+          "number": 18,
+          "text": "Those who speak for themselves want to glorify themselves, but someone who glorifies the one who sent him is truthful and not deceitful."
+        },
+        {
+          "number": 19,
+          "text": "Moses gave you the law, didn't he? Yet none of you keeps the law! Why are you trying to kill me?”"
+        },
+        {
+          "number": 20,
+          "text": "“You're demon-possessed!” the crowd replied. “No one's trying to kill you!”"
+        },
+        {
+          "number": 21,
+          "text": "“I did one miracle* and you're all shocked by it,” Jesus replied."
+        },
+        {
+          "number": 22,
+          "text": "“However, because Moses told you to circumcise—not that it really came from Moses, but from your forefathers before him—you perform circumcision on the Sabbath."
+        },
+        {
+          "number": 23,
+          "text": "If you circumcise on the Sabbath to make sure that the law of Moses isn't broken, why are you angry with me for healing someone on the Sabbath?"
+        },
+        {
+          "number": 24,
+          "text": "Don't judge by appearances; decide what is right!”"
+        },
+        {
+          "number": 25,
+          "text": "Then some of those from Jerusalem began wondering, “Isn't this the one they're trying to kill?"
+        },
+        {
+          "number": 26,
+          "text": "But see how openly he's speaking, and they're saying nothing to him. Do you think the authorities believe he's the Messiah?"
+        },
+        {
+          "number": 27,
+          "text": "But that's not possible because we know where he comes from. When the Messiah comes, nobody will know where he's from.”"
+        },
+        {
+          "number": 28,
+          "text": "While he was teaching in the Temple, Jesus called out in a loud voice, “So you think you know me and where I'm from? However, I did not come for my own sake. The one who sent me is true. You don't know him,"
+        },
+        {
+          "number": 29,
+          "text": "but I know him, for I come from him, and he sent me.”"
+        },
+        {
+          "number": 30,
+          "text": "So they tried to arrest him, but no one laid a hand on him because his time had not come yet."
+        },
+        {
+          "number": 31,
+          "text": "However, many of the crowd did put their trust in him. “When the Messiah appears, will he do more miraculous signs than this man has done?” they said."
+        },
+        {
+          "number": 32,
+          "text": "When the Pharisees heard the crowd whispering this about him, they and the chief priests sent guards to arrest Jesus."
+        },
+        {
+          "number": 33,
+          "text": "Then Jesus told the people, “I'll be with you just a little longer, but then I'll return to the one who sent me."
+        },
+        {
+          "number": 34,
+          "text": "You'll search for me but you won't find me; and you can't come where I'm going.”"
+        },
+        {
+          "number": 35,
+          "text": "The Jews said to each other, “Where could he be going that we couldn't find him? Is he planning to go to those scattered among the foreigners,* and teach the foreigners?"
+        },
+        {
+          "number": 36,
+          "text": "What does he mean by saying, ‘You'll search for me but you won't find me; and you can't come where I'm going’?”"
+        },
+        {
+          "number": 37,
+          "text": "On the last and most important day of the festival, Jesus stood up and shouted out in a loud voice, “If you're thirsty, come to me and drink."
+        },
+        {
+          "number": 38,
+          "text": "If you trust in me, you will have streams of life-giving water flowing out from within you, as Scripture says.”*"
+        },
+        {
+          "number": 39,
+          "text": "He was referring to the Spirit that those who trusted in him would later receive. The Spirit hadn't been given yet because Jesus hadn't yet been glorified."
+        },
+        {
+          "number": 40,
+          "text": "When they heard these words, some of the people said, “This man is definitely the Prophet!”*"
+        },
+        {
+          "number": 41,
+          "text": "Others said, “He is the Messiah!” Still others said, “How can the Messiah come from Galilee?"
+        },
+        {
+          "number": 42,
+          "text": "Doesn't Scripture say that the Messiah comes from David's lineage, and from David's home town of Bethlehem?”*"
+        },
+        {
+          "number": 43,
+          "text": "So the crowd had a strong difference of opinion about him."
+        },
+        {
+          "number": 44,
+          "text": "Some wanted to arrest him, but nobody laid a hand on him."
+        },
+        {
+          "number": 45,
+          "text": "Then the guards returned to the chief priests and the Pharisees who asked them, “Why didn't you bring him in?”"
+        },
+        {
+          "number": 46,
+          "text": "“Nobody ever spoke like this man does,” the guards replied."
+        },
+        {
+          "number": 47,
+          "text": "“Have you been fooled too?” the Pharisees asked them."
+        },
+        {
+          "number": 48,
+          "text": "“Has a single one of the rulers or Pharisees believed in him? No!"
+        },
+        {
+          "number": 49,
+          "text": "But this crowd knows nothing about teachings of the law—they're damned anyway!”"
+        },
+        {
+          "number": 50,
+          "text": "Nicodemus, who had previously gone to meet Jesus, was one of them and asked them,"
+        },
+        {
+          "number": 51,
+          "text": "“Does our law condemn a man without a hearing and without finding out what he actually did?”"
+        },
+        {
+          "number": 52,
+          "text": "“So you're a Galilean as well, are you?” they replied. “Check the Scriptures and you'll discover that no prophet comes from Galilee!”"
+        },
+        {
+          "number": 53,
+          "text": "Then they all went home,*"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "7:15",
+          "text": "In the sense of religious education."
+        },
+        {
+          "ref": "7:21",
+          "text": "On the Sabbath, referring back to what happened in 5:1-9."
+        },
+        {
+          "ref": "7:35",
+          "text": "Literally, “Greeks.”"
+        },
+        {
+          "ref": "7:38",
+          "text": "The closest reference appears to be Song of Songs 4:15."
+        },
+        {
+          "ref": "7:40",
+          "text": "See 6:14."
+        },
+        {
+          "ref": "7:42",
+          "text": "Referring to Micah 5:2."
+        },
+        {
+          "ref": "7:53",
+          "text": "The following section (7:53-8:11) does not appear in this location in all manuscripts. However, it surely represents an authentic account."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "but Jesus went to the Mount of Olives."
+        },
+        {
+          "number": 2,
+          "text": "Early in the morning he returned to the Temple where many people gathered around him and he sat down and taught them."
+        },
+        {
+          "number": 3,
+          "text": "The religious teachers and the Pharisees brought in a woman caught committing adultery and made her stand before everyone."
+        },
+        {
+          "number": 4,
+          "text": "They said to Jesus, “Teacher, this woman was caught in the act of adultery."
+        },
+        {
+          "number": 5,
+          "text": "Now in the Law Moses commanded us to stone such women. What do you say?”"
+        },
+        {
+          "number": 6,
+          "text": "They said this to try and trap Jesus so they could condemn him. But Jesus bent down and wrote on the ground with his finger."
+        },
+        {
+          "number": 7,
+          "text": "They kept on demanding an answer, so he stood up and told them, “Whichever one of you has never sinned may throw the first stone at her.”"
+        },
+        {
+          "number": 8,
+          "text": "Then he bent down again and went on writing on the ground."
+        },
+        {
+          "number": 9,
+          "text": "When they heard this they began to leave, one by one, starting with the oldest, leaving Jesus alone in the middle of the crowd with the woman still standing there."
+        },
+        {
+          "number": 10,
+          "text": "Jesus straightened up and asked her, “Where are they? Didn't anybody stay to condemn you?”"
+        },
+        {
+          "number": 11,
+          "text": "“No one did, sir,” she replied. “I don't condemn you either,” Jesus told her. “Go, and don't sin anymore.”"
+        },
+        {
+          "number": 12,
+          "text": "Jesus spoke again to the people, telling them, “I am the light of the world. If you follow me you won't walk in darkness for you will have the life-giving light.”"
+        },
+        {
+          "number": 13,
+          "text": "The Pharisees replied, “You can't be your own witness!* What you say doesn't prove anything!”"
+        },
+        {
+          "number": 14,
+          "text": "“Even if I am my own witness, my testimony is true,” Jesus told them, “for I know where I came from and where I'm going. But you don't know where I came from or where I'm going."
+        },
+        {
+          "number": 15,
+          "text": "You judge in a typically human way, but I don't judge anyone."
+        },
+        {
+          "number": 16,
+          "text": "Even if I did judge, my judgment would be right because I am not doing this alone. The Father who sent me is with me."
+        },
+        {
+          "number": 17,
+          "text": "Your own law states* that the testimony of two witnesses is valid."
+        },
+        {
+          "number": 18,
+          "text": "I am my own witness, and my other witness is my Father who sent me.”"
+        },
+        {
+          "number": 19,
+          "text": "“Where is your father?” they asked him. “You don't know me or my Father,” Jesus replied. “If you knew me then you would know my Father as well.”"
+        },
+        {
+          "number": 20,
+          "text": "Jesus explained this while he was teaching near the Temple treasury. Yet no one arrested him because his time had not come yet."
+        },
+        {
+          "number": 21,
+          "text": "Jesus told them again, “I'm leaving, and you'll search for me, but you'll die in your sin. You can't come where I'm going.”"
+        },
+        {
+          "number": 22,
+          "text": "The Jews wondered out loud, “Is he going to kill himself? Is that what he means when he says ‘You can't come where I'm going’?”"
+        },
+        {
+          "number": 23,
+          "text": "Jesus told them, “You are from below; I am from above. You are of this world; I am not of this world."
+        },
+        {
+          "number": 24,
+          "text": "That is why I told you that you'll die in your sins. For if you don't trust in me, the ‘I am,’ you'll die in your sins.”"
+        },
+        {
+          "number": 25,
+          "text": "Then they asked him, “Who are you?” “Exactly who I told you I was from the beginning,” Jesus replied."
+        },
+        {
+          "number": 26,
+          "text": "“There's much I could say about you, and much I could condemn. But the one who sent me tells the truth, and what I'm saying to you here in this world is what I heard from him.”"
+        },
+        {
+          "number": 27,
+          "text": "They didn't understand that he was talking to them about the Father."
+        },
+        {
+          "number": 28,
+          "text": "So Jesus explained to them: “When you have lifted up the Son of man then you'll know that I am the ‘I am,’ and that I do nothing of myself, but only say what the Father taught me."
+        },
+        {
+          "number": 29,
+          "text": "The one who sent me is with me; he has not abandoned me, for I always do what pleases him.”"
+        },
+        {
+          "number": 30,
+          "text": "Many who heard Jesus say these things put their trust in him."
+        },
+        {
+          "number": 31,
+          "text": "Then Jesus said to those Jews who trusted in him, “If you follow my teaching then you really are my disciples."
+        },
+        {
+          "number": 32,
+          "text": "You will know the truth, and the truth will set you free.”"
+        },
+        {
+          "number": 33,
+          "text": "“We're descendants of Abraham! We've never been anyone's slaves,” they answered. “How can you say that we'll be set free?”"
+        },
+        {
+          "number": 34,
+          "text": "Jesus replied, “I tell you the truth, everyone who sins is a slave of sin."
+        },
+        {
+          "number": 35,
+          "text": "A slave doesn't have a permanent place in the family, but the son is part of the family forever."
+        },
+        {
+          "number": 36,
+          "text": "If the Son sets you free, then you're truly free."
+        },
+        {
+          "number": 37,
+          "text": "I know you're Abraham's descendants, yet you're trying to kill me because you refuse to accept my words."
+        },
+        {
+          "number": 38,
+          "text": "I'm telling you what the Father has revealed to me,* while you do what your father told you.”"
+        },
+        {
+          "number": 39,
+          "text": "“Abraham is our father,” they answered. “If you really were children of Abraham, you'd do what Abraham did,” Jesus told them."
+        },
+        {
+          "number": 40,
+          "text": "“But you are trying to kill me now, because I told you the truth that I heard from God. Abraham would never have done that."
+        },
+        {
+          "number": 41,
+          "text": "You're doing what your father does.” “Well we * are not illegitimate,” they responded. “God alone is our father!”"
+        },
+        {
+          "number": 42,
+          "text": "Jesus replied, “If God really was your father, you would love me. I came from God and now I am here. The decision to come wasn't mine, but the one who sent me."
+        },
+        {
+          "number": 43,
+          "text": "Why can't you understand what I'm saying? It's because you refuse to hear my message!"
+        },
+        {
+          "number": 44,
+          "text": "Your father is the devil, and you love to follow your father's evil desires. He was a murderer from the beginning. He never stood for the truth, because there is no truth in him. When he lies he reveals his true character, for he's a liar and the father of lies."
+        },
+        {
+          "number": 45,
+          "text": "So because I tell you the truth, you don't believe me!"
+        },
+        {
+          "number": 46,
+          "text": "Can any one of you prove that I'm guilty of sin? If I'm telling you the truth, why don't you believe me?"
+        },
+        {
+          "number": 47,
+          "text": "Anyone who belongs to God listens to what God says. The reason you don't listen is because you don't belong to God.”"
+        },
+        {
+          "number": 48,
+          "text": "“Aren't we right to call you a Samaritan who is demon-possessed?” said the Jews."
+        },
+        {
+          "number": 49,
+          "text": "“No, I don't have a demon,” Jesus replied. “I honor my Father, but you dishonor me."
+        },
+        {
+          "number": 50,
+          "text": "I'm not here looking to glorify myself. But there is one who does this for me and who judges in my favor."
+        },
+        {
+          "number": 51,
+          "text": "I tell you the truth, anyone who follows my teaching will never die.”"
+        },
+        {
+          "number": 52,
+          "text": "“Now we know you're demon-possessed,” said the Jews. “Abraham died, and the prophets did too, and you're telling us ‘anyone who follows my teaching will never die’!"
+        },
+        {
+          "number": 53,
+          "text": "Are you greater than our father Abraham? He died, and the prophets died. Who do you think you are?”"
+        },
+        {
+          "number": 54,
+          "text": "Jesus answered, “If I glorify myself, my glory means nothing. But it is God himself who glorifies me, the one you claim, ‘He is our God.’"
+        },
+        {
+          "number": 55,
+          "text": "You don't know him, but I know him. If I were to say, ‘I don't know him,’ I'd be a liar, just like you. But I do know him, and I do what he says."
+        },
+        {
+          "number": 56,
+          "text": "Your father Abraham was delighted as he looked forward to see my coming, and was so happy when he saw it.”"
+        },
+        {
+          "number": 57,
+          "text": "The Jews replied, “You're not even fifty years old, and you've seen Abraham?”"
+        },
+        {
+          "number": 58,
+          "text": "“I tell you the truth, before Abraham was born, I am,”* said Jesus."
+        },
+        {
+          "number": 59,
+          "text": "At this they picked up stones to stone him, but Jesus was hidden from them and he left the Temple."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "8:13",
+          "text": "Or “you're just making claims about yourself!”"
+        },
+        {
+          "ref": "8:17",
+          "text": "See Deuteronomy 17:6 and Deuteronomy 19:15."
+        },
+        {
+          "ref": "8:38",
+          "text": "Or “what I have seen with the Father.”"
+        },
+        {
+          "ref": "8:41",
+          "text": "The word in the original is emphasized, implying that while they were not illegitimate, Jesus was."
+        },
+        {
+          "ref": "8:58",
+          "text": "Literally, “Before Abraham was, I am.” Once again Jesus uses the name of God himself given in Exodus 3:14. That the significance is not lost on his hearers is shown in their reaction of wanting to stone him for blasphemy."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "As Jesus was passing by, he saw a man born blind."
+        },
+        {
+          "number": 2,
+          "text": "His disciples asked him, “Rabbi, why was this man born blind? Was it him who sinned, or was it his parents?”"
+        },
+        {
+          "number": 3,
+          "text": "Jesus replied, “It wasn't because of the sins of the man or his parents. But so that what God can do may be shown in his life,"
+        },
+        {
+          "number": 4,
+          "text": "we have to keep on doing the work of the one who sent me as long as it is still daytime. The night is coming when no one can work."
+        },
+        {
+          "number": 5,
+          "text": "While I'm here in the world I am the light of the world.”"
+        },
+        {
+          "number": 6,
+          "text": "After he'd said this, Jesus spat on the ground and made some mud with the saliva which he put on the man's eyes."
+        },
+        {
+          "number": 7,
+          "text": "Then Jesus told him, “Go and wash in the Pool of Siloam” (which means “sent”). So the man went and washed, and when he went home he could see."
+        },
+        {
+          "number": 8,
+          "text": "His neighbors and those who had known him as a beggar, asked, “Isn't this the man who used to sit and beg?”"
+        },
+        {
+          "number": 9,
+          "text": "Some said he was, while others said “no, it's just someone who looks like him.” But the man kept saying, “It is me!”"
+        },
+        {
+          "number": 10,
+          "text": "“So how is it you can see?” they asked him."
+        },
+        {
+          "number": 11,
+          "text": "He replied, “A man called Jesus made some mud and put it on my eyes and told me, ‘Go and wash yourself in the Pool of Siloam.’ So I went and washed, and now I can see.”"
+        },
+        {
+          "number": 12,
+          "text": "“Where is he?” they asked. “I don't know,” he replied."
+        },
+        {
+          "number": 13,
+          "text": "They took the man who had been blind to the Pharisees."
+        },
+        {
+          "number": 14,
+          "text": "Now it was the Sabbath when Jesus had made the mud and opened the blind man's eyes."
+        },
+        {
+          "number": 15,
+          "text": "So the Pharisees also asked him how he could see. He told them, “He put mud on my eyes, and I washed, and now I can see.”"
+        },
+        {
+          "number": 16,
+          "text": "Some of the Pharisees said, “The man who did this can't be from God because he doesn't keep the Sabbath.” But others wondered, “How could a sinner do such miracles?” So they were divided in their opinion."
+        },
+        {
+          "number": 17,
+          "text": "So they went on questioning the man. “What's your opinion about him, then, since it's your eyes he opened,” they asked. “He's surely a prophet,” the man replied."
+        },
+        {
+          "number": 18,
+          "text": "The Jewish leaders still refused to believe that the man who had been blind could now see until they had called in the man's parents."
+        },
+        {
+          "number": 19,
+          "text": "They asked them, “Is this your son whom you say was born blind? So how is it that now he can see?”"
+        },
+        {
+          "number": 20,
+          "text": "His parents answered, “We know this is our son who was born blind."
+        },
+        {
+          "number": 21,
+          "text": "But we've no idea how he can see now, or who healed him. Why don't you ask him, he's old enough. He can speak for himself.”"
+        },
+        {
+          "number": 22,
+          "text": "The reason his parents said this was because they were afraid of what the Jewish leaders would do. The Jewish leaders had already announced that anyone who declared that Jesus was the Messiah would be thrown out of the synagogue."
+        },
+        {
+          "number": 23,
+          "text": "That was why his parents said, “Ask him, he's old enough.”"
+        },
+        {
+          "number": 24,
+          "text": "Once more they called in the man who had been blind, and told him, “Give God the glory! We know this man is a sinner.”"
+        },
+        {
+          "number": 25,
+          "text": "The man replied, “Whether he's a sinner or not, I don't know. All I know is that I was blind and now I can see.”"
+        },
+        {
+          "number": 26,
+          "text": "Then they asked him, “What did he do to you? How did he open your eyes?”"
+        },
+        {
+          "number": 27,
+          "text": "The man replied, “I already told you. Weren't you listening? Why do you want to hear it again? You don't want to become his disciples too, do you?”"
+        },
+        {
+          "number": 28,
+          "text": "They shouted abuse at him, and said, “You're that man's disciple."
+        },
+        {
+          "number": 29,
+          "text": "We're disciples of Moses. We know that God spoke to Moses, but as for this person, we don't even know where he comes from.”"
+        },
+        {
+          "number": 30,
+          "text": "The man answered, “That's incredible! You don't know where he comes from but he opened my eyes."
+        },
+        {
+          "number": 31,
+          "text": "We know that God doesn't listen to sinners, but he does listen to anyone who worships him and does what he wants."
+        },
+        {
+          "number": 32,
+          "text": "Never before in the whole of history has anyone heard of a man born blind being healed."
+        },
+        {
+          "number": 33,
+          "text": "If this man weren't from God, he could do nothing.”"
+        },
+        {
+          "number": 34,
+          "text": "“You were born totally sinful, and yet you're trying to lecture us,” they replied. And they threw him out of the synagogue."
+        },
+        {
+          "number": 35,
+          "text": "When Jesus heard that they had thrown him out, he went and found the man, and asked him, “Do you trust in the Son of man?”"
+        },
+        {
+          "number": 36,
+          "text": "The man replied, “Tell me who he is, sir, so I can put my trust in him.”"
+        },
+        {
+          "number": 37,
+          "text": "“You've already seen him. He's the one speaking with you now!” Jesus told him."
+        },
+        {
+          "number": 38,
+          "text": "“I trust you, Lord!” he said, and he kneeled in worship before Jesus."
+        },
+        {
+          "number": 39,
+          "text": "Then Jesus told him, “I've come into the world to bring judgment* so that those who are blind may see, and those who see will become blind.”"
+        },
+        {
+          "number": 40,
+          "text": "Some Pharisees who were there with Jesus asked him, “We're not blind too, are we?”"
+        },
+        {
+          "number": 41,
+          "text": "Jesus answered, “If you were blind, you wouldn't be guilty. But now that you say you see, your guilt remains.”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "9:39",
+          "text": "“Judgment” in terms of making a decision rather than condemnation."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "“I tell you the truth, anyone who doesn't come in through the gate of the sheepfold* but climbs in some other way is a thief and a robber."
+        },
+        {
+          "number": 2,
+          "text": "The one who comes in through the gate is the shepherd of the sheep."
+        },
+        {
+          "number": 3,
+          "text": "The gatekeeper opens it for him, and the sheep respond to his voice. He calls his own sheep by name, and leads them out."
+        },
+        {
+          "number": 4,
+          "text": "After bringing them out, he walks ahead of them, and the sheep follow him because they recognize his voice."
+        },
+        {
+          "number": 5,
+          "text": "They won't follow strangers. In fact they run away from a stranger because they don't recognize the voice of strangers.”"
+        },
+        {
+          "number": 6,
+          "text": "When Jesus gave this illustration those who were listening to him didn't understand what he meant."
+        },
+        {
+          "number": 7,
+          "text": "So Jesus explained again, “I tell you the truth: I am the gate of the sheep."
+        },
+        {
+          "number": 8,
+          "text": "All those who came before me were thieves and robbers, but the sheep didn't listen to them."
+        },
+        {
+          "number": 9,
+          "text": "I am the gate. Anyone who comes in through me will be healed.* They will be able to come and go, and find the food they need."
+        },
+        {
+          "number": 10,
+          "text": "The thief comes only to steal, kill, and destroy. I've come to bring you life, life full to overflowing."
+        },
+        {
+          "number": 11,
+          "text": "I am the good shepherd. The good shepherd lays down his life for the sheep."
+        },
+        {
+          "number": 12,
+          "text": "The man paid to look after the sheep is not the shepherd and he runs away when he sees the wolf coming. He abandons the sheep because they're not his, and the wolf attacks and scatters the flock"
+        },
+        {
+          "number": 13,
+          "text": "for the man is only working for pay and doesn't care about the sheep."
+        },
+        {
+          "number": 14,
+          "text": "I am the good shepherd. I know who are mine, and they know me,"
+        },
+        {
+          "number": 15,
+          "text": "just as the Father knows me and I know him. I lay down my life for the sheep."
+        },
+        {
+          "number": 16,
+          "text": "I have other sheep that are not in this sheepfold. I must bring them too. They will listen to my voice and there will be one flock with one shepherd."
+        },
+        {
+          "number": 17,
+          "text": "This is why the Father loves me, because I lay down my life so I may take it up again."
+        },
+        {
+          "number": 18,
+          "text": "No one takes it from me; I choose to lay it down. I have the right to give it up, and I have the right to take it back. This is the command my Father gave me.”"
+        },
+        {
+          "number": 19,
+          "text": "The Jews were again divided in their opinion about Jesus over these words."
+        },
+        {
+          "number": 20,
+          "text": "Many of them said, “He's demon-possessed! He's mad! Why are you listening to him?”"
+        },
+        {
+          "number": 21,
+          "text": "Others said, “These aren't the words of someone who's demon-possessed. Besides, a demon can't open eyes that are blind.”"
+        },
+        {
+          "number": 22,
+          "text": "It was winter, and the time of the Festival of Dedication in Jerusalem."
+        },
+        {
+          "number": 23,
+          "text": "Jesus was walking in the Temple through Solomon's Porch. The Jews surrounded him, asking,"
+        },
+        {
+          "number": 24,
+          "text": "“How long are you going to keep us hanging in suspense?* If you are the Messiah then tell us plainly!”"
+        },
+        {
+          "number": 25,
+          "text": "Jesus replied, “I already told you but you refuse to believe it. The miracles I do in my Father's name prove who I am."
+        },
+        {
+          "number": 26,
+          "text": "You don't believe me because you are not my sheep."
+        },
+        {
+          "number": 27,
+          "text": "My sheep recognize my voice; I know them, and they follow me."
+        },
+        {
+          "number": 28,
+          "text": "I give them eternal life; they shall never be lost, and no one can snatch them from me.*"
+        },
+        {
+          "number": 29,
+          "text": "My Father who gave them to me is greater than anyone else; no one can snatch them from him."
+        },
+        {
+          "number": 30,
+          "text": "I and the Father are one.”"
+        },
+        {
+          "number": 31,
+          "text": "Once again the Jews picked up stones to stone him."
+        },
+        {
+          "number": 32,
+          "text": "Jesus said to them, “You've seen many good deeds that I've done from the Father. Which one are you stoning me for?”"
+        },
+        {
+          "number": 33,
+          "text": "The Jews replied, “We're not stoning you for a good deed, but for blasphemy because you are just a man but you're claiming to be God.”"
+        },
+        {
+          "number": 34,
+          "text": "Jesus answered them, “Isn't it written in your law, ‘I said, you are gods’?*"
+        },
+        {
+          "number": 35,
+          "text": "He called those people ‘gods,’ the people to whom the word of God came—and Scripture can't be altered."
+        },
+        {
+          "number": 36,
+          "text": "So why are you saying the one whom the Father set apart and sent into the world is blaspheming because I said ‘I am the Son of God’?"
+        },
+        {
+          "number": 37,
+          "text": "If I'm not doing what my Father does, then don't believe me."
+        },
+        {
+          "number": 38,
+          "text": "But if that is what I'm doing, even though you don't believe me, you should believe because of the evidence of what I've done. That way you can know and understand that the Father is in me, and I am in the Father.”"
+        },
+        {
+          "number": 39,
+          "text": "Once again they tried to arrest him, but he escaped from them."
+        },
+        {
+          "number": 40,
+          "text": "He went back across the Jordan River to the place where John had begun baptizing, and he stayed there."
+        },
+        {
+          "number": 41,
+          "text": "Many people came to him, and they said, “John didn't perform miracles, but everything he said about this man has come true.”"
+        },
+        {
+          "number": 42,
+          "text": "Many who were there put their trust in Jesus."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "10:1",
+          "text": "“Sheepfold,” or “courtyard.” This referred to the enclosure beside a house and often attached to it, surrounded by a wall. The setting is a village rather than the open countryside."
+        },
+        {
+          "ref": "10:9",
+          "text": "Or “saved.”"
+        },
+        {
+          "ref": "10:24",
+          "text": "A colloquial expression that is literally “lift up our souls,” and means creating a position of uncertainty."
+        },
+        {
+          "ref": "10:28",
+          "text": "Literally, “out of my hand.” Similarly verse 29."
+        },
+        {
+          "ref": "10:34",
+          "text": "Quoting Psalms 82:6."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A man named Lazarus was sick. He lived in Bethany with his sisters* Mary and Martha."
+        },
+        {
+          "number": 2,
+          "text": "Mary was the one who had anointed the Lord with perfume and wiped his feet with her hair. It was her brother Lazarus who was sick."
+        },
+        {
+          "number": 3,
+          "text": "So the sisters sent a message to Jesus: “Lord, your close friend is sick.”"
+        },
+        {
+          "number": 4,
+          "text": "When Jesus heard the news he said, “The end result of this sickness will not be death. Through this God's glory will be revealed so that the Son of God may be glorified.”"
+        },
+        {
+          "number": 5,
+          "text": "Even though Jesus loved Martha, Mary, and Lazarus,"
+        },
+        {
+          "number": 6,
+          "text": "and had heard that Lazarus was sick, he remained where he was for two more days."
+        },
+        {
+          "number": 7,
+          "text": "Then he told the disciples, “Let's return to Judea.”"
+        },
+        {
+          "number": 8,
+          "text": "The disciples replied, “Rabbi, just a few days ago the Jews were trying to stone you. Do you really want to go back there now?”"
+        },
+        {
+          "number": 9,
+          "text": "“Aren't there twelve hours in a day?” Jesus replied."
+        },
+        {
+          "number": 10,
+          "text": "“If you walk during the day you don't stumble because you can see where you're going by the light of this world. But if you walk during the night you stumble because you have no light.”"
+        },
+        {
+          "number": 11,
+          "text": "After telling them this, he said, “Our friend Lazarus has fallen asleep, but I'm going to go there and wake him up!”"
+        },
+        {
+          "number": 12,
+          "text": "The disciples said, “Lord, if he's sleeping then he'll get better.”"
+        },
+        {
+          "number": 13,
+          "text": "Jesus had been referring to the death of Lazarus, but the disciples thought he meant actual sleep.*"
+        },
+        {
+          "number": 14,
+          "text": "So Jesus told them plainly, “Lazarus is dead."
+        },
+        {
+          "number": 15,
+          "text": "For your sake I'm glad I wasn't there, because now you will be able to trust in me. Let's go and see him.”"
+        },
+        {
+          "number": 16,
+          "text": "Thomas, the Twin, said to his fellow-disciples, “Let's go too so we can die with him.”*"
+        },
+        {
+          "number": 17,
+          "text": "When he arrived, Jesus learned that Lazarus had been in the tomb for four days."
+        },
+        {
+          "number": 18,
+          "text": "Bethany was just two miles from Jerusalem,"
+        },
+        {
+          "number": 19,
+          "text": "and many Jews had come to console Mary and Martha at the loss of their brother."
+        },
+        {
+          "number": 20,
+          "text": "When Martha found out that Jesus was coming, she went to meet him, but Mary stayed at home."
+        },
+        {
+          "number": 21,
+          "text": "Martha said to Jesus, “Lord, if you'd been here, my brother wouldn't have died."
+        },
+        {
+          "number": 22,
+          "text": "But I'm certain that even now God will give you whatever you ask.”"
+        },
+        {
+          "number": 23,
+          "text": "Jesus told her, “Your brother will rise again.”"
+        },
+        {
+          "number": 24,
+          "text": "“I know he will rise again in the resurrection at the last day,” Martha answered."
+        },
+        {
+          "number": 25,
+          "text": "Jesus said, “I am the resurrection and the life. Those who trust in me will live, even though they die."
+        },
+        {
+          "number": 26,
+          "text": "All who live in me and trust in me will never die. Do you believe this?”"
+        },
+        {
+          "number": 27,
+          "text": "“Yes, Lord,” she replied, “I believe you are the Messiah, the Son of God, the one expected to come to this world.”"
+        },
+        {
+          "number": 28,
+          "text": "When she had said this, she went and told her sister Mary in private, “The Teacher's here, and asking to see you.”"
+        },
+        {
+          "number": 29,
+          "text": "As soon as she heard, Mary quickly got up and went to see him."
+        },
+        {
+          "number": 30,
+          "text": "Jesus hadn't arrived in the village yet. He was still at the place where Martha had met him."
+        },
+        {
+          "number": 31,
+          "text": "The Jews who had been comforting Mary in the home saw how she'd got up quickly and left. So they followed her, thinking she was going to the tomb to weep there."
+        },
+        {
+          "number": 32,
+          "text": "When Mary arrived at the place where Jesus was and saw him, she fell at his feet and said, “Lord, if you'd been here, my brother wouldn't have died.”"
+        },
+        {
+          "number": 33,
+          "text": "When Jesus saw her crying, and the Jews who had come with her crying as well, he was very troubled* and upset."
+        },
+        {
+          "number": 34,
+          "text": "“Where have you laid him?” he asked. They replied, “Lord, come and see.”"
+        },
+        {
+          "number": 35,
+          "text": "Then Jesus cried too."
+        },
+        {
+          "number": 36,
+          "text": "“See how much he loved him,” the Jews said."
+        },
+        {
+          "number": 37,
+          "text": "But some of them said, “If he could open the eyes of a blind man, couldn't he have kept Lazarus from dying?”"
+        },
+        {
+          "number": 38,
+          "text": "Very troubled, Jesus went to the tomb. It was a cave with a large stone placed at the entrance."
+        },
+        {
+          "number": 39,
+          "text": "“Remove the stone,” Jesus told them. But Martha, the dead man's sister, said, “Lord, by now there will be a terrible smell, for he's been dead for four days.”"
+        },
+        {
+          "number": 40,
+          "text": "“Didn't I tell you that if you trusted me you would see God's glory?” Jesus replied."
+        },
+        {
+          "number": 41,
+          "text": "So they removed the stone. Jesus looked heavenwards, and said, “Father, thank you for listening to me."
+        },
+        {
+          "number": 42,
+          "text": "I know you always listen to me. I said this because of the crowd standing here so that they will believe that you sent me.”"
+        },
+        {
+          "number": 43,
+          "text": "After saying this, Jesus shouted, “Lazarus, come out!”"
+        },
+        {
+          "number": 44,
+          "text": "The dead man came out, his hands and feet bound with strips of linen, and with a cloth around his face. “Unbind him and set him free,” Jesus told them."
+        },
+        {
+          "number": 45,
+          "text": "Consequently many of the Jews who had come to comfort Mary and who saw what Jesus did put their trust in him."
+        },
+        {
+          "number": 46,
+          "text": "But others went to the Pharisees and told them what Jesus had done."
+        },
+        {
+          "number": 47,
+          "text": "Then the chief priests and the Pharisees called a meeting of the ruling council. “What shall we do?” they asked. “This man is doing many miracles."
+        },
+        {
+          "number": 48,
+          "text": "If we allow him to continue, everybody will believe in him, and then the Romans will destroy both the Temple and our status as a nation.”*"
+        },
+        {
+          "number": 49,
+          "text": "“You don't understand anything!” said Caiaphas, who was high priest that year."
+        },
+        {
+          "number": 50,
+          "text": "“Can't you see that it's better for you that one man die for the people so that the whole nation won't be destroyed?”"
+        },
+        {
+          "number": 51,
+          "text": "He didn't say this on his own behalf, but as chief priest that year he was prophesying that Jesus would die for the nation."
+        },
+        {
+          "number": 52,
+          "text": "And this was not just for the Jewish nation, but for all the scattered children of God so that they might be gathered together and be made into one."
+        },
+        {
+          "number": 53,
+          "text": "From that time on they made plans as to how they might kill Jesus."
+        },
+        {
+          "number": 54,
+          "text": "So Jesus did not travel openly among the Jews but went to a town called Ephraim in the region near the desert and stayed there with his disciples."
+        },
+        {
+          "number": 55,
+          "text": "It was nearly time for the Jewish Passover, and many people went from the countryside to Jerusalem to purify* themselves for the Passover."
+        },
+        {
+          "number": 56,
+          "text": "People were looking for Jesus and talking about him as they stood in the Temple. “What do you think?” they asked each other. “Isn't he coming to the festival?”"
+        },
+        {
+          "number": 57,
+          "text": "The chief priests and the Pharisees had given orders that anyone who knew where Jesus was should report it so they could arrest him."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "11:1",
+          "text": "In the original it states that Lazarus lived in Bethany with Mary and her sister Martha. However, in verse 2 it's mentioned that Lazarus is Mary's brother, so their relationship is best identified at the outset."
+        },
+        {
+          "ref": "11:13",
+          "text": "In the New Testament death is represented as a sleep."
+        },
+        {
+          "ref": "11:16",
+          "text": "Meaning Jesus."
+        },
+        {
+          "ref": "11:33",
+          "text": "The word used here expresses intense emotion, even anger. Also used in verse 38."
+        },
+        {
+          "ref": "11:48",
+          "text": "Literally, “the place and the nation.”"
+        },
+        {
+          "ref": "11:55",
+          "text": "By a series of religious rituals."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Six days before the Passover, Jesus went to Bethany, to the home of Lazarus who had been raised from the dead."
+        },
+        {
+          "number": 2,
+          "text": "There a dinner was arranged in his honor. Martha helped serve the food while Lazarus sat at the table with Jesus and the other guests."
+        },
+        {
+          "number": 3,
+          "text": "Mary brought a pint* of pure nard perfume and anointed Jesus' feet, wiping them dry with her hair. The scent of the perfume filled the whole house."
+        },
+        {
+          "number": 4,
+          "text": "But one of the disciples, Judas Iscariot, who would later betray Jesus, asked,"
+        },
+        {
+          "number": 5,
+          "text": "“Why wasn't this perfume sold and the money given to the poor? It was worth three hundred denarii .”*"
+        },
+        {
+          "number": 6,
+          "text": "He wasn't saying this because he cared about the poor but because he was a thief. He was the one who looked after the disciples' money and he often took some for himself."
+        },
+        {
+          "number": 7,
+          "text": "“Don't criticize her,”* Jesus replied. “She did this in preparation for the day of my burial."
+        },
+        {
+          "number": 8,
+          "text": "You'll always have the poor with you,* but you won't always have me here.”"
+        },
+        {
+          "number": 9,
+          "text": "A large crowd of Jews had found out that he was there. They came there not just to see Jesus but because they wanted to see Lazarus, the man Jesus had raised from the dead."
+        },
+        {
+          "number": 10,
+          "text": "So the chief priests planned to kill Lazarus as well,"
+        },
+        {
+          "number": 11,
+          "text": "since it was because of him that many people were no longer following the Jewish leaders but putting their trust in Jesus."
+        },
+        {
+          "number": 12,
+          "text": "The following day the crowds of people who had come for the Passover festival heard that Jesus was on his way to Jerusalem."
+        },
+        {
+          "number": 13,
+          "text": "They cut off palm branches and went to welcome him, shouting, “Hosanna! Blessed is the one coming in the name of the Lord. Blessed is the king of Israel.”*"
+        },
+        {
+          "number": 14,
+          "text": "Jesus found a young donkey and rode on it, as Scripture says:"
+        },
+        {
+          "number": 15,
+          "text": "“Don't be afraid, daughter of Zion. Look, your king is coming, riding a donkey's colt.”*"
+        },
+        {
+          "number": 16,
+          "text": "At the time, Jesus' disciples did not understand what these things meant. It was only later when he was glorified* that they realized what had happened had been prophesied and applied to him."
+        },
+        {
+          "number": 17,
+          "text": "Many in the crowd had seen Jesus call Lazarus from the tomb and raise him from the dead, and were telling the story."
+        },
+        {
+          "number": 18,
+          "text": "That was the reason so many people went to meet Jesus—because they had heard about this miracle."
+        },
+        {
+          "number": 19,
+          "text": "The Pharisees said to one another, “Look, we're getting nowhere. Everyone's running after him.”"
+        },
+        {
+          "number": 20,
+          "text": "Now some Greeks had come to the festival to worship."
+        },
+        {
+          "number": 21,
+          "text": "They came to Philip of Bethsaida in Galilee, and said, “Sir, we'd like to see Jesus.”"
+        },
+        {
+          "number": 22,
+          "text": "Philip went and told Andrew. Then they both went to Jesus and told him."
+        },
+        {
+          "number": 23,
+          "text": "Jesus responded, “The time has come for the Son of man to be glorified."
+        },
+        {
+          "number": 24,
+          "text": "I tell you the truth: unless a grain of wheat is planted in the soil and dies,* it remains just one grain. But if it dies, it produces many more grains of wheat."
+        },
+        {
+          "number": 25,
+          "text": "If you love your own life you will lose it, but if you don't love your own life in this world you will keep your life forever."
+        },
+        {
+          "number": 26,
+          "text": "If you want to serve me you need to follow me. My servants will be where I am, and my Father will honor anyone who serves me."
+        },
+        {
+          "number": 27,
+          "text": "Now I am troubled. What should I say? ‘Father, save me from this coming time of suffering?*’ No, for this is why I came—to go through this time of suffering."
+        },
+        {
+          "number": 28,
+          "text": "Father, show the glory of your character.”* A voice came from heaven, saying, “I have shown its glory, and I will show it again.”"
+        },
+        {
+          "number": 29,
+          "text": "The crowd that was standing there heard it. Some said it thundered; others said an angel had spoken to him."
+        },
+        {
+          "number": 30,
+          "text": "Jesus told them, “This voice spoke not for my sake, but for yours."
+        },
+        {
+          "number": 31,
+          "text": "Now is the judgment of this world; now the prince of this world will be thrown out."
+        },
+        {
+          "number": 32,
+          "text": "But when I am lifted up from the earth I will attract everyone to me.”"
+        },
+        {
+          "number": 33,
+          "text": "(He said this to point out the kind of death he was going to die.)"
+        },
+        {
+          "number": 34,
+          "text": "The crowd responded, “The Law* tells us that the Messiah will live forever, so how can you say the Son of man must be ‘lifted up’? Who is this ‘Son of man’?”"
+        },
+        {
+          "number": 35,
+          "text": "Jesus replied, “The light is here with you for a little longer. Walk while you have the light so that the darkness doesn't overtake you. Those who walk in the dark don't know where they're going."
+        },
+        {
+          "number": 36,
+          "text": "Put your trust in the light while you still have it so that you can become children of light.” When Jesus had told them this, he left and hid himself from them."
+        },
+        {
+          "number": 37,
+          "text": "But despite all the miracles he had done in their presence, they still did not trust in Jesus."
+        },
+        {
+          "number": 38,
+          "text": "This fulfilled the message of Isaiah the prophet, who said, “Lord, who has believed what we told them? To whom has the Lord's power been revealed?”*"
+        },
+        {
+          "number": 39,
+          "text": "They were not able to trust him, and as a result they fulfilled what Isaiah also said:"
+        },
+        {
+          "number": 40,
+          "text": "“He blinded their eyes, and made their minds dull, so that their eyes would not see, and their minds would not think, and they would not turn to me—for if they did I would heal them.”*"
+        },
+        {
+          "number": 41,
+          "text": "Isaiah saw Jesus' glory and said this in reference to him."
+        },
+        {
+          "number": 42,
+          "text": "Even so many of the leaders did trust in him. However, they did not openly admit it because they did not want the Pharisees to expel them from the synagogue,"
+        },
+        {
+          "number": 43,
+          "text": "loving human admiration more than God's approval."
+        },
+        {
+          "number": 44,
+          "text": "Jesus called out, “If you trust in me you're not just trusting in me but also in the one who sent me."
+        },
+        {
+          "number": 45,
+          "text": "When you see me, you're seeing the one who sent me."
+        },
+        {
+          "number": 46,
+          "text": "I have come as a light shining into the world, so if you trust in me you won't remain in the dark."
+        },
+        {
+          "number": 47,
+          "text": "I don't judge anyone who hears my words but doesn't do what I say. I came to save the world, not to judge it."
+        },
+        {
+          "number": 48,
+          "text": "Anyone who rejects me and does not accept my words will be judged at the end-time judgment in accordance with what I have said."
+        },
+        {
+          "number": 49,
+          "text": "For I'm not speaking for myself but for my Father who sent me. He is the one who instructed me what to say and how to say it."
+        },
+        {
+          "number": 50,
+          "text": "I know that what he told me to say brings eternal life—so whatever I say is what the Father told me.”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "12:3",
+          "text": "A litra , about 12 ounces, or half a liter."
+        },
+        {
+          "ref": "12:5",
+          "text": "About a year's wages at one denarius per day."
+        },
+        {
+          "ref": "12:7",
+          "text": "Or “leave her alone.”"
+        },
+        {
+          "ref": "12:8",
+          "text": "See Deuteronomy 15:11."
+        },
+        {
+          "ref": "12:13",
+          "text": "Quoting Psalms 118:26."
+        },
+        {
+          "ref": "12:15",
+          "text": "Quoting Zechariah 9:9."
+        },
+        {
+          "ref": "12:16",
+          "text": "Glorified: in his resurrection and ascension."
+        },
+        {
+          "ref": "12:24",
+          "text": "Meaning that it looks like it dies."
+        },
+        {
+          "ref": "12:27",
+          "text": "Literally, “this hour.”"
+        },
+        {
+          "ref": "12:28",
+          "text": "Or “name.” Name is synonymous with character."
+        },
+        {
+          "ref": "12:34",
+          "text": "Referring to what we call the Old Testament."
+        },
+        {
+          "ref": "12:38",
+          "text": "Quoting Isaiah 53:1."
+        },
+        {
+          "ref": "12:40",
+          "text": "Quoting Isaiah 6:10."
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "verses": [
+        {
+          "number": 1,
+          "text": "It was the day before the Passover festival, and Jesus knew that the time had come to leave this world and go to his Father. He had loved those in the world who were his own, and he now demonstrated his complete love* for them."
+        },
+        {
+          "number": 2,
+          "text": "It was during supper, and the devil had already put the thought of betraying Jesus into the mind of Judas, son of Simon Iscariot."
+        },
+        {
+          "number": 3,
+          "text": "Jesus knew that the Father had placed everything under his authority,* and that he had come from God and was going back to God."
+        },
+        {
+          "number": 4,
+          "text": "So Jesus stood up from eating supper, took off his robe and wrapped a towel around his waist."
+        },
+        {
+          "number": 5,
+          "text": "He poured water into a basin and began to wash his disciples' feet, drying them with the towel he had wrapped around him."
+        },
+        {
+          "number": 6,
+          "text": "He came to Simon Peter, who asked him, “Lord, are you going to wash my feet?”"
+        },
+        {
+          "number": 7,
+          "text": "Jesus replied, “You won't realize what I'm doing for you now. But one day you'll understand.”"
+        },
+        {
+          "number": 8,
+          "text": "“No!” Peter protested. “You'll never wash my feet!” Jesus replied, “If I don't wash you, you have no part with me.”"
+        },
+        {
+          "number": 9,
+          "text": "“Then, Lord, wash not just my feet but my hands and my head as well!” Simon Peter exclaimed."
+        },
+        {
+          "number": 10,
+          "text": "Jesus responded, “Those who have had a bath only need to wash their feet and then they're clean all over. You are clean—but not all of you.”"
+        },
+        {
+          "number": 11,
+          "text": "For he knew who was betraying him. That's why he said, “Not all of you are clean.”"
+        },
+        {
+          "number": 12,
+          "text": "After Jesus had washed their feet, he put his robe back on, and sat down. “Do you understand what I've done to you?” he asked them."
+        },
+        {
+          "number": 13,
+          "text": "“You call me ‘Teacher’ and ‘Lord,’ and rightly so, for that's who I am."
+        },
+        {
+          "number": 14,
+          "text": "So if I, your Teacher and Lord, washed your feet, you ought to wash one another's feet."
+        },
+        {
+          "number": 15,
+          "text": "I have set you an example, so you should do just as I did."
+        },
+        {
+          "number": 16,
+          "text": "I tell you the truth, servants are not more important than their master, and the one sent is not greater than the sender."
+        },
+        {
+          "number": 17,
+          "text": "Now that you understand these things, you will be blessed if you do them."
+        },
+        {
+          "number": 18,
+          "text": "I'm not talking about all of you—I know those I have chosen. But this is to fulfill Scripture: ‘The one who shares my food has turned against me.’*"
+        },
+        {
+          "number": 19,
+          "text": "I'm telling you this now, before it happens, so when it does happen you will be convinced that I am who I am."
+        },
+        {
+          "number": 20,
+          "text": "I tell you the truth, whoever welcomes anyone I send welcomes me; and whoever welcomes me, welcomes the one who sent me.”"
+        },
+        {
+          "number": 21,
+          "text": "After he had said this, Jesus was deeply troubled, and declared: “I tell you the truth, one of you is going to betray me.”"
+        },
+        {
+          "number": 22,
+          "text": "The disciples looked at each other, wondering which of them Jesus was talking about."
+        },
+        {
+          "number": 23,
+          "text": "The disciple whom Jesus loved* was sitting next to Jesus at the table, leaning close to him."
+        },
+        {
+          "number": 24,
+          "text": "Simon Peter motioned to him to ask Jesus which one he was talking about."
+        },
+        {
+          "number": 25,
+          "text": "So he leaned over to Jesus and asked, “Lord, who is it?”"
+        },
+        {
+          "number": 26,
+          "text": "Jesus replied, “It's the one to whom I will give a piece of bread after I have dipped it.”"
+        },
+        {
+          "number": 27,
+          "text": "After dipping the piece of bread, he gave it to Judas, son of Simon Iscariot. Once Judas had taken the bread, Satan entered him. “What you're going to do, do it quickly,” Jesus told him."
+        },
+        {
+          "number": 28,
+          "text": "No one at the table understood what Jesus meant by this."
+        },
+        {
+          "number": 29,
+          "text": "Since Judas was in charge of the money, some of them thought that Jesus was telling him to go and buy what was needed for the Passover festival, or to donate something to the poor."
+        },
+        {
+          "number": 30,
+          "text": "Judas left immediately after he'd taken the piece of bread, and went out into the night."
+        },
+        {
+          "number": 31,
+          "text": "After he'd left, Jesus said, “Now the Son of man is glorified, and through him God is glorified."
+        },
+        {
+          "number": 32,
+          "text": "If God is glorified through him, then God will glorify the Son himself, and will glorify him immediately."
+        },
+        {
+          "number": 33,
+          "text": "My children, I will be with you only a little while longer. You will look for me, but I'm telling you now just as I told the Jews: you cannot come where I'm going."
+        },
+        {
+          "number": 34,
+          "text": "I am giving you a new command: Love one another. Love one another in the same way I have loved you."
+        },
+        {
+          "number": 35,
+          "text": "If you love one another you will prove to everyone that you are my disciples.”"
+        },
+        {
+          "number": 36,
+          "text": "Simon Peter asked him, “Where are you going, Lord?” Jesus answered, “You can't follow me now where I'm going. You will follow me later.”"
+        },
+        {
+          "number": 37,
+          "text": "“Lord, why can't I follow you now?” Peter asked. “I'll lay down my life for you.”"
+        },
+        {
+          "number": 38,
+          "text": "“Are you really ready to die for me? I tell you the truth: before the cock crows you will deny me three times,” Jesus replied."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "13:1",
+          "text": "“Complete love.” The word used here means both “complete” and “end,” so an alternative translation would be “he loved them to the end,” which would also be appropriate in context. However, Jesus demonstration of love which includes the cross is really to show the full extent of God's love for us."
+        },
+        {
+          "ref": "13:3",
+          "text": "Literally, “into his hands.”"
+        },
+        {
+          "ref": "13:18",
+          "text": "Quoting Psalms 41:9."
+        },
+        {
+          "ref": "13:23",
+          "text": "Usually understood as John referring to himself. (See also 20:2, 21:7, 21:20.)"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "verses": [
+        {
+          "number": 1,
+          "text": "“Don't be anxious. Trust in God, trust in me as well.*"
+        },
+        {
+          "number": 2,
+          "text": "In my Father's house there are many rooms. If this wasn't so I would have told you. I'm going to prepare a place for you."
+        },
+        {
+          "number": 3,
+          "text": "Once I've gone and prepared a place for you, I will come again and take you back with me, so that you can be there with me too."
+        },
+        {
+          "number": 4,
+          "text": "You know the way to where I'm going.”"
+        },
+        {
+          "number": 5,
+          "text": "Thomas said to him, “Lord, we don't know where you're going. How can we know the way?”"
+        },
+        {
+          "number": 6,
+          "text": "Jesus replied, “I am the way and the truth and the life. No one comes to the Father except through me."
+        },
+        {
+          "number": 7,
+          "text": "If you had known me, you would know my Father as well. From now on, you do know him and you have seen him.”"
+        },
+        {
+          "number": 8,
+          "text": "Philip said, “Lord, show us the Father, and we'll be convinced.”"
+        },
+        {
+          "number": 9,
+          "text": "Jesus replied, “Have I been with you such a long time, Philip, and yet you still don't know me? Anyone who has seen me has seen the Father. How can you say, ‘Show us the Father’?"
+        },
+        {
+          "number": 10,
+          "text": "Don't you believe that I live in the Father and the Father lives in me? The words I speak are not mine; it's the Father living in me who is doing his work."
+        },
+        {
+          "number": 11,
+          "text": "Believe me when I tell you that I live in the Father, and the Father lives in me, or at least believe because of the evidence provided by all that I've done."
+        },
+        {
+          "number": 12,
+          "text": "I tell you the truth, anyone who trusts in me will do the same things I am doing. In fact they will do even greater things* because I am going to the Father."
+        },
+        {
+          "number": 13,
+          "text": "I'll do whatever you ask in my name, so that the Father may be glorified through the Son."
+        },
+        {
+          "number": 14,
+          "text": "Whatever you ask for in my name, I will do it."
+        },
+        {
+          "number": 15,
+          "text": "If you love me, you will keep my commands."
+        },
+        {
+          "number": 16,
+          "text": "I will ask the Father, and he will give you another Comforter,*"
+        },
+        {
+          "number": 17,
+          "text": "the Spirit of truth, who will always be with you. The world cannot accept him because it isn't looking for him and doesn't know him. But you know him because he lives with you and will be in you."
+        },
+        {
+          "number": 18,
+          "text": "I will not abandon you like orphans: I will come back to you."
+        },
+        {
+          "number": 19,
+          "text": "Soon the world will not see me anymore, but you will see me. Because I live, you will live too."
+        },
+        {
+          "number": 20,
+          "text": "On that day* you will know that I live in the Father, you live in me, and I live in you."
+        },
+        {
+          "number": 21,
+          "text": "Those who keep my commands are the ones who love me, those who love me will be loved by my Father. I will love them too, and will reveal myself to them.”"
+        },
+        {
+          "number": 22,
+          "text": "Judas (not Iscariot) responded, “Lord, why would you reveal yourself to us and not to the world?”"
+        },
+        {
+          "number": 23,
+          "text": "Jesus replied, “Those who love me will do as I say. My Father will love them, and we will come and make our home with them."
+        },
+        {
+          "number": 24,
+          "text": "Those who don't love me don't do what I say. These words don't come from me, they come from the Father who sent me."
+        },
+        {
+          "number": 25,
+          "text": "I'm explaining this to you while I'm still here with you."
+        },
+        {
+          "number": 26,
+          "text": "But when the Father sends the Comforter, the Holy Spirit, in my place,* he will teach you everything and remind you of all that I told you."
+        },
+        {
+          "number": 27,
+          "text": "Peace I leave with you; my peace I'm giving you. The peace I give you is nothing like what the world gives. Don't be anxious, and don't be afraid."
+        },
+        {
+          "number": 28,
+          "text": "You've heard me tell you, ‘I am going away, but I will come back to you.’ If you really loved me, you would be happy because I'm going to the Father, for the Father is greater than I."
+        },
+        {
+          "number": 29,
+          "text": "I've explained this to you now before it happens so that when it does happen you will be convinced."
+        },
+        {
+          "number": 30,
+          "text": "I can't talk to you much longer, for the prince of this world is coming. He has no power to control me,"
+        },
+        {
+          "number": 31,
+          "text": "but I'm doing what my Father told me to do so that the world will know that I love the Father. Now get up. Let's go.”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "14:1",
+          "text": "Or “You trust in God, trust in me too.”"
+        },
+        {
+          "ref": "14:12",
+          "text": "Greater in extent."
+        },
+        {
+          "ref": "14:16",
+          "text": "Comforter. The word in the original (transliterated into English as “Paraclete”) refers to one who is called to “come alongside” and help. See also 14:26, 15:26, 16:7, and 1 John 2:1."
+        },
+        {
+          "ref": "14:20",
+          "text": "Referring to verse 18, primarily referencing his coming to them after his resurrection."
+        },
+        {
+          "ref": "14:26",
+          "text": "Literally, “in my name.” This phrase can mean “with my authority,” “through me,” “for me,” “belonging to me” etc. It really is a way of referring to the person and their character."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "verses": [
+        {
+          "number": 1,
+          "text": "“I am the true vine, and my Father is the gardener."
+        },
+        {
+          "number": 2,
+          "text": "He cuts off every one of my branches that doesn't bear fruit. He prunes every branch that bears fruit so it can bear even more."
+        },
+        {
+          "number": 3,
+          "text": "You are already pruned and made clean* through what I've told you."
+        },
+        {
+          "number": 4,
+          "text": "Remain in me, and I will remain in you.* Just as a branch cannot produce fruit unless it remains part of the vine, so it is for you: you cannot bear fruit unless you remain in me."
+        },
+        {
+          "number": 5,
+          "text": "I'm the vine, you're the branches. Those who remain in me, and I in them, will produce plenty of fruit—for apart from me you can't do anything."
+        },
+        {
+          "number": 6,
+          "text": "Anyone who doesn't remain in me is like a branch that is thrown out and dries up. Such branches are gathered together, thrown into the fire and burned."
+        },
+        {
+          "number": 7,
+          "text": "If you remain in me, and my words remain in you, then you can ask for whatever you want, and it will be given you."
+        },
+        {
+          "number": 8,
+          "text": "My Father is glorified as you produce plenty of fruit, proving you are my disciples."
+        },
+        {
+          "number": 9,
+          "text": "As the Father loved me, so I have loved you. Remain in my love."
+        },
+        {
+          "number": 10,
+          "text": "If you do what I say, you will remain in my love, just as I do what my Father says and remain in his love."
+        },
+        {
+          "number": 11,
+          "text": "I've explained this to you so that my joy may be in you and that your joy may be complete."
+        },
+        {
+          "number": 12,
+          "text": "This is my command: love one another as I have loved you."
+        },
+        {
+          "number": 13,
+          "text": "There is no greater love than to give your life for your friends."
+        },
+        {
+          "number": 14,
+          "text": "You're my friends if you do what I tell you."
+        },
+        {
+          "number": 15,
+          "text": "I don't call you servants any longer, for servants are not taken into their master's confidence.* I call you friends, for everything my Father told me I've explained to you."
+        },
+        {
+          "number": 16,
+          "text": "You didn't choose me, I chose you. I have given you the responsibility to go and produce lasting fruit. So the Father will give you whatever you ask in my name."
+        },
+        {
+          "number": 17,
+          "text": "This is my command to you: love one another."
+        },
+        {
+          "number": 18,
+          "text": "If the world hates you, remember that it hated me before it hated you."
+        },
+        {
+          "number": 19,
+          "text": "If you were part of this world, it would love you as its own. But you're not part of the world, and I chose you out of the world—that's why the world hates you."
+        },
+        {
+          "number": 20,
+          "text": "Remember what I told you: servants aren't more important than their master. If they persecuted me, they will persecute you too. If they did what I told them, they would do what you tell them too."
+        },
+        {
+          "number": 21,
+          "text": "But everything they do to you will be because of me, for they don't know the one who sent me."
+        },
+        {
+          "number": 22,
+          "text": "If I hadn't come and spoken to them, they wouldn't be guilty of sin—but now they have no excuse for their sin."
+        },
+        {
+          "number": 23,
+          "text": "Anyone who hates me hates my Father as well."
+        },
+        {
+          "number": 24,
+          "text": "If I had not given them such a demonstration through things that no one had ever done before, they wouldn't be guilty of sin, but despite seeing all this they hated both me and my Father."
+        },
+        {
+          "number": 25,
+          "text": "But this just fulfilled what Scripture says, ‘They hated me for no reason at all.’*"
+        },
+        {
+          "number": 26,
+          "text": "But I will send you the Comforter from the Father. When he comes, he will give evidence about me. He is the Spirit of truth who comes from the Father."
+        },
+        {
+          "number": 27,
+          "text": "You will also give evidence about me because you were with me from the beginning.”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "15:3",
+          "text": "The word for pruning in this context is literally, “to cleanse.”"
+        },
+        {
+          "ref": "15:4",
+          "text": "Obviously the word “in” should be taken as “in connection with” as the rest of the verse makes clear."
+        },
+        {
+          "ref": "15:15",
+          "text": "Literally, “a servant doesn't know what his master is doing.”"
+        },
+        {
+          "ref": "15:25",
+          "text": "Quoting Psalms 35:19 or Psalms 69:5."
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "verses": [
+        {
+          "number": 1,
+          "text": "“I've told you this so you won't give up your trust in me."
+        },
+        {
+          "number": 2,
+          "text": "They will expel you from the synagogues—in fact the time is coming when those who kill you will think they are doing God a service."
+        },
+        {
+          "number": 3,
+          "text": "They'll do this because they have never known the Father or me. I've told you this so that when these things happen, you'll remember what I told you."
+        },
+        {
+          "number": 4,
+          "text": "I didn't need to tell you this right at the beginning because I was going to be with you."
+        },
+        {
+          "number": 5,
+          "text": "But now I'm going to the one who sent me, and yet not one of you is asking me, ‘Where are you going?’"
+        },
+        {
+          "number": 6,
+          "text": "Of course, now that I've told you, you're full of grief."
+        },
+        {
+          "number": 7,
+          "text": "But I'm telling you the truth: it's better for you that I go away, for if I don't the Comforter won't come to you. If I go away, I will send him to you."
+        },
+        {
+          "number": 8,
+          "text": "When he comes, he will convince those in the world that they have wrong ideas regarding sin, about what is right, and about judgment:"
+        },
+        {
+          "number": 9,
+          "text": "Sin, for they don't trust in me."
+        },
+        {
+          "number": 10,
+          "text": "What is right, for I'm going to the Father and you won't see me any longer."
+        },
+        {
+          "number": 11,
+          "text": "Judgment, for the ruler of this world has been condemned.*"
+        },
+        {
+          "number": 12,
+          "text": "There's much more I want to explain to you, but you couldn't stand it now."
+        },
+        {
+          "number": 13,
+          "text": "However, when the Spirit of truth comes, he will teach you the whole truth. He doesn't speak for himself, but he only says what he hears, and he will tell you what's going to happen."
+        },
+        {
+          "number": 14,
+          "text": "He brings me glory for he teaches you whatever he receives from me."
+        },
+        {
+          "number": 15,
+          "text": "All that belongs to the Father is mine. This is why I said that the Spirit teaches you whatever he receives from me."
+        },
+        {
+          "number": 16,
+          "text": "In a little while you won't see me anymore, but then a little while after that you will see me.”"
+        },
+        {
+          "number": 17,
+          "text": "Some of his disciples said to one another, “What does he mean, ‘In a little while you won't see me, but a little while after that you will see me’? and ‘For I'm going to the Father’?”"
+        },
+        {
+          "number": 18,
+          "text": "They were asking, “What does he mean by ‘in a little while’? We don't know what he's talking about.”"
+        },
+        {
+          "number": 19,
+          "text": "Jesus realized that they wanted to ask him about this. So he asked them, “Are you wondering about my comment, ‘In a little while you won't see me, but a little while after that you will see me’?"
+        },
+        {
+          "number": 20,
+          "text": "I tell you the truth, you will weep and mourn, but the world will rejoice. You will grieve, but your grief will turn into joy."
+        },
+        {
+          "number": 21,
+          "text": "A woman in labor suffers pain because her time has come, but once the baby is born, she forgets the agony because of the joy that a child has been brought into the world."
+        },
+        {
+          "number": 22,
+          "text": "Yes, you're grieving now, but I will see you again; and you will rejoice, and no one can take away your joy."
+        },
+        {
+          "number": 23,
+          "text": "When that time comes you won't need to ask me about anything. I tell you the truth, the Father will give you whatever you ask in my name."
+        },
+        {
+          "number": 24,
+          "text": "Until now you haven't asked for anything in my name, so ask and you shall receive, and your happiness will be complete."
+        },
+        {
+          "number": 25,
+          "text": "I've been talking to you using picture language. But shortly I won't use such picture language any more when I speak to you. Instead I'll explain the Father to you very plainly."
+        },
+        {
+          "number": 26,
+          "text": "At that time you will ask in my name. I'm not saying to you that I will plead with the Father on your behalf,"
+        },
+        {
+          "number": 27,
+          "text": "for the Father himself loves you—because you love me and believe that I came from God."
+        },
+        {
+          "number": 28,
+          "text": "I left the Father and came into the world; now I leave the world and return to my Father.”"
+        },
+        {
+          "number": 29,
+          "text": "Then the disciples said, “Now you're talking very plainly and not using picture language."
+        },
+        {
+          "number": 30,
+          "text": "Now we're certain that you know everything, and that in order to know what questions people are thinking you don't need to ask them.* This convinces us that you came from God.”"
+        },
+        {
+          "number": 31,
+          "text": "“Are you really convinced now?” Jesus asked."
+        },
+        {
+          "number": 32,
+          "text": "“The time is coming—in fact it's just about to happen—when you will be scattered, each of you to your own homes, leaving me all alone. But I'm not really alone, for the Father is with me."
+        },
+        {
+          "number": 33,
+          "text": "I've told you all this so that you may have peace because you are one with me.* You will suffer in this world, but be brave—I have defeated the world!”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "16:11",
+          "text": "Or “judged.”"
+        },
+        {
+          "ref": "16:30",
+          "text": "Referring back to what happened in 16:19."
+        },
+        {
+          "ref": "16:33",
+          "text": "Literally, “peace in me.”"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "verses": [
+        {
+          "number": 1,
+          "text": "When Jesus finished saying this he looked up to heaven and said, “Father, the time has come. Glorify your Son so that the Son may glorify you."
+        },
+        {
+          "number": 2,
+          "text": "For you gave him authority over all people so that he might give eternal life to all those you have given to him."
+        },
+        {
+          "number": 3,
+          "text": "Eternal life is this: to know you, the only true God, and Jesus Christ whom you sent."
+        },
+        {
+          "number": 4,
+          "text": "I have brought glory to you here on earth by completing the work you gave me to do."
+        },
+        {
+          "number": 5,
+          "text": "Now Father, glorify me in your presence with the glory I had with you before the beginning of the world."
+        },
+        {
+          "number": 6,
+          "text": "I have revealed your character* to those you gave me out of the world. They belonged to you; you gave them to me; and they have done what you said."
+        },
+        {
+          "number": 7,
+          "text": "Now they know that everything you have given me comes from you."
+        },
+        {
+          "number": 8,
+          "text": "I have given them the message that you gave me. They accepted it, completely convinced that I came from you, and they believed that you sent me."
+        },
+        {
+          "number": 9,
+          "text": "I'm praying for them—not for the world, but for those you gave me, for they belong to you."
+        },
+        {
+          "number": 10,
+          "text": "All who belong to me are yours, and those who belong to you are mine, and I have been glorified through them."
+        },
+        {
+          "number": 11,
+          "text": "I am leaving the world, but they will remain in the world; I am coming to you. Holy Father, protect them in your name, the name that you gave to me, so that they may be one, just as we are one."
+        },
+        {
+          "number": 12,
+          "text": "While I was with them, I protected them in your name that you gave to me. I watched over them so that no one was lost except the ‘son of the lost,’ so Scripture was fulfilled."
+        },
+        {
+          "number": 13,
+          "text": "Now I'm coming to you, and I say these things while I am still here in the world so they may share completely in my joy."
+        },
+        {
+          "number": 14,
+          "text": "I gave them your message, and the world hated them because they are not of the world, just as I'm not of the world."
+        },
+        {
+          "number": 15,
+          "text": "I'm not asking you to take them out of the world, but for you to protect them from the evil one."
+        },
+        {
+          "number": 16,
+          "text": "They are not of the world, just as I'm not of the world."
+        },
+        {
+          "number": 17,
+          "text": "Make them holy by the truth; your word is truth."
+        },
+        {
+          "number": 18,
+          "text": "Just as you sent me into the world, I have sent them into the world."
+        },
+        {
+          "number": 19,
+          "text": "I dedicate* myself for them so that they may also be truly holy."
+        },
+        {
+          "number": 20,
+          "text": "I'm not only praying for them, I'm also praying for those who trust in me because of their message."
+        },
+        {
+          "number": 21,
+          "text": "I pray that they all may be one, just as you, Father, live in me, and I live in you, so that they too may live in us so that the world will believe you did send me."
+        },
+        {
+          "number": 22,
+          "text": "I have given them the glory that you gave me, so that they may be one, just as we are one."
+        },
+        {
+          "number": 23,
+          "text": "I live in them, and you live in me. May they be completely one, so the whole world will know that you did send me, and that you love them, just as you love me."
+        },
+        {
+          "number": 24,
+          "text": "Father, I want those you have given me to be with me where I am, so they can see the glory which you gave to me—for you loved me before the world was created."
+        },
+        {
+          "number": 25,
+          "text": "Good Father,* the world does not know you, but I know you, and these here with me know that you sent me."
+        },
+        {
+          "number": 26,
+          "text": "I have revealed your character to them and will continue to make it known, so that the love you have for me will be in them, and I will live in them.”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "17:6",
+          "text": "Or “name.”"
+        },
+        {
+          "ref": "17:19",
+          "text": "“Dedicate”: this is the same word translated “make holy” in verse 17."
+        },
+        {
+          "ref": "17:25",
+          "text": "Literally, “Father Right.”"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "verses": [
+        {
+          "number": 1,
+          "text": "After Jesus had finished speaking, he and his disciples crossed over the Kidron brook and went into an olive grove."
+        },
+        {
+          "number": 2,
+          "text": "Judas the betrayer knew the place, for Jesus had often gone there with his disciples."
+        },
+        {
+          "number": 3,
+          "text": "So Judas took with him a troop of soldiers together with guards from the chief priests and the Pharisees. They arrived there carrying torches, lanterns, and weapons."
+        },
+        {
+          "number": 4,
+          "text": "Jesus knew everything that was going to happen to him. He went to meet them, and asked, “Who are you looking for?”"
+        },
+        {
+          "number": 5,
+          "text": "“Are you Jesus of Nazareth?” they asked. “I am,” Jesus told them.* Judas the betrayer was standing with them."
+        },
+        {
+          "number": 6,
+          "text": "When Jesus said “I am,” they fell back and dropped to the ground."
+        },
+        {
+          "number": 7,
+          "text": "So he asked them again, “Who are you looking for?” “Are you Jesus of Nazareth?” they asked again."
+        },
+        {
+          "number": 8,
+          "text": "“I already told you I am,” Jesus replied. “So if I'm the one you're looking for, let these others go.”"
+        },
+        {
+          "number": 9,
+          "text": "These words fulfilled what he had previously said: “I have not lost any of those you gave me.”"
+        },
+        {
+          "number": 10,
+          "text": "Then Simon Peter drew a sword and struck Malchus, the high priest's servant, cutting off his right ear."
+        },
+        {
+          "number": 11,
+          "text": "Jesus told Peter, “Put the sword away! Do you think* I shouldn't drink the cup the Father has given me?”"
+        },
+        {
+          "number": 12,
+          "text": "Then the soldiers, their commander, and the Jewish guards arrested Jesus and tied his hands."
+        },
+        {
+          "number": 13,
+          "text": "First they took him to Annas, the father-in-law of Caiaphas, the current high priest."
+        },
+        {
+          "number": 14,
+          "text": "Caiaphas was the one who had told the Jews, “It's better that one man die for the people.”*"
+        },
+        {
+          "number": 15,
+          "text": "Simon Peter followed Jesus, and another disciple did so too. This disciple was well-known to the high priest, and so he entered the high priest's courtyard with Jesus."
+        },
+        {
+          "number": 16,
+          "text": "Peter had to remain outside by the door. So the other disciple who was known to the high priest went and spoke to the servant girl watching the door and brought Peter inside."
+        },
+        {
+          "number": 17,
+          "text": "The girl asked Peter, “Aren't you one of that man's disciples?” “Me? No, I'm not,” he replied."
+        },
+        {
+          "number": 18,
+          "text": "It was cold, and the servants and guards were standing by a fire they had made, warming themselves. Peter went and stood with them, warming himself."
+        },
+        {
+          "number": 19,
+          "text": "Then the chief priest questioned Jesus about his disciples and what he had been teaching."
+        },
+        {
+          "number": 20,
+          "text": "“I've spoken openly to everyone,”* Jesus replied. “I always taught in the synagogues and in the Temple where all the Jewish people meet. I haven't said anything in secret."
+        },
+        {
+          "number": 21,
+          "text": "So why are you questioning me? Ask the people who heard me what I told them. They know what I said.”"
+        },
+        {
+          "number": 22,
+          "text": "When he said this, one of the guards standing nearby slapped Jesus, saying, “Is that any way to speak to the high priest?”"
+        },
+        {
+          "number": 23,
+          "text": "Jesus replied, “If I said something wrong, tell everyone what was wrong with it. But if what I said was right, why did you hit me?”"
+        },
+        {
+          "number": 24,
+          "text": "Annas sent him, his hands still tied, to Caiaphas the high priest."
+        },
+        {
+          "number": 25,
+          "text": "As Simon Peter stood warming himself by the fire, the people there asked him, “Aren't you one of his disciples?” Peter denied it and said, “No, I'm not.”"
+        },
+        {
+          "number": 26,
+          "text": "One of the high priest's servants, a relative of the man whose ear Peter had cut off, asked Peter, “Didn't I see you in the olive grove with him?”"
+        },
+        {
+          "number": 27,
+          "text": "Peter denied it again, and immediately a cock crowed."
+        },
+        {
+          "number": 28,
+          "text": "Early in the morning they took Jesus from Caiaphas to the palace of the Roman governor. The Jewish leaders* didn't enter the palace because if they did they would become ceremonially unclean and they wanted to be able to eat the Passover meal."
+        },
+        {
+          "number": 29,
+          "text": "So Pilate came out to meet them. “What charge are you bringing against this man?” he asked."
+        },
+        {
+          "number": 30,
+          "text": "“If he wasn't a criminal, we would not have handed him over to you,” they answered."
+        },
+        {
+          "number": 31,
+          "text": "“Then you take him and judge him according to your law,” Pilate told them. “We're not permitted to execute anyone,” the Jews answered."
+        },
+        {
+          "number": 32,
+          "text": "This fulfilled what Jesus had said about how he would die."
+        },
+        {
+          "number": 33,
+          "text": "Pilate went back into the governor's palace. He summoned Jesus, and asked him, “Are you the king of the Jews?”"
+        },
+        {
+          "number": 34,
+          "text": "“Did you think of this question yourself, or did others talk to you about me?” Jesus responded."
+        },
+        {
+          "number": 35,
+          "text": "“Am I a Jew?” Pilate countered. “It was your own people and high priests who handed you over to me. What is it that you've done?”"
+        },
+        {
+          "number": 36,
+          "text": "Jesus answered, “My kingdom is not of this world. If it was of this world, my subjects would fight to keep me from being handed over to the Jews. But my kingdom is not from here.”"
+        },
+        {
+          "number": 37,
+          "text": "Then Pilate asked, “So you are a king, then?” “You say that I'm a king,” Jesus replied. “The reason why I was born and I came to the world was to give evidence for the truth. All those who accept the truth pay attention to what I say.”"
+        },
+        {
+          "number": 38,
+          "text": "“What is truth?” Pilate asked. Having said this Pilate went back out to the Jews and told them, “I find him not guilty of any crime."
+        },
+        {
+          "number": 39,
+          "text": "However, it is customary for me to release a prisoner to you at Passover. Do you want me to release the king of the Jews?”"
+        },
+        {
+          "number": 40,
+          "text": "“No, not him! We want Barabbas instead!” they shouted back. Barabbas was a rebel.*"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "18:5",
+          "text": "Jesus' words are not only an affirmation of his identity but also echo the name of God from Exodus."
+        },
+        {
+          "ref": "18:11",
+          "text": "“Do you think”—implied."
+        },
+        {
+          "ref": "18:14",
+          "text": "See 11:50."
+        },
+        {
+          "ref": "18:20",
+          "text": "Literally, “to the world.”"
+        },
+        {
+          "ref": "18:28",
+          "text": "Implied."
+        },
+        {
+          "ref": "18:40",
+          "text": "Usually translated “robber.” It may be that Barabbas had taken part in some insurrection."
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Then Pilate took Jesus and had him flogged."
+        },
+        {
+          "number": 2,
+          "text": "Soldiers made a crown of thorns and placed it on his head, and put a purple robe on him."
+        },
+        {
+          "number": 3,
+          "text": "Time and again they went up to him and said, “Hail, king of the Jews!” and slapped him."
+        },
+        {
+          "number": 4,
+          "text": "Pilate went outside once more and said to them, “I'm bringing him out here to you so you'll know I find him not guilty of any crime.”"
+        },
+        {
+          "number": 5,
+          "text": "Then Jesus came out wearing the crown of thorns and the purple robe. “Look, here's the man,” said Pilate."
+        },
+        {
+          "number": 6,
+          "text": "When the chief priests and the guards saw Jesus, they shouted out, “Crucify him! Crucify him!” “You take him and crucify him,” Pilate answered. “I find him not guilty.”"
+        },
+        {
+          "number": 7,
+          "text": "The Jewish leaders replied, “We have a law, and according to that law he must die because he claimed to be the Son of God.”"
+        },
+        {
+          "number": 8,
+          "text": "When Pilate heard this he was more afraid than ever,"
+        },
+        {
+          "number": 9,
+          "text": "and he went back into the governor's palace. He asked Jesus, “Where do you come from?” But Jesus didn't respond."
+        },
+        {
+          "number": 10,
+          "text": "“Are you refusing to talk to me?” Pilate said to him. “Don't you realize that I have the power to have you released or to crucify you?”"
+        },
+        {
+          "number": 11,
+          "text": "“You would have no power over me unless it had been given to you from above,” Jesus answered. “Therefore the one who handed me over to you is guilty of the greater sin.”"
+        },
+        {
+          "number": 12,
+          "text": "Because of this statement Pilate tried to set Jesus free, but the Jewish leaders shouted, “If you set this man free you're not Caesar's friend. Anyone who sets himself up as a king is rebelling against Caesar.”"
+        },
+        {
+          "number": 13,
+          "text": "When Pilate heard this, he brought Jesus outside and sat down on the judgment seat at a place called Stone Pavement (Gabbatha in Hebrew)."
+        },
+        {
+          "number": 14,
+          "text": "It was around noon on the preparation day before the Passover. “Look, here is your king,” he said to the Jews."
+        },
+        {
+          "number": 15,
+          "text": "“Kill him! Kill him! Crucify him!” they screamed out. “Do you want me to crucify your king?” Pilate asked. “The only king we have is Caesar,” the chief priests replied."
+        },
+        {
+          "number": 16,
+          "text": "So he handed Jesus over to them to be crucified."
+        },
+        {
+          "number": 17,
+          "text": "They led Jesus away, who carried his own cross, and went out to the “Place of the Skull,” (Golgotha in Hebrew)."
+        },
+        {
+          "number": 18,
+          "text": "They crucified him there, and two others with him: one on either side, with Jesus between them."
+        },
+        {
+          "number": 19,
+          "text": "Pilate had a notice made and placed on the cross which said, “Jesus of Nazareth, the king of the Jews.”"
+        },
+        {
+          "number": 20,
+          "text": "Many people read the notice because the place where Jesus was crucified was near the city, and it was written in Hebrew, Latin, and Greek."
+        },
+        {
+          "number": 21,
+          "text": "Then the chief priests came to Pilate and asked him, “Don't write ‘the king of the Jews,’ but ‘This man said I am the king of the Jews.’”"
+        },
+        {
+          "number": 22,
+          "text": "Pilate replied, “What I have written I have written.”"
+        },
+        {
+          "number": 23,
+          "text": "When the soldiers had crucified Jesus they took his clothes and divided them in four so that each soldier had his share. There was also his robe, made without seams, woven in one piece."
+        },
+        {
+          "number": 24,
+          "text": "So they said to each other, “Let's not tear it, but let's decide who will have it by rolling dice.” This fulfilled the Scripture that says, “They divided my garments among them and rolled dice for my clothing.”* So that is what the soldiers did."
+        },
+        {
+          "number": 25,
+          "text": "Standing near the cross were Jesus' mother and his mother's sister, Mary the wife of Clopas and Mary Magdalene.*"
+        },
+        {
+          "number": 26,
+          "text": "When Jesus saw his mother, and the disciple he loved standing beside her, he said to his mother, “Mother,* this is your son.”"
+        },
+        {
+          "number": 27,
+          "text": "Then he said to the disciple, “This is your mother.” From then on the disciple took her into his home."
+        },
+        {
+          "number": 28,
+          "text": "Jesus now realized that he had finished all that he had come to do. In fulfillment of Scripture, he said, “I'm thirsty.”*"
+        },
+        {
+          "number": 29,
+          "text": "A jar of wine vinegar was standing there, so they soaked a sponge in the vinegar, put it on a hyssop stick, and held it to his lips."
+        },
+        {
+          "number": 30,
+          "text": "After he'd had the vinegar, Jesus said, “It's finished!”* Then he bowed his head and breathed his last."
+        },
+        {
+          "number": 31,
+          "text": "It was preparation day, and the Jewish leaders didn't want to leave the bodies on the crosses during the Sabbath day (in fact this was a special Sabbath), so they asked Pilate to break the legs, so that the bodies could be removed."
+        },
+        {
+          "number": 32,
+          "text": "So the soldiers came and broke the legs of the first one and then the other of those crucified with Jesus,"
+        },
+        {
+          "number": 33,
+          "text": "but when they came to Jesus they saw he was already dead, so they didn't break his legs."
+        },
+        {
+          "number": 34,
+          "text": "However, one of the soldiers stuck a spear into his side, and blood mixed with water came out."
+        },
+        {
+          "number": 35,
+          "text": "The one who saw this has given this evidence, and his evidence is true. He's certain that what he says is true so you can believe it too."
+        },
+        {
+          "number": 36,
+          "text": "It happened like this so Scripture would be fulfilled: “Not one of his bones will be broken,”*"
+        },
+        {
+          "number": 37,
+          "text": "and as another Scripture says, “They will look at the one they pierced.”*"
+        },
+        {
+          "number": 38,
+          "text": "After this Joseph of Arimathea asked Pilate if he could take down the body of Jesus, and Pilate gave his permission. Joseph was a disciple of Jesus, but in secret because he feared the Jews. So Joseph came and took the body away."
+        },
+        {
+          "number": 39,
+          "text": "He was joined by Nicodemus, the man who had first visited Jesus at night. He brought with him a mixture of myrrh and aloes weighing about seventy-five pounds."
+        },
+        {
+          "number": 40,
+          "text": "They took Jesus' body and wrapped it in linen cloth together with the mixture of spices, in accordance with Jewish burial customs."
+        },
+        {
+          "number": 41,
+          "text": "There was a garden near where Jesus was crucified; and in the garden was a new, unused tomb."
+        },
+        {
+          "number": 42,
+          "text": "Since it was the Jewish day of preparation and the tomb was nearby, they laid Jesus to rest there."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "19:24",
+          "text": "Quoting Psalms 22:18."
+        },
+        {
+          "ref": "19:25",
+          "text": "It is not clear whether there were three women present or four. Some believe Mary's sister is the same person as Mary, wife of Clopas."
+        },
+        {
+          "ref": "19:26",
+          "text": "Literally, “woman,” but this does not work in English."
+        },
+        {
+          "ref": "19:28",
+          "text": "Quoting Psalms 69:21."
+        },
+        {
+          "ref": "19:30",
+          "text": "“Finished”: this can also mean “completed” or “fulfilled.”"
+        },
+        {
+          "ref": "19:36",
+          "text": "Quoting Psalms 34:20."
+        },
+        {
+          "ref": "19:37",
+          "text": "Referring to Exodus 12:46, Numbers 9:12, or Psalms 34:20."
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Early on the first day of the week,* while it was still dark, Mary Magdalene went to the tomb and saw that the stone had been moved from the entrance."
+        },
+        {
+          "number": 2,
+          "text": "So she ran to tell Simon Peter and the other disciple, the one Jesus loved, “They've taken the Lord out of the tomb, and we don't know where they've put him.”"
+        },
+        {
+          "number": 3,
+          "text": "Then Peter and the other disciple went to the tomb."
+        },
+        {
+          "number": 4,
+          "text": "The two of them were running together, but the other disciple ran faster and reached the tomb first."
+        },
+        {
+          "number": 5,
+          "text": "He bent down, and looking in he saw the grave-clothes lying there, but he didn't go in."
+        },
+        {
+          "number": 6,
+          "text": "Then Simon Peter arrived after him and went right into the tomb. He saw the linen grave-clothes lying there,"
+        },
+        {
+          "number": 7,
+          "text": "and that the cloth that had been on Jesus' head wasn't with the other grave-clothes but had been folded and placed on its own."
+        },
+        {
+          "number": 8,
+          "text": "Then the other disciple who had reached the tomb first went inside as well."
+        },
+        {
+          "number": 9,
+          "text": "He looked around and believed it was true*—for up till then they hadn't understood the Scripture that Jesus had to rise from the dead."
+        },
+        {
+          "number": 10,
+          "text": "Then the disciples went back to where they were staying.*"
+        },
+        {
+          "number": 11,
+          "text": "But Mary stayed outside the tomb crying. As she was crying, she bent down and looked into the tomb."
+        },
+        {
+          "number": 12,
+          "text": "She saw two angels in white, one sitting at the head and the other at the foot of where Jesus' body had been lying."
+        },
+        {
+          "number": 13,
+          "text": "“Why are you crying?” they asked her. She answered, “Because they've taken my Lord away, and I don't know where they've put him.”"
+        },
+        {
+          "number": 14,
+          "text": "After she'd said this, she turned round and saw Jesus standing there, but she didn't realize it was Jesus."
+        },
+        {
+          "number": 15,
+          "text": "“Why are you crying?” he asked her. “Who are you looking for?” Assuming he was the gardener, she said to him, “Sir, if you've taken him away, tell me where you've put him so I can go and get him.”"
+        },
+        {
+          "number": 16,
+          "text": "Jesus said to her, “Mary!” She turned to him and said, “Rabboni,” which means “Teacher” in Hebrew."
+        },
+        {
+          "number": 17,
+          "text": "“Don't hold onto me,”* Jesus said to her, “for I haven't yet ascended to my Father; but go to my brothers and tell them I am ascending to my Father and your Father, my God and your God.”"
+        },
+        {
+          "number": 18,
+          "text": "So Mary Magdalene went and told the disciples, “I've seen the Lord,” and she explained to them what he had said to her."
+        },
+        {
+          "number": 19,
+          "text": "That evening, on the first day of the week, as the disciples were meeting together behind locked doors because they were afraid of the Jews, Jesus came and stood among them and said, “May you have peace.”"
+        },
+        {
+          "number": 20,
+          "text": "After this greeting he showed them his hands and his side. The disciples were full of joy to see the Lord."
+        },
+        {
+          "number": 21,
+          "text": "“May you have peace!” Jesus told them again. “In the same way the Father sent me, so I'm sending you.”"
+        },
+        {
+          "number": 22,
+          "text": "Saying this, he breathed on them, and told them, “Receive the Holy Spirit."
+        },
+        {
+          "number": 23,
+          "text": "If you forgive anyone's sins, they are forgiven; if you hold them unforgiven, unforgiven they remain.”"
+        },
+        {
+          "number": 24,
+          "text": "One of the twelve disciples, Thomas, who was called the Twin, wasn't with them when Jesus came."
+        },
+        {
+          "number": 25,
+          "text": "So the other disciples told him, “We've seen the Lord.” But he replied, “I won't believe it unless I see the nail marks in his hands and put my finger in them, and put my hand in his side.”"
+        },
+        {
+          "number": 26,
+          "text": "One week later the disciples were together inside the house; and Thomas was with them. The doors were closed, and Jesus came and stood among them. “May you have peace!” he said."
+        },
+        {
+          "number": 27,
+          "text": "Then he said to Thomas, “Put your finger here, and look at my hands. Put your hand in the wound on my side. Stop doubting and trust in me!”"
+        },
+        {
+          "number": 28,
+          "text": "“My Lord and my God!” Thomas responded."
+        },
+        {
+          "number": 29,
+          "text": "“You trust in me because you've seen me,” Jesus told him. “Happy are those that haven't seen me yet still trust in me.”"
+        },
+        {
+          "number": 30,
+          "text": "Jesus did many other miraculous signs while he was with his disciples that are not recorded in this book."
+        },
+        {
+          "number": 31,
+          "text": "But these are written down here so that you may trust that Jesus is the Messiah, the Son of God, and that by trusting in him as he is* you will have life."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "20:1",
+          "text": "That is, Sunday."
+        },
+        {
+          "ref": "20:9",
+          "text": "That Jesus had risen from the dead."
+        },
+        {
+          "ref": "20:10",
+          "text": "Clearly not back to their homes in Galilee, but to whatever lodging they had found in Jerusalem."
+        },
+        {
+          "ref": "20:17",
+          "text": "Meaning “don't detain me by holding me back.”"
+        },
+        {
+          "ref": "20:31",
+          "text": "Literally, “in his name.”"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Later Jesus appeared again to the disciples by the Sea of Galilee.* This is how it happened."
+        },
+        {
+          "number": 2,
+          "text": "Simon Peter, Thomas the Twin, Nathanael of Cana in Galilee, and Zebedee's sons, and two other disciples were together."
+        },
+        {
+          "number": 3,
+          "text": "“I'm going fishing,” Simon Peter said to them. “We'll come with you,” they replied. So they left and went out in the boat, but all night they caught nothing."
+        },
+        {
+          "number": 4,
+          "text": "When dawn came Jesus was standing on the shore, but the disciples didn't know it was him."
+        },
+        {
+          "number": 5,
+          "text": "Jesus called to them, “My friends, haven't you caught anything?” “No,” they replied."
+        },
+        {
+          "number": 6,
+          "text": "“Throw the net out on the right side of the boat, and you'll find some,” he told them. So they threw out the net, and they weren't able to haul it in because it had so many fish."
+        },
+        {
+          "number": 7,
+          "text": "The disciple Jesus loved said to Peter, “It's the Lord.” When Peter heard it was the Lord, he put some clothes on because he was undressed, and jumped into the sea."
+        },
+        {
+          "number": 8,
+          "text": "The other disciples followed in the boat, pulling the net full of fish, because they were not far from the shore, only about a hundred yards."
+        },
+        {
+          "number": 9,
+          "text": "Once they'd landed they saw a fire with fish cooking on it, and some bread."
+        },
+        {
+          "number": 10,
+          "text": "Jesus told them, “Bring some of the fish you've just caught.”"
+        },
+        {
+          "number": 11,
+          "text": "Simon Peter went aboard and pulled the net full of fish ashore. There were 153 large fish, yet even so the net hadn't torn."
+        },
+        {
+          "number": 12,
+          "text": "“Come and eat some breakfast,” Jesus said to them. None of the disciples was brave enough to ask him, “Who are you?” They knew it was the Lord."
+        },
+        {
+          "number": 13,
+          "text": "Jesus took the bread and gave it to them and the fish as well."
+        },
+        {
+          "number": 14,
+          "text": "This was the third time Jesus had appeared to the disciples after being raised from the dead."
+        },
+        {
+          "number": 15,
+          "text": "After breakfast, Jesus asked Simon Peter, “Simon, son of John, do you love me more than these?”* “Yes, Lord,” he replied, “you know I love you.” “Take care of my lambs,” Jesus told him."
+        },
+        {
+          "number": 16,
+          "text": "“Simon, son of John, do you love me?” he asked for the second time. “Yes, Lord,” he answered, “you know I love you.” “Look after my sheep,” Jesus said to him."
+        },
+        {
+          "number": 17,
+          "text": "“Simon, son of John, do you love me?” he asked a third time. Peter was hurt that Jesus had asked him for the third time if he loved him. “Lord, you know everything. You know I love you,” Peter told him. “Take care of my sheep,” said Jesus."
+        },
+        {
+          "number": 18,
+          "text": "“I tell you the truth,” said Jesus, “when you were young, you dressed yourself and went wherever you wanted. But when you're old, you'll hold out your hands and someone will dress you and take you where you don't want to go.”"
+        },
+        {
+          "number": 19,
+          "text": "Jesus said this to explain the kind of death by which he would glorify God. Then he said to Peter, “Follow me.”"
+        },
+        {
+          "number": 20,
+          "text": "As Peter turned round, he saw the disciple Jesus loved following them, the one who had leaned over to Jesus during the supper and asked, “Lord, who is going to betray you?”"
+        },
+        {
+          "number": 21,
+          "text": "Peter asked Jesus, “What about him, Lord?”"
+        },
+        {
+          "number": 22,
+          "text": "Jesus told him, “If I want him to remain alive here until I return, why is that your concern? You follow me!”"
+        },
+        {
+          "number": 23,
+          "text": "This is why the saying spread among the believers that this disciple would not die. But Jesus didn't say to him that he wouldn't die, just that “If I want him to remain alive here until I return, why is that your concern?”"
+        },
+        {
+          "number": 24,
+          "text": "This disciple confirms what happened and wrote all this down. We know that what he says is true."
+        },
+        {
+          "number": 25,
+          "text": "Jesus did many other things as well, and if it all was written down, I doubt the whole world could hold all the books that would be written."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "21:1",
+          "text": "Literally, “Sea of Tiberias.”"
+        },
+        {
+          "ref": "21:15",
+          "text": "“These.” This could refer to the objects around them, meaning the fisherman's trade, but is more likely that it refers to the other disciples. It is Peter's love for Jesus which is in question."
+        }
+      ]
+    }
+  ]
+}

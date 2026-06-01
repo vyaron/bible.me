@@ -1,0 +1,589 @@
+{
+  "id": "NT-15-1TI",
+  "code": "1TI",
+  "slug": "1-timothy",
+  "name": "1 Timothy",
+  "testament": "NT",
+  "testamentOrder": 15,
+  "order": 54,
+  "source": {
+    "file": "src/1TI.rtf",
+    "format": "rtf"
+  },
+  "stats": {
+    "chapters": 6,
+    "verses": 113
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "This letter comes from Paul, an apostle of Christ Jesus appointed by the authority of God our Savior and Christ Jesus, who is our hope."
+        },
+        {
+          "number": 2,
+          "text": "I'm sending it to you Timothy. You are my true son* because of your trust in God. May you have grace, mercy, and peace from God the Father and Christ Jesus our Lord."
+        },
+        {
+          "number": 3,
+          "text": "When I was on my way to Macedonia I asked you to stay behind in Ephesus, so that you could speak with those who teach false ideas and insist that they stop."
+        },
+        {
+          "number": 4,
+          "text": "They shouldn't concern themselves with legends and never-ending obsessions about ancestry.* Such ideas only lead to pointless debates, instead of understanding God as we trust in him."
+        },
+        {
+          "number": 5,
+          "text": "The reason why I insist on this is so we may have love that comes from a pure heart, from a clear conscience and sincere trust in God."
+        },
+        {
+          "number": 6,
+          "text": "Some have deviated from these things, and have ended up talking nonsense."
+        },
+        {
+          "number": 7,
+          "text": "They have ambitions to be teachers of the law, but they have no idea what they're talking about or what they're so boldly announcing!"
+        },
+        {
+          "number": 8,
+          "text": "Now we recognize that the law is good if people use it properly."
+        },
+        {
+          "number": 9,
+          "text": "We also know that law isn't laid down for those who do what is good and right, but for those who are rebellious and ignore the law. It applies to people who have no use for God, who are sinful, who treat nothing as holy and are completely irreligious. It's for those who kill fathers and mothers, for murderers,"
+        },
+        {
+          "number": 10,
+          "text": "for those who are sexually immoral, homosexuals, kidnappers, liars, false witnesses—and anything else that's opposed to good teachings"
+        },
+        {
+          "number": 11,
+          "text": "as determined by the wonderful good news of our blessed God which he entrusted to me."
+        },
+        {
+          "number": 12,
+          "text": "I'm just so grateful to Christ Jesus our Lord for the strength he's given me, and that he considered me trustworthy, appointing me to work for him."
+        },
+        {
+          "number": 13,
+          "text": "Even though I used to insult God, and persecuted and abused God's people, God showed me mercy because of my ignorance and unbelief."
+        },
+        {
+          "number": 14,
+          "text": "Our Lord in his grace filled me to overflowing with trust and love that comes from Christ Jesus."
+        },
+        {
+          "number": 15,
+          "text": "You can trust this saying that everyone should accept: “Christ Jesus came to this world to save sinners,” and I'm the worst of them."
+        },
+        {
+          "number": 16,
+          "text": "For this reason I was shown mercy—since I'm the worst sinner, Jesus Christ could demonstrate his infinite patience as an example to those who choose to trust in him and gain eternal life."
+        },
+        {
+          "number": 17,
+          "text": "Honor and glory forever and ever to the eternal King, the immortal, invisible, and only God! Amen."
+        },
+        {
+          "number": 18,
+          "text": "These are the instructions I want to give to you, Timothy, my son, following the prophecies that brought you this far,* so you can fight the good fight!"
+        },
+        {
+          "number": 19,
+          "text": "Keep on trusting God and make sure you have a clear conscience. Some have refused to do this and have shipwrecked their trust in God."
+        },
+        {
+          "number": 20,
+          "text": "Hymenaeus and Alexander are such people, and I have “handed them over to Satan”* to teach them not to misrepresent God."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "1:2",
+          "text": "Actually “little child.”"
+        },
+        {
+          "ref": "1:4",
+          "text": "Or “endless genealogies”—a situation that is not clear from the context."
+        },
+        {
+          "ref": "1:18",
+          "text": "The Greek is ambiguous—it could refer to prophecies about Timothy, or that Timothy followed the prophecies…"
+        },
+        {
+          "ref": "1:20",
+          "text": "The phrase “handed over to Satan” is not explained and could mean being “excommunicated” from the church community, or allowing them to experience the results of their sins. The fact they are supposed to learn something indicates that Paul believed their redemption was still possible."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "First of all, I want to encourage you to pray for everybody: make requests of God, ask on their behalf, and give thanks."
+        },
+        {
+          "number": 2,
+          "text": "Pray like this for kings and all types of leaders so that we may live quiet and peaceful lives, always thinking about God and taking life seriously."
+        },
+        {
+          "number": 3,
+          "text": "This is what is good, and what pleases God our Savior."
+        },
+        {
+          "number": 4,
+          "text": "He wants everyone to be saved, and come to understand what truth really is."
+        },
+        {
+          "number": 5,
+          "text": "For there is one God, and one mediator of God and mankind—the man Christ Jesus."
+        },
+        {
+          "number": 6,
+          "text": "He gave himself so we could all be won back, demonstrating the evidence at the right time."
+        },
+        {
+          "number": 7,
+          "text": "I was appointed to share this message and be its messenger,* a teacher to the foreigners* about trusting God and the truth (I'm not lying, I'm telling the truth!)"
+        },
+        {
+          "number": 8,
+          "text": "What I really want is for men everywhere to pray sincerely to God.* No anger or arguments!"
+        },
+        {
+          "number": 9,
+          "text": "In the same way, women should dress sensibly, modestly, and appropriately. They should be attractive not in their hairstyle or by wearing gold or pearls or expensive clothes,"
+        },
+        {
+          "number": 10,
+          "text": "but by the good things they do—as is appropriate for women who claim to follow God."
+        },
+        {
+          "number": 11,
+          "text": "Women should learn quietly, respecting their place."
+        },
+        {
+          "number": 12,
+          "text": "I don't allow women to be instructors, or to dominate men; let them remain quiet.*"
+        },
+        {
+          "number": 13,
+          "text": "For Adam was made first, and then Eve."
+        },
+        {
+          "number": 14,
+          "text": "Adam wasn't deceived, but Eve was completely deceived, and she fell into sin."
+        },
+        {
+          "number": 15,
+          "text": "However, women will be saved through becoming mothers,* as long as they continue to trust and love, and to live holy, sensible lives."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "2:7",
+          "text": "Literally, “an apostle.”"
+        },
+        {
+          "ref": "2:7",
+          "text": "Literally, “Gentiles.”"
+        },
+        {
+          "ref": "2:8",
+          "text": "Literally, “holding up holy hands.”"
+        },
+        {
+          "ref": "2:12",
+          "text": "Or tranquil, calm."
+        },
+        {
+          "ref": "2:15",
+          "text": "“Through child-bearing.” The meaning and implication of this verse are much debated…"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "This is a trustworthy statement: “If someone aspires to be an elder, this is a good work to want to do.”"
+        },
+        {
+          "number": 2,
+          "text": "An elder must be above reproach, married to one wife, self-controlled, well-balanced, sensible, hospitable, and able to teach."
+        },
+        {
+          "number": 3,
+          "text": "He should be someone who doesn't get drunk or become violent, but is gentle, and is not argumentative or greedy for money."
+        },
+        {
+          "number": 4,
+          "text": "He must handle his own family well. His children must respect what he tells them to do."
+        },
+        {
+          "number": 5,
+          "text": "(For if a man doesn't know how to manage his own family, how can he manage God's church?)"
+        },
+        {
+          "number": 6,
+          "text": "He should not be a new believer, in case he gets so full of himself* that he falls under the same condemnation as the devil."
+        },
+        {
+          "number": 7,
+          "text": "People outside the church should also speak well of him so that he won't disgrace himself and fall into the devil's trap."
+        },
+        {
+          "number": 8,
+          "text": "Similarly deacons* should be respected, and not be hypocritical. They should not be addicted to drink, and should not be trying to dishonestly enrich themselves."
+        },
+        {
+          "number": 9,
+          "text": "They must stick to the revealed truth about God, trusting in him with a pure conscience."
+        },
+        {
+          "number": 10,
+          "text": "They should be tried out first, and if they can't be faulted then let them serve as deacons."
+        },
+        {
+          "number": 11,
+          "text": "Their wives* should be respected too. They should not slander people with gossip, and they should be self-controlled and trustworthy in all they do."
+        },
+        {
+          "number": 12,
+          "text": "Deacons should be married to one wife, managing their children and their homes well."
+        },
+        {
+          "number": 13,
+          "text": "Those who serve well as deacons gain a good reputation and much confidence in their trust in Christ Jesus."
+        },
+        {
+          "number": 14,
+          "text": "Even though I hope to see you soon, I'm writing about all this to you so that"
+        },
+        {
+          "number": 15,
+          "text": "if I'm delayed you'll know how people should behave themselves in God's house. This is the church of the living God, the support pillar and foundation of the truth."
+        },
+        {
+          "number": 16,
+          "text": "There's no question about it: the revealed truth about God is amazing! He was made known to us in human form, he was vindicated by the Spirit, seen by angels, declared to the nations, trusted in by the world, and taken up in glory!"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "3:6",
+          "text": "Or “he becomes proud and arrogant.”"
+        },
+        {
+          "ref": "3:8",
+          "text": "“Deacons,” directly from the Greek work “diakonos,” meaning servant."
+        },
+        {
+          "ref": "3:11",
+          "text": "“Their wives”: or simply “women.”"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "However, the Spirit very clearly explains that in the last times some will abandon their trust in God, and will listen to deceptive spirits and beliefs that come from demons."
+        },
+        {
+          "number": 2,
+          "text": "These hypocritical liars, whose consciences have been seared,"
+        },
+        {
+          "number": 3,
+          "text": "tell people to not marry and not to eat certain foods made by God that should be accepted with thanks by those who trust and know the truth."
+        },
+        {
+          "number": 4,
+          "text": "Everything created by God is good, and nothing should be rejected but should be received with thanks,"
+        },
+        {
+          "number": 5,
+          "text": "since it is made sacred by the word of God and by prayer."
+        },
+        {
+          "number": 6,
+          "text": "If you point out these things to the brothers and sisters you will be a good minister* of Christ Jesus. You gain strength by trusting in the truth, and in the good teaching you've followed."
+        },
+        {
+          "number": 7,
+          "text": "Reject what is irreligious, and old wives' tales. Make sure your exercise is spiritual—"
+        },
+        {
+          "number": 8,
+          "text": "for while physical exercise is useful to some extent, spiritual exercise is much more useful. For “it has promise for the present life, and for the life to come.”"
+        },
+        {
+          "number": 9,
+          "text": "You can trust this saying* that should be accepted by everyone."
+        },
+        {
+          "number": 10,
+          "text": "The reason we work and do the best we can is because our hope is in the living God. He is the Savior of all people, especially of those who trust in him."
+        },
+        {
+          "number": 11,
+          "text": "This is what you should teach. Tell everyone to follow your instructions."
+        },
+        {
+          "number": 12,
+          "text": "Don't let anyone look down on you because you are young. Be an example to those who trust in God—in the way you speak, the kind of life you live, in love, in trust, and in purity."
+        },
+        {
+          "number": 13,
+          "text": "Until I get there, make sure you read the Scriptures to the church, and encourage them by your speaking and teaching."
+        },
+        {
+          "number": 14,
+          "text": "Don't neglect the gracious gift you have that was given to you by prophetic inspiration when the church elders laid their hands on you."
+        },
+        {
+          "number": 15,
+          "text": "Think carefully about these things, and dedicate yourself completely to them so that everyone can see the progress you're making."
+        },
+        {
+          "number": 16,
+          "text": "Mind what you're doing and what you're teaching. Keep going with all of this, because as you do so you'll save both yourself and those who listen to you."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "4:6",
+          "text": "The word is actually the one used for “deacon.”"
+        },
+        {
+          "ref": "4:9",
+          "text": "Assuming the saying is the previous verse."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Don't rebuke a man who is older than you. Instead, encourage him as if he were your father. Treat younger men as brothers,"
+        },
+        {
+          "number": 2,
+          "text": "older women as mothers, younger women as sisters, with the highest standards of decency."
+        },
+        {
+          "number": 3,
+          "text": "Help widows who don't have a family."
+        },
+        {
+          "number": 4,
+          "text": "For the Christian responsibility of a widow's children or grandchildren is to do their duty for their own family, and repay their parents by helping them out. This is what pleases God."
+        },
+        {
+          "number": 5,
+          "text": "Now a real widow, having no family, alone and without support, puts her hope in God and prays for help night and day."
+        },
+        {
+          "number": 6,
+          "text": "But a widow who concentrates on pleasing herself is already dead, even though she's still physically alive."
+        },
+        {
+          "number": 7,
+          "text": "Give people these instructions so that they will be above criticism."
+        },
+        {
+          "number": 8,
+          "text": "But those who don't look after their relatives, especially their own family, have denied their beliefs, and are worse than those who don't believe."
+        },
+        {
+          "number": 9,
+          "text": "Only widows over sixty who have been faithful to their husbands should be put on the list.*"
+        },
+        {
+          "number": 10,
+          "text": "The widow should have a reputation for doing good. Did she bring up children properly? Has she been hospitable? Has she washed the feet of church members? Has she helped those who were in trouble? Has she really tried to do good in every way?"
+        },
+        {
+          "number": 11,
+          "text": "Don't take on widows who are younger, because when their physical desires make them want to remarry they abandon their dedication to Christ."
+        },
+        {
+          "number": 12,
+          "text": "In this they are guilty of breaking their previous commitment.*"
+        },
+        {
+          "number": 13,
+          "text": "They also get used to a lazy life, just visiting each other in their homes. Not only lazy, but they gossip and meddle, talking about things they shouldn't."
+        },
+        {
+          "number": 14,
+          "text": "So my best advice is that younger widows marry and have children and take care of the home. That way there's no opportunity for criticism from the Enemy."
+        },
+        {
+          "number": 15,
+          "text": "However, some have already gone the way of Satan."
+        },
+        {
+          "number": 16,
+          "text": "Any Christian woman who has widows in the family should help them, so that the church is not burdened with the responsibility, and can help those widows who are truly in need."
+        },
+        {
+          "number": 17,
+          "text": "Elders who direct the church well should be seen as doubly valuable,* particularly those who work in speaking the Word and in teaching."
+        },
+        {
+          "number": 18,
+          "text": "As Scripture says, “Don't muzzle the ox when it's threshing out the grain.” Also, “The worker deserves to be paid.”*"
+        },
+        {
+          "number": 19,
+          "text": "Don't entertain any accusation against an elder unless two or three witnesses support it."
+        },
+        {
+          "number": 20,
+          "text": "Censure those who sin in front of everyone as a warning to others as well."
+        },
+        {
+          "number": 21,
+          "text": "Before God and Christ Jesus, and the holy angels, I instruct you to follow these instructions without bias. Don't do anything from an attitude of favoritism."
+        },
+        {
+          "number": 22,
+          "text": "Don't be in a hurry to lay hands on anyone; and don't get involved in the sins of others. Keep yourself pure."
+        },
+        {
+          "number": 23,
+          "text": "Don't just drink water, but use a little bit of wine because of your bad stomach—you're sick so often!"
+        },
+        {
+          "number": 24,
+          "text": "The sins of some people are really obvious, and they are clearly guilty, but the sins of others are not seen until later."
+        },
+        {
+          "number": 25,
+          "text": "Similarly some good works are obvious, and even those that are hidden won't be for long."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "5:9",
+          "text": "The list of those widows who should be helped by the church."
+        },
+        {
+          "ref": "5:12",
+          "text": "The idea here is that the widows have made a commitment to serve Christ in the church, and they are helped by the church because of this. To remarry would annul this commitment."
+        },
+        {
+          "ref": "5:17",
+          "text": "Or “should receive adequate pay.”"
+        },
+        {
+          "ref": "5:18",
+          "text": "Quoting Deuteronomy 25:4; see also Luke 10:7."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "All who are bound under slavery should consider their masters worthy of respect, so that God's name and Christian beliefs won't be defamed."
+        },
+        {
+          "number": 2,
+          "text": "Slaves who have Christian masters should not disrespect them because they are brothers. Instead they should serve them even better, because those who are benefiting from their service are fellow-believers they should love. Teach these instructions, and encourage people to follow them."
+        },
+        {
+          "number": 3,
+          "text": "Those who teach different beliefs, and don't listen to good counsel, particularly the words of our Lord Jesus Christ and the true teachings of God,"
+        },
+        {
+          "number": 4,
+          "text": "are arrogant and don't understand anything. They're obsessed with speculation and philosophical debates which only lead to jealousy, arguments, malicious gossip and evil suspicions—"
+        },
+        {
+          "number": 5,
+          "text": "the constant arguing of people whose minds are totally corrupt and who have lost the truth, thinking that they can profit financially from religion…"
+        },
+        {
+          "number": 6,
+          "text": "But knowing and following God is so incredibly satisfying!"
+        },
+        {
+          "number": 7,
+          "text": "For we didn't bring anything into the world, and we can't take anything out with us either."
+        },
+        {
+          "number": 8,
+          "text": "But if we have food and clothes then that's enough for us."
+        },
+        {
+          "number": 9,
+          "text": "Those who are determined to become rich fall into the trap of temptation, following many foolish and damaging impulses."
+        },
+        {
+          "number": 10,
+          "text": "For the desire to be rich leads to many kinds of evil results. Some of those who longed for this have turned away from the truth, and have hurt themselves, experiencing a lot of pain."
+        },
+        {
+          "number": 11,
+          "text": "But you as a man of God should run away from such things. You should seek to do what is right, practice true religion, and trust in God. Aim to love, to be patient, and gentle."
+        },
+        {
+          "number": 12,
+          "text": "Fight the good fight as you trust in God. Hold on tightly to the eternal life to which you were called. This is what you promised to do in front of many witnesses."
+        },
+        {
+          "number": 13,
+          "text": "My charge to you before God the Life-giver, and before Christ Jesus who testified to the good news before Pontius Pilate,"
+        },
+        {
+          "number": 14,
+          "text": "is to follow faithfully what you've been told* so you will be above criticism until our Lord Jesus Christ appears."
+        },
+        {
+          "number": 15,
+          "text": "At the right time Jesus will be revealed—he who is the blessed and only Sovereign, the King of kings, and Lord of lords."
+        },
+        {
+          "number": 16,
+          "text": "He is the only one who is immortal, and lives in unapproachable light. No one has seen him or can see him—honor and eternal power is his! Amen."
+        },
+        {
+          "number": 17,
+          "text": "Warn those who are rich in the present world not to become proud. Tell them not to place their trust in wealth that is so insecure but in God who so freely gives us everything for our enjoyment."
+        },
+        {
+          "number": 18,
+          "text": "Tell them to do good, and to become rich in doing good things, ready to share what they have, and to be generous."
+        },
+        {
+          "number": 19,
+          "text": "In this way they store up treasure that will provide a solid basis for the future, so that they can take hold of true life."
+        },
+        {
+          "number": 20,
+          "text": "Timothy, take care of what's been given to you. Don't pay any attention to pointless chatter and arguments based on so-called “knowledge.”"
+        },
+        {
+          "number": 21,
+          "text": "Some who promote these ideas have wandered away from their trust in God. May grace be with you."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "6:14",
+          "text": "Literally, “keep the commandment.”"
+        }
+      ]
+    }
+  ]
+}

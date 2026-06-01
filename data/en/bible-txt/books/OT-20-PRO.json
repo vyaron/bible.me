@@ -1,0 +1,4302 @@
+{
+  "id": "OT-20-PRO",
+  "code": "PRO",
+  "slug": "proverbs",
+  "name": "Proverbs",
+  "testament": "OT",
+  "testamentOrder": 20,
+  "order": 20,
+  "source": {
+    "file": "src/PRO.rtf",
+    "format": "rtf"
+  },
+  "stats": {
+    "chapters": 31,
+    "verses": 915
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The proverbs of Solomon, son of David, king of Israel."
+        },
+        {
+          "number": 2,
+          "text": "They are for achieving wisdom and instruction, and to recognize sayings that bring insight."
+        },
+        {
+          "number": 3,
+          "text": "They provide education in what makes sense, living right, judging correctly, and acting fairly."
+        },
+        {
+          "number": 4,
+          "text": "They give discernment to the immature, knowledge and discretion to the young."
+        },
+        {
+          "number": 5,
+          "text": "Wise people will listen and gain in learning, and those who have good judgment will gain skills in guidance,"
+        },
+        {
+          "number": 6,
+          "text": "understanding the proverbs and puzzles, the sayings and questions of the wise."
+        },
+        {
+          "number": 7,
+          "text": "Honoring the Lord is where true knowledge begins, but fools treat wisdom and good advice with contempt."
+        },
+        {
+          "number": 8,
+          "text": "My son, pay attention to your father's instruction, and don't reject your mother's teaching."
+        },
+        {
+          "number": 9,
+          "text": "They are a wreath of grace to decorate your head; they are pendants for your neck."
+        },
+        {
+          "number": 10,
+          "text": "My son, if evil people try to tempt you, don't give into them."
+        },
+        {
+          "number": 11,
+          "text": "They may tell you, “Come with us. Let's go and hide, ready to kill someone. Let's ambush someone for fun!"
+        },
+        {
+          "number": 12,
+          "text": "Let's bury them alive; let's put them in the grave while they're still healthy!"
+        },
+        {
+          "number": 13,
+          "text": "We'll take from them all kinds of valuable things and fill our homes with the stuff we steal!"
+        },
+        {
+          "number": 14,
+          "text": "Come and join us* and we'll all share what we get!”"
+        },
+        {
+          "number": 15,
+          "text": "My son, don't follow their ways. Don't go in that direction with them."
+        },
+        {
+          "number": 16,
+          "text": "For they rush to do evil; they hurry to commit violence and murder."
+        },
+        {
+          "number": 17,
+          "text": "There's no point in trying to lure birds into a net when they can see it."
+        },
+        {
+          "number": 18,
+          "text": "However, these evil people hide ready to kill others, but they themselves are the victims. They're only ambushing themselves!"
+        },
+        {
+          "number": 19,
+          "text": "This is what happens to you if you try to become rich through crime—it kills you!"
+        },
+        {
+          "number": 20,
+          "text": "Wisdom calls out in the streets; she* shouts aloud in the squares."
+        },
+        {
+          "number": 21,
+          "text": "She cries out at busy corners; she explains her message at the town gates:"
+        },
+        {
+          "number": 22,
+          "text": "“How long will you stupid people love stupidity? How long will scornful people enjoy their mocking? How long will fools hate knowledge?"
+        },
+        {
+          "number": 23,
+          "text": "Pay attention to my warnings, and I'll pour out my deepest thoughts to you—I'll explain what I know to you."
+        },
+        {
+          "number": 24,
+          "text": "For I have called you, but you refused to listen; I reached out my hand to you, but you didn't care."
+        },
+        {
+          "number": 25,
+          "text": "You ignored everything I said; you wouldn't accept any of my warnings."
+        },
+        {
+          "number": 26,
+          "text": "So I'll laugh at you when you're in trouble; I'll mock you when you're in a panic."
+        },
+        {
+          "number": 27,
+          "text": "When panic rains down on you like a storm, when trouble hits you like a whirlwind, when sorrow and pain come on you,"
+        },
+        {
+          "number": 28,
+          "text": "then you'll call out to me for help, but I won't answer; you'll search hard for me, but won't find me."
+        },
+        {
+          "number": 29,
+          "text": "Why?—because they hated knowledge, and they didn't choose to respect the Lord."
+        },
+        {
+          "number": 30,
+          "text": "They're not willing to accept my advice; they despise all my warnings."
+        },
+        {
+          "number": 31,
+          "text": "So they'll have to eat the fruit of their own choices, bloated by their own devious schemes."
+        },
+        {
+          "number": 32,
+          "text": "Stupid people are killed by their rebellion; foolish people are destroyed by their lack of concern."
+        },
+        {
+          "number": 33,
+          "text": "But everyone who listens to me will be kept safe, and will live without worrying about problems.”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "1:14",
+          "text": "Literally, “throw in your lot with us.”"
+        },
+        {
+          "ref": "1:20",
+          "text": "“She”: in Proverbs, wisdom is personified as a woman."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "My son, if you accept what I say and value my instructions,"
+        },
+        {
+          "number": 2,
+          "text": "if you pay attention to wisdom and really try to understand;"
+        },
+        {
+          "number": 3,
+          "text": "if you cry out for insight and call loudly for help in understanding;"
+        },
+        {
+          "number": 4,
+          "text": "if you look for it as if it were silver and search for it as if it were hidden treasure;"
+        },
+        {
+          "number": 5,
+          "text": "then you will understand how to relate to the Lord and discover the truth about God."
+        },
+        {
+          "number": 6,
+          "text": "The Lord is the source of wisdom; what he says provides knowledge that makes sense."
+        },
+        {
+          "number": 7,
+          "text": "He gives good judgment to those who live right; he defends those who have good sense."
+        },
+        {
+          "number": 8,
+          "text": "He supports those who act fairly and protects those who trust in him."
+        },
+        {
+          "number": 9,
+          "text": "Then you will be able to recognize what is right and just and fair, in fact all that is good in the way you should live."
+        },
+        {
+          "number": 10,
+          "text": "For wisdom will fill your mind, and knowledge will make you happy."
+        },
+        {
+          "number": 11,
+          "text": "Good decisions will keep you on track; thinking logically will keep you safe."
+        },
+        {
+          "number": 12,
+          "text": "Doing this will save you from the ways of evil, from men who tell twisted lies,"
+        },
+        {
+          "number": 13,
+          "text": "who turn away from following what is right to walk down paths of darkness."
+        },
+        {
+          "number": 14,
+          "text": "They happily do wrong; they love how twisted evil is."
+        },
+        {
+          "number": 15,
+          "text": "They live crooked lives doing deceitful things."
+        },
+        {
+          "number": 16,
+          "text": "Doing this will also save you from a woman who acts immorally,* from a woman who like a prostitute* tries to seduce you with flattering words."
+        },
+        {
+          "number": 17,
+          "text": "Such a woman has left her husband she married when she was young, forgetting the promises she made before God."
+        },
+        {
+          "number": 18,
+          "text": "What happens in her house leads to death; following her way leads to the grave."
+        },
+        {
+          "number": 19,
+          "text": "No one who goes to her comes back; they don't ever find the way back to life again."
+        },
+        {
+          "number": 20,
+          "text": "So you should follow the way of the good, and make sure you stay on the paths of those who do right."
+        },
+        {
+          "number": 21,
+          "text": "For only people who live right will live in the land; only honest people will remain there."
+        },
+        {
+          "number": 22,
+          "text": "But the wicked will be thrown out of the land; those who are untrustworthy will be pulled out by the roots."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "2:16",
+          "text": "“A woman who acts immorally”: literally “a strange woman.”"
+        },
+        {
+          "ref": "2:16",
+          "text": "“A woman who like a prostitute”: literally “a foreign woman.” It is thought that this comes from the idea that prostitutes were often women from other nations,"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "My son, don't forget my instructions. Always keep my commands in mind."
+        },
+        {
+          "number": 2,
+          "text": "Then you will live a long time, and have a full* life."
+        },
+        {
+          "number": 3,
+          "text": "Hold on to kindness and truth. Tie them around your neck; write them in your mind.*"
+        },
+        {
+          "number": 4,
+          "text": "That way you'll gain a good reputation and be appreciated by both God and people."
+        },
+        {
+          "number": 5,
+          "text": "Put your trust totally in the Lord—don't rely on what you think you know!"
+        },
+        {
+          "number": 6,
+          "text": "Remember him in everything you do, and he'll show you the right way."
+        },
+        {
+          "number": 7,
+          "text": "Don't think you're wise—respect God and avoid evil."
+        },
+        {
+          "number": 8,
+          "text": "Then you will be healed and made strong.*"
+        },
+        {
+          "number": 9,
+          "text": "Honor the Lord with your wealth and with the firstfruits of all the crops you grow."
+        },
+        {
+          "number": 10,
+          "text": "Then your barns will be filled with produce, and your vats will overflow with new wine.*"
+        },
+        {
+          "number": 11,
+          "text": "My son, don't reject the Lord's discipline or resent it when he corrects you,"
+        },
+        {
+          "number": 12,
+          "text": "for the Lord corrects those he loves, as a father corrects a son who pleases him.*"
+        },
+        {
+          "number": 13,
+          "text": "Happy are those who find wisdom and gain understanding,"
+        },
+        {
+          "number": 14,
+          "text": "for wisdom is worth more than silver, and pays better than gold."
+        },
+        {
+          "number": 15,
+          "text": "She is more valuable than rubies—everything you could ever want just doesn't compare!"
+        },
+        {
+          "number": 16,
+          "text": "She offers long life in one hand, and riches and honor in the other."
+        },
+        {
+          "number": 17,
+          "text": "She brings true happiness, and leads to peaceful prosperity."
+        },
+        {
+          "number": 18,
+          "text": "Wisdom is a tree of life to everyone who embraces her, blessing those who accept her."
+        },
+        {
+          "number": 19,
+          "text": "It was through wisdom that the Lord created the earth, and through understanding he set the heavens in place."
+        },
+        {
+          "number": 20,
+          "text": "It was through his knowledge the waters of the deep were broken open, and the clouds sent down the dew.*"
+        },
+        {
+          "number": 21,
+          "text": "My son, hold on to good judgment and wise decisions—don't let them out of your sight,"
+        },
+        {
+          "number": 22,
+          "text": "for they will be life to you, and an ornament for your neck."
+        },
+        {
+          "number": 23,
+          "text": "You will be able to walk confidently on your way, and you won't trip up."
+        },
+        {
+          "number": 24,
+          "text": "When you rest, you won't be afraid; when you lie down, your sleep will be sweet."
+        },
+        {
+          "number": 25,
+          "text": "You won't be afraid of a sudden panic, or of disasters that hit the wicked,"
+        },
+        {
+          "number": 26,
+          "text": "for the Lord will be the one you can trust in, and he will prevent you being caught in a trap."
+        },
+        {
+          "number": 27,
+          "text": "Don't hold back good from those who deserve it when it's something you have the power to do."
+        },
+        {
+          "number": 28,
+          "text": "Don't tell your neighbor, “Go away. Come back tomorrow and then I'll give it to you,” when you've already got it."
+        },
+        {
+          "number": 29,
+          "text": "Don't plan to harm your neighbor who lives nearby and trusts you."
+        },
+        {
+          "number": 30,
+          "text": "Don't quarrel with anybody for no reason, when they haven't done anything to hurt you."
+        },
+        {
+          "number": 31,
+          "text": "Don't be jealous of violent people—don't choose to follow their example!"
+        },
+        {
+          "number": 32,
+          "text": "For the Lord hates deceitful people, but he is a friend to those who do what is good."
+        },
+        {
+          "number": 33,
+          "text": "The houses of the wicked are cursed by the Lord, but he blesses the homes of those who live right."
+        },
+        {
+          "number": 34,
+          "text": "He mocks those who mock, but he is kind to the humble."
+        },
+        {
+          "number": 35,
+          "text": "The wise will receive honor, but fools are held up in disgrace."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "3:2",
+          "text": "The word used here is “shalom,” meaning peace and prosperity."
+        },
+        {
+          "ref": "3:3",
+          "text": "“Write them in your mind”: literally, “write them on the tablet of your heart.”"
+        },
+        {
+          "ref": "3:8",
+          "text": "Literally this verse is, “Healing shall be to your navel, and drink for your bones.”"
+        },
+        {
+          "ref": "3:10",
+          "text": "“New wine”: in other words, grape juice."
+        },
+        {
+          "ref": "3:12",
+          "text": "Septuagint reads, “he punishes a son who pleases him.”"
+        },
+        {
+          "ref": "3:20",
+          "text": "This probably refers to the creation account in Genesis."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Listen, sons, to a father's instruction; pay attention and discover what makes sense,"
+        },
+        {
+          "number": 2,
+          "text": "for what I am passing on to you is reliable. Don't reject my teachings."
+        },
+        {
+          "number": 3,
+          "text": "When I was a son with my father—a tender young boy, my mother's only child—"
+        },
+        {
+          "number": 4,
+          "text": "he was the one who taught me. He told me, “Pay attention to the words I say and keep them in mind; do what I tell you and you will live."
+        },
+        {
+          "number": 5,
+          "text": "Get wisdom, find out what makes sense. Don't forget my words or reject them."
+        },
+        {
+          "number": 6,
+          "text": "Don't give up on wisdom for she will keep you safe. Love wisdom and she will protect you."
+        },
+        {
+          "number": 7,
+          "text": "The first thing in becoming wise is to get wisdom! Whatever else you gain, gain insight."
+        },
+        {
+          "number": 8,
+          "text": "Treasure wisdom, and she will praise you; embrace her, and she will honor you."
+        },
+        {
+          "number": 9,
+          "text": "She will place on your head a wreath of grace; she will present to you a crown of glory.”"
+        },
+        {
+          "number": 10,
+          "text": "Listen, my son, if you accept what I tell you, then you will live a long life."
+        },
+        {
+          "number": 11,
+          "text": "I have explained to you the way of wisdom; I have guided you along the right paths."
+        },
+        {
+          "number": 12,
+          "text": "Nothing will block your way when you walk, you won't stumble when you run."
+        },
+        {
+          "number": 13,
+          "text": "Hold on to these instructions—don't let them go. Protect them, for they are life's foundation."
+        },
+        {
+          "number": 14,
+          "text": "Don't go the way of the wicked or follow the example of those who do evil."
+        },
+        {
+          "number": 15,
+          "text": "Avoid that way completely. Don't go there! Turn away, and walk on."
+        },
+        {
+          "number": 16,
+          "text": "Evil people won't rest until they've done something wrong; they can't sleep unless they've tripped someone up."
+        },
+        {
+          "number": 17,
+          "text": "For they eat the bread of wickedness and drink the wine of violence."
+        },
+        {
+          "number": 18,
+          "text": "The way of life of the good is like the light of the sunrise, glowing brighter and brighter until the full light of day shines out."
+        },
+        {
+          "number": 19,
+          "text": "But the way of life of the wicked is like complete darkness; they don't even know what they're tripping over."
+        },
+        {
+          "number": 20,
+          "text": "My son, pay attention to what I tell you; listen to the words I'm saying."
+        },
+        {
+          "number": 21,
+          "text": "Don't lose sight of them; think about them deeply,"
+        },
+        {
+          "number": 22,
+          "text": "for they are life to anyone who finds them, and make the whole body healthy."
+        },
+        {
+          "number": 23,
+          "text": "Most of all, protect your mind, for everything in life flows from it."
+        },
+        {
+          "number": 24,
+          "text": "Don't ever lie, and don't say anything dishonest."
+        },
+        {
+          "number": 25,
+          "text": "Focus on what's ahead of you; look at what's in front of you."
+        },
+        {
+          "number": 26,
+          "text": "Pay attention to the path you decide to follow, and you'll be safe wherever you go."
+        },
+        {
+          "number": 27,
+          "text": "Don't deviate to the right or the left, and turn away from evil."
+        }
+      ],
+      "notes": []
+    },
+    {
+      "number": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "My son, pay attention to my wisdom, listen carefully as I explain what makes sense,"
+        },
+        {
+          "number": 2,
+          "text": "so you can make good decisions and protect knowledge with your lips.*"
+        },
+        {
+          "number": 3,
+          "text": "For the lips of an immoral woman may taste as sweet as honey, the kisses of her mouth may be as smooth as oil,"
+        },
+        {
+          "number": 4,
+          "text": "but in the end what you get from her is the bitterness of wormwood and the sharp pain of being cut with a two-edged sword."
+        },
+        {
+          "number": 5,
+          "text": "She leads you down to death; she takes you down to the grave."
+        },
+        {
+          "number": 6,
+          "text": "She doesn't follow the path that leads to life—she wanders away and doesn't even know she's lost."
+        },
+        {
+          "number": 7,
+          "text": "Now, my son,* listen to me; don't reject what I have taught you."
+        },
+        {
+          "number": 8,
+          "text": "Stay far away from her! Don't go near the door of her house!"
+        },
+        {
+          "number": 9,
+          "text": "Otherwise you'll surrender your honor to others, and your character to cruel people."
+        },
+        {
+          "number": 10,
+          "text": "Strangers will spend your wealth; everything you've worked for will go to someone else."
+        },
+        {
+          "number": 11,
+          "text": "When you come to the end of your life you'll moan in pain as disease destroys your body."
+        },
+        {
+          "number": 12,
+          "text": "You'll say, “How I used to hate discipline, and my mind rebelled against being corrected!"
+        },
+        {
+          "number": 13,
+          "text": "I didn't listen to what my teacher said. I didn't pay attention to my instructors."
+        },
+        {
+          "number": 14,
+          "text": "Now I'm on the verge of being completely disgraced before everyone in the community.”"
+        },
+        {
+          "number": 15,
+          "text": "Drink water from your own cistern, flowing water from your own well.*"
+        },
+        {
+          "number": 16,
+          "text": "Why should your springs be spilled outside, your streams of water poured out in the streets?"
+        },
+        {
+          "number": 17,
+          "text": "Keep them for yourselves alone. They're not for you to share with strangers."
+        },
+        {
+          "number": 18,
+          "text": "May your spring of water be blessed, and may you enjoy the wife you married when you were young."
+        },
+        {
+          "number": 19,
+          "text": "May she be to you a loving deer, a graceful doe. May her breasts always be intoxicating to you; may you be drunk on her love forever."
+        },
+        {
+          "number": 20,
+          "text": "Why, my son, become intoxicated with an immoral woman? Why embrace the breasts of a woman who acts like a prostitute?"
+        },
+        {
+          "number": 21,
+          "text": "For the Lord sees everything people do, the Lord investigates everywhere they go."
+        },
+        {
+          "number": 22,
+          "text": "The wicked are trapped by their evil actions; the cords of their sins tie them up."
+        },
+        {
+          "number": 23,
+          "text": "They will die because they lack self-control, lost because of their great stupidity."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "5:2",
+          "text": "“Protect knowledge in what you say”: literally, “your lips will guard knowledge.”"
+        },
+        {
+          "ref": "5:7",
+          "text": "The Hebrew has the plural “sons” here, but for the rest of the chapter uses singular pronouns, so “son” is used here, following the Septuagint and the Vulgate."
+        },
+        {
+          "ref": "5:15",
+          "text": "This whole section uses imagery to make the point that husbands and wives should be faithful to each other."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "My son, suppose you have pledged to guarantee your neighbor's debt, or you have shaken hands in agreement with a stranger,"
+        },
+        {
+          "number": 2,
+          "text": "then you've trapped yourself by what you promised, you've been caught by what you said."
+        },
+        {
+          "number": 3,
+          "text": "So this is what you have to do. You need to get out of it, because you've put yourself in that person's power. Go to your neighbor in all humility and ask him to release you from the commitment.*"
+        },
+        {
+          "number": 4,
+          "text": "Don't delay, saying that you'll sleep on it. Don't rest until you've done it."
+        },
+        {
+          "number": 5,
+          "text": "Get out of it like a gazelle escaping from a trap, like a bird from a bird-catcher's net."
+        },
+        {
+          "number": 6,
+          "text": "Go and observe the ants, you slacker! Learn from what they do and become wise."
+        },
+        {
+          "number": 7,
+          "text": "They don't have a leader, an officer, or a ruler,"
+        },
+        {
+          "number": 8,
+          "text": "yet they work hard during the summer getting their food, gathering what they need during the harvest."
+        },
+        {
+          "number": 9,
+          "text": "So how long are you going to lie there, you slacker? When are you going to get up from your sleep?"
+        },
+        {
+          "number": 10,
+          "text": "You may say,* “Please, just a little more sleep, a little longer snooze, a little more folding of the arms to rest”—"
+        },
+        {
+          "number": 11,
+          "text": "and poverty will attack you like a robber, destitution like an armed warrior."
+        },
+        {
+          "number": 12,
+          "text": "Rebellious and wicked people go around telling lies,"
+        },
+        {
+          "number": 13,
+          "text": "winking slyly, giving sneaky foot gestures, rudely pointing with their fingers."
+        },
+        {
+          "number": 14,
+          "text": "Their warped minds plot evil schemes; they're always causing trouble."
+        },
+        {
+          "number": 15,
+          "text": "As a result, disaster falls suddenly on such people; in just a moment they're destroyed without hope of healing."
+        },
+        {
+          "number": 16,
+          "text": "There are six things that the Lord hates, seven things that he absolutely detests:"
+        },
+        {
+          "number": 17,
+          "text": "arrogant eyes, a lying tongue, hands that murder the innocent,"
+        },
+        {
+          "number": 18,
+          "text": "a mind that plots evil schemes, feet that hurriedly run to do wrong,"
+        },
+        {
+          "number": 19,
+          "text": "a false witness that speaks lies, those who caused arguments in families."
+        },
+        {
+          "number": 20,
+          "text": "My son, pay attention to your father's instruction, and don't reject your mother's teaching."
+        },
+        {
+          "number": 21,
+          "text": "Keep them always in mind. Tie them around your neck."
+        },
+        {
+          "number": 22,
+          "text": "They will lead you as you walk along; they will watch over you as you sleep; when you wake up they will talk with you."
+        },
+        {
+          "number": 23,
+          "text": "For the instruction is a lamp, and the teaching is a light. The correction that comes from discipline is the way to life."
+        },
+        {
+          "number": 24,
+          "text": "It will protect you from an evil woman and the seductive words of a prostitute."
+        },
+        {
+          "number": 25,
+          "text": "Don't let your mind lust after her beauty, or let her hypnotize you with her fluttering eyelashes."
+        },
+        {
+          "number": 26,
+          "text": "You can buy a prostitute for the price of a loaf of bread, but adultery with another man's wife can cost you your life."
+        },
+        {
+          "number": 27,
+          "text": "Can you put fire in your lap and not burn your clothes?"
+        },
+        {
+          "number": 28,
+          "text": "Can you walk on hot coals and not scorch your feet?"
+        },
+        {
+          "number": 29,
+          "text": "It's the same for anyone who sleeps with another man's wife. No one who touches her will remain unpunished."
+        },
+        {
+          "number": 30,
+          "text": "People don't condemn a thief if he steals to satisfy himself when he's hungry."
+        },
+        {
+          "number": 31,
+          "text": "But if he's caught, he has to pay back seven times what he stole, even if it means handing over everything he has in his house."
+        },
+        {
+          "number": 32,
+          "text": "Any man who commits adultery with a woman has no sense; he who does so destroys himself."
+        },
+        {
+          "number": 33,
+          "text": "He will be wounded and dishonored. His disgrace will never be removed."
+        },
+        {
+          "number": 34,
+          "text": "For jealousy makes a husband furious, and he won't hold back when he takes revenge."
+        },
+        {
+          "number": 35,
+          "text": "He refuses any compensation, and won't be paid off, however big the amount."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "6:3",
+          "text": "“To release you from the commitment”: implied."
+        },
+        {
+          "ref": "6:10",
+          "text": "“You may say”: implied."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "My son, accept what I say and value my instructions."
+        },
+        {
+          "number": 2,
+          "text": "Do what I tell you and you will live. Observe my teachings, valuing them as your main focus in life."
+        },
+        {
+          "number": 3,
+          "text": "Tie them to your fingers; write them in your mind."
+        },
+        {
+          "number": 4,
+          "text": "Tell wisdom, “You're my sister,” and call insight your best friend."
+        },
+        {
+          "number": 5,
+          "text": "They will protect you from the immoral woman, from the prostitute with her seductive words."
+        },
+        {
+          "number": 6,
+          "text": "One time I looked through the lattice of the window in my house,"
+        },
+        {
+          "number": 7,
+          "text": "and I saw among the immature young men one who had no sense at all."
+        },
+        {
+          "number": 8,
+          "text": "He was walking down the street near the corner where she lived and took the road passing her house."
+        },
+        {
+          "number": 9,
+          "text": "It was at dusk in the evening, as the light was fading and the dark night closed in."
+        },
+        {
+          "number": 10,
+          "text": "Then out came a woman to meet him. She was dressed as a prostitute and had deceptive intentions."
+        },
+        {
+          "number": 11,
+          "text": "(She was loud and provocative, never wanting to stay at home."
+        },
+        {
+          "number": 12,
+          "text": "One moment she'd be walking the streets, the next she'd be there in the town squares, loitering at every corner.)"
+        },
+        {
+          "number": 13,
+          "text": "She grabbed hold of him and kissed him, and with a bold face she told him,"
+        },
+        {
+          "number": 14,
+          "text": "“I sacrificed my peace offering today, and paid my vows.*"
+        },
+        {
+          "number": 15,
+          "text": "That's why I came out to meet you. I was looking for you and now I've found you!"
+        },
+        {
+          "number": 16,
+          "text": "My bed is made, covered with colorful linens from Egypt."
+        },
+        {
+          "number": 17,
+          "text": "I've sprinkled perfume on my bed—myrrh, aloes, and cinnamon."
+        },
+        {
+          "number": 18,
+          "text": "Come with me, let's make love until the morning. Let's enjoy one another in our love-making!"
+        },
+        {
+          "number": 19,
+          "text": "My husband isn't home; he's gone on a long trip."
+        },
+        {
+          "number": 20,
+          "text": "He took a bag of money with him, and he won't be coming back until the full moon.”"
+        },
+        {
+          "number": 21,
+          "text": "She convinced him with all that she said; she seduced him with her smooth talking."
+        },
+        {
+          "number": 22,
+          "text": "He followed her right away, like an ox to the slaughter. Like a stag that's caught in a snare"
+        },
+        {
+          "number": 23,
+          "text": "until an arrow pierces its liver, like a bird flying into a trap, he's unaware he will pay with his life."
+        },
+        {
+          "number": 24,
+          "text": "So now listen to me, my sons, and pay attention to what I'm saying."
+        },
+        {
+          "number": 25,
+          "text": "Don't even think about following her. Don't stray down her road."
+        },
+        {
+          "number": 26,
+          "text": "For she has brought down and destroyed a lot of men; she's killed so many."
+        },
+        {
+          "number": 27,
+          "text": "Her house leads to the grave—it goes down to the rooms of death."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "7:14",
+          "text": "These offerings were shared with the donor. In essence the woman is saying she has meat ready to eat."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Isn't wisdom calling? Isn't understanding raising her voice?"
+        },
+        {
+          "number": 2,
+          "text": "On the top of the hill by the road, she stands up at the crossroads."
+        },
+        {
+          "number": 3,
+          "text": "Beside the gates of the town, right there at the entrance, she cries out:"
+        },
+        {
+          "number": 4,
+          "text": "“I'm calling out to you, everyone! My call is to everyone in the whole world!"
+        },
+        {
+          "number": 5,
+          "text": "If you're immature, learn how to grow up. If you're stupid, learn what makes good sense."
+        },
+        {
+          "number": 6,
+          "text": "Listen to me because I have valuable things to explain to you."
+        },
+        {
+          "number": 7,
+          "text": "I say what's right, because I tell the truth and I hate wickedness in all its forms."
+        },
+        {
+          "number": 8,
+          "text": "All the words I say are true; none are false or misleading."
+        },
+        {
+          "number": 9,
+          "text": "My words are straightforward to anyone with understanding; they are correct to those who have knowledge."
+        },
+        {
+          "number": 10,
+          "text": "Choose my instruction over silver; choose knowledge over pure gold."
+        },
+        {
+          "number": 11,
+          "text": "For wisdom is more valuable than rubies; everything you could ever want just doesn't compare!"
+        },
+        {
+          "number": 12,
+          "text": "I, wisdom, am at home with good decisions. I know how to find knowledge and discernment."
+        },
+        {
+          "number": 13,
+          "text": "Honoring the Lord means hating evil. So I hate pride and arrogance, wicked behavior and telling lies."
+        },
+        {
+          "number": 14,
+          "text": "I have advice and good judgment; I know what makes sense, and I have power."
+        },
+        {
+          "number": 15,
+          "text": "It's because of me that kings reign, and rulers issue fair decrees."
+        },
+        {
+          "number": 16,
+          "text": "It's because of me that leaders and nobles govern—all who rule justly."
+        },
+        {
+          "number": 17,
+          "text": "I love those who love me, and those who really look for me will find me."
+        },
+        {
+          "number": 18,
+          "text": "With me go riches and honor, lasting wealth and prosperity."
+        },
+        {
+          "number": 19,
+          "text": "The fruit I produce is better than gold, even pure gold, and my harvest is better than even the best silver."
+        },
+        {
+          "number": 20,
+          "text": "I live in a way that's right; I follow the paths of justice."
+        },
+        {
+          "number": 21,
+          "text": "I grant wealth to those who love me; I fill their treasure storehouses."
+        },
+        {
+          "number": 22,
+          "text": "The Lord created me first of all; I was made before anything else."
+        },
+        {
+          "number": 23,
+          "text": "I was formed a long time ago, at the first, before the world began."
+        },
+        {
+          "number": 24,
+          "text": "I was born when there were no ocean depths, when there were no springs pouring out water."
+        },
+        {
+          "number": 25,
+          "text": "I was born before the mountains or the hills had been formed,"
+        },
+        {
+          "number": 26,
+          "text": "when he hadn't made the earth and its fields or any of the earth's dust."
+        },
+        {
+          "number": 27,
+          "text": "I was there when he placed the heavens in position, when he drew the horizon over the ocean,"
+        },
+        {
+          "number": 28,
+          "text": "when he made the clouds in the sky above, when he created the springs of the oceans,"
+        },
+        {
+          "number": 29,
+          "text": "when he set limits on the sea so that the waters would not go farther than he ordered, and when he laid out the foundations of the earth."
+        },
+        {
+          "number": 30,
+          "text": "Then I was beside him as a master craftsman. I made him happy every day, and I was always full of joy in his presence."
+        },
+        {
+          "number": 31,
+          "text": "I was so happy in the world he created, celebrating together with human beings."
+        },
+        {
+          "number": 32,
+          "text": "And now, my sons, listen to me, for happy are those who follow my ways."
+        },
+        {
+          "number": 33,
+          "text": "Listen to my instruction and be wise—do not reject it."
+        },
+        {
+          "number": 34,
+          "text": "Happy are those who listen to me, watching for me every day at my doors, waiting at my entrance way."
+        },
+        {
+          "number": 35,
+          "text": "For those who find me, find life, and are accepted by the Lord."
+        },
+        {
+          "number": 36,
+          "text": "But those who don't find me hurt themselves; everyone who hates me loves death.”"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "number": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Wisdom has built her house; she has prepared its seven pillars."
+        },
+        {
+          "number": 2,
+          "text": "She has slaughtered her animals for meat; she has mixed* her wine; and she has set her table."
+        },
+        {
+          "number": 3,
+          "text": "She has sent out her servant girls with invitations.* She calls out from the highest places of the town,"
+        },
+        {
+          "number": 4,
+          "text": "“Everybody who needs to learn, come and see me!” To people who don't have any sense she says,"
+        },
+        {
+          "number": 5,
+          "text": "“Come, eat my food, and drink the wine I have mixed."
+        },
+        {
+          "number": 6,
+          "text": "Leave your foolish ways and you will live; follow the path that makes sense.”"
+        },
+        {
+          "number": 7,
+          "text": "If you correct a mocker all you get are insults; if you argue with the wicked all you get is abuse."
+        },
+        {
+          "number": 8,
+          "text": "So don't argue with mockers or they'll only hate you; argue with the wise and they'll love you."
+        },
+        {
+          "number": 9,
+          "text": "Educate the wise and they'll become even wiser; teach those who live right and they will increase their learning."
+        },
+        {
+          "number": 10,
+          "text": "Honoring the Lord is the beginning of wisdom; knowledge of the Holy One brings insight."
+        },
+        {
+          "number": 11,
+          "text": "Through wisdom you'll have many more days, increasing the years of your life."
+        },
+        {
+          "number": 12,
+          "text": "If you are wise, you are the one to profit from it; if you scoff, you alone will have to suffer the consequences."
+        },
+        {
+          "number": 13,
+          "text": "Stupidity is like a loud, ignorant woman who doesn't know anything."
+        },
+        {
+          "number": 14,
+          "text": "She sits at the door of her house, on a seat in the high places of the town,"
+        },
+        {
+          "number": 15,
+          "text": "calling out to those passing by, going about their business,"
+        },
+        {
+          "number": 16,
+          "text": "“Everybody who needs to learn, come and see me!” To people who don't have any sense she says,"
+        },
+        {
+          "number": 17,
+          "text": "“Stolen water is sweet, and food eaten in secret tastes good!”"
+        },
+        {
+          "number": 18,
+          "text": "But they don't know that the dead are there, that those she's invited are in the depths of the grave."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "9:2",
+          "text": "Through the addition of spices."
+        },
+        {
+          "ref": "9:3",
+          "text": "“With invitations”: implied."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Solomon's proverbs. A wise son makes his father happy, but a stupid son only brings his mother grief."
+        },
+        {
+          "number": 2,
+          "text": "Wealth gained through evil does you no good; but living right saves you from death."
+        },
+        {
+          "number": 3,
+          "text": "The Lord doesn't let good people go hungry, but he stops the wicked from getting what they want."
+        },
+        {
+          "number": 4,
+          "text": "Lazy hands make you poor, but hard-working hands make you rich."
+        },
+        {
+          "number": 5,
+          "text": "A son who gathers crops during the summer is sensible, but the one who sleeps during harvest brings disgrace."
+        },
+        {
+          "number": 6,
+          "text": "Those who are good are blessed, but what the wicked say hides their violent nature."
+        },
+        {
+          "number": 7,
+          "text": "The good are remembered as a blessing, but the reputation of the wicked will rot."
+        },
+        {
+          "number": 8,
+          "text": "Those who think wisely pay attention to instruction, but a stupid chatterbox ends up in disaster."
+        },
+        {
+          "number": 9,
+          "text": "Honest people will live in safety, but those who behave deceitfully will be caught out."
+        },
+        {
+          "number": 10,
+          "text": "People who wink slyly* cause trouble, but someone who gives a strong rebuke brings peace.*"
+        },
+        {
+          "number": 11,
+          "text": "What good people say is a spring that gives life, but what the wicked say hides their violent nature."
+        },
+        {
+          "number": 12,
+          "text": "Hatred causes conflict, but love covers all wrongs."
+        },
+        {
+          "number": 13,
+          "text": "Wisdom comes from people with good judgment, but stupid people are punished with a rod."
+        },
+        {
+          "number": 14,
+          "text": "Wise people accumulate knowledge, but the chattering of stupid people is a prelude to disaster."
+        },
+        {
+          "number": 15,
+          "text": "The wealth of the rich provides them protection, while the poverty of the poor ruins them."
+        },
+        {
+          "number": 16,
+          "text": "If you do right you're rewarded with life, but if you're wicked all you gain is sin."
+        },
+        {
+          "number": 17,
+          "text": "If you accept instruction, you're on the path to life, but if you reject correction you'll go astray."
+        },
+        {
+          "number": 18,
+          "text": "Anyone who hides their hatred is lying, and anyone who spreads slander is stupid."
+        },
+        {
+          "number": 19,
+          "text": "If you talk too much, you'll say something wrong. Be wise and take care what you say."
+        },
+        {
+          "number": 20,
+          "text": "What good people say is like the best silver, but the mind of the wicked isn't worth much."
+        },
+        {
+          "number": 21,
+          "text": "Advice from good people helps feed many others, but stupid people die because they have no sense."
+        },
+        {
+          "number": 22,
+          "text": "The Lord's blessing makes you rich, and he doesn't add any sadness to accompany it."
+        },
+        {
+          "number": 23,
+          "text": "Stupid people think it's fun to do wrong, but someone who has wisdom understands what's right."
+        },
+        {
+          "number": 24,
+          "text": "What the wicked fear will happen to them, while what good people hope for will be granted."
+        },
+        {
+          "number": 25,
+          "text": "When the storm hits, the wicked are no more, but the good are safe and secure forever."
+        },
+        {
+          "number": 26,
+          "text": "In the same way vinegar irritates the teeth and smoke irritates the eyes, lazy people irritate their employers."
+        },
+        {
+          "number": 27,
+          "text": "Honoring the Lord makes your life longer, but the years the wicked live will be cut short."
+        },
+        {
+          "number": 28,
+          "text": "Good people look forward to happiness, but the hopes of the wicked come to nothing."
+        },
+        {
+          "number": 29,
+          "text": "The way of the Lord protects those who do right, but he destroys those who do evil."
+        },
+        {
+          "number": 30,
+          "text": "The good will never be removed from the land, but the wicked will not remain there."
+        },
+        {
+          "number": 31,
+          "text": "What good people say produces wisdom, but liars will have their tongues cut out."
+        },
+        {
+          "number": 32,
+          "text": "Good people know the right thing to say, but the wicked always lie."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "10:10",
+          "text": "See 6:13."
+        },
+        {
+          "ref": "10:10",
+          "text": "Septuagint version. The second half of this verse in Hebrew is the same as that of verse 8 and may be transposed from there."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The Lord hates dishonest scales, but accurate weights please him."
+        },
+        {
+          "number": 2,
+          "text": "With pride comes disgrace, but with humility comes wisdom."
+        },
+        {
+          "number": 3,
+          "text": "Honesty guides the good, but deceit destroys liars."
+        },
+        {
+          "number": 4,
+          "text": "Wealth won't help you on judgment day, but goodness saves you from death."
+        },
+        {
+          "number": 5,
+          "text": "The goodness of the innocent keeps them on track, but the wicked fall by their own wickedness."
+        },
+        {
+          "number": 6,
+          "text": "The goodness of those who live right will save them, but the dishonest are trapped by their own desires."
+        },
+        {
+          "number": 7,
+          "text": "When a wicked person dies, their hopes die with them; what the godless look forward to is gone."
+        },
+        {
+          "number": 8,
+          "text": "The good are saved from trouble, while the wicked get into trouble."
+        },
+        {
+          "number": 9,
+          "text": "Godless people mouth off and destroy their neighbors, but the good are saved by wisdom."
+        },
+        {
+          "number": 10,
+          "text": "The whole town celebrates when good people are successful; they also shout for joy when the wicked die."
+        },
+        {
+          "number": 11,
+          "text": "Ethical people are a blessing to a town, but what the wicked say destroys it."
+        },
+        {
+          "number": 12,
+          "text": "People who run down their neighbors have no sense; someone who's sensible keeps quiet."
+        },
+        {
+          "number": 13,
+          "text": "A gossip goes around telling secrets, but trustworthy people keep confidences."
+        },
+        {
+          "number": 14,
+          "text": "A nation falls without good guidance, but they are saved through much wise counsel."
+        },
+        {
+          "number": 15,
+          "text": "You'll get into trouble if you guarantee a stranger's loans—you're far safer if you refuse to make such pledges."
+        },
+        {
+          "number": 16,
+          "text": "A gracious woman holds on to her honor just as ruthless men hold on to their wealth."
+        },
+        {
+          "number": 17,
+          "text": "If you're kind, you'll be rewarded; but if you're cruel, you'll hurt yourself."
+        },
+        {
+          "number": 18,
+          "text": "The wicked earn wages that cheat them,* but those who sow goodness reap a genuine reward."
+        },
+        {
+          "number": 19,
+          "text": "Do what's right, and you will live; chase after evil and you will die."
+        },
+        {
+          "number": 20,
+          "text": "The Lord hates perverted minds, but is happy with those who live moral lives."
+        },
+        {
+          "number": 21,
+          "text": "You can be certain of this: the wicked won't go unpunished, but the good will be saved."
+        },
+        {
+          "number": 22,
+          "text": "A beautiful woman who lacks good judgment is like a gold ring in a pig's snout."
+        },
+        {
+          "number": 23,
+          "text": "Good people want what's best, but what the wicked hope for ends in death."
+        },
+        {
+          "number": 24,
+          "text": "If you give generously you receive more, but if you keep back what you should give, you end up poor."
+        },
+        {
+          "number": 25,
+          "text": "If you're generous, you'll become rich; give someone a drink of water, and you'll be given one in return."
+        },
+        {
+          "number": 26,
+          "text": "People curse those who hoard grain; but they bless those who sell."
+        },
+        {
+          "number": 27,
+          "text": "If you look to do good, you'll be appreciated; but if you look for evil, you'll find it!"
+        },
+        {
+          "number": 28,
+          "text": "If you trust in your riches, you'll fall; but if you do good, you'll flourish like green leaves."
+        },
+        {
+          "number": 29,
+          "text": "If you cause trouble in your family, you'll inherit nothing but air. Stupid people end up as servants to those who think wisely."
+        },
+        {
+          "number": 30,
+          "text": "The fruit of the good is a tree of life, and the wise person saves people.*"
+        },
+        {
+          "number": 31,
+          "text": "If the good are repaid here on earth, how much more will the wicked who sin be repaid!"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "11:18",
+          "text": "“Wages that cheat them”: literally “gain of deception.”"
+        },
+        {
+          "ref": "11:30",
+          "text": "“And the wise person saves people.” Septuagint version, “but the lawless are removed before their time.”"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "If you love knowledge, you will love discipline. Anyone who hates being corrected is stupid!"
+        },
+        {
+          "number": 2,
+          "text": "The Lord blesses the good, but he condemns anyone with evil schemes."
+        },
+        {
+          "number": 3,
+          "text": "Wickedness doesn't provide security, but those who live right are deeply rooted and cannot be moved."
+        },
+        {
+          "number": 4,
+          "text": "A good wife is a crown for her husband, but one who brings shame is like rot in his bones."
+        },
+        {
+          "number": 5,
+          "text": "Good people make plans that are fair, but the advice of the wicked is deceptive."
+        },
+        {
+          "number": 6,
+          "text": "The words of the wicked are like a violent ambush, but those of honest people save them."
+        },
+        {
+          "number": 7,
+          "text": "The wicked are destroyed, and they're gone, but the family of the good stands firm."
+        },
+        {
+          "number": 8,
+          "text": "People are appreciated for talking sense, but those with perverted minds are despised."
+        },
+        {
+          "number": 9,
+          "text": "Better to be a humble man serving himself than a boastful man who has nothing to eat."
+        },
+        {
+          "number": 10,
+          "text": "Good people look after their animals, but the care given by wicked is really cruelty."
+        },
+        {
+          "number": 11,
+          "text": "If you cultivate the land you'll have plenty of food, but if you chase after worthless things you're stupid."
+        },
+        {
+          "number": 12,
+          "text": "Wicked people long for ill-gotten gains, but good people are productive themselves."
+        },
+        {
+          "number": 13,
+          "text": "The wicked trap themselves by their own sinful words, but good people escape trouble."
+        },
+        {
+          "number": 14,
+          "text": "What you say brings you rewards, and your work returns to bless you."
+        },
+        {
+          "number": 15,
+          "text": "Stupid people think they're on the right track, but if you're wise you listen to advice."
+        },
+        {
+          "number": 16,
+          "text": "Stupid people get angry immediately, but if you're sensible you ignore an insult."
+        },
+        {
+          "number": 17,
+          "text": "Whoever tells the truth is being honest, but a false witness tells lies."
+        },
+        {
+          "number": 18,
+          "text": "Some people's hasty words cut like a knife, but the words of the wise bring healing."
+        },
+        {
+          "number": 19,
+          "text": "Words of truth last forever, but lies are gone in a moment."
+        },
+        {
+          "number": 20,
+          "text": "Deceit is in the mind of those planning evil, but those who plan peace have joy."
+        },
+        {
+          "number": 21,
+          "text": "No harm comes to the good, but trouble fills the wicked."
+        },
+        {
+          "number": 22,
+          "text": "The Lord hates liars but is happy with those who are trustworthy."
+        },
+        {
+          "number": 23,
+          "text": "If you're sensible, you don't show off your knowledge, but stupid people announce their stupidity."
+        },
+        {
+          "number": 24,
+          "text": "Hard work brings leadership, but laziness brings slavery."
+        },
+        {
+          "number": 25,
+          "text": "If you're anxious, you're weighed down, but an encouraging word will cheer you up."
+        },
+        {
+          "number": 26,
+          "text": "Good people look out for their friends,* but the way the wicked live leads them astray."
+        },
+        {
+          "number": 27,
+          "text": "Lazy people don't catch their prey, but if you work hard you can become rich.*"
+        },
+        {
+          "number": 28,
+          "text": "The path of right leads to life, it doesn't lead to death."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "12:26",
+          "text": "The Hebrew of this line is unclear."
+        },
+        {
+          "ref": "12:27",
+          "text": "The Hebrew of this verse is unclear."
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A wise son accepts his father's discipline, but a mocker doesn't listen to correction."
+        },
+        {
+          "number": 2,
+          "text": "You'll be rewarded for saying good things, but dishonest people want violence."
+        },
+        {
+          "number": 3,
+          "text": "Watch what you say and save your life—saying too much leads to disaster."
+        },
+        {
+          "number": 4,
+          "text": "Lazy people want a lot, but get nothing; if you work hard you'll be well rewarded."
+        },
+        {
+          "number": 5,
+          "text": "Good people hate lies, but the wicked cause a stink and bring disgrace."
+        },
+        {
+          "number": 6,
+          "text": "Goodness protects those who live right, but sin overcomes the wicked."
+        },
+        {
+          "number": 7,
+          "text": "Some pretend to be rich, but don't have anything, while others pretend to be poor and are very rich."
+        },
+        {
+          "number": 8,
+          "text": "The rich can pay a ransom to save their lives, but the poor aren't troubled in this way.*"
+        },
+        {
+          "number": 9,
+          "text": "The life of good people shines brightly,* but the lamp of the wicked will be snuffed out."
+        },
+        {
+          "number": 10,
+          "text": "Pride only causes conflict; but those who take advice are wise."
+        },
+        {
+          "number": 11,
+          "text": "Wealth gained by fraud quickly disappears, but those who gather bit by bit prosper."
+        },
+        {
+          "number": 12,
+          "text": "Hope that's delayed makes you feel sick, but a wish that comes true revives you.*"
+        },
+        {
+          "number": 13,
+          "text": "If you despise words of advice, you'll pay for it; but if you respect what you're told, you'll be rewarded."
+        },
+        {
+          "number": 14,
+          "text": "The teaching of the wise is like a fountain of life, so you can avoid the snares of death."
+        },
+        {
+          "number": 15,
+          "text": "Good sense earns appreciation, but the way of the unfaithful is hard.*"
+        },
+        {
+          "number": 16,
+          "text": "All wise people act intelligently, but stupid people demonstrate their stupidity."
+        },
+        {
+          "number": 17,
+          "text": "A bad messenger creates* trouble, but a faithful representative brings healing."
+        },
+        {
+          "number": 18,
+          "text": "Poverty and disgrace come to those who ignore instruction, but those who accept correction are honored."
+        },
+        {
+          "number": 19,
+          "text": "It's nice to see a wish come true, but stupid people hate to turn away from evil to achieve this."
+        },
+        {
+          "number": 20,
+          "text": "Being friends with wise people will make you wise, but being friends with stupid people will only cause you problems."
+        },
+        {
+          "number": 21,
+          "text": "Tragedy chases after the sinner, but prosperity rewards the good."
+        },
+        {
+          "number": 22,
+          "text": "Good people leave an inheritance to their grandchildren, but the sinner's wealth is saved for those who live right."
+        },
+        {
+          "number": 23,
+          "text": "The unplowed ground of the poor could produce a lot of food, but it's stolen through injustice."
+        },
+        {
+          "number": 24,
+          "text": "People who don't discipline their children hate them. Those who love their children carefully discipline them."
+        },
+        {
+          "number": 25,
+          "text": "The good eat until they're full; but the belly of the wicked is empty."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "13:8",
+          "text": "The meaning of the Hebrew in the second line is not clear."
+        },
+        {
+          "ref": "13:9",
+          "text": "“Shines brightly”: or, “causes joy.”"
+        },
+        {
+          "ref": "13:12",
+          "text": "“Revives you”: literally, “a tree of life.”"
+        },
+        {
+          "ref": "13:15",
+          "text": "“The way of the unfaithful is hard.” Septuagint version: “the ways of scorners lead to destruction.”"
+        },
+        {
+          "ref": "13:17",
+          "text": "“Creates”: literally, “falls into.”"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Every wise woman builds her house, but the stupid woman tears it down with her own hands."
+        },
+        {
+          "number": 2,
+          "text": "Those who live right respect the Lord, but those who live dishonestly despise him."
+        },
+        {
+          "number": 3,
+          "text": "What stupid people say punishes their pride, but what wise people say will protect them."
+        },
+        {
+          "number": 4,
+          "text": "Without oxen, the manger is empty, but a good harvest comes through the ox's strength."
+        },
+        {
+          "number": 5,
+          "text": "A trustworthy witness doesn't lie, but a false witness is deceptive."
+        },
+        {
+          "number": 6,
+          "text": "It's pointless for a scoffer to look for wisdom, but knowledge comes easily to someone who understands."
+        },
+        {
+          "number": 7,
+          "text": "Stay away from stupid people—you won't learn anything from them."
+        },
+        {
+          "number": 8,
+          "text": "Sensible people use their wisdom to decide where they're going, but the foolishness of stupid people is treacherous."
+        },
+        {
+          "number": 9,
+          "text": "Stupid people laugh at sin, but good people want forgiveness."
+        },
+        {
+          "number": 10,
+          "text": "The mind alone knows its sadness, and no one else can share its happiness."
+        },
+        {
+          "number": 11,
+          "text": "The house of wicked people will be destroyed, but the tent of good people will prosper."
+        },
+        {
+          "number": 12,
+          "text": "There's a way that seems to be right, but in the end it's the way of death."
+        },
+        {
+          "number": 13,
+          "text": "Even when you're laughing you can be feeling sad—joy can end in grief."
+        },
+        {
+          "number": 14,
+          "text": "Disloyal people are repaid for what they do, and good people are rewarded."
+        },
+        {
+          "number": 15,
+          "text": "Stupid people believe whatever they're told, but sensible people think about what they're doing."
+        },
+        {
+          "number": 16,
+          "text": "Wise people are careful and avoid evil, but stupid people are confidently reckless."
+        },
+        {
+          "number": 17,
+          "text": "Quick-tempered people act foolishly, while people who make evil plans are hated."
+        },
+        {
+          "number": 18,
+          "text": "The inheritance of stupid people is stupidity, but sensible people are rewarded* with knowledge."
+        },
+        {
+          "number": 19,
+          "text": "Evil people bow down before good people, and the wicked bow down at the doors of those who do right."
+        },
+        {
+          "number": 20,
+          "text": "The poor are hated even by their neighbors, while the rich have many friends."
+        },
+        {
+          "number": 21,
+          "text": "People who look down on their neighbors are sinners, but those who are kind to the poor are blessed."
+        },
+        {
+          "number": 22,
+          "text": "Aren't people who plan to do evil wrong? But those who plan to do good have trustworthy love and faithfulness."
+        },
+        {
+          "number": 23,
+          "text": "There's profit in hard work, but just talking leads to poverty."
+        },
+        {
+          "number": 24,
+          "text": "The wise are rewarded with wealth, but stupid people are rewarded with stupidity."
+        },
+        {
+          "number": 25,
+          "text": "A truthful witness saves lives, but a false witness is treacherous."
+        },
+        {
+          "number": 26,
+          "text": "People who honor the Lord are completely safe; he will protect their children."
+        },
+        {
+          "number": 27,
+          "text": "Respecting the Lord is like a fountain of life, so you can avoid the snares of death."
+        },
+        {
+          "number": 28,
+          "text": "The glory of a king is the number of his subjects, for a ruler is nothing without them."
+        },
+        {
+          "number": 29,
+          "text": "If you're slow to get angry, you're very wise; but if you have a short fuse you glorify stupidity."
+        },
+        {
+          "number": 30,
+          "text": "A peaceful mind makes your body healthy, but jealousy makes your bones rot."
+        },
+        {
+          "number": 31,
+          "text": "Anyone who oppresses the poor insults their Maker, but anyone who is kind to the needy honors him."
+        },
+        {
+          "number": 32,
+          "text": "Wicked people are brought down by their own evil actions, but those who live right are confident even in death.*"
+        },
+        {
+          "number": 33,
+          "text": "Wisdom is at home in a mind that understands, but it's not* found among stupid people."
+        },
+        {
+          "number": 34,
+          "text": "Doing right makes a nation successful, but sin is a disgrace to any people."
+        },
+        {
+          "number": 35,
+          "text": "A servant who acts wisely is appreciated by the king, but he gets angry with a servant who acts disgracefully."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "14:18",
+          "text": "“Rewarded”: literally, “crowned.”"
+        },
+        {
+          "ref": "14:32",
+          "text": "“Even in death”: Septuagint reading is “in integrity.”"
+        },
+        {
+          "ref": "14:33",
+          "text": "“Not”: Septaugint reading. Hebrew is missing the word “not.”"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A kind reply wards off anger, but hurtful words make people mad."
+        },
+        {
+          "number": 2,
+          "text": "What wise people say makes knowledge attractive, but stupid people talk a lot of nonsense."
+        },
+        {
+          "number": 3,
+          "text": "The Lord sees everywhere, watching the evil and the good."
+        },
+        {
+          "number": 4,
+          "text": "Gentle words are a source* of life, but telling lies does a lot of damage."
+        },
+        {
+          "number": 5,
+          "text": "Only a foolish son despises his father's instruction, but one who accepts correction is sensible."
+        },
+        {
+          "number": 6,
+          "text": "There's plenty of treasure where good people live, but the income of the wicked brings them trouble."
+        },
+        {
+          "number": 7,
+          "text": "Wise people share their knowledge, but stupid people don't think like that."
+        },
+        {
+          "number": 8,
+          "text": "The Lord hates the sacrifices of the wicked, but he loves the prayers of the good."
+        },
+        {
+          "number": 9,
+          "text": "The Lord hates the ways of the wicked, but he loves those who do what is right."
+        },
+        {
+          "number": 10,
+          "text": "If you leave the right path you will be severely disciplined; anyone who hates correction will die."
+        },
+        {
+          "number": 11,
+          "text": "Those already dead* have no secrets from the Lord—how much more does he know our thoughts!"
+        },
+        {
+          "number": 12,
+          "text": "Scoffers don't like to be corrected, so they don't go to the wise for advice."
+        },
+        {
+          "number": 13,
+          "text": "If you're happy inside, you'll have a cheerful face, but if you're sad, you look crushed."
+        },
+        {
+          "number": 14,
+          "text": "An insightful mind looks for knowledge, but stupid people feed on foolishness."
+        },
+        {
+          "number": 15,
+          "text": "The life of poor people is hard, but if you stay cheerful, it's a continual feast."
+        },
+        {
+          "number": 16,
+          "text": "It's better to respect the Lord and only have a little than to have plenty of money and the trouble that comes with it."
+        },
+        {
+          "number": 17,
+          "text": "Better a dinner of vegetables where there's love than eating meat* with hatred."
+        },
+        {
+          "number": 18,
+          "text": "Short-tempered people stir up trouble, but those slow to anger calm things down."
+        },
+        {
+          "number": 19,
+          "text": "The way of lazy people is overgrown with thorns, but the path of the good is an open highway."
+        },
+        {
+          "number": 20,
+          "text": "A wise son makes his father happy, but a stupid man despises his mother."
+        },
+        {
+          "number": 21,
+          "text": "Stupidity makes people with no sense happy, but sensible people do what is right."
+        },
+        {
+          "number": 22,
+          "text": "Plans fall apart without good advice, but with plenty of advisors they're successful."
+        },
+        {
+          "number": 23,
+          "text": "A good answer makes people happy—it's great to say the right thing at the right moment!"
+        },
+        {
+          "number": 24,
+          "text": "Life's path for the wise leads upwards, so that they can avoid the grave below."
+        },
+        {
+          "number": 25,
+          "text": "The Lord pulls down the house of the proud, but he protects the boundaries* of the widow's property."
+        },
+        {
+          "number": 26,
+          "text": "The Lord hates the thoughts of the wicked, but he honors the words of the pure.*"
+        },
+        {
+          "number": 27,
+          "text": "People greedy for ill-gotten gains make trouble for their families, but those who hate bribes will live."
+        },
+        {
+          "number": 28,
+          "text": "Good people think how best to answer questions, but stupid people say all kinds of evil things."
+        },
+        {
+          "number": 29,
+          "text": "The Lord keeps his distance from the wicked, but he hears the prayers of the good."
+        },
+        {
+          "number": 30,
+          "text": "Bright eyes make you happy, and good news makes you feel good."
+        },
+        {
+          "number": 31,
+          "text": "If you pay attention to positive advice you'll be one of the wise."
+        },
+        {
+          "number": 32,
+          "text": "If you ignore instruction you have no self-esteem, but if you listen to correction you gain understanding."
+        },
+        {
+          "number": 33,
+          "text": "Respect for the Lord teaches wisdom; humility goes before honor."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "15:4",
+          "text": "“Source,” literally “tree.”"
+        },
+        {
+          "ref": "15:11",
+          "text": "The Hebrew simply references “Sheol” and “Abaddon,” the grave and the world of the dead."
+        },
+        {
+          "ref": "15:17",
+          "text": "Literally “fattened ox.”"
+        },
+        {
+          "ref": "15:25",
+          "text": "In the sense that he does not allow boundary markers to be moved."
+        },
+        {
+          "ref": "15:26",
+          "text": "Septuagint reading."
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Human beings may make plans in their minds, but the final decision is the Lord's."
+        },
+        {
+          "number": 2,
+          "text": "People think that whatever they do is fine, but the Lord looks at their intentions."
+        },
+        {
+          "number": 3,
+          "text": "Trust whatever you do to the Lord, and your plans will be successful."
+        },
+        {
+          "number": 4,
+          "text": "The Lord has a purpose in everything he does, even the wicked for the day of trouble."
+        },
+        {
+          "number": 5,
+          "text": "The Lord hates the arrogant. You can be certain of this: the wicked won't go unpunished."
+        },
+        {
+          "number": 6,
+          "text": "Sin is forgiven through trustworthy love and faithfulness; by honoring the Lord people are saved from evil."
+        },
+        {
+          "number": 7,
+          "text": "When the way that people live pleases the Lord, he makes even their enemies be at peace with them."
+        },
+        {
+          "number": 8,
+          "text": "Better to have just a little and be honest than to have a lot and be dishonest."
+        },
+        {
+          "number": 9,
+          "text": "You can plan in your mind what to do, but the Lord will guide you."
+        },
+        {
+          "number": 10,
+          "text": "The king is inspired in what he says; he is not unreliable in his decisions."
+        },
+        {
+          "number": 11,
+          "text": "Accurate scales and balances are important to the Lord. He has determined all the weights in the bag."
+        },
+        {
+          "number": 12,
+          "text": "It's a terrible thing for a king to do evil, for his throne is based on doing right."
+        },
+        {
+          "number": 13,
+          "text": "People who tell the truth please kings; they love those who say what is right."
+        },
+        {
+          "number": 14,
+          "text": "An angry king can put you to death. If you're wise you'll try and calm him down."
+        },
+        {
+          "number": 15,
+          "text": "If the king is smiling, you'll live; his blessing is like the clouds that bring spring rain."
+        },
+        {
+          "number": 16,
+          "text": "Far better to get wisdom than gold; far better to choose knowledge than silver."
+        },
+        {
+          "number": 17,
+          "text": "The highway of the good leads away from evil. If you watch where you're going you'll save your life."
+        },
+        {
+          "number": 18,
+          "text": "Pride leads to destruction; and an arrogant spirit leads to a fall."
+        },
+        {
+          "number": 19,
+          "text": "Better to have a humble spirit and live with the poor than to share plunder with the proud."
+        },
+        {
+          "number": 20,
+          "text": "If you pay attention to wise instruction you will do well; you'll be happy if you trust in the Lord."
+        },
+        {
+          "number": 21,
+          "text": "If you think wisely you'll be called perceptive; if you speak pleasantly you'll be persuasive."
+        },
+        {
+          "number": 22,
+          "text": "If you have good sense it will be a fountain of life to you, but stupid people are punished by their stupidity."
+        },
+        {
+          "number": 23,
+          "text": "A wise mind makes sure to say sensible things; the words spoken are persuasive."
+        },
+        {
+          "number": 24,
+          "text": "Kind words are like a honeycomb—they taste sweet and are healthy for the body."
+        },
+        {
+          "number": 25,
+          "text": "There's a way that seems to be right, but in the end it's the way of death."
+        },
+        {
+          "number": 26,
+          "text": "A good appetite helps workers—hunger encourages them."
+        },
+        {
+          "number": 27,
+          "text": "Worthless people plot evil and their words burn like fire."
+        },
+        {
+          "number": 28,
+          "text": "Quarrelsome people cause conflict, and a gossip comes between the closest friends."
+        },
+        {
+          "number": 29,
+          "text": "Violent people lure their friends, and lead them in a direction that's not good for them."
+        },
+        {
+          "number": 30,
+          "text": "People who give you a sly wink are plotting bad things; they purse their lips and make evil happen."
+        },
+        {
+          "number": 31,
+          "text": "Gray hair is a glorious crown; it's achieved by living right."
+        },
+        {
+          "number": 32,
+          "text": "Better to be slow to anger than to be powerful, better to have self-control than to conquer a town."
+        },
+        {
+          "number": 33,
+          "text": "The lot is thrown into the lap,* but the Lord makes every decision."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "16:33",
+          "text": "As a way of making a choice."
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Better to eat a dry scrap in peace than to feast in a house full of people arguing."
+        },
+        {
+          "number": 2,
+          "text": "A servant who acts wisely will be put in charge of a disgraced son, and will share the family inheritance with the brothers."
+        },
+        {
+          "number": 3,
+          "text": "A crucible tests silver, and a furnace tests gold, but the Lord tests the attitude of mind."
+        },
+        {
+          "number": 4,
+          "text": "Evil people listen to spiteful talk, and liars pay attention to malicious words."
+        },
+        {
+          "number": 5,
+          "text": "Anyone who oppresses the poor insults their Maker, and anyone who enjoys the suffering of others will be punished."
+        },
+        {
+          "number": 6,
+          "text": "Old people are proud of their grandchildren, and children are proud of their parents."
+        },
+        {
+          "number": 7,
+          "text": "Fine words don't suit stupid people, how much less are lies suited to a ruler."
+        },
+        {
+          "number": 8,
+          "text": "Whoever gives a bribe thinks it's a magical stone—that wherever they turn they'll have success!"
+        },
+        {
+          "number": 9,
+          "text": "If you forgive a wrong you encourage friendship, but if you keep talking about it you'll lose your friend."
+        },
+        {
+          "number": 10,
+          "text": "A reprimand hits a thinking person more than one hundred blows hit someone stupid."
+        },
+        {
+          "number": 11,
+          "text": "Evil people are only looking to rebel, so a cruel messenger* will be sent to attack them."
+        },
+        {
+          "number": 12,
+          "text": "Better to meet a she-bear robbed of her cubs than a stupid person and their foolishness."
+        },
+        {
+          "number": 13,
+          "text": "If you repay evil for good, evil will never leave your house."
+        },
+        {
+          "number": 14,
+          "text": "The beginning of a quarrel is like the first leak in a water dam, so drop it before a major argument bursts out."
+        },
+        {
+          "number": 15,
+          "text": "The Lord hates it when the wicked are acquitted and the innocent condemned."
+        },
+        {
+          "number": 16,
+          "text": "Is there any point in stupid people trying to buy wisdom when they don't want to learn?"
+        },
+        {
+          "number": 17,
+          "text": "A true friend is always there to love you, and family* provides help when troubles come."
+        },
+        {
+          "number": 18,
+          "text": "It's not a wise idea to make a pledge and guarantee a neighbor's debt."
+        },
+        {
+          "number": 19,
+          "text": "People who love sin like to argue; those who build high gates invite destruction.*"
+        },
+        {
+          "number": 20,
+          "text": "People with warped minds don't succeed; those who tell lies get into trouble."
+        },
+        {
+          "number": 21,
+          "text": "A stupid son brings grief to his father; the father of a child who does stupid things has no joy."
+        },
+        {
+          "number": 22,
+          "text": "A cheerful attitude is like good medicine, but discouragement makes you sick.*"
+        },
+        {
+          "number": 23,
+          "text": "The wicked take hidden bribes to pervert the course of justice."
+        },
+        {
+          "number": 24,
+          "text": "Sensible people focus on wisdom, but the eyes of stupid people are always wandering."
+        },
+        {
+          "number": 25,
+          "text": "A stupid son brings grief to his father and sadness to his mother who gave birth to him."
+        },
+        {
+          "number": 26,
+          "text": "It's not right to impose a fine on someone who's innocent or to flog good leaders for their honesty."
+        },
+        {
+          "number": 27,
+          "text": "If you're wise, you'll be careful what you say; and if you're sensible, you'll keep your temper."
+        },
+        {
+          "number": 28,
+          "text": "Even stupid people who keep quiet are considered wise; if they don't say anything they appear intelligent."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "17:11",
+          "text": "“Cruel messenger”: perhaps referring to death."
+        },
+        {
+          "ref": "17:17",
+          "text": "“Family”: literally, “a brother.”"
+        },
+        {
+          "ref": "17:19",
+          "text": "The meaning of the second line is unclear."
+        },
+        {
+          "ref": "17:22",
+          "text": "“Makes you sick”: literally, “dries out the bones.”"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Selfish people only please themselves, they attack anything that makes good sense."
+        },
+        {
+          "number": 2,
+          "text": "Stupid people have no interest in trying to understand, they only want to express their opinions."
+        },
+        {
+          "number": 3,
+          "text": "With wickedness comes contempt; with dishonor comes disgrace."
+        },
+        {
+          "number": 4,
+          "text": "People's words can be profound like deep waters, a gushing stream that is the source of wisdom."
+        },
+        {
+          "number": 5,
+          "text": "It's not right to show favoritism to the guilty and rob the innocent of justice."
+        },
+        {
+          "number": 6,
+          "text": "What stupid people say gets them into fights, as if they're asking for a beating."
+        },
+        {
+          "number": 7,
+          "text": "Stupid people are caught out by what they say; their own words trap them."
+        },
+        {
+          "number": 8,
+          "text": "Listening to gossip is like gulping down bites of your favorite food—they go deep down inside you."
+        },
+        {
+          "number": 9,
+          "text": "Laziness and destruction are brothers."
+        },
+        {
+          "number": 10,
+          "text": "The Lord is a protective tower that good people can run to and be safe."
+        },
+        {
+          "number": 11,
+          "text": "Rich people see their wealth as a fortified town—it's like a high wall in their imagination."
+        },
+        {
+          "number": 12,
+          "text": "Pride leads to destruction; humility goes before honor."
+        },
+        {
+          "number": 13,
+          "text": "Replying before hearing is stupidity and shame."
+        },
+        {
+          "number": 14,
+          "text": "With a brave spirit you can put up with sickness, but if it's crushed, you can't bear it."
+        },
+        {
+          "number": 15,
+          "text": "An intelligent mind acquires knowledge; the wise are ready to hear knowledge."
+        },
+        {
+          "number": 16,
+          "text": "A gift opens doors for you, and gets you into the presence of important people."
+        },
+        {
+          "number": 17,
+          "text": "The first person to plead a case sounds right until someone comes to cross-examine them."
+        },
+        {
+          "number": 18,
+          "text": "Casting lots can end disputes and decide between powerful people."
+        },
+        {
+          "number": 19,
+          "text": "A brother you've offended is harder to win back than a fortified town.* Arguments keep people apart like bars on the doors of a fortress."
+        },
+        {
+          "number": 20,
+          "text": "Make sure you're satisfied with what you say—you have to live with your words.*"
+        },
+        {
+          "number": 21,
+          "text": "What you say has the power to bring life or to kill; those who love talking will have to deal with the consequences."
+        },
+        {
+          "number": 22,
+          "text": "If you find a wife, that's great, and you'll be blessed by the Lord."
+        },
+        {
+          "number": 23,
+          "text": "The poor beg for mercy, but the rich reply harshly."
+        },
+        {
+          "number": 24,
+          "text": "Some friends give up* on you, but there's a friend who stays closer to you than a brother."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "18:19",
+          "text": "The meaning of the Hebrew is unclear."
+        },
+        {
+          "ref": "18:20",
+          "text": "Many different interpretations have been given for the meaning of this verse."
+        },
+        {
+          "ref": "18:24",
+          "text": "“Give up”: literally, “come to ruin.”"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Better to be poor but honest than stupid and tell lies."
+        },
+        {
+          "number": 2,
+          "text": "It's not good to be someone who doesn't think. If you rush, things go wrong."
+        },
+        {
+          "number": 3,
+          "text": "People mess up their lives by their own stupidity, and then get angry with the Lord."
+        },
+        {
+          "number": 4,
+          "text": "If you're rich, you get a lot of friends, but if you're poor, you lose any friends you had."
+        },
+        {
+          "number": 5,
+          "text": "A false witness will be punished; liars won't get away with their lies."
+        },
+        {
+          "number": 6,
+          "text": "Many ask favors from important people, and everyone's a friend of the generous."
+        },
+        {
+          "number": 7,
+          "text": "If a poor man's relatives can't stand him, how much more will his friends avoid him! He tries to talk with them but they don't listen.*"
+        },
+        {
+          "number": 8,
+          "text": "If you become wise, you have good self-esteem; if you learn good sense you'll be successful."
+        },
+        {
+          "number": 9,
+          "text": "A false witness will be punished; people who tell lies will perish."
+        },
+        {
+          "number": 10,
+          "text": "It's not right for stupid people to live in luxury, and it's even worse for a slave to rule over leaders."
+        },
+        {
+          "number": 11,
+          "text": "If you have good sense you'll be slow to get angry; you gain respect by forgiving wrongs."
+        },
+        {
+          "number": 12,
+          "text": "When a king gets angry, he sounds like a roaring lion; but his kindness is as soft as dew on the grass."
+        },
+        {
+          "number": 13,
+          "text": "A stupid son makes his father miserable, and an argumentative wife is like dripping that never stops."
+        },
+        {
+          "number": 14,
+          "text": "You inherit a house and wealth from your father, but a sensible wife is a gift from the Lord."
+        },
+        {
+          "number": 15,
+          "text": "Lazy people are often fast asleep, but idleness means they're hungry."
+        },
+        {
+          "number": 16,
+          "text": "Keep the commandments, and you'll live; despise them and you'll die."
+        },
+        {
+          "number": 17,
+          "text": "If you're kind to the poor, you're lending to the Lord, and he will repay you well for what you've done."
+        },
+        {
+          "number": 18,
+          "text": "Discipline your son while there's still hope, but don't kill him.*"
+        },
+        {
+          "number": 19,
+          "text": "People who often get angry have to pay the penalty; if you help them, you'll have to do it again.*"
+        },
+        {
+          "number": 20,
+          "text": "Listen to advice and accept instruction so that you'll eventually become wise."
+        },
+        {
+          "number": 21,
+          "text": "Human beings make many plans in their minds, but the final decision is the Lord's."
+        },
+        {
+          "number": 22,
+          "text": "The most desirable thing in anyone is trustworthy love; it is better to be poor than a liar."
+        },
+        {
+          "number": 23,
+          "text": "Honoring the Lord is life, and you will rest contentedly, safe from harm."
+        },
+        {
+          "number": 24,
+          "text": "Lazy people put their hands in a dish, and won't even lift the food to their mouths."
+        },
+        {
+          "number": 25,
+          "text": "If you punish someone who mocks, you may help an immature person to learn. Correct the wise, and they become wiser."
+        },
+        {
+          "number": 26,
+          "text": "A son who abuses his father and chases away his mother brings shame and disgrace."
+        },
+        {
+          "number": 27,
+          "text": "My son, stop listening to my instruction and you'll soon give up following wisdom."
+        },
+        {
+          "number": 28,
+          "text": "A crooked witness makes a mockery of justice; and the wicked wolf down evil."
+        },
+        {
+          "number": 29,
+          "text": "Punishment is ready for those who mock; flogging is ready for the backs of the stupid."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "19:7",
+          "text": "The Hebrew of the last line is uncertain."
+        },
+        {
+          "ref": "19:18",
+          "text": "“But don't kill him”: or “and don't let him destroy himself.”"
+        },
+        {
+          "ref": "19:19",
+          "text": "The Hebrew of the last line is uncertain."
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Wine turns you into a mocker, alcohol makes you aggressive; you're stupid to be deceived* by drink."
+        },
+        {
+          "number": 2,
+          "text": "When a king gets terribly angry, he sounds like a roaring lion; anyone who makes him furious is liable to be killed."
+        },
+        {
+          "number": 3,
+          "text": "Avoiding conflict is the proper thing to do, but stupid people are quick to argue."
+        },
+        {
+          "number": 4,
+          "text": "Slackers don't sow when they should, so when harvest comes they don't have anything."
+        },
+        {
+          "number": 5,
+          "text": "Discovering what someone is planning in their mind is like looking at deep water, but a person who has understanding will find out."
+        },
+        {
+          "number": 6,
+          "text": "Many people tell you they're loyal, but can you find someone really trustworthy?"
+        },
+        {
+          "number": 7,
+          "text": "Good people live honestly; how happy are their children if they follow them."
+        },
+        {
+          "number": 8,
+          "text": "When a king sits in judgment he recognizes all that isn't right."
+        },
+        {
+          "number": 9,
+          "text": "Who can claim, “I've made sure my conscience is clean; I've purified myself from sin”?"
+        },
+        {
+          "number": 10,
+          "text": "The Lord hates both dishonest weights and dishonest measures."
+        },
+        {
+          "number": 11,
+          "text": "Even children reveal what they're like by what they do, whether their actions are good and right."
+        },
+        {
+          "number": 12,
+          "text": "The Lord made our ears to hear and our eyes to see."
+        },
+        {
+          "number": 13,
+          "text": "If you love sleeping you'll become poor. Wake up and get busy, and you'll have plenty to eat."
+        },
+        {
+          "number": 14,
+          "text": "“It's really rubbish,” says the one buying, but afterwards goes and boasts to others about making a good deal."
+        },
+        {
+          "number": 15,
+          "text": "There's gold and plenty of expensive gemstones, but talking sense is a more valuable jewel."
+        },
+        {
+          "number": 16,
+          "text": "If someone guarantees a stranger's debt with their cloak, be sure to take it! Make sure you have whatever is pledged to foreigners!"
+        },
+        {
+          "number": 17,
+          "text": "Food you get by cheating may taste sweet, but afterwards it will be like a mouthful of gravel."
+        },
+        {
+          "number": 18,
+          "text": "With sound advice, plans are successful; if you're going to war, make sure you have good guidance."
+        },
+        {
+          "number": 19,
+          "text": "A gossip goes around revealing secrets; stay away from people who talk a lot."
+        },
+        {
+          "number": 20,
+          "text": "Anyone who curses their father or mother will have their light put out and end in utter darkness."
+        },
+        {
+          "number": 21,
+          "text": "Wealth gained too soon* won't do you any good in the end."
+        },
+        {
+          "number": 22,
+          "text": "Don't say, “I'll get you back for doing me wrong.” Leave it to the Lord, and he'll help you."
+        },
+        {
+          "number": 23,
+          "text": "The Lord hates incorrect weights; using dishonest scales is wrong."
+        },
+        {
+          "number": 24,
+          "text": "The Lord shows us the way to go, so how would we decide for ourselves?"
+        },
+        {
+          "number": 25,
+          "text": "It's a mistake to make a promise to God and then have second thoughts about it later."
+        },
+        {
+          "number": 26,
+          "text": "A wise king separates out the wicked by winnowing and punishes them by threshing.*"
+        },
+        {
+          "number": 27,
+          "text": "The Lord's light shines on the conscience, revealing our deepest thoughts."
+        },
+        {
+          "number": 28,
+          "text": "Trustworthy love and faithfulness keep a king safe; trustworthy love supports his rule."
+        },
+        {
+          "number": 29,
+          "text": "Young men value their strength, but the old value even more the wisdom that comes with gray hair."
+        },
+        {
+          "number": 30,
+          "text": "Wounds and blows clean away what's evil; beatings clean what's deep down inside."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "20:1",
+          "text": "“Deceived”: or “intoxicated.”"
+        },
+        {
+          "ref": "20:21",
+          "text": "“Gained too soon”: some manuscripts have “gained by greed”"
+        },
+        {
+          "ref": "20:26",
+          "text": "This verse refers to activities associated with processing grain after harvest: winnowing and threshing, little known in the modern world."
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The Lord directs the king's decisions like a stream of water that he sends whichever way he wants."
+        },
+        {
+          "number": 2,
+          "text": "People think that whatever they do is fine, but the Lord looks at their motives."
+        },
+        {
+          "number": 3,
+          "text": "Doing what's right and fair pleases the Lord more than sacrifices."
+        },
+        {
+          "number": 4,
+          "text": "Pride and arrogance are the sins the wicked live by.*"
+        },
+        {
+          "number": 5,
+          "text": "Those who plan ahead and work hard will have plenty, while those who act rashly end up poor."
+        },
+        {
+          "number": 6,
+          "text": "Money made by lies is like smoke in the wind—a chase that ends in death."
+        },
+        {
+          "number": 7,
+          "text": "The destruction* caused by the wicked will destroy them, for they refuse to do what's right."
+        },
+        {
+          "number": 8,
+          "text": "Guilty people live crooked lives, but the innocent follow straight paths."
+        },
+        {
+          "number": 9,
+          "text": "It's better to live in a corner of a housetop than to share a whole house with an argumentative wife."
+        },
+        {
+          "number": 10,
+          "text": "Evil people love to do wrong, they don't care what pain they cause anyone."
+        },
+        {
+          "number": 11,
+          "text": "When a mocker is punished, an immature person can learn wisdom. When the wise are educated, they gain knowledge."
+        },
+        {
+          "number": 12,
+          "text": "The God of justice* sees what happens in the homes of the wicked, and brings the wicked down in disaster."
+        },
+        {
+          "number": 13,
+          "text": "If you refuse to hear the cries of the poor, your cries won't be heard either."
+        },
+        {
+          "number": 14,
+          "text": "A gift given in secret calms down anger, and a hidden bribe soothes furious rage."
+        },
+        {
+          "number": 15,
+          "text": "When justice is done, the good are happy, but it brings terror to those who do evil."
+        },
+        {
+          "number": 16,
+          "text": "Anyone who wanders away from the path of understanding ends up with the dead."
+        },
+        {
+          "number": 17,
+          "text": "If you love pleasure you'll become poor; if you love wine and olive oil* you won't ever be rich."
+        },
+        {
+          "number": 18,
+          "text": "The wicked pay the price and not the good; those who are deceitful and not those who live right.*"
+        },
+        {
+          "number": 19,
+          "text": "It's better to live in a desert than with an argumentative and bad-tempered wife."
+        },
+        {
+          "number": 20,
+          "text": "The wise hold on to their wealth and olive oil, but stupid people use up everything they have."
+        },
+        {
+          "number": 21,
+          "text": "If you pursue goodness and trustworthy love, you'll find life, prosperity, and honor."
+        },
+        {
+          "number": 22,
+          "text": "The wise can overcome a city belonging to strong warriors, and tear down the fortress they trusted to protect them."
+        },
+        {
+          "number": 23,
+          "text": "If you watch what you say, you can save yourself a lot of trouble."
+        },
+        {
+          "number": 24,
+          "text": "A proud, conceited, mocker—that's the name of those who act with insolent arrogance."
+        },
+        {
+          "number": 25,
+          "text": "Slackers die hungry because they refuse to work."
+        },
+        {
+          "number": 26,
+          "text": "Some people only want more and more all the time, but the good give generously."
+        },
+        {
+          "number": 27,
+          "text": "The sacrifices given by the wicked are obnoxious, worse still when they're offered with evil motives."
+        },
+        {
+          "number": 28,
+          "text": "The lies of a false witness vanish away, but the words of a reliable witness will stand."
+        },
+        {
+          "number": 29,
+          "text": "The wicked act as bold as brass, but those who live right consider carefully what they're doing."
+        },
+        {
+          "number": 30,
+          "text": "Whatever wisdom, understanding, or guidance you may have is nothing before the Lord."
+        },
+        {
+          "number": 31,
+          "text": "You can get your horse ready for battle, but the victory is the Lord's."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "21:4",
+          "text": "Literally, “Proud eyes and arrogant heart the lamp of the wicked sin.”"
+        },
+        {
+          "ref": "21:7",
+          "text": "Or “violence.”"
+        },
+        {
+          "ref": "21:12",
+          "text": "Literally, “the righteous one.” This is taken to refer to God particularly because of the second line."
+        },
+        {
+          "ref": "21:17",
+          "text": "The extensive use of wine and olive oil was associated with luxury."
+        },
+        {
+          "ref": "21:18",
+          "text": "The exact intention of this verse is unclear, but seems to be similar to the thought in 11:8."
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A good reputation is a much better choice than plenty of money; respect is better than silver and gold."
+        },
+        {
+          "number": 2,
+          "text": "The rich and the poor have this in common: the Lord created them all."
+        },
+        {
+          "number": 3,
+          "text": "If you're sensible you see danger coming and get out of the way; but stupid people just keep going and pay for it."
+        },
+        {
+          "number": 4,
+          "text": "The reward you receive for being humble and respecting the Lord is wealth, honor, and life."
+        },
+        {
+          "number": 5,
+          "text": "Thorns and traps lie in the path of crooked people; those who value their lives will stay away from them."
+        },
+        {
+          "number": 6,
+          "text": "Teach children the right way to live, and when they grow up they'll go on doing so."
+        },
+        {
+          "number": 7,
+          "text": "The rich rule the poor, and borrowers are slaves to their lenders."
+        },
+        {
+          "number": 8,
+          "text": "Those who sow injustice will reap disaster, and the angry beatings they inflict on others will be stopped."
+        },
+        {
+          "number": 9,
+          "text": "If you're generous, you'll be blessed, for you share your food with those in need."
+        },
+        {
+          "number": 10,
+          "text": "Get rid of the scornful, and you'll get rid of conflict too—no more arguments or insults!"
+        },
+        {
+          "number": 11,
+          "text": "Anyone who loves sincerity* and a gracious way of speaking will have the king as their friend."
+        },
+        {
+          "number": 12,
+          "text": "The Lord watches over true knowledge, but counteracts the words of liars."
+        },
+        {
+          "number": 13,
+          "text": "Lazy people make claims like, “There's a lion outside! I might be killed if I go out there!”"
+        },
+        {
+          "number": 14,
+          "text": "The seductive words of an immoral woman are a dangerous trap—if the Lord's angry* with you, then you'll fall right in."
+        },
+        {
+          "number": 15,
+          "text": "Children are naturally foolish; physical correction helps them to see sense."
+        },
+        {
+          "number": 16,
+          "text": "If you oppress the poor to make yourself rich, or if you're generous to the rich, you'll end up poor yourself.*"
+        },
+        {
+          "number": 17,
+          "text": "Pay attention and listen to the words of the wise, and think carefully about my teachings—"
+        },
+        {
+          "number": 18,
+          "text": "for it's good to keep them in mind so you can be ready to share them."
+        },
+        {
+          "number": 19,
+          "text": "I'm explaining this to you today so you can trust in the Lord—yes, you!"
+        },
+        {
+          "number": 20,
+          "text": "Haven't I written down for you thirty sayings of advice and wisdom?"
+        },
+        {
+          "number": 21,
+          "text": "They are to make it clear to you what's right and true, so you can give a truthful explanation to those who sent you."
+        },
+        {
+          "number": 22,
+          "text": "For you shouldn't steal from the poor just because they're poor; and you shouldn't crush those with limited means in court,"
+        },
+        {
+          "number": 23,
+          "text": "for the Lord will plead their case, and he will take back whatever was stolen from them."
+        },
+        {
+          "number": 24,
+          "text": "Don't make friends with someone who gets upset easily; don't associate with angry people,"
+        },
+        {
+          "number": 25,
+          "text": "in case you learn to be like them and make a mess of your life.*"
+        },
+        {
+          "number": 26,
+          "text": "Don't shake hands and guarantee someone's debt,"
+        },
+        {
+          "number": 27,
+          "text": "for if you can't pay, why should your bed be taken away from beneath you?"
+        },
+        {
+          "number": 28,
+          "text": "Don't move ancient boundary markers that your forefathers put in place."
+        },
+        {
+          "number": 29,
+          "text": "If you see someone skilled in what they do, they'll work for kings and not for ordinary people."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "22:11",
+          "text": "Literally, “purity of heart.”"
+        },
+        {
+          "ref": "22:14",
+          "text": "In other words, if you have a bad relationship with the Lord, you are prone to such sinful actions."
+        },
+        {
+          "ref": "22:16",
+          "text": "The translation and meaning of this verse is uncertain."
+        },
+        {
+          "ref": "22:25",
+          "text": "Literally, “get yourself caught in a trap.”"
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "verses": [
+        {
+          "number": 1,
+          "text": "When you sit down for a meal with a ruler, look carefully at what is placed before you,"
+        },
+        {
+          "number": 2,
+          "text": "and cut down* if you have a big appetite."
+        },
+        {
+          "number": 3,
+          "text": "Don't be greedy for his fancy food, for it's offered with deceptive motives.*"
+        },
+        {
+          "number": 4,
+          "text": "Don't wear yourself out trying to get rich—be wise enough not to bother!"
+        },
+        {
+          "number": 5,
+          "text": "It disappears in the blink of an eye, suddenly growing wings and flying off into the sky like an eagle."
+        },
+        {
+          "number": 6,
+          "text": "Don't accept meal invitations from miserly people; don't be greedy for their fancy food,"
+        },
+        {
+          "number": 7,
+          "text": "for what they're thinking inside is what they really are. They say, “Come on, eat and drink!”—but in their minds they don't really care about you.*"
+        },
+        {
+          "number": 8,
+          "text": "You'll vomit up the little pieces you've eaten, and your kind words of appreciation will be wasted."
+        },
+        {
+          "number": 9,
+          "text": "Don't talk to stupid people because they'll ridicule your wise words."
+        },
+        {
+          "number": 10,
+          "text": "Don't move ancient boundary markers, and don't encroach on fields belonging to orphans,"
+        },
+        {
+          "number": 11,
+          "text": "for their Protector* is powerful and he will plead their case against you."
+        },
+        {
+          "number": 12,
+          "text": "Focus your mind on instruction; listen intently to words of knowledge."
+        },
+        {
+          "number": 13,
+          "text": "Don't keep from disciplining your children—a beating won't kill them."
+        },
+        {
+          "number": 14,
+          "text": "If you use physical correction you can save them from death.*"
+        },
+        {
+          "number": 15,
+          "text": "My son, if you think wisely then I'll be happy;"
+        },
+        {
+          "number": 16,
+          "text": "I'll be delighted when you say what's right."
+        },
+        {
+          "number": 17,
+          "text": "Don't think enviously of sinners, but always remember to honor the Lord,"
+        },
+        {
+          "number": 18,
+          "text": "for there's definitely a future for you, and your hope will not be crushed."
+        },
+        {
+          "number": 19,
+          "text": "Pay attention, my son, and be wise; make sure your mind concentrates on following the right way."
+        },
+        {
+          "number": 20,
+          "text": "Don't join in with people who drink too much wine or who stuff themselves with meat."
+        },
+        {
+          "number": 21,
+          "text": "For people who get drunk and overeat lose all they've got, and they spend so much time dozing that all they have left to wear is rags."
+        },
+        {
+          "number": 22,
+          "text": "Pay attention to your father, and don't disregard your mother when she's old."
+        },
+        {
+          "number": 23,
+          "text": "Invest in truth—and don't sell it! Invest in wisdom, instruction, and understanding."
+        },
+        {
+          "number": 24,
+          "text": "Children who do right make their fathers very happy; a wise son brings joy to his father."
+        },
+        {
+          "number": 25,
+          "text": "Make your father and mother happy; bring joy to her who gave birth to you."
+        },
+        {
+          "number": 26,
+          "text": "My son, give me your undivided attention, and cheerfully follow my example."
+        },
+        {
+          "number": 27,
+          "text": "A prostitute is like being trapped in a pit; an immoral woman is like getting stuck in a narrow well,"
+        },
+        {
+          "number": 28,
+          "text": "Like a robber, she lies in wait ready to ambush men and make more of them unfaithful to their wives."
+        },
+        {
+          "number": 29,
+          "text": "Who's in trouble? Who's in pain? Who's arguing? Who's complaining? Who's injured for no reason? Who's got bloodshot eyes?"
+        },
+        {
+          "number": 30,
+          "text": "—those who spend a long time drinking wine, those who are always trying some new cocktail.*"
+        },
+        {
+          "number": 31,
+          "text": "Don't let the look of wine tempt you—how red it is, how it sparkles in the cup, how smooth it feels as it goes down."
+        },
+        {
+          "number": 32,
+          "text": "In the end it bites like a serpent, it stings like a snake."
+        },
+        {
+          "number": 33,
+          "text": "You'll hallucinate, seeing strange things, and your confused mind will make you say all kinds of craziness."
+        },
+        {
+          "number": 34,
+          "text": "You'll stumble around like you're on the rolling ocean, you'll be tossed about like someone lying down at the top of a ship's mast, saying,"
+        },
+        {
+          "number": 35,
+          "text": "“People punched me, but it didn't hurt me; they beat me, but I didn't feel a thing. I've got to get up because I need another drink.”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "23:2",
+          "text": "Literally, “put a knife to your throat.”"
+        },
+        {
+          "ref": "23:3",
+          "text": "Literally, “for it is the bread of lies.”"
+        },
+        {
+          "ref": "23:7",
+          "text": "Literally, “his heart is not with you.”"
+        },
+        {
+          "ref": "23:11",
+          "text": "The word used here is the kinsman-redeemer who had the responsibility to marry a widowed relative and protect the family. See Leviticus 25 and Numbers 35. In this case it is applied to God."
+        },
+        {
+          "ref": "23:14",
+          "text": "“Death” literally, “Sheol,” the place of the dead, the grave."
+        },
+        {
+          "ref": "23:30",
+          "text": "“Cocktail”: literally “mixed drink.”"
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Don't be jealous of evil people; don't long to spend time with them,"
+        },
+        {
+          "number": 2,
+          "text": "for they think up cruel plans and discuss how to cause trouble."
+        },
+        {
+          "number": 3,
+          "text": "A house is built by wisdom; its foundation is made secure through understanding."
+        },
+        {
+          "number": 4,
+          "text": "Its rooms are filled by knowledge with all kinds of valuable and beautiful objects."
+        },
+        {
+          "number": 5,
+          "text": "If you have wisdom, you are strong; if you have knowledge, your power increases,"
+        },
+        {
+          "number": 6,
+          "text": "for with wise guidance you can go to war; you will be victorious by having many good advisors."
+        },
+        {
+          "number": 7,
+          "text": "Wisdom goes over the heads of stupid people; they have nothing to contribute when important matters are discussed.*"
+        },
+        {
+          "number": 8,
+          "text": "Anyone who plans to do evil will be seen as a troublemaker."
+        },
+        {
+          "number": 9,
+          "text": "Plans thought up by stupid people are sinful. Everyone hates those who are scornful of others."
+        },
+        {
+          "number": 10,
+          "text": "If you give up in times of trouble, it shows how weak you are."
+        },
+        {
+          "number": 11,
+          "text": "Rescue those who are being led away to be executed; save those who are stumbling on their way to be slaughtered."
+        },
+        {
+          "number": 12,
+          "text": "If you say, “Look, we didn't know anything about this,” don't you think the God who judges your motives will see what's happening? He who watches over you knows, and he will pay people back for what they've done."
+        },
+        {
+          "number": 13,
+          "text": "My son, eating honey is good for you; the honeycomb tastes sweet."
+        },
+        {
+          "number": 14,
+          "text": "In the same way, you should know that wisdom is good for you; if you find it, there will be a future for you, and your hope will not be crushed."
+        },
+        {
+          "number": 15,
+          "text": "Don't be like a criminal waiting to ambush the home of good people; don't attack the place where they live."
+        },
+        {
+          "number": 16,
+          "text": "Those who do right may fall down seven times, and still get up again; but the wicked are brought down by disaster."
+        },
+        {
+          "number": 17,
+          "text": "Don't celebrate when your enemies fall; don't be glad when they trip up,"
+        },
+        {
+          "number": 18,
+          "text": "otherwise when the Lord sees it, he'll be unhappy with you and won't punish your enemies as he planned."
+        },
+        {
+          "number": 19,
+          "text": "Don't get all upset over the wicked, or be jealous of those who do wrong,"
+        },
+        {
+          "number": 20,
+          "text": "for evil people have no future—the lamp of the wicked will be snuffed out."
+        },
+        {
+          "number": 21,
+          "text": "My son, honor the Lord and the king, and don't join those who are rebellious,"
+        },
+        {
+          "number": 22,
+          "text": "for disaster will suddenly fall on them. Who knows how the Lord and king* will punish them?"
+        },
+        {
+          "number": 23,
+          "text": "These are more sayings of the wise: Showing favoritism when passing judgment is wrong."
+        },
+        {
+          "number": 24,
+          "text": "Those who tell the guilty, “You're innocent,” will be cursed by the people and hated by the nation,"
+        },
+        {
+          "number": 25,
+          "text": "while those who convict the guilty will be appreciated, and will receive a rich blessing."
+        },
+        {
+          "number": 26,
+          "text": "An honest answer is a kiss on the lips."
+        },
+        {
+          "number": 27,
+          "text": "Do the work you need to do outside first, then prepare and sow your fields, and only after that start building your house."
+        },
+        {
+          "number": 28,
+          "text": "Don't testify against your neighbors without having a good reason, and don't tell lies."
+        },
+        {
+          "number": 29,
+          "text": "Don't say to yourself, “I'm going to do to him what he did to me! I'll pay him back for what he's done!”"
+        },
+        {
+          "number": 30,
+          "text": "I walked past the field of a lazy man, past a vineyard of someone with no sense."
+        },
+        {
+          "number": 31,
+          "text": "It was all overgrown with thorns, the ground was covered with weeds, and the stone wall had fallen down."
+        },
+        {
+          "number": 32,
+          "text": "As I looked I thought about it, and what I saw taught me a lesson:"
+        },
+        {
+          "number": 33,
+          "text": "You may say,* “Please, just a little more sleep, a little longer snooze, a little more folding of the arms to rest”—"
+        },
+        {
+          "number": 34,
+          "text": "and poverty will attack you like a robber, destitution like an armed warrior.*"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "24:7",
+          "text": "Literally, “he does not open his mouth in the gate.”"
+        },
+        {
+          "ref": "24:22",
+          "text": "“The Lord and king”: literally “they both,” referring back to the previous verse."
+        },
+        {
+          "ref": "24:33",
+          "text": "“You may say”: implied."
+        },
+        {
+          "ref": "24:34",
+          "text": "Verses 33 and 34 are the same as 6:10-11."
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "verses": [
+        {
+          "number": 1,
+          "text": "These are more proverbs of Solomon, collected by the scribes of Hezekiah, king of Judah."
+        },
+        {
+          "number": 2,
+          "text": "God's greatness is in doing things that can't be known, while the greatness of kings is in revealing things."
+        },
+        {
+          "number": 3,
+          "text": "Just as the height of the heavens or the depth of the earth can't be known, the king's thinking can't be known."
+        },
+        {
+          "number": 4,
+          "text": "Remove the waste from the silver, and the silversmith has pure silver to work with."
+        },
+        {
+          "number": 5,
+          "text": "Remove the wicked from the king's presence and the king will rule securely and justly."
+        },
+        {
+          "number": 6,
+          "text": "Don't try to make yourself look great before the king, and don't pretend to be among the important people,"
+        },
+        {
+          "number": 7,
+          "text": "for it's better to be told, “Come up here,” than to be humiliated before a nobleman. Even though you've seen something with your own eyes,"
+        },
+        {
+          "number": 8,
+          "text": "don't rush to take legal action, for what are you going to do in the end when your neighbor shows you're wrong and humiliates you?"
+        },
+        {
+          "number": 9,
+          "text": "Discuss the case with your neighbor himself, and don't betray someone else's secret,"
+        },
+        {
+          "number": 10,
+          "text": "otherwise whoever hears it will make you ashamed and you'll never lose your bad reputation."
+        },
+        {
+          "number": 11,
+          "text": "Advice given at the right time is like golden apples set in silver."
+        },
+        {
+          "number": 12,
+          "text": "Constructive criticism from the wise to someone who listens is like a gold ring and a necklace of fine gold."
+        },
+        {
+          "number": 13,
+          "text": "Faithful messengers are as refreshing to their master as cold snow on a hot harvest day."
+        },
+        {
+          "number": 14,
+          "text": "Someone who boasts about a gift they never give is like cloud and wind without rain."
+        },
+        {
+          "number": 15,
+          "text": "If you're patient you can persuade your superior, and soft words can break down opposition.*"
+        },
+        {
+          "number": 16,
+          "text": "If you find honey, eat just enough, for if you eat too much, you'll be sick."
+        },
+        {
+          "number": 17,
+          "text": "Don't set foot in your neighbors' homes too often, otherwise they'll get fed up with you and hate you."
+        },
+        {
+          "number": 18,
+          "text": "Telling lies in court against a friend is like attacking them with a mace, or a sword, or an arrow."
+        },
+        {
+          "number": 19,
+          "text": "Trusting in unreliable people in times of trouble is like eating with a broken tooth or walking on a bad foot."
+        },
+        {
+          "number": 20,
+          "text": "Singing happy songs to someone who's broken-hearted is like taking off your coat on a cold day, or pouring vinegar onto an open wound.*"
+        },
+        {
+          "number": 21,
+          "text": "If your enemy is hungry, give him something to eat; if he's thirsty, give him a drink of water."
+        },
+        {
+          "number": 22,
+          "text": "This will make him ashamed as if he had burning coals piled on his head, and the Lord will reward you."
+        },
+        {
+          "number": 23,
+          "text": "In the same way that the north wind brings rain, slandering people makes them angry."
+        },
+        {
+          "number": 24,
+          "text": "It's better to live in a corner of a housetop than to share a whole house with an argumentative wife."
+        },
+        {
+          "number": 25,
+          "text": "Good news from a distant country is like cold water to an exhausted traveler."
+        },
+        {
+          "number": 26,
+          "text": "Good people who give in to the wicked are like a muddied spring or a polluted well."
+        },
+        {
+          "number": 27,
+          "text": "It's not good to eat too much honey, or to want too much praise.*"
+        },
+        {
+          "number": 28,
+          "text": "Someone without control is as exposed as a town whose walls have been breached."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "25:15",
+          "text": "“Break down opposition”: literally “break bones,” in other words, have a powerful effect."
+        },
+        {
+          "ref": "25:20",
+          "text": "“An open wound”: Septuagint reading. Hebrew has “soda.” Vinegar on soda would cause an effervescent reaction."
+        },
+        {
+          "ref": "25:27",
+          "text": "The second part of this verse is uncertain."
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Honoring someone stupid is as inappropriate as snow in the summer or rain during harvest."
+        },
+        {
+          "number": 2,
+          "text": "A curse that isn't deserved won't land on the person, like a fluttering sparrow or a flitting swallow."
+        },
+        {
+          "number": 3,
+          "text": "Horses need a whip, donkeys need a bridle, and stupid people need a rod on their backs!"
+        },
+        {
+          "number": 4,
+          "text": "Don't answer stupid people following their stupidity, or you'll become as bad as them."
+        },
+        {
+          "number": 5,
+          "text": "Answer stupid people following their stupidity, otherwise they'll think they're wise.*"
+        },
+        {
+          "number": 6,
+          "text": "Trusting someone stupid to deliver a message is like cutting off your feet or drinking poison."
+        },
+        {
+          "number": 7,
+          "text": "A proverb spoken by someone stupid is as useless as a lame person's legs."
+        },
+        {
+          "number": 8,
+          "text": "Honoring someone stupid is as pointless as tying a stone into a sling.*"
+        },
+        {
+          "number": 9,
+          "text": "A proverb spoken by someone stupid is as ridiculous as a thorn bush waved around by a drunk."
+        },
+        {
+          "number": 10,
+          "text": "Anyone who hires someone stupid or just a passer-by is like an archer wounding people by shooting arrows at random.*"
+        },
+        {
+          "number": 11,
+          "text": "Stupid people repeat their stupidity like a dog returning to its vomit."
+        },
+        {
+          "number": 12,
+          "text": "Have you seen a man who is wise in his own eyes? There's more hope for stupid people than for him!"
+        },
+        {
+          "number": 13,
+          "text": "Lazy people are the ones who say, “There's a lion on the road—a lion running around the streets!”*"
+        },
+        {
+          "number": 14,
+          "text": "A lazy person turns in bed like a door turns on its hinge."
+        },
+        {
+          "number": 15,
+          "text": "Lazy people put their hands in a dish, but are too tired to lift the food to their mouths."
+        },
+        {
+          "number": 16,
+          "text": "In their own eyes lazy people are wiser than many* sensible advisors."
+        },
+        {
+          "number": 17,
+          "text": "Interfering in someone else's quarrel is like grabbing a stray dog by the ears."
+        },
+        {
+          "number": 18,
+          "text": "You're like a crazy person firing off blazing arrows and killing people"
+        },
+        {
+          "number": 19,
+          "text": "if you lie to your friend and then say, “I was only joking!”"
+        },
+        {
+          "number": 20,
+          "text": "Without wood, the fire goes out; and without gossips, arguments stop."
+        },
+        {
+          "number": 21,
+          "text": "An argumentative person fires up quarrels like putting charcoal on hot embers or wood on a fire."
+        },
+        {
+          "number": 22,
+          "text": "Listening to gossip is like gulping down bites of your favorite food—they go deep down inside you."
+        },
+        {
+          "number": 23,
+          "text": "Smooth* talking with evil intent is like a shiny lead glaze on an earthenware pot.*"
+        },
+        {
+          "number": 24,
+          "text": "People say nice things to you even though they hate you; deep down they're just lying to you."
+        },
+        {
+          "number": 25,
+          "text": "When people talk nicely to you, don't believe them—their minds are full of hate for you."
+        },
+        {
+          "number": 26,
+          "text": "Even though their hatred may be hidden by cunning tricks, their evil will be revealed to everyone."
+        },
+        {
+          "number": 27,
+          "text": "Those who dig pits to trap others will fall in themselves, and those who start boulders rolling will be crushed themselves."
+        },
+        {
+          "number": 28,
+          "text": "If you tell lies, you show you hate your victims; if you flatter people, you cause disaster."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "26:5",
+          "text": "While this verse appears to contradict the previous one, there is a play on words here. In the first, “following their stupidity” means “agreeing with it.” In the second, the phrase means “as it deserves.”"
+        },
+        {
+          "ref": "26:8",
+          "text": "For if the stone is tied in, the slingshot cannot function."
+        },
+        {
+          "ref": "26:10",
+          "text": "The Hebrew of this verse is unclear."
+        },
+        {
+          "ref": "26:13",
+          "text": "In other words, they make excuses for not going out to work."
+        },
+        {
+          "ref": "26:16",
+          "text": "In the text the number seven is given, symbolic of a large number, completion. This is used in a similar way in verse 25."
+        },
+        {
+          "ref": "26:23",
+          "text": "Septuagint reading."
+        },
+        {
+          "ref": "26:23",
+          "text": "The implication here is that like a fine finish given to a cheap pot, pleasant words can mask bad motives."
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Don't boast about what you're going to do tomorrow, because you don't know what the day may bring."
+        },
+        {
+          "number": 2,
+          "text": "Let others praise you, not you yourself; someone else, not you personally."
+        },
+        {
+          "number": 3,
+          "text": "Stone may be heavy, and sand may weigh a lot, but the annoyance caused by stupid people is the biggest burden of all."
+        },
+        {
+          "number": 4,
+          "text": "Fury may be fierce and cruel, anger may be a destructive flood, but who can withstand jealousy?"
+        },
+        {
+          "number": 5,
+          "text": "Open criticism is better than hidden love."
+        },
+        {
+          "number": 6,
+          "text": "A friend's honest comments may hurt you, but an enemy's kisses are over the top."
+        },
+        {
+          "number": 7,
+          "text": "If you're full up, you can't face honey; but if you're starving, even bitter food tastes sweet."
+        },
+        {
+          "number": 8,
+          "text": "Having to leave home is like a bird having to leave its nest."
+        },
+        {
+          "number": 9,
+          "text": "Perfume and scented oils make you feel happy, but good advice from a friend is even better.*"
+        },
+        {
+          "number": 10,
+          "text": "Don't give up on your friends or your family's friends. Don't go to a relative's house when you've got trouble. A friend nearby is more useful than a relative far away."
+        },
+        {
+          "number": 11,
+          "text": "My son, make me happy by being wise, so I can respond to anyone who criticizes me."
+        },
+        {
+          "number": 12,
+          "text": "If you're sensible you see danger coming and get out of the way; but stupid people just keep going and suffer the consequences."
+        },
+        {
+          "number": 13,
+          "text": "If someone guarantees a stranger's debt with their cloak, be sure to take it! Make sure you have whatever is pledged to an immoral woman!"
+        },
+        {
+          "number": 14,
+          "text": "If when you get up every morning you shout a loud hello to your neighbors, they will see that as a curse!"
+        },
+        {
+          "number": 15,
+          "text": "An argumentative wife is as irritating as constant dripping on a rainy day."
+        },
+        {
+          "number": 16,
+          "text": "Trying to stop her is like trying to make the wind stop or trying to hold olive oil in your hand."
+        },
+        {
+          "number": 17,
+          "text": "An iron blade is sharpened with an iron tool, and one person's mind is sharpened by another's."
+        },
+        {
+          "number": 18,
+          "text": "Those who care for a fig tree eat its fruit, and those who care for their master are rewarded."
+        },
+        {
+          "number": 19,
+          "text": "Just as water reflects your face, your mind reflects who you really are.*"
+        },
+        {
+          "number": 20,
+          "text": "In the same way that the grave and destruction* are never satisfied, human desire is never satisfied."
+        },
+        {
+          "number": 21,
+          "text": "Just as a crucible tests silver, and a furnace tests gold, people are tested by the praise they receive."
+        },
+        {
+          "number": 22,
+          "text": "Even if you ground stupid people in a mortar, crushing them like grain with the pestle, you can't get rid of stupidity from them."
+        },
+        {
+          "number": 23,
+          "text": "You should know the condition of your flocks really well and take good care of your herds,"
+        },
+        {
+          "number": 24,
+          "text": "for wealth doesn't last forever—is a crown passed down through all generations?"
+        },
+        {
+          "number": 25,
+          "text": "Once the hay is cut, and the new growth begins, and fodder from the mountains is gathered,"
+        },
+        {
+          "number": 26,
+          "text": "and the lambs have provided you wool to make clothing, and the sale of goats have paid for a field,"
+        },
+        {
+          "number": 27,
+          "text": "there'll be enough milk from your goats to feed you, your family, and your servant girls."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "27:9",
+          "text": "The Hebrew of the second phrase is unclear."
+        },
+        {
+          "ref": "27:19",
+          "text": "The meaning of the second phrase is unclear."
+        },
+        {
+          "ref": "27:20",
+          "text": "“The grave and destruction”: literally, “Sheol and Abaddon.”"
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The wicked run away even when no one is chasing them, but the good have the trusting boldness of lions."
+        },
+        {
+          "number": 2,
+          "text": "When a country is in rebellion, it has many rulers, but a ruler who is wise and knowledgeable provides strength and continuity."
+        },
+        {
+          "number": 3,
+          "text": "When someone poor oppresses the poor, it's like heavy rain that beats down the crops."
+        },
+        {
+          "number": 4,
+          "text": "People who reject the law praise the wicked, but those who keep the law fight against them."
+        },
+        {
+          "number": 5,
+          "text": "Evil people understand nothing about justice, but those who follow the Lord understand it completely."
+        },
+        {
+          "number": 6,
+          "text": "Better to be poor and have integrity than to be devious and rich."
+        },
+        {
+          "number": 7,
+          "text": "If you keep the law, you're a wise son, but if you keep bad company* you shame your father."
+        },
+        {
+          "number": 8,
+          "text": "Anyone who gets rich through charging interest and profiteering is only storing it up for someone who is kind to the poor."
+        },
+        {
+          "number": 9,
+          "text": "God hates the prayers of people who disregard the law."
+        },
+        {
+          "number": 10,
+          "text": "Those who lead good people astray into evil ways will fall into their own traps, but the innocent will receive a good reward."
+        },
+        {
+          "number": 11,
+          "text": "The rich see themselves as wise, but poor people with insight see right through them."
+        },
+        {
+          "number": 12,
+          "text": "When good people win, everyone celebrates, but when the wicked come to power, people hide."
+        },
+        {
+          "number": 13,
+          "text": "People who hide their sins won't succeed, but those who confess and renounce their sins will be shown kindness."
+        },
+        {
+          "number": 14,
+          "text": "Blessed are those who always respect the Lord, but those who are stubborn end up in a lot of trouble."
+        },
+        {
+          "number": 15,
+          "text": "A wicked ruler lording it over poor people is like a roaring lion or a charging bear."
+        },
+        {
+          "number": 16,
+          "text": "An unwise ruler thoroughly extorts his people, but one who refuses to profit illegally will live long."
+        },
+        {
+          "number": 17,
+          "text": "Someone guilty of murder will go on running away from it until they die. Don't try and stop them.*"
+        },
+        {
+          "number": 18,
+          "text": "If you have integrity, you'll be kept safe, but if you live deviously, you'll fall."
+        },
+        {
+          "number": 19,
+          "text": "If you cultivate the land you'll have plenty of food, but if you chase fantasies you'll end up with nothing."
+        },
+        {
+          "number": 20,
+          "text": "If you're trustworthy, you'll be richly rewarded; but if you try to get rich quick, you won't go unpunished."
+        },
+        {
+          "number": 21,
+          "text": "Showing favoritism isn't good, but some people will do wrong just for a piece of bread."
+        },
+        {
+          "number": 22,
+          "text": "Envious people* are in a rush to get rich; they don't realize they'll end up poor."
+        },
+        {
+          "number": 23,
+          "text": "Honest criticism is appreciated later far more than flattery."
+        },
+        {
+          "number": 24,
+          "text": "A man who robs his father and mother, and says, “It's not a crime,” is one step away from becoming a murderer.*"
+        },
+        {
+          "number": 25,
+          "text": "Greedy people stir up trouble, but those who trust in the Lord will be successful."
+        },
+        {
+          "number": 26,
+          "text": "People who trust their own minds are foolish, but those who follow wise ways will be kept safe."
+        },
+        {
+          "number": 27,
+          "text": "If you give to the poor, you won't be in need; but if you look the other way, you'll have many curses."
+        },
+        {
+          "number": 28,
+          "text": "When the wicked come to power, people hide; but when they fall, the good do well."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "28:7",
+          "text": "“Bad company”: literally, “a companion of gluttons.”"
+        },
+        {
+          "ref": "28:17",
+          "text": "The Hebrew of this verse is unclear."
+        },
+        {
+          "ref": "28:22",
+          "text": "“Envious people”: literally “a man with an evil eye.”"
+        },
+        {
+          "ref": "28:24",
+          "text": "Literally, “is a partner to a man who destroys.”"
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Anyone who goes on stubbornly rejecting many warnings will be suddenly destroyed, without hope of healing."
+        },
+        {
+          "number": 2,
+          "text": "When good people are in charge, everybody celebrates; but when the wicked rule, everybody groans."
+        },
+        {
+          "number": 3,
+          "text": "A man who loves wisdom makes his father happy, but one who visits prostitutes throws away his money."
+        },
+        {
+          "number": 4,
+          "text": "A king who rules justly makes the country secure, but one who asks for bribes will destroy it."
+        },
+        {
+          "number": 5,
+          "text": "Those who flatter their friends lay a net to trip them up.*"
+        },
+        {
+          "number": 6,
+          "text": "Evil people are trapped by their own sins, but those who do right sing and celebrate."
+        },
+        {
+          "number": 7,
+          "text": "Good people care about treating the poor fairly, but the wicked don't think about it at all."
+        },
+        {
+          "number": 8,
+          "text": "Cynical people can inflame a whole city, but the wise calm angry people down."
+        },
+        {
+          "number": 9,
+          "text": "When a wise man takes a stupid man to court, there's raging and ridicule, but nothing is settled."
+        },
+        {
+          "number": 10,
+          "text": "Murderers hate people of integrity, but those who live right try to help them.*"
+        },
+        {
+          "number": 11,
+          "text": "Stupid people let all their anger out, while wise people quietly hold it in."
+        },
+        {
+          "number": 12,
+          "text": "A ruler who listens to lies will have nothing but wicked officials."
+        },
+        {
+          "number": 13,
+          "text": "Poor people and their oppressors have this in common: the Lord gives life to all of them."
+        },
+        {
+          "number": 14,
+          "text": "If a king judges the poor fairly, he will have a long rule."
+        },
+        {
+          "number": 15,
+          "text": "Discipline and correction provide wisdom, but a son left undisciplined is an embarrassment to his mother."
+        },
+        {
+          "number": 16,
+          "text": "When the wicked are in power, sin increases; but the good will see their downfall."
+        },
+        {
+          "number": 17,
+          "text": "Discipline your children and they won't give you any worries; they will make you very happy."
+        },
+        {
+          "number": 18,
+          "text": "Without a revelation from God, the people go out of control, but those who keep the law are happy."
+        },
+        {
+          "number": 19,
+          "text": "A servant can't be disciplined by words alone; though they understand, they don't follow what they're told."
+        },
+        {
+          "number": 20,
+          "text": "Have you seen a man who speaks without thinking? There's more hope for stupid people than for him!"
+        },
+        {
+          "number": 21,
+          "text": "A servant indulged from childhood will in the end become unmanageable.*"
+        },
+        {
+          "number": 22,
+          "text": "Angry people stir up trouble, those with short tempers commit many sins."
+        },
+        {
+          "number": 23,
+          "text": "If you're proud, you'll be humiliated; but if you're humble, you'll be honored."
+        },
+        {
+          "number": 24,
+          "text": "A thief's partner hates his life; even under the threat of being cursed he can't tell the truth.*"
+        },
+        {
+          "number": 25,
+          "text": "Being afraid of people traps you, but if you trust in the Lord you're safe."
+        },
+        {
+          "number": 26,
+          "text": "Many people look for favors from a ruler, but justice comes from the Lord."
+        },
+        {
+          "number": 27,
+          "text": "Good people hate those who are unjust; the wicked hate those who do what's right."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "29:5",
+          "text": "“Trip them up”: literally, “for their feet.”"
+        },
+        {
+          "ref": "29:10",
+          "text": "The meaning of the second phrase is debatable."
+        },
+        {
+          "ref": "29:21",
+          "text": "“Unmanageable”: only one of a number of interpretations."
+        },
+        {
+          "ref": "29:24",
+          "text": "See Leviticus 5."
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "verses": [
+        {
+          "number": 1,
+          "text": "These are the words of Agur, son of Jakeh. An oracle. This is what the man says, God, I'm really tired, I'm worn out.*"
+        },
+        {
+          "number": 2,
+          "text": "I'm so stupid I'm not really a man; I can't even think like a human being."
+        },
+        {
+          "number": 3,
+          "text": "I have not learned wisdom; I have no knowledge of the Holy One."
+        },
+        {
+          "number": 4,
+          "text": "Who has gone up to heaven, and come down? Who holds the winds in the palm of his hands? Who has wrapped up the waters in his cloak? Who has set the earth's boundaries? What is his name, and what is his son's name? Are you sure you don't know?*"
+        },
+        {
+          "number": 5,
+          "text": "Every word God says has been proved true. He defends everyone who comes to him for protection."
+        },
+        {
+          "number": 6,
+          "text": "Don't add anything to his words, or he will criticize you and you'll be shown to be a liar."
+        },
+        {
+          "number": 7,
+          "text": "God, I want to request two things from you. Please don't refuse to let me have them before I come to die."
+        },
+        {
+          "number": 8,
+          "text": "Keep me from being false, help me not to tell lies. Don't make me poor or rich; just provide me with the food I need."
+        },
+        {
+          "number": 9,
+          "text": "Otherwise if I have plenty of money,* I may give up on you, saying, “Who is the Lord?” while if I'm poor I may steal and bring the name of my God into disrepute."
+        },
+        {
+          "number": 10,
+          "text": "Don't slander a servant to his master, or he will curse you and you'll suffer for it."
+        },
+        {
+          "number": 11,
+          "text": "There are some who curse their fathers and do not bless their mothers."
+        },
+        {
+          "number": 12,
+          "text": "There are some who see themselves as pure but they're still filthy—they have not been washed."
+        },
+        {
+          "number": 13,
+          "text": "There are some who think themselves so high and mighty, and who look down on others."
+        },
+        {
+          "number": 14,
+          "text": "There are some who have teeth like swords, incisors like knives, ready to devour the poor from the earth, the needy from society."
+        },
+        {
+          "number": 15,
+          "text": "The leech has two daughters who cry out, “Give me! Give me!” There are three things that are never satisfied, four that never say, “Enough!”:"
+        },
+        {
+          "number": 16,
+          "text": "The grave, the womb that doesn't become pregnant, the earth thirsty for water, and the fire that never says, “Enough!”"
+        },
+        {
+          "number": 17,
+          "text": "People who ridicule their fathers and despise obedience to the mother will have their eyes pecked out by wild ravens and eaten by young vultures."
+        },
+        {
+          "number": 18,
+          "text": "These three things are amazingly hard for me, four things I just can't understand:"
+        },
+        {
+          "number": 19,
+          "text": "The way an eagle soars in the sky, the way a snake slides over a rock, the way a ship sails across the sea, the way a man and a woman fall in love."
+        },
+        {
+          "number": 20,
+          "text": "This is the way of a woman who commits adultery: she eats,* she wipes her mouth, and then says, “I haven't done anything wrong!”"
+        },
+        {
+          "number": 21,
+          "text": "Three things make the earth tremble, there are four things it can't support:"
+        },
+        {
+          "number": 22,
+          "text": "a slave becoming a king, a stupid person eating like a pig,"
+        },
+        {
+          "number": 23,
+          "text": "an unbearable woman getting married, and a maidservant taking her mistress's place."
+        },
+        {
+          "number": 24,
+          "text": "There are four things on earth that are small, but very wise:"
+        },
+        {
+          "number": 25,
+          "text": "Ants—they're not strong, but they work hard all summer storing up food."
+        },
+        {
+          "number": 26,
+          "text": "Hyraxes*—they don't have much power, but they make their homes in the rock."
+        },
+        {
+          "number": 27,
+          "text": "Locusts—they don't have a king, but they all march in line abreast."
+        },
+        {
+          "number": 28,
+          "text": "Lizards—you can catch them in your hands, but they live in the king's palace."
+        },
+        {
+          "number": 29,
+          "text": "There are three things that are glorious to watch as they walk, four that look dignified as they move:"
+        },
+        {
+          "number": 30,
+          "text": "The lion, supreme among wild animals, who isn't frightened of anything."
+        },
+        {
+          "number": 31,
+          "text": "The strutting starling,* the male goat, and a king with his army."
+        },
+        {
+          "number": 32,
+          "text": "If you have been foolishly boasting about yourself, or if you've been planning to do something wrong, stop and put your hand over your mouth."
+        },
+        {
+          "number": 33,
+          "text": "Just as churning milk produces butter, and twisting someone's nose makes it bleed, so stirring up anger causes arguments."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "30:1",
+          "text": "This verse is variously translated, mainly depending on whether it refers to named people or what the words actually mean. Since both the Septuagint and the Vulgate do not assume the words to be names, this approach is followed here."
+        },
+        {
+          "ref": "30:4",
+          "text": "The point of the questions is to show that no one but the Creator could do all these things."
+        },
+        {
+          "ref": "30:9",
+          "text": "“I have plenty of money”: literally, “I'm full.”"
+        },
+        {
+          "ref": "30:20",
+          "text": "This is often assumed to refer to the act of adultery."
+        },
+        {
+          "ref": "30:26",
+          "text": "Also known as rock badgers or coneys."
+        },
+        {
+          "ref": "30:31",
+          "text": "“Starling”: as per modern Hebrew and Aramaic, some ancient versions have “rooster.”"
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "verses": [
+        {
+          "number": 1,
+          "text": "These are the words of King Lemuel, an oracle, taught to him by his mother."
+        },
+        {
+          "number": 2,
+          "text": "What shall I tell you, my son?—the son I gave birth to, the son given in response to my vows."
+        },
+        {
+          "number": 3,
+          "text": "Don't waste your strength sleeping* with women, those that bring down kings."
+        },
+        {
+          "number": 4,
+          "text": "Lemuel, kings shouldn't be drinking wine, rulers shouldn't be drinking alcohol.*"
+        },
+        {
+          "number": 5,
+          "text": "For if they drink, they'll forget what the law says, and pervert the rights of those who are suffering."
+        },
+        {
+          "number": 6,
+          "text": "Give alcohol to those who are dying, and wine to those who are in terrible distress."
+        },
+        {
+          "number": 7,
+          "text": "Let them drink so they can forget their poverty, and not remember their troubles any longer."
+        },
+        {
+          "number": 8,
+          "text": "Speak up for those who have no voice, for the rights of those marginalized by society."
+        },
+        {
+          "number": 9,
+          "text": "Speak up and judge fairly; defend the poor and destitute."
+        },
+        {
+          "number": 10,
+          "text": "Who can find a strong, capable wife? She's worth more than jewels!*"
+        },
+        {
+          "number": 11,
+          "text": "Her husband has complete confidence in her, and with her he'll never be poor."
+        },
+        {
+          "number": 12,
+          "text": "She brings him good, not evil, all her life."
+        },
+        {
+          "number": 13,
+          "text": "She gets wool and flax, and with her eager hands turns them into clothes."
+        },
+        {
+          "number": 14,
+          "text": "Like a merchant's ship, she brings food from far away."
+        },
+        {
+          "number": 15,
+          "text": "She gets up while it's still dark to make breakfast for her family, and to plan what her servant girls need to do."
+        },
+        {
+          "number": 16,
+          "text": "She looks at a field, and decides to buy it; from the money she's earned she buys a vineyard."
+        },
+        {
+          "number": 17,
+          "text": "She's keen to get ready, and works hard with her strong arms."
+        },
+        {
+          "number": 18,
+          "text": "She knows that the things she makes are valuable. She keeps busy—her lamp burns late into the night."
+        },
+        {
+          "number": 19,
+          "text": "She spins the thread and weaves the cloth.*"
+        },
+        {
+          "number": 20,
+          "text": "She's generous to the poor, and gives help to the needy."
+        },
+        {
+          "number": 21,
+          "text": "She doesn't worry if it snows, because her whole family has warm* clothing."
+        },
+        {
+          "number": 22,
+          "text": "She makes herself bedspreads; she dresses in fine linen and purple clothes."
+        },
+        {
+          "number": 23,
+          "text": "Her husband is well-respected in the council at the town gates, where he sits with the town elders."
+        },
+        {
+          "number": 24,
+          "text": "She makes linen clothes for sale, and supplies merchants with belts."
+        },
+        {
+          "number": 25,
+          "text": "She's clothed with strength and dignity, and she is happy about the future."
+        },
+        {
+          "number": 26,
+          "text": "She speaks wise words, and she's kind when she gives instructions."
+        },
+        {
+          "number": 27,
+          "text": "She looks after the needs of her whole household, and she's never idle."
+        },
+        {
+          "number": 28,
+          "text": "Her children are quick to bless her. Her husband praises her too, saying,"
+        },
+        {
+          "number": 29,
+          "text": "“Many women do great things, but you are better than all of them!”"
+        },
+        {
+          "number": 30,
+          "text": "Charm can deceive, and beauty fades, but a woman who honors the Lord should be praised."
+        },
+        {
+          "number": 31,
+          "text": "Give her the recognition she deserves; praise her publicly for what she's done."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "31:3",
+          "text": "“Sleeping” implied."
+        },
+        {
+          "ref": "31:4",
+          "text": "“Alcohol”: literally, “strong drink.”"
+        },
+        {
+          "ref": "31:10",
+          "text": "“Jewels”: though often translated as “rubies,” it seems that they were not known at this time. The red jewels were likely to be carnelian or red coral."
+        },
+        {
+          "ref": "31:19",
+          "text": "The Hebrew refers to the distaff and spindle used in spinning and weaving, but not much known in modern life."
+        },
+        {
+          "ref": "31:21",
+          "text": "“Warm” following the implications of the Septuagint reading. Hebrew has “scarlet,” simply meaning expensive clothing."
+        }
+      ]
+    }
+  ]
+}

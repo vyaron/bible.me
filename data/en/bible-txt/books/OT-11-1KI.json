@@ -1,0 +1,3696 @@
+{
+  "id": "OT-11-1KI",
+  "code": "1KI",
+  "slug": "1-kings",
+  "name": "1 Kings",
+  "testament": "OT",
+  "testamentOrder": 11,
+  "order": 11,
+  "source": {
+    "file": "src/1KI.rtf",
+    "format": "rtf"
+  },
+  "stats": {
+    "chapters": 22,
+    "verses": 816
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "King David had grown old and couldn't keep warm in bed however many blankets they used to cover him."
+        },
+        {
+          "number": 2,
+          "text": "So his officials suggested, “Let a search be made on behalf of Your Majesty for a young virgin to serve you and look after you. She can lie next to you and keep you warm.”"
+        },
+        {
+          "number": 3,
+          "text": "So they searched the whole country of Israel for a beautiful young woman and found Abishag from the town of Shunem and took her to the king."
+        },
+        {
+          "number": 4,
+          "text": "She was very beautiful, and she looked after the king, attending to his needs, but he did not have sex with her."
+        },
+        {
+          "number": 5,
+          "text": "Adonijah, son of Haggith, was busy promoting himself, saying “I'm going to be king!” He arranged chariots and horsemen for himself, and fifty men to run ahead of him."
+        },
+        {
+          "number": 6,
+          "text": "(Never in his life had his father corrected him. He'd never asked him, “Why did you do that?” He was also very good-looking, and had been born after Absalom.)"
+        },
+        {
+          "number": 7,
+          "text": "Adonijah discussed his plan with Joab, son of Zeruiah, and with Abiathar the priest, who agreed to support him."
+        },
+        {
+          "number": 8,
+          "text": "But Zadok the priest, Benaiah, son of Jehoiada, Nathan the prophet, Shimei, Rei, and David's bodyguard were not on Adonijah's side."
+        },
+        {
+          "number": 9,
+          "text": "Adonijah invited all his brothers, the king's sons, and the king's officials of Judah, to come to the stone of Zoheleth, which is near En-rogel, where he sacrificed sheep, cattle and fattened calves."
+        },
+        {
+          "number": 10,
+          "text": "But he didn't invite Nathan the prophet, Benaiah, David's bodyguard, or his brother Solomon."
+        },
+        {
+          "number": 11,
+          "text": "Nathan went to Bathsheba, Solomon's mother, and asked her, “Haven't you heard that Adonijah, son of Haggith, has become king, and His Majesty King David doesn't even know?"
+        },
+        {
+          "number": 12,
+          "text": "Let me give you some advice so you can save your life, and that of your son Solomon."
+        },
+        {
+          "number": 13,
+          "text": "Go immediately to King David and ask him, ‘Didn't Your Majesty swear to me, your servant, saying, Your son Solomon will definitely be king after me and will sit on my throne? So why is Adonijah saying he's king?’"
+        },
+        {
+          "number": 14,
+          "text": "Then I'll come in while you're still there talking with the king and I'll confirm what you're saying.”"
+        },
+        {
+          "number": 15,
+          "text": "So Bathsheba went to see the king in his bedroom. He was very old and Abishag was looking after him."
+        },
+        {
+          "number": 16,
+          "text": "Bathsheba bowed low in respect. He asked her, “What is it that you want?”"
+        },
+        {
+          "number": 17,
+          "text": "She replied, “Your Majesty, you swore to me, your servant, by the Lord your God, ‘Your son Solomon will definitely be king after me and will sit on my throne.’"
+        },
+        {
+          "number": 18,
+          "text": "But now Adonijah has become king and Your Majesty doesn't even know."
+        },
+        {
+          "number": 19,
+          "text": "He has sacrificed plenty of cattle, fattened calves, and sheep, and he has invited all the king's sons, Abiathar the priest, and Joab the army commander. But he didn't invite your servant Solomon."
+        },
+        {
+          "number": 20,
+          "text": "Now, Your Majesty, everyone in Israel is watching to see who you're going to say will be the next king."
+        },
+        {
+          "number": 21,
+          "text": "If you don't do anything,* as soon as Your Majesty dies, I and my son Solomon will be considered traitors…”*"
+        },
+        {
+          "number": 22,
+          "text": "Right then, while she was still speaking with the king, Nathan the prophet arrived."
+        },
+        {
+          "number": 23,
+          "text": "The king was told, “Nathan the prophet is here.” Nathan went in to see the king. He bowed down with his face to the ground."
+        },
+        {
+          "number": 24,
+          "text": "Nathan asked the king, “Your Majesty, you must have announced, ‘Adonijah will be king after me and will sit on my throne.’"
+        },
+        {
+          "number": 25,
+          "text": "For today he has gone and sacrificed many cattle, fattened calves, and sheep, and he has invited all the king's sons, the army commanders, and Abiathar the priest. Right now they are eating and drinking with him, shouting, ‘Long live King Adonijah!’"
+        },
+        {
+          "number": 26,
+          "text": "But he didn't invite me, your servant, or Zadok the priest, or Benaiah, son of Jehoiada, or your son Solomon."
+        },
+        {
+          "number": 27,
+          "text": "If Your Majesty did this, you certainly didn't inform your officials as to who is meant to sit on your throne as the next king.”"
+        },
+        {
+          "number": 28,
+          "text": "King David replied, “Call Bathsheba for me.” Bathsheba came in and stood before the king."
+        },
+        {
+          "number": 29,
+          "text": "The king swore a vow, saying, “As the Lord lives, who has saved me from all kinds of trouble, just as I swore to you previously by the Lord the God of Israel,"
+        },
+        {
+          "number": 30,
+          "text": "telling you Solomon your son will be the next king and he will sit on my throne instead of me—I swear I will do this today.”"
+        },
+        {
+          "number": 31,
+          "text": "Bathsheba bowed with her face to the ground, honoring the king and said, “May Your Majesty King David live forever.”"
+        },
+        {
+          "number": 32,
+          "text": "Then King David said, “Call for me Zadok the priest, Nathan the prophet, and Benaiah, son of Jehoiada.” When they arrived,"
+        },
+        {
+          "number": 33,
+          "text": "the king told them, “Take the king's officials with you, and have them put Solomon on my own mule and lead him down to the Gihon Spring."
+        },
+        {
+          "number": 34,
+          "text": "There have Zadok the priest and Nathan the prophet anoint him king of Israel. Blow the trumpet and shout out, ‘Long live King Solomon!’"
+        },
+        {
+          "number": 35,
+          "text": "Then follow him back up, and have him come and sit on my throne. He is to be king instead of me. I am placing him in charge as ruler of Israel and Judah.”"
+        },
+        {
+          "number": 36,
+          "text": "“Amen!” replied Benaiah, son of Jehoiada. “May the Lord, the God of my lord the king, confirm this!"
+        },
+        {
+          "number": 37,
+          "text": "In the same way the Lord was with my lord the king may he be with Solomon, and may he make his reign even greater than the reign of my lord King David.”"
+        },
+        {
+          "number": 38,
+          "text": "Zadok the priest, Nathan the prophet, and Benaiah, son of Jehoiada, together with the Cherethites and Pelethites,* went and placed Solomon on King David's mule, and led him down to the Gihon Spring."
+        },
+        {
+          "number": 39,
+          "text": "Zadok the priest took the horn containing olive oil from the Tent and anointed Solomon. Then they blew the trumpet, and all the people shouted, “Long live King Solomon!”"
+        },
+        {
+          "number": 40,
+          "text": "Everyone followed him, playing flutes and celebrating so happily that the sound shook the earth."
+        },
+        {
+          "number": 41,
+          "text": "Adonijah and all his guests heard the noise as they were finishing eating. When Joab heard the sound of the trumpet, he asked, “What's all this noise coming from the city?”"
+        },
+        {
+          "number": 42,
+          "text": "While he was speaking, Jonathan, son of Abiathar the priest, suddenly arrived. “Come on in,” said Adonijah. “A good man like you must be bringing good news.”"
+        },
+        {
+          "number": 43,
+          "text": "“Absolutely not!” Jonathan replied. “Our lord King David has made Solomon king!"
+        },
+        {
+          "number": 44,
+          "text": "He sent Solomon to be anointed* with Zadok the priest, Nathan the prophet, and Benaiah, son of Jehoiada, and the Cherethites and the Pelethites. They had him ride on the king's mule."
+        },
+        {
+          "number": 45,
+          "text": "Zadok the priest and Nathan the prophet anointed him king at the Gihon Spring. Now they have returned, celebrating with shouts that echo round the city. That's the noise you're hearing."
+        },
+        {
+          "number": 46,
+          "text": "On top of that, Solomon is sitting on the royal throne,"
+        },
+        {
+          "number": 47,
+          "text": "and the royal officials have also gone to voice their approval to our lord King David, saying, ‘May your God make Solomon's reputation even more famous than your own, and may he make his reign greater than your reign.’ The king on his bed bowed his head,"
+        },
+        {
+          "number": 48,
+          "text": "and said, ‘Praise the Lord, the God of Israel! Today he has provided a successor to sit on my throne, and I have been privileged to see it.’”"
+        },
+        {
+          "number": 49,
+          "text": "When all of the guests who were supporting Adonijah heard this they shook with fear. They got up and rushed out in different directions."
+        },
+        {
+          "number": 50,
+          "text": "Adonijah was terrified of Solomon, so he ran off. He went and grabbed hold of the horns of the altar."
+        },
+        {
+          "number": 51,
+          "text": "Solomon was told, “Adonijah is terrified of Your Majesty. He has grabbed hold of the horns of the altar, saying, ‘Let King Solomon swear today that he won't kill me, his servant!’”"
+        },
+        {
+          "number": 52,
+          "text": "Solomon replied, “If he is an honorable man, not one hair of his will fall to the ground. But if he shows himself to be evil, he will die.”"
+        },
+        {
+          "number": 53,
+          "text": "King Solomon had Adonijah brought down from the altar, and he came and bowed down before King Solomon, who told him, “Go home.”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "1:21",
+          "text": "“If you don't do anything”: literally, “It shall happen.”"
+        },
+        {
+          "ref": "1:21",
+          "text": "Literally, “sinners.”"
+        },
+        {
+          "ref": "1:38",
+          "text": "“The Cherethites and Pelethites”: the king's bodyguard."
+        },
+        {
+          "ref": "1:44",
+          "text": "“To be anointed”: implied."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The time of David's death was approaching, so he gave his son Solomon these last instructions:"
+        },
+        {
+          "number": 2,
+          "text": "“I am about to go the way everybody on earth must go. Be brave, and act like a man."
+        },
+        {
+          "number": 3,
+          "text": "Do what God orders you to do, and follow his ways. Keep his rules, his commands, and his laws and regulations, as written in the Law of Moses, so you may be successful in everything you do, and in everything you give your attention to."
+        },
+        {
+          "number": 4,
+          "text": "If so, then the Lord will keep his promise to me when he said: ‘If your descendants are to live right before me, faithfully and with complete commitment, then you will always have one of them on the throne of Israel.’"
+        },
+        {
+          "number": 5,
+          "text": "In addition, you know what Joab, son of Zeruiah, did to me and what he did to Abner, son of Ner, and Amasa, son of Jether, the two army commanders of Israel. He murdered them, spilling the blood of war during a time of peace. He smeared the blood of war on his belt and on his sandals.*"
+        },
+        {
+          "number": 6,
+          "text": "Do what you think is right, but don't let his gray head go down peacefully into the grave."
+        },
+        {
+          "number": 7,
+          "text": "But be kind to the sons of Barzillai of Gilead. Bring them into your royal court,* for they helped me when I ran from your brother Absalom."
+        },
+        {
+          "number": 8,
+          "text": "Don't you forget Shimei, son of Gera, the Benjamite from Bahurim who cursed me with painful words when I went to Mahanaim. When he met me at the Jordan I swore to him by the Lord, ‘I will not kill you with the sword.’"
+        },
+        {
+          "number": 9,
+          "text": "So don't leave him unpunished. You're a wise man and you know what you have to do to him—send him down into the grave with blood on his gray head.”"
+        },
+        {
+          "number": 10,
+          "text": "Then David died and was buried in the City of David."
+        },
+        {
+          "number": 11,
+          "text": "His reign over Israel lasted forty years; seven years in Hebron and thirty-three years in Jerusalem."
+        },
+        {
+          "number": 12,
+          "text": "Solomon took over as king, sitting on the throne of his father David, and his hold on his kingdom was secure."
+        },
+        {
+          "number": 13,
+          "text": "Adonijah, son of Haggith, went to see Bathsheba, Solomon's mother. She asked him, “Have you come here with good intentions?”* He replied, “Yes, with good intentions.”"
+        },
+        {
+          "number": 14,
+          "text": "“I have something I'd like to ask of you,” he continued. “Go on,” she said."
+        },
+        {
+          "number": 15,
+          "text": "“You know that the kingdom was mine,” he declared, “and everyone in Israel was looking forward to me being their next king. But everything was turned upside down, and the kingdom passed to my brother, because that's what the Lord wanted."
+        },
+        {
+          "number": 16,
+          "text": "Now I've just one request to ask of you—please don't say no.” “Tell me,” she said."
+        },
+        {
+          "number": 17,
+          "text": "He went on, “Please talk to King Solomon for me because he won't turn you down. Ask him to give me Abishag from Shunem as my wife.”"
+        },
+        {
+          "number": 18,
+          "text": "“Very well,” Bathsheba replied. “I will talk to the king for you.”"
+        },
+        {
+          "number": 19,
+          "text": "So Bathsheba went to talk to King Solomon for Adonijah. The king got up from his throne to meet her, and bowed before her. Then he sat back down and ordered another throne brought in for his mother. She sat to his right."
+        },
+        {
+          "number": 20,
+          "text": "“I have just one small request to ask of you,” she said. “Please don't say no.” The king replied, “Ask away, dear mother. I won't say no to you.”"
+        },
+        {
+          "number": 21,
+          "text": "“Please give Abishag from Shunem to your brother Adonijah as his wife,” she replied."
+        },
+        {
+          "number": 22,
+          "text": "King Solomon answered his mother, “Why on earth are you asking me to give Abishag to Adonijah? You might as well ask me to give my brother the kingdom! He is my older brother, and Abiathar the priest and Joab, son of Zeruiah, are on his side!”"
+        },
+        {
+          "number": 23,
+          "text": "Then King Solomon vowed before the Lord, “May God punish me, really punish me, if what Adonijah has asked for doesn't cost him his life."
+        },
+        {
+          "number": 24,
+          "text": "So I vow, as the Lord lives, who affirmed me as king and placed me on the throne of my father David, making me the head of a dynasty as he promised, Adonijah shall be executed today.”"
+        },
+        {
+          "number": 25,
+          "text": "King Solomon sent Benaiah, son of Jehoiada, who carried out the king's orders and executed Adonijah."
+        },
+        {
+          "number": 26,
+          "text": "In the case of Abiathar, the high priest, the king told him, “Go home and take care of your fields. You should be condemned to death, but I will not kill you right now because you carried the Ark of the Lord God ahead of my father David and went through all his hard times with him.”"
+        },
+        {
+          "number": 27,
+          "text": "So Solomon dismissed Abiathar from his position as priest of the Lord, and so fulfilled what the Lord had said at Shiloh regarding the descendants of Eli.*"
+        },
+        {
+          "number": 28,
+          "text": "When Joab heard the news he ran to the Lord's Tent and grabbed hold of the horns of the altar. (He had not supported Absalom's rebellion but he had supported Adonijah.)"
+        },
+        {
+          "number": 29,
+          "text": "When King Solomon was told that Joab was seeking sanctuary* by the altar, he sent Benaiah, son of Jehoiada, to execute him."
+        },
+        {
+          "number": 30,
+          "text": "Benaiah went to the Lord's Tent and called to Joab, “The king orders you to come out!” “No! I'll die here!” Joab replied. Benaiah went back to the king and told him what Joab had said."
+        },
+        {
+          "number": 31,
+          "text": "“Do as he says,” the king told Benaiah. “Strike him down and bury him. In that way you will remove from me and my family the guilt of the innocent blood that Joab shed."
+        },
+        {
+          "number": 32,
+          "text": "The Lord will pay him back for the blood he shed, for without my father David's knowledge, he killed two good men who were better than he was. With his sword he killed Abner, son of Ner, commander of Israel's army, and Amasa, son of Jether, commander of Judah's army."
+        },
+        {
+          "number": 33,
+          "text": "May the responsibility for shedding their blood come back on Joab and his descendants forever; but may the Lord give peace and prosperity* to David, his descendants, his family, and his dynasty forever.”"
+        },
+        {
+          "number": 34,
+          "text": "So Benaiah son of Jehoiada returned and killed Joab. He was buried at his home in the wilderness."
+        },
+        {
+          "number": 35,
+          "text": "The king appointed Benaiah, son of Jehoiada, to take over Joab's role as army commander, and replaced Abiathar with Zadok the priest."
+        },
+        {
+          "number": 36,
+          "text": "Then the king summoned Shimei and told him, “Go and build yourself a house in Jerusalem and stay there, but don't leave and go anywhere else."
+        },
+        {
+          "number": 37,
+          "text": "You should know for certain that the day you leave and cross the Kidron Valley you will die. Your death will be your own responsibility.”"
+        },
+        {
+          "number": 38,
+          "text": "“What Your Majesty says is fair,” Shimei replied. “Your servant will do as my lord the king has ordered.” Shimei lived in Jerusalem for a long time."
+        },
+        {
+          "number": 39,
+          "text": "But three years later, two of Shimei's slaves escaped to Achish, son of Maacah, king of Gath. Shimei was told, “Look, your slaves are in Gath.”"
+        },
+        {
+          "number": 40,
+          "text": "So Shimei saddled up his donkey and went to Achish in Gath to look for his slaves. He found them and brought them back from Gath."
+        },
+        {
+          "number": 41,
+          "text": "Solomon was informed that Shimei had left Jerusalem to go to Gath, and had then returned."
+        },
+        {
+          "number": 42,
+          "text": "The king summoned Shimei and asked him, “Didn't I vow to you by the Lord, didn't I warn you that the day you left and went somewhere else that you should know for certain that you would die? Didn't you reply to me, ‘What Your Majesty says is fair; I'll do as you ordered’?"
+        },
+        {
+          "number": 43,
+          "text": "So why haven't you kept your vow to the Lord, and obeyed my orders?”"
+        },
+        {
+          "number": 44,
+          "text": "The king also told Shimei, “Deep down you know all the evil things you did to my father David. That's why the Lord will repay you for your evil."
+        },
+        {
+          "number": 45,
+          "text": "But I, King Solomon, will be blessed and David's dynasty will be kept safe in the presence of the Lord forever.”"
+        },
+        {
+          "number": 46,
+          "text": "The king ordered Benaiah, son of Jehoiada, to execute Shimei, so he went and killed Shimei. In this way Solomon's hold on the kingdom was made secure."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "2:5",
+          "text": "Thought by some to be a symbolic act that showed the complete destruction of the victim, ending his movement and his ability to father children."
+        },
+        {
+          "ref": "2:7",
+          "text": "Literally, “let them eat from your table.”"
+        },
+        {
+          "ref": "2:13",
+          "text": "“With good intentions”: literally, “peaceably.” Knowing the previous history, Bathsheba was right to ask such a question. However, her acceptance of Adonijah's request is surprising, unless she saw what it might lead to."
+        },
+        {
+          "ref": "2:27",
+          "text": "See 1 Samuel 2:30-35; 1 Samuel 3:11-14."
+        },
+        {
+          "ref": "2:29",
+          "text": "Sanctuary: this only applied if the killing of another was accidental. This clearly was not the case for Joab's deliberate murders."
+        },
+        {
+          "ref": "2:33",
+          "text": "“Peace and prosperity”: the word “shalom” includes both these concepts."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Solomon made a marriage alliance* with Pharaoh of Egypt. He married Pharaoh's daughter and brought her to live in the City of David until he finished building his palace, the Lord's Temple, and the walls surrounding Jerusalem."
+        },
+        {
+          "number": 2,
+          "text": "In those days, however, the people still sacrificed on the high places because a Temple to honor the Lord hadn't yet been built."
+        },
+        {
+          "number": 3,
+          "text": "Solomon showed he loved the Lord by following the instructions of his father David, except that he sacrificed and burned offerings on the high places."
+        },
+        {
+          "number": 4,
+          "text": "The king went to Gibeon to sacrifice there, for it was the leading high place. Solomon presented one thousand burnt offerings on the altar there."
+        },
+        {
+          "number": 5,
+          "text": "The Lord appeared to Solomon in a dream at Gibeon. God said to him, “Ask what you want me to give you.”"
+        },
+        {
+          "number": 6,
+          "text": "Solomon replied, “You showed your servant David, my father, great trustworthy love because he lived his life before you with faithfulness, doing what was right and committed to principle. You have continued to show this great trustworthy love by giving him a son to sit on his throne to this day."
+        },
+        {
+          "number": 7,
+          "text": "Now, Lord God, you have made me king in place of my father David. But I am like an inexperienced young boy who doesn't know what to do.*"
+        },
+        {
+          "number": 8,
+          "text": "I, your servant, am here among your chosen people, a great people that are so many they cannot be counted."
+        },
+        {
+          "number": 9,
+          "text": "So please give me a mind that's receptive so I can rule* your people well, understanding the difference between right and wrong, for who can rule this difficult people of yours?”"
+        },
+        {
+          "number": 10,
+          "text": "The Lord considered that what Solomon asked for was good."
+        },
+        {
+          "number": 11,
+          "text": "So God told him, “Because you asked for this, and you didn't ask for a long life, or wealth, or the death of your enemies, but instead you asked for understanding to know what is right,"
+        },
+        {
+          "number": 12,
+          "text": "I am giving you what you asked for. I am giving you a mind that is wise, with an understanding of what is right, more than anyone else before you or after you."
+        },
+        {
+          "number": 13,
+          "text": "I am also giving you what you did not ask for, wealth and status—so much so that no king will compare to you for the whole of your life."
+        },
+        {
+          "number": 14,
+          "text": "And if you follow my ways by keeping my laws and my commands, as your father David did, I will give you a long life.”"
+        },
+        {
+          "number": 15,
+          "text": "Then Solomon woke up and realized he'd had a dream. He went back to Jerusalem, and stood in front of the Ark of the Lord's Agreement and he presented burnt offerings and friendship offerings, and he held a feast for all his officials."
+        },
+        {
+          "number": 16,
+          "text": "Later two prostitutes came to the king and stood before him for judgment.*"
+        },
+        {
+          "number": 17,
+          "text": "One of the women spoke up, saying, “If it please Your Majesty: I share a house with this woman. I had a baby while she was living in the house."
+        },
+        {
+          "number": 18,
+          "text": "Three days after the birth of my baby, this woman also had a baby. We were together; there was no one else in the house, just the two of us."
+        },
+        {
+          "number": 19,
+          "text": "During the night this woman's son died because she rolled over on him."
+        },
+        {
+          "number": 20,
+          "text": "She got up in the middle of the night and took my son from beside me while I was sleeping. She lay him close beside her to cuddle him, and she lay her dead son close beside me."
+        },
+        {
+          "number": 21,
+          "text": "When I got up in the morning to nurse my son I saw that he was dead. When I looked closely at him in the light I realized it wasn't my son.”"
+        },
+        {
+          "number": 22,
+          "text": "The other woman argued, “No! My son is the one that's alive. Your son is the one that's dead.” The first woman objected, “No! Your son is the one that's dead. My son is the one that's alive.” They went on quarrelling in front of the king."
+        },
+        {
+          "number": 23,
+          "text": "The king intervened, saying, “So this woman says, ‘My son is the one that's alive. Your son is the one that's dead,’ while the other woman says, ‘No! Your son is the one that's dead. My son is the one that's alive.’”"
+        },
+        {
+          "number": 24,
+          "text": "“Bring me a sword,” the king ordered. So they brought him a sword."
+        },
+        {
+          "number": 25,
+          "text": "“Cut the child that's alive in two, and give half to one woman and half to another,” he commanded."
+        },
+        {
+          "number": 26,
+          "text": "But the woman whose son was alive had so much love for him as a mother that she cried out to the king, “Please, Your Majesty, give her the boy! Don't kill him!” But the other woman said, “He won't be mine or yours—cut him in two!”"
+        },
+        {
+          "number": 27,
+          "text": "The king gave his verdict. “Give the child that's alive to the first woman,” he ordered. “On no account kill him, for she is his real mother.”"
+        },
+        {
+          "number": 28,
+          "text": "When everyone in Israel heard about the verdict the king had delivered, they had great respect for the king, because they recognized the wisdom God had given him to judge rightly."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "3:1",
+          "text": "“Marriage alliance”: the word here literally means “make oneself a daughter's husband.”"
+        },
+        {
+          "ref": "3:7",
+          "text": "“What to do”: literally, “going out or coming in.”"
+        },
+        {
+          "ref": "3:9",
+          "text": "Rule not so much in terms of imposing control but in governing wisely."
+        },
+        {
+          "ref": "3:16",
+          "text": "“For judgment”: implied by the fact they came before him."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "King Solomon ruled over all of Israel."
+        },
+        {
+          "number": 2,
+          "text": "These were his officials: Azariah, son of Zadok, was the priest;"
+        },
+        {
+          "number": 3,
+          "text": "Elihoreph and Ahijah, sons of Shisha, were the king's secretaries. Jehoshaphat, son of Ahilud, kept the royal records."
+        },
+        {
+          "number": 4,
+          "text": "Benaiah son of Jehoiada was the army commander. Zadok and Abiathar were priests."
+        },
+        {
+          "number": 5,
+          "text": "Azariah, son of Nathan, was in charge of the governors. Zabud, son of Nathan, was a priest and the king's counselor."
+        },
+        {
+          "number": 6,
+          "text": "Ahishar was the palace manager. Adoniram, son of Abda, was in charge of those forced to work for the king."
+        },
+        {
+          "number": 7,
+          "text": "Solomon had twelve area governors whose responsibilities covered the whole of Israel, providing food for the king and his household. Each one in turn arranged supplies for one month of the year."
+        },
+        {
+          "number": 8,
+          "text": "Their names were: Ben-hur, in the hill country of Ephraim;"
+        },
+        {
+          "number": 9,
+          "text": "Ben-deker in Makaz, Shaalbim, Beth-shemesh and Elon-beth-hanan;"
+        },
+        {
+          "number": 10,
+          "text": "Ben-hesed in Arubboth (Socoh and all the land of Hepher was his);"
+        },
+        {
+          "number": 11,
+          "text": "Ben-abinadab, in the whole of Naphath-dor (Taphath, the daughter of Solomon, was his wife);"
+        },
+        {
+          "number": 12,
+          "text": "Baana, son of Ahilud, in Taanach and Megiddo, the whole of Beth-shan near Zarethan below Jezreel, and from Beth-shan to Abel-meholah and across to Jokmeam;"
+        },
+        {
+          "number": 13,
+          "text": "Ben-geber, in Ramoth-gilead (the towns of Jair, son of Manasseh, in Gilead belonged to him, as well as the region of Argob in Bashan, with sixty great cities having walls and bronze bars);"
+        },
+        {
+          "number": 14,
+          "text": "Ahinadab, son of Iddo, in Mahanaim;"
+        },
+        {
+          "number": 15,
+          "text": "Ahimaaz, in Naphtali (he had married Basemath the daughter of Solomon);"
+        },
+        {
+          "number": 16,
+          "text": "Baana, son of Hushai, in Asher and in Aloth;"
+        },
+        {
+          "number": 17,
+          "text": "Jehoshaphat, son of Paruah, in Issachar;"
+        },
+        {
+          "number": 18,
+          "text": "Shimei, son of Ela, in Benjamin;"
+        },
+        {
+          "number": 19,
+          "text": "Geber son of Uri in the land of Gilead (the former country of Sihon, king of the Amorites, and of Og, king of Bashan. There was also a governor who was over the land of Judah).*"
+        },
+        {
+          "number": 20,
+          "text": "Judah and Israel had become as numerous as the sand on the seashore. They ate, they drank, they were happy."
+        },
+        {
+          "number": 21,
+          "text": "Solomon ruled over all the kingdoms from the Euphrates River to the land of the Philistines, right up to the border of Egypt. They presented tribute to Solomon and served him during his lifetime."
+        },
+        {
+          "number": 22,
+          "text": "The food required every day for Solomon's court was thirty cors of the best flour and sixty cors of meal;"
+        },
+        {
+          "number": 23,
+          "text": "ten fattened cattle, twenty range cattle, one hundred sheep, as well as deer, gazelles, roe deer, and fattened poultry."
+        },
+        {
+          "number": 24,
+          "text": "For Solomon ruled over the whole region west of the Euphrates, from Tiphsah to Gaza—over all the kingdoms west of the Euphrates. And he had peace on all sides around him. He had peace on every border."
+        },
+        {
+          "number": 25,
+          "text": "During Solomon's lifetime, everyone in Judah and Israel lived in safety, from Dan to Beersheba. Each one had their own vine and fig tree."
+        },
+        {
+          "number": 26,
+          "text": "Solomon had 40,000 stalls for his chariot horses, and 12,000 charioteers."
+        },
+        {
+          "number": 27,
+          "text": "Every month the area governors provided in turn food for King Solomon and all who ate at his table. They made sure that nothing was missing."
+        },
+        {
+          "number": 28,
+          "text": "They also delivered barley and straw where they were needed for the chariot horses and cart horses."
+        },
+        {
+          "number": 29,
+          "text": "God gave to Solomon wisdom, very great discernment, and understanding as extensive as the sand on the seashore."
+        },
+        {
+          "number": 30,
+          "text": "Solomon's wisdom was greater than that of all the Eastern wise men, greater than all of Egypt's wisdom."
+        },
+        {
+          "number": 31,
+          "text": "He was wiser than anyone, wiser than Ethan the Ezrahite, wiser than Heman, Calcol, and Darda, sons of Mahol. His reputation spread through the nations around."
+        },
+        {
+          "number": 32,
+          "text": "Solomon composed three thousand proverbs and one thousand and five songs."
+        },
+        {
+          "number": 33,
+          "text": "He was able to discuss knowledge of trees, from the cedar in Lebanon to the hyssop that grows in the wall. He taught about animals, birds, reptiles, and fish."
+        },
+        {
+          "number": 34,
+          "text": "People from all nations came to hear Solomon's wisdom. They were sent by all the kings of the earth, who had heard about his wisdom."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "4:19",
+          "text": "The Hebrew text is unclear. The Septuagint reading is followed here, indicating that there was also a governor over Judah. Some however take this to refer to the previous governor mentioned who was the sole governor during this reign."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "When Hiram king of Tyre heard that Solomon had been anointed king to succeed his father, he sent ambassadors to Solomon because Hiram had always been David's friend."
+        },
+        {
+          "number": 2,
+          "text": "So Solomon sent this message back to Hiram,"
+        },
+        {
+          "number": 3,
+          "text": "“As you know, my father David was not able to build a Temple to honor the Lord his God because of the wars fought against him from every direction, until the Lord had conquered his enemies.*"
+        },
+        {
+          "number": 4,
+          "text": "But now the Lord my God has given me peace all around—no enemies, no bad things happening."
+        },
+        {
+          "number": 5,
+          "text": "So I plan to build a Temple to honor the Lord my God, as the Lord told my father David. He said to him, ‘Your son whom I will place on your throne to succeed you will build the Temple to honor me.’"
+        },
+        {
+          "number": 6,
+          "text": "So please order some cedars of Lebanon to be cut down for me. My workers will assist your workers, and I will pay your workers at the rate that you decide, for you know that we don't have anyone who knows how to cut timber like the Sidonians.”"
+        },
+        {
+          "number": 7,
+          "text": "When Hiram heard Solomon's message, he was very happy and said, “Praise the Lord today, for he has given David a wise son to lead this great nation!”"
+        },
+        {
+          "number": 8,
+          "text": "Hiram sent this reply to Solomon: “Thank you for your message. As for the cedar and cypress timber, I will do everything you want."
+        },
+        {
+          "number": 9,
+          "text": "My workers will bring the logs down from Lebanon to the sea, and I will have them floated in rafts by sea to wherever you decide. I will have the rafts broken apart there, and you can take the logs away. In return I would like you to provide food for my household.”"
+        },
+        {
+          "number": 10,
+          "text": "So Hiram provided Solomon with as much cedar and cypress timber as he wanted,"
+        },
+        {
+          "number": 11,
+          "text": "Solomon gave Hiram 20,000 cors of wheat for food and 20,000 cors of olive oil for his household. Solomon provided this to Hiram every year."
+        },
+        {
+          "number": 12,
+          "text": "The Lord gave Solomon wisdom just as he had promised him. Hiram and Solomon had a good relationship and they made a peace treaty with each other."
+        },
+        {
+          "number": 13,
+          "text": "King Solomon drafted a labor force of 30,000 from all of Israel."
+        },
+        {
+          "number": 14,
+          "text": "He sent them in shifts of 10,000 each month to Lebanon, so that they were one month in Lebanon and two months at home, Adoniram was in charge of the labor force."
+        },
+        {
+          "number": 15,
+          "text": "Solomon had 70,000 porters and 80,000 stonecutters in the hill country,"
+        },
+        {
+          "number": 16,
+          "text": "as well as 3,300 foremen he placed in charge of the workers."
+        },
+        {
+          "number": 17,
+          "text": "Following the king's orders, they quarried large blocks of stone that were expensive to produce, and laid these dressed stones as the foundation for the Temple."
+        },
+        {
+          "number": 18,
+          "text": "So Solomon's and Hiram's builders, together with the Gebalites, cut the stone. They prepared the timber and stone to build the Temple."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "5:3",
+          "text": "“Conquered his enemies”: literally, “put them under the soles of his feet.”"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Four hundred and eighty years after the Israelites left Egypt, in the fourth year of King Solomon's reign, in the month of Ziv, Solomon began building the Temple of the Lord."
+        },
+        {
+          "number": 2,
+          "text": "The Temple King Solomon built for the Lord measured sixty cubits long by twenty cubits wide by thirty cubits high."
+        },
+        {
+          "number": 3,
+          "text": "The entrance room at the front of the Temple was twenty cubits wide. It ran the whole width of the Temple and projected out ten cubits in front of the Temple."
+        },
+        {
+          "number": 4,
+          "text": "He had latticed windows made to be placed high up in the Temple."
+        },
+        {
+          "number": 5,
+          "text": "He also had a structure built against the outer wall of the Temple, both the outer and the inner sanctuary, to provide a series of side rooms."
+        },
+        {
+          "number": 6,
+          "text": "The ground floor measured five cubits wide, the first floor six cubits, and the second floor seven cubits. In addition he had offset ledges placed all the way around the outside, so that beams would not have to be inserted into the Temple walls."
+        },
+        {
+          "number": 7,
+          "text": "When the Temple was built the stones were finished at the quarry so that no noise from any hammer, ax, or any iron tool was heard in the Temple during construction."
+        },
+        {
+          "number": 8,
+          "text": "The entrance to the ground floor was on the south side of the Temple. Stairs led to the first floor, and then on to the second floor."
+        },
+        {
+          "number": 9,
+          "text": "So Solomon finished building the Temple, covering it with a roof made of cedar rafters and planks."
+        },
+        {
+          "number": 10,
+          "text": "He built the external structure along the whole of the Temple. It was five cubits high, joined to the Temple with cedar joists."
+        },
+        {
+          "number": 11,
+          "text": "The Lord sent this message to Solomon, telling him,"
+        },
+        {
+          "number": 12,
+          "text": "“About this Temple you are building: if you follow what I have said, fulfilling my requirements and keeping my commandments in what you do, I will keep the promise I made to your father David through you."
+        },
+        {
+          "number": 13,
+          "text": "I will live among the Israelites and will not abandon Israel, my people.”"
+        },
+        {
+          "number": 14,
+          "text": "Solomon finished building the Temple."
+        },
+        {
+          "number": 15,
+          "text": "He lined the walls with cedar panels from floor to ceiling and he covered the floor of the Temple with cypress boards."
+        },
+        {
+          "number": 16,
+          "text": "He sectioned off twenty cubits at the rear of the Temple with boards of cedar from floor to ceiling, making an inner sanctuary as the Most Holy Place."
+        },
+        {
+          "number": 17,
+          "text": "The main Temple in front of this room measured forty cubits long."
+        },
+        {
+          "number": 18,
+          "text": "The cedar panels inside the Temple were decorated with carvings of gourds and open flowers. Everything was lined with cedar—none of the stone was visible."
+        },
+        {
+          "number": 19,
+          "text": "He also had the inner sanctuary made within the Temple where the Ark of the Lord's Agreement would be placed."
+        },
+        {
+          "number": 20,
+          "text": "The inner sanctuary measured twenty cubits long, twenty cubits wide, and twenty cubits high. He had the interior covered with a coating with pure gold, as well as the altar of cedar."
+        },
+        {
+          "number": 21,
+          "text": "Solomon had the whole of the inside of the Temple covered with pure gold, He had gold chains stretched across the front of the inner sanctuary, which was also covered with gold."
+        },
+        {
+          "number": 22,
+          "text": "He covered the whole inside of the Temple with a coating of gold until it was all finished. He also covered with gold the entire altar for the inner sanctuary."
+        },
+        {
+          "number": 23,
+          "text": "He had two cherubim made out of olive wood for the inner sanctuary, each one ten cubits tall."
+        },
+        {
+          "number": 24,
+          "text": "Both wings of the cherub measured five cubits, making a total wingspan of ten cubits."
+        },
+        {
+          "number": 25,
+          "text": "The other cherub was also ten cubits tall, since they were identical both in size and shape."
+        },
+        {
+          "number": 26,
+          "text": "Both cherubs were ten cubits tall."
+        },
+        {
+          "number": 27,
+          "text": "He had the cherubim placed inside the inner sanctuary of the Temple. Since their wings were fully spread, a wing of the first cherub touched one wall, a wing of the second cherub touched the other wall, and in the middle of the Temple their wings touched."
+        },
+        {
+          "number": 28,
+          "text": "The cherubim were also covered with a gold coating."
+        },
+        {
+          "number": 29,
+          "text": "He had all the Temple walls, both the inner and outer sanctuaries, carved with designs of cherubim, palm trees, and open flowers."
+        },
+        {
+          "number": 30,
+          "text": "He also had the floor of the Temple covered with gold, both the inner and outer sanctuaries."
+        },
+        {
+          "number": 31,
+          "text": "He had doors of olive wood made for the entrance to the inner sanctuary, together with a lintel and doorposts that had five sides."
+        },
+        {
+          "number": 32,
+          "text": "These olive wood double doors had carved into them designs of cherubim, palm trees, and open flowers. The cherubim and palm trees carvings were covered with beaten gold."
+        },
+        {
+          "number": 33,
+          "text": "Similarly he had four-sided doorposts of olive wood made for the entrance to the sanctuary."
+        },
+        {
+          "number": 34,
+          "text": "Its doors were made of cypress wood, each with two hinged panels."
+        },
+        {
+          "number": 35,
+          "text": "He had them carved with designs of cherubim, palm trees, and open flowers, and covered them with gold beaten evenly over the carvings."
+        },
+        {
+          "number": 36,
+          "text": "Solomon had the inner courtyard built with three courses of dressed stone and one of cedar beams."
+        },
+        {
+          "number": 37,
+          "text": "The foundation of the Lord's Temple was laid in the fourth year of Solomon's reign, in the month of Ziv."
+        },
+        {
+          "number": 38,
+          "text": "The Temple was finished exactly as specified and planned in Solomon's eleventh year, in the eighth month, the month of Bul. So it took him seven years to build the Temple."
+        }
+      ],
+      "notes": []
+    },
+    {
+      "number": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "However, it took Solomon thirteen years to finish building the whole of his palace."
+        },
+        {
+          "number": 2,
+          "text": "He built the House of the Forest of Lebanon— a hundred cubits long, fifty cubits wide, and thirty cubits high. There were four rows of cedar pillars that supported cedar beams."
+        },
+        {
+          "number": 3,
+          "text": "The cedar roof of the house was on top of the beams that rested on the pillars. There were forty-five beams, fifteen in each row."
+        },
+        {
+          "number": 4,
+          "text": "The windows were placed high up, in three rows facing each other."
+        },
+        {
+          "number": 5,
+          "text": "All the doorways and door casings had rectangular frames, the openings facing each other in sets of three."
+        },
+        {
+          "number": 6,
+          "text": "He also had the Hall of Columns made—forty cubits long and thirty cubits wide. It had a porch in front, its canopy also supported by columns."
+        },
+        {
+          "number": 7,
+          "text": "The throne room where he sat as judge was called the Hall of Justice, lined with cedar panels from floor to ceiling."
+        },
+        {
+          "number": 8,
+          "text": "Solomon's own palace where he lived was in a courtyard behind the porch, made in a similar way to the Temple.* He also had a palace made for Pharaoh's daughter, whom he'd married."
+        },
+        {
+          "number": 9,
+          "text": "All these buildings were built using stone blocks that were expensive to produce. They were cut to size and trimmed with saws on the inside and outside. These stones were used from the foundation to the eaves, from the outside of the building all the way to the great courtyard."
+        },
+        {
+          "number": 10,
+          "text": "The foundations were laid with very large top-quality stones, between eight and ten cubits long."
+        },
+        {
+          "number": 11,
+          "text": "On these were placed top-quality stones, cut to size, along with cedar timber."
+        },
+        {
+          "number": 12,
+          "text": "Around the great courtyard, the inner courtyard, and the porch of the Lord's Temple were three courses of dressed stone and a course of cedar beams."
+        },
+        {
+          "number": 13,
+          "text": "King Solomon sent for Hiram* from Tyre."
+        },
+        {
+          "number": 14,
+          "text": "He was the son of a widow from the tribe of Naphtali, and his father was from Tyre, a craftsman who worked in bronze. Hiram had great expertise, understanding and being familiar with all kinds of bronze work. He came to King Solomon and carried out all that the king required."
+        },
+        {
+          "number": 15,
+          "text": "He cast two columns in bronze. They were both eighteen cubits high and twelve cubits in circumference."
+        },
+        {
+          "number": 16,
+          "text": "He also cast two capitals in bronze to place on top of the columns. Each capital was five cubits high."
+        },
+        {
+          "number": 17,
+          "text": "He made a network of lattice using interlinked chains for both capitals, seven for each one."
+        },
+        {
+          "number": 18,
+          "text": "Around the lattice network he made two rows of ornamental pomegranates to cover the capitals on the top of both the columns."
+        },
+        {
+          "number": 19,
+          "text": "The capitals placed on top of columns in the porch were in the shape of lilies, four cubits high."
+        },
+        {
+          "number": 20,
+          "text": "On the capitals of both columns were the two hundred pomegranates in rows that encircled them, just above the rounded part that was next to the chain network."
+        },
+        {
+          "number": 21,
+          "text": "He erected the columns at the entrance porch of the Temple. The southern column he named Jachin, and the northern column he named Boaz."
+        },
+        {
+          "number": 22,
+          "text": "The capitals on the columns were in the shape of lilies. And so the work on the columns was finished."
+        },
+        {
+          "number": 23,
+          "text": "Then he made the Sea of cast metal.* Its shape was circular, and measured ten cubits from edge to edge, five cubits in height, and thirty cubits in circumference."
+        },
+        {
+          "number": 24,
+          "text": "Below the edge it was decorated with ornamental gourds that encircled it, ten per cubit all the way around. They were in two rows cast as one piece with the Sea."
+        },
+        {
+          "number": 25,
+          "text": "The Sea stood on twelve metal bulls. Three faced to the north, three to the west, three to the south, and three to the east. The Sea was placed on them, with their rears toward the center."
+        },
+        {
+          "number": 26,
+          "text": "It was as thick as the width of a hand, and its edge was like the flared edge of a cup or a lily flower. It held two thousand baths."
+        },
+        {
+          "number": 27,
+          "text": "He also made ten carts to carry basins. The carts measured four cubits long, four cubits wide, and three cubits high."
+        },
+        {
+          "number": 28,
+          "text": "This is how they were put together: side panels were attached to uprights."
+        },
+        {
+          "number": 29,
+          "text": "Both the side panels and the uprights were decorated with lions, bulls, and cherubim. Above and below the lions and the bulls were decorative wreaths."
+        },
+        {
+          "number": 30,
+          "text": "Each cart had four bronze wheels with bronze axles. A basin rested on four supports that had decorative wreaths on each side."
+        },
+        {
+          "number": 31,
+          "text": "At the top of each cart was a round opening like a pedestal to hold the basin.* The opening was one cubit deep, and one and a half cubits wide. The opening had carvings around it. The panels of the cart were square, not round."
+        },
+        {
+          "number": 32,
+          "text": "The four wheels were under the panels, and the axles of the wheels were attached to the cart. Each wheel measured one and a half cubits in diameter."
+        },
+        {
+          "number": 33,
+          "text": "The wheels were made in the same way as chariot wheels; their axles, rims, spokes, and hubs were all made by casting."
+        },
+        {
+          "number": 34,
+          "text": "Each cart had four handles, one on each corner, made as part of the stand."
+        },
+        {
+          "number": 35,
+          "text": "There was a ring on the top of the cart a half cubit wide. The supports and panels were cast as one piece with the top of the cart."
+        },
+        {
+          "number": 36,
+          "text": "He had designs of cherubim, lions, and palm trees engraved on the panels, supports, and frame, wherever there was space, with decorative wreaths all around."
+        },
+        {
+          "number": 37,
+          "text": "This is how he made the ten carts, with the same casts, size, and shape."
+        },
+        {
+          "number": 38,
+          "text": "Then he made ten bronze basins. Each one held forty baths and measured four cubits across, one basin for each of the ten carts."
+        },
+        {
+          "number": 39,
+          "text": "He placed five carts on the south side of the Temple and five on the north side. He placed the Sea on the south side, by the southeast corner of the Temple."
+        },
+        {
+          "number": 40,
+          "text": "He also made the pots, shovels, and bowls. So Hiram finished making everything required by King Solomon for the Temple of the Lord:"
+        },
+        {
+          "number": 41,
+          "text": "the two columns; the two capitals shaped like bowls on top the columns; the two chain networks that covered the capitals shaped like bowls on top of the columns;"
+        },
+        {
+          "number": 42,
+          "text": "the four hundred ornamental pomegranates for the chain networks (in two rows for the chain networks that covered the capitals on top of the columns);"
+        },
+        {
+          "number": 43,
+          "text": "the ten carts; the ten basins on the carts;"
+        },
+        {
+          "number": 44,
+          "text": "the Sea; the twelve bulls under the Sea;"
+        },
+        {
+          "number": 45,
+          "text": "and the pots, shovels, and bowls. Everything that Hiram made for King Solomon in the Temple of the Lord was made of polished bronze."
+        },
+        {
+          "number": 46,
+          "text": "The king had them cast in molds made of clay in the Jordan valley between Succoth and Zarethan."
+        },
+        {
+          "number": 47,
+          "text": "Solomon did not weigh anything that had been made because there was just so much—the weight of bronze used could not be measured."
+        },
+        {
+          "number": 48,
+          "text": "Solomon also had made all the items for the Temple of the Lord: the golden altar; the golden table where the Bread of the Presence was placed;"
+        },
+        {
+          "number": 49,
+          "text": "the lampstands made of pure gold that stood in front of the inner sanctuary, five on the right and five on the left; the flowers, lamps, and tongs that were all made of pure gold;"
+        },
+        {
+          "number": 50,
+          "text": "the basins, wick trimmers, bowls, ladles, and censers that again were all made of pure gold; and the gold hinges for the doors of the inner sanctuary, the Most Holy Place, in addition to the doors of the main hall of the Temple."
+        },
+        {
+          "number": 51,
+          "text": "In this way all King Solomon's work for the Temple of the Lord was completed. Then Solomon brought in the items his father David had dedicated, the special objects made of silver, the gold, and the Temple furnishings, and he placed them in the treasuries of the Temple of the Lord."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "7:8",
+          "text": "“To the Temple”: implied."
+        },
+        {
+          "ref": "7:13",
+          "text": "“Hiram,” or “Huram.” Not the King of Tyre who bore the same name."
+        },
+        {
+          "ref": "7:23",
+          "text": "The “Sea” was a very large metal bowl that contained water."
+        },
+        {
+          "ref": "7:31",
+          "text": "“To hold the basin”: implied."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Then Solomon summoned before him in Jerusalem the elders of Israel, including all the heads of the tribes and the family leaders of the Israelites. He instructed them to bring up with them the Ark of the Lord's Agreement from Zion, the City of David."
+        },
+        {
+          "number": 2,
+          "text": "All the men of Israel assembled before King Solomon at the festival* which is held in the seventh month, the month of Ethanim."
+        },
+        {
+          "number": 3,
+          "text": "When all the elders of Israel had gathered, the priests picked up the Ark and brought the Ark of the Lord and the Tent of Meeting with all its holy items."
+        },
+        {
+          "number": 4,
+          "text": "The priests and Levites carried them up."
+        },
+        {
+          "number": 5,
+          "text": "In front of the Ark, King Solomon and all the congregation of Israel who had gathered there with him sacrificed many, many sheep and bulls—so numerous they couldn't be counted!"
+        },
+        {
+          "number": 6,
+          "text": "Then the priests carried the Ark of the Lord's Agreement to its place in the inner sanctuary of the Temple, the Most Holy Place, underneath the wings of the cherubim."
+        },
+        {
+          "number": 7,
+          "text": "The cherubim spread their wings over the place where the Ark was, covering the Ark and its carrying poles."
+        },
+        {
+          "number": 8,
+          "text": "The poles were so long that the ends could be seen from the Holy Place in front of the inner sanctuary, but not from outside. They are there to this day."
+        },
+        {
+          "number": 9,
+          "text": "There was nothing in the Ark apart from the two tablets of stone that Moses had placed in it at Horeb,* where the Lord had made an agreement with the Israelites after they came out of the land of Egypt."
+        },
+        {
+          "number": 10,
+          "text": "When the priests left the Holy Place, the cloud filled the Temple of the Lord."
+        },
+        {
+          "number": 11,
+          "text": "Due to the cloud, the priests could not stay there to carry out their service, for the glory of the Lord had filled the Lord's Temple."
+        },
+        {
+          "number": 12,
+          "text": "Then Solomon said: “Lord, you* said that you would live in the thick cloud."
+        },
+        {
+          "number": 13,
+          "text": "Now I have built for you a majestic Temple, a place where you may live for ever.”"
+        },
+        {
+          "number": 14,
+          "text": "The king turned around to the whole assembly of Israel who were standing there, and blessed them,"
+        },
+        {
+          "number": 15,
+          "text": "saying, “Praise the Lord, the God of Israel, who by his own power has fulfilled the promise he made to my father David when he said,"
+        },
+        {
+          "number": 16,
+          "text": "‘Since the day I brought my people Israel out of Egypt I have not chosen any town of the tribes of Israel as the place to build a Temple to honor me. But I have chosen David as king over my people Israel.’"
+        },
+        {
+          "number": 17,
+          "text": "My father David really wanted to build a Temple to honor the Lord, the God of Israel."
+        },
+        {
+          "number": 18,
+          "text": "But the Lord told my father David, ‘You had the desire to build a Temple to honor me, and it was good that you really wanted to do this."
+        },
+        {
+          "number": 19,
+          "text": "But it won't be you who will build this Temple, but your son who is to be born to you—he will build the Temple to honor me.'"
+        },
+        {
+          "number": 20,
+          "text": "Now the Lord has kept his promise that he made. I have succeeded my father David, and I sit on the throne of Israel, just as the Lord promised. I have built the Temple to honor the Lord, the God of Israel."
+        },
+        {
+          "number": 21,
+          "text": "I have provided a place there for the Ark, which contains the agreement of the Lord that he made with our forefathers when he led them out of the land of Egypt.”"
+        },
+        {
+          "number": 22,
+          "text": "Then Solomon stood in front of the altar of the Lord before the whole assembly of Israel and held out his hands toward heaven."
+        },
+        {
+          "number": 23,
+          "text": "He said, “Lord, God of Israel, there is no God like you in heaven above or on earth below. You keep your agreement of trustworthy love with your servants, those who are totally committed to following you."
+        },
+        {
+          "number": 24,
+          "text": "You have kept the promise you made to your servant David, my father. You yourself promised, and by your own power you have fulfilled it today."
+        },
+        {
+          "number": 25,
+          "text": "So now, Lord, God of Israel, please also keep the promise you made to your servant, my father David, when you said: ‘You will never fail to have a descendant sit in my presence on the throne of Israel, as long as they make sure to follow me as you have done.’"
+        },
+        {
+          "number": 26,
+          "text": "Now, God of Israel, please keep the promise you made to your servant, my father David."
+        },
+        {
+          "number": 27,
+          "text": "But will God really live here on earth? The heavens, even highest heaven, cannot contain you, much less this Temple I have built!"
+        },
+        {
+          "number": 28,
+          "text": "Please hear the prayer of your servant and his request, Lord my God. Please hear the appeals and the prayers that your servant is presenting before you today."
+        },
+        {
+          "number": 29,
+          "text": "May you watch over this Temple day and night, caring for the place where you said you would be honored. May you hear the prayer your servant prays toward this place,"
+        },
+        {
+          "number": 30,
+          "text": "and may you hear the request of your servant and your people Israel when they pray toward this place. Please hear from heaven where you live. May you hear and forgive."
+        },
+        {
+          "number": 31,
+          "text": "When someone sins against another and is required to take an oath before your altar in this Temple,"
+        },
+        {
+          "number": 32,
+          "text": "listen from heaven—act and judge your servants. Pay back the guilty; vindicate and reward those who do right."
+        },
+        {
+          "number": 33,
+          "text": "When your people Israel are defeated by an enemy because they have sinned against you, and if they come back in repentance to you, praying for forgiveness in this Temple,"
+        },
+        {
+          "number": 34,
+          "text": "then hear from heaven and forgive the sin of your people Israel, and bring them back to the land you gave to them and their forefathers."
+        },
+        {
+          "number": 35,
+          "text": "If the skies are closed shut and there is no rain because your people have sinned against you, if they pray toward this place and if they come back in repentance to you, turning away from their sin because you have punished them,"
+        },
+        {
+          "number": 36,
+          "text": "then hear from heaven and forgive the sin of your servants, your people Israel. Teach them the good way so that they can walk in it, and send rain on the earth that you have given to your people as their possession."
+        },
+        {
+          "number": 37,
+          "text": "If there is famine in the land, or disease, or blight or mildew on the crops, or if there are locusts or caterpillars, or if an enemy comes to lay siege to the towns in the land—it can be whatever kind of plague or whatever kind of disease—"
+        },
+        {
+          "number": 38,
+          "text": "then whatever kind of prayer or whatever kind of appeal is made by anyone or all your people Israel, (in fact anyone who, knowing their problems and pains, prays toward this Temple),"
+        },
+        {
+          "number": 39,
+          "text": "then hear from heaven, the place where you live, and forgive. Give according to the way they live their lives, for you know what people are really like inside, and you alone know the true character of people."
+        },
+        {
+          "number": 40,
+          "text": "Then they will respect you and follow your ways all the time they live in the land you gave to our forefathers."
+        },
+        {
+          "number": 41,
+          "text": "As for the foreigners who do not belong to your people Israel but who come from a distant land,"
+        },
+        {
+          "number": 42,
+          "text": "having heard of your great nature and power and ability to help, when they come and pray toward this Temple,"
+        },
+        {
+          "number": 43,
+          "text": "then hear from heaven, the place where you live, and give them what they're asking. That way, everyone on earth will come to know and respect you, just as your own people Israel do. They will also know that this Temple I have built is dedicated to you."
+        },
+        {
+          "number": 44,
+          "text": "When your people go to fight against their enemies, wherever you send them, and when they pray to you towards the city you have chosen and the house I have built to honor you,"
+        },
+        {
+          "number": 45,
+          "text": "then hear from heaven what they are praying and asking for, and support their cause."
+        },
+        {
+          "number": 46,
+          "text": "If they sin against you—and there is nobody who does not sin—you may become angry with them and hand them over to an enemy who takes them away as prisoners to a foreign land, near or far away."
+        },
+        {
+          "number": 47,
+          "text": "But if they think again in their land of captivity and repent and plead for mercy from you, saying, ‘We have sinned, we have done wrong, we have acted wickedly,’"
+        },
+        {
+          "number": 48,
+          "text": "and they come back to you with complete sincerity in their thoughts and attitudes there in their land of captivity; and they pray towards the land you gave their forefathers, the city you chose, and the Temple I have built to honor you,"
+        },
+        {
+          "number": 49,
+          "text": "then hear from heaven, the place where you live, respond and support their cause."
+        },
+        {
+          "number": 50,
+          "text": "Forgive your people who have sinned against you, all the rebellious acts they have committed against you. Please make those who have captured them show mercy to them."
+        },
+        {
+          "number": 51,
+          "text": "For they are your people—they belong to you! You led them out of Egypt, out of the middle of a furnace used for smelting iron."
+        },
+        {
+          "number": 52,
+          "text": "May you pay attention to the requests of your servant, and to the requests of your people Israel, and may you respond whenever they call out to you."
+        },
+        {
+          "number": 53,
+          "text": "For you set them apart from all the nations of the world as a people who belonged to you, just as you declared through your servant Moses when you led our fathers out of Egypt.”"
+        },
+        {
+          "number": 54,
+          "text": "After Solomon finished praying all these prayers and requests to the Lord, he stood up before the altar of the Lord, where he had been kneeling with his hands held out toward heaven."
+        },
+        {
+          "number": 55,
+          "text": "Solomon stood, and in a loud voice he blessed the whole assembly of Israel, saying,"
+        },
+        {
+          "number": 56,
+          "text": "“Praise the Lord, who has given rest to his people Israel in accordance with everything he promised. Not a single word has failed among all the good promises he made through his servant Moses."
+        },
+        {
+          "number": 57,
+          "text": "May the Lord our God be with us in the same way he was with our forefathers. May he never leave us or abandon us."
+        },
+        {
+          "number": 58,
+          "text": "May he help us to come to him, to follow all his ways and to keep the commandments, statutes, and regulations he ordered our forefathers to observe."
+        },
+        {
+          "number": 59,
+          "text": "May these words of mine I have used to make my request in the Lord's presence be before the Lord our God day and night. In that way he may support the cause of his servant and of his people Israel as is needed every day,"
+        },
+        {
+          "number": 60,
+          "text": "in order that everyone on the earth may know that the Lord is God, and that there is no other!"
+        },
+        {
+          "number": 61,
+          "text": "So make sure you are completely committed to the Lord our God just as you are today, and be careful to follow his statutes and to keep his commandments.”"
+        },
+        {
+          "number": 62,
+          "text": "Then the king together with all of Israel offered sacrifices before the Lord."
+        },
+        {
+          "number": 63,
+          "text": "Solomon presented as friendship offerings to the Lord 22,000 bulls and 120,000 sheep. In this way the king and all the people of Israel dedicated the Lord's Temple."
+        },
+        {
+          "number": 64,
+          "text": "On that same day, the king dedicated the center of the courtyard in front of the Lord's Temple. There he presented burnt offerings, grain offerings, and the fat of the friendship offerings, since the bronze altar in the Lord's presence was too small to hold all these offerings."
+        },
+        {
+          "number": 65,
+          "text": "Then Solomon together with all of Israel observed the festival before the Lord our God for seven days, and then another seven days—fourteen days in all. It was a large assembly of people, who came from as far away as Lebo-hamath to the Wadi of Egypt."
+        },
+        {
+          "number": 66,
+          "text": "One day later* Solomon sent the people home. They blessed the king and went home, full of joy and happy for all the good things that the Lord had done for his servant David and for his people Israel."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "8:2",
+          "text": "The Festival of Shelters."
+        },
+        {
+          "ref": "8:9",
+          "text": "“Horeb”: another name for Mount Sinai."
+        },
+        {
+          "ref": "8:12",
+          "text": "“You”: literally, “he,” but changed to the second person in order to be consistent with the rest of the prayer."
+        },
+        {
+          "ref": "8:66",
+          "text": "“One day later”: literally, “on the eighth day,” counting from the beginning of the second week."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "After Solomon had finished the Lord's Temple and the royal palace, having accomplished everything he'd wanted to do,"
+        },
+        {
+          "number": 2,
+          "text": "the Lord appeared to him a second time, as he had appeared to him at Gibeon."
+        },
+        {
+          "number": 3,
+          "text": "The Lord told him, “I have heard your prayer and your request to me. I have dedicated this Temple you have built by placing my name on it forever; I will always watch over it and take care of it."
+        },
+        {
+          "number": 4,
+          "text": "As for you, if you follow my ways as your father David did, doing everything I've told you to do, and if you keep my laws and regulations,"
+        },
+        {
+          "number": 5,
+          "text": "then I will make your throne secure forever. I made this agreement with your father David, telling him, ‘You will always have a descendant to rule over Israel.’"
+        },
+        {
+          "number": 6,
+          "text": "But if you or your descendants turn away and do not keep the laws and the commandments I have given you, and if you go and serve and worship other gods,"
+        },
+        {
+          "number": 7,
+          "text": "then I will cut Israel off from the land I have given them. I will banish from my presence this Temple I have dedicated to my honor, and I will make it an object lesson of ridicule among the nations."
+        },
+        {
+          "number": 8,
+          "text": "This Temple will become a pile of rubble. All who pass by it will be appalled and will hiss, saying, ‘Why has the Lord acted in such a way to this land and this Temple?’"
+        },
+        {
+          "number": 9,
+          "text": "The answer will come, ‘Because they abandoned the Lord their God, who brought their forefathers out of Egypt, and have embraced other gods, worshiping them and serving them. That's why the Lord has brought all this trouble upon them.’”"
+        },
+        {
+          "number": 10,
+          "text": "It took twenty years for Solomon to construct the two buildings—the Temple of the Lord and his own palace. After this,"
+        },
+        {
+          "number": 11,
+          "text": "King Solomon gave twenty towns in Galilee to Hiram king of Tyre, because Hiram had provided him with all the cedar and juniper and gold he wanted."
+        },
+        {
+          "number": 12,
+          "text": "But when Hiram went from Tyre to see the cities that Solomon had given him, he was not happy with them."
+        },
+        {
+          "number": 13,
+          "text": "“What are these towns you have given me, my brother?” asked Hiram. He called them the land of Cabul,* the name they are known by to this day."
+        },
+        {
+          "number": 14,
+          "text": "Even so, Hiram sent the king 120 talents of gold in payment."
+        },
+        {
+          "number": 15,
+          "text": "Here is the account of the forced labor that King Solomon imposed to build the Lord's Temple, his own palace, the terraces, and the wall of Jerusalem, as well as Hazor, Megiddo, and Gezer."
+        },
+        {
+          "number": 16,
+          "text": "Pharaoh, king of Egypt, had attacked and captured Gezer. He had set it on fire, and killed the Canaanites living in the town. He had then given it as a wedding dowry to his daughter, Solomon's wife."
+        },
+        {
+          "number": 17,
+          "text": "Solomon rebuilt Gezer and lower Beth-horon,"
+        },
+        {
+          "number": 18,
+          "text": "Baalath and Tamar in the wilderness, in the land of Judah,"
+        },
+        {
+          "number": 19,
+          "text": "and all of Solomon's towns for storage, and the towns for his chariots and for his horsemen, plus whatever Solomon wanted to build in Jerusalem, in Lebanon, and throughout his entire kingdom."
+        },
+        {
+          "number": 20,
+          "text": "The descendants of the Amorites, Hittites, Perizzites, Hivites and Jebusites (people who were not Israelites)"
+        },
+        {
+          "number": 21,
+          "text": "who remained in the land—those whom the Israelites were unable to destroy completely—were conscripted by Solomon to work as forced laborers, as they continue to do to this day."
+        },
+        {
+          "number": 22,
+          "text": "But Solomon did not enslave any of the Israelites. They were his soldiers, officials, commanders, captains, chariot commanders, and horsemen."
+        },
+        {
+          "number": 23,
+          "text": "They were also the chief officers in charge of Solomon's programs: 550 in command of the people who carried out the work."
+        },
+        {
+          "number": 24,
+          "text": "Once Pharaoh's daughter had moved from the City of David to the palace that Solomon had built for her, he built the city terraces."
+        },
+        {
+          "number": 25,
+          "text": "Three times each year Solomon sacrificed burnt offerings and friendship offerings on the altar he had built for the Lord, burning incense before the Lord with them, and so fulfilled what was required at the Temple.*"
+        },
+        {
+          "number": 26,
+          "text": "King Solomon built a fleet of ships at Ezion-geber, which is near Eloth on the shore of the Red Sea, in the land of Edom."
+        },
+        {
+          "number": 27,
+          "text": "Hiram sent his sailors who knew the sea to serve in the fleet with Solomon's men."
+        },
+        {
+          "number": 28,
+          "text": "They sailed to Ophir and brought back 420 talents of gold from there and delivered it to Solomon."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "9:13",
+          "text": "“The land of Cabul:” suggesting these towns were of no value."
+        },
+        {
+          "ref": "9:25",
+          "text": "“So fulfilled what was required at the Temple.” Some read this as “so he completed building the Temple,” however this has already been stated, and this verse begins by stating that Solomon sacrificed three times a year, clearly regular acts well after the completion of the Temple."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The queen of Sheba heard how famous Solomon was, so she came to Jerusalem to test him with tough questions."
+        },
+        {
+          "number": 2,
+          "text": "She brought with her a very large entourage, with camels loaded with spices, large amounts of gold, and precious gemstones. She came to Solomon and asked him about everything she had on her mind."
+        },
+        {
+          "number": 3,
+          "text": "Solomon answered all her questions. There was nothing he couldn't explain to her."
+        },
+        {
+          "number": 4,
+          "text": "When the queen of Sheba saw Solomon's wisdom, and the palace he had built,"
+        },
+        {
+          "number": 5,
+          "text": "the food on the table, how his officials lived, how his servants operated and how they were dressed, the clothes of the waiters, and the burnt offerings he presented at the Lord's Temple, she was so astonished* she could hardly breathe."
+        },
+        {
+          "number": 6,
+          "text": "She told the king, “It's true what I heard in my own country about your proverbs* and your wisdom!"
+        },
+        {
+          "number": 7,
+          "text": "But I didn't believe what they told me until I came and saw with my own eyes. In fact, I wasn't told the half of it—the extent of your wisdom far exceeds what I heard!"
+        },
+        {
+          "number": 8,
+          "text": "How happy your people must be! How happy those who work for you, who stand here every day listening to your wisdom!"
+        },
+        {
+          "number": 9,
+          "text": "Praise the Lord your God who is so pleased with you, who placed you on his throne as king to rule on his behalf. Because of the love of your God for Israel he has made them secure forever, and he has made you king over them to do what is fair and right.”"
+        },
+        {
+          "number": 10,
+          "text": "She presented the king with one hundred and twenty talents of gold, huge amounts of spices and precious stones. Never before had there been spices like those the queen of Sheba gave to King Solomon."
+        },
+        {
+          "number": 11,
+          "text": "(Hiram's fleet of ships brought gold from Ophir, and also carried algum wood and precious stones."
+        },
+        {
+          "number": 12,
+          "text": "The king used the algum wood to make steps* for the Temple and for the royal palace, and into lyres and harps for the musicians. Nothing like them had ever been seen before in the land of Judah.)"
+        },
+        {
+          "number": 13,
+          "text": "King Solomon gave the queen of Sheba all she wanted, whatever she asked for. This was in addition to the usual gifts he had generously given her. Then she and her attendants returned home to her own country."
+        },
+        {
+          "number": 14,
+          "text": "The weight of gold that Solomon received each year was 666 talents,"
+        },
+        {
+          "number": 15,
+          "text": "not including that received from traders and merchants, and all the kings of Arabia and governors of the land."
+        },
+        {
+          "number": 16,
+          "text": "King Solomon made two hundred shields of hammered gold. Each shield required six hundred shekels of hammered gold."
+        },
+        {
+          "number": 17,
+          "text": "He also made three hundred small shields of hammered gold. Each of these shields required three gold minas.* The king placed them in the Palace of the Forest of Lebanon."
+        },
+        {
+          "number": 18,
+          "text": "The king also made a great throne of ivory, and covered it with pure gold."
+        },
+        {
+          "number": 19,
+          "text": "The throne had six steps, with a rounded top* at the back. There were armrests on both sides of the seat, with lions standing beside the armrests."
+        },
+        {
+          "number": 20,
+          "text": "Twelve lions stood on the six steps, one on opposite ends of each step. Nothing like this had ever been made for any kingdom."
+        },
+        {
+          "number": 21,
+          "text": "All of King Solomon's drinking cups were gold, and all the utensils of the Palace of the Forest of Lebanon were pure gold. No silver was used, because it was not valued in the days of Solomon."
+        },
+        {
+          "number": 22,
+          "text": "The king had a fleet of ships from Tarshish crewed by Hiram's sailors. Once every three years the ships of Tarshish would arrive with a cargo of gold, silver, ivory, apes, and peacocks."
+        },
+        {
+          "number": 23,
+          "text": "King Solomon was greater than any other king on earth in wealth and wisdom."
+        },
+        {
+          "number": 24,
+          "text": "The whole world wanted to meet Solomon to hear the wisdom that God had placed in his mind."
+        },
+        {
+          "number": 25,
+          "text": "Year after year, every visitor would bring gifts—articles of silver and gold, clothes, weapons, spices, horses, and mules."
+        },
+        {
+          "number": 26,
+          "text": "Solomon accumulated 1,400 chariots and 12,000 horsemen. He kept them in the chariot towns, and also with him in Jerusalem."
+        },
+        {
+          "number": 27,
+          "text": "The king made silver as plentiful in Jerusalem as stones, and cedar wood as plentiful as sycamore-figs in the foothills."
+        },
+        {
+          "number": 28,
+          "text": "Solomon's horses were imported from Egypt* and Kue—the royal merchants purchased them in Kue."
+        },
+        {
+          "number": 29,
+          "text": "A chariot imported from Egypt cost six hundred shekels of silver, and a horse a hundred and fifty. They also exported them to all the Hittite kings, and to the Aramean kings."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "10:5",
+          "text": "“She was so astonished”: implied by the phrase (literally) “there was no longer breath in her.”"
+        },
+        {
+          "ref": "10:6",
+          "text": "“Proverbs”: literally, “words.”"
+        },
+        {
+          "ref": "10:12",
+          "text": "“Steps”: or “railings.”"
+        },
+        {
+          "ref": "10:17",
+          "text": "A mina was worth around 50 shekels."
+        },
+        {
+          "ref": "10:19",
+          "text": "“Rounded top”: the Septuagint has “calves,” in other words a carving depicting calves."
+        },
+        {
+          "ref": "10:28",
+          "text": "“Egypt”: or Musri (Cappadocia)."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "King Solomon loved many foreign women. Besides Pharaoh's daughter, there were women from the Moabites, Ammonites, Edomites, Sidonians, and Hittites."
+        },
+        {
+          "number": 2,
+          "text": "They were from the nations that the Lord had warned the Israelites, “You must not intermarry with them, for they will undoubtedly convince you to worship their gods.” Yet Solomon because of his love for women held on to them."
+        },
+        {
+          "number": 3,
+          "text": "He had seven hundred wives of noble birth and three hundred concubines. His wives did convince him to turn away from the Lord."
+        },
+        {
+          "number": 4,
+          "text": "As Solomon grew old, his wives led him to follow other gods, and he did not commit himself wholeheartedly to the Lord as his father David had done."
+        },
+        {
+          "number": 5,
+          "text": "Solomon worshiped Ashtoreth, goddess of the Sidonians, and Molech, the vile god* of the Ammonites."
+        },
+        {
+          "number": 6,
+          "text": "This was how Solomon did evil in the Lord's sight, and was not completely dedicated to the Lord as his father David was."
+        },
+        {
+          "number": 7,
+          "text": "It was then that Solomon built a high place of worship for Chemosh, the vile god of the people of Moab, and for Molech, the vile god of the Ammonites, on a hill east of Jerusalem."
+        },
+        {
+          "number": 8,
+          "text": "He built places of worship for all his foreign wives where they burned incense and sacrificed to their gods."
+        },
+        {
+          "number": 9,
+          "text": "The Lord became angry with Solomon because he had turned away from the Lord, the God of Israel, who had appeared to him twice."
+        },
+        {
+          "number": 10,
+          "text": "The Lord had warned Solomon about this—that he should not worship other gods. But Solomon did not listen to the Lord's warning."
+        },
+        {
+          "number": 11,
+          "text": "So the Lord told him, “Since this is what you have done, and since you have not kept my agreement and my laws that I commanded, I will definitely take* the kingdom away from you and give it to your servant."
+        },
+        {
+          "number": 12,
+          "text": "However, for the sake of your father David, I will not do this in your lifetime—I will take it away from your son."
+        },
+        {
+          "number": 13,
+          "text": "Even then I will not take away the whole kingdom. I will leave your son with one tribe for the sake of my servant David, and for the sake of my chosen city Jerusalem.”"
+        },
+        {
+          "number": 14,
+          "text": "Then the Lord encouraged Hadad the Edomite of Edom's royal family to oppose Solomon."
+        },
+        {
+          "number": 15,
+          "text": "Previously, when David was in Edom, Joab the commander of the Israelite army had gone to bury some of his soldiers who had been killed, and had slaughtered every male in Edom."
+        },
+        {
+          "number": 16,
+          "text": "Joab and the whole Israelite army had spent six months there destroying them all."
+        },
+        {
+          "number": 17,
+          "text": "But Hadad and some Edomites who had been his father's officials had run away to Egypt—Hadad was just a boy at the time."
+        },
+        {
+          "number": 18,
+          "text": "They left Midian and went to Paran. Then, along with some people from Paran, they went to Egypt, to Pharaoh king of Egypt. He provided Hadad with a house and food, and also assigned him land as a gift."
+        },
+        {
+          "number": 19,
+          "text": "Pharaoh became very friendly with Hadad, and he gave him the sister of his own wife to marry, Queen Tahpenes' sister."
+        },
+        {
+          "number": 20,
+          "text": "She gave birth to his son called Genubath. Tahpenes brought him up in Pharaoh's palace with Pharaoh's own children."
+        },
+        {
+          "number": 21,
+          "text": "However, when news reached Hadad in Egypt that both David and Joab, the commander of the army, had died, Hadad said to Pharaoh, “Let me leave and return to my own country.”"
+        },
+        {
+          "number": 22,
+          "text": "Pharaoh asked him, “Is there anything that you have lacked here with me that now you want to go back to your own country?” “No, there's nothing,” Hadad replied, “but please just let me go home.”"
+        },
+        {
+          "number": 23,
+          "text": "God also encouraged Rezon, son of Eliada, to oppose Solomon. He had run away from his master Hadadezer, king of Zobah. After David had destroyed Zobah's army,"
+        },
+        {
+          "number": 24,
+          "text": "Rezon gathered around him a rebel band, and became their leader. They went and settled in Damascus, where they took over."
+        },
+        {
+          "number": 25,
+          "text": "Rezon was Israel's enemy throughout Solomon's lifetime which added to the trouble Hadad caused. Rezon really hated Israel, and was the ruler of Aram."
+        },
+        {
+          "number": 26,
+          "text": "In addition, Jeroboam, son of Nebat, rebelled against the king. One of Solomon's officials, he was an Ephraimite from Zeredah. His mother was a widow called Zeruah."
+        },
+        {
+          "number": 27,
+          "text": "This is why he rebelled against the king: Solomon had built the terraces and had closed the gap in the wall of the city of his father David."
+        },
+        {
+          "number": 28,
+          "text": "Jeroboam was a man of ability, and when Solomon realized how successful he was in what he did, he placed him in command of all the forced labor of the tribes of Joseph."
+        },
+        {
+          "number": 29,
+          "text": "Around that time the prophet Ahijah the Shilonite met Jeroboam on the road as he was leaving Jerusalem."
+        },
+        {
+          "number": 30,
+          "text": "Ahijah had wrapped himself in a new cloak, and the two of them were by themselves in the countryside. Ahijah took the new cloak he was wearing and ripped it up into twelve pieces."
+        },
+        {
+          "number": 31,
+          "text": "He said, “Jeroboam, take ten pieces. This is what the Lord God of Israel says. ‘Jeroboam, I am the Lord, the God of Israel, and I am going to take Solomon's kingdom from him and give you ten of the tribes."
+        },
+        {
+          "number": 32,
+          "text": "One tribe will be left for the sake of my servant David and for the sake of Jerusalem, the city I chose from among all the tribes of Israel."
+        },
+        {
+          "number": 33,
+          "text": "This is because they have abandoned me and bowed down in worship of Ashtoreth, goddess of the Sidonians, Chemosh, god of the Moabites, and Molech, god of the Ammonites. They have not followed my ways; they have not done what is right in my sight; they have not kept my commandments and laws as David, Solomon's father, did."
+        },
+        {
+          "number": 34,
+          "text": "Even so, I'm not going to take the whole kingdom from Solomon, because I made him ruler for his lifetime for the sake of my servant David. I chose him because he kept my commandments and laws."
+        },
+        {
+          "number": 35,
+          "text": "But I will take from his son's kingdom ten tribes and give them to you."
+        },
+        {
+          "number": 36,
+          "text": "I will give his son one tribe, so that my servant David will always have a descendant like* a lamp before me in Jerusalem, the city where I chose to be honored."
+        },
+        {
+          "number": 37,
+          "text": "I will take you, and you shall reign over everything that you want. You will be king over Israel."
+        },
+        {
+          "number": 38,
+          "text": "If you accept everything that I command you, if you follow my ways, if you do what is right in my sight, keeping my laws and commandments as my servant David did, then I will be with you. I will set up for you a dynasty that lasts, just as I did for David, and I will give Israel to you."
+        },
+        {
+          "number": 39,
+          "text": "I will punish David's descendants because of this, but not forever.’”"
+        },
+        {
+          "number": 40,
+          "text": "So Solomon tried to kill Jeroboam. But Jeroboam ran away to Egypt, to Shishak king of Egypt. He remained there until Solomon's death."
+        },
+        {
+          "number": 41,
+          "text": "The record of the rest of the acts of Solomon, including everything he did, and his wisdom, are written in the Book of the Acts of Solomon."
+        },
+        {
+          "number": 42,
+          "text": "Solomon reigned in Jerusalem over all of Israel for a total of forty years."
+        },
+        {
+          "number": 43,
+          "text": "Solomon died and was buried in the city of his father David. His son Rehoboam succeeded him as king."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "11:5",
+          "text": "The word for “god” is replaced in the text by the word “filth,” meaning something vile and detestable. Also in verse 7."
+        },
+        {
+          "ref": "11:11",
+          "text": "The word used here is to rip or tear. Also in verse 12."
+        },
+        {
+          "ref": "11:36",
+          "text": "“A descendant like”: implied."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Rehoboam went to Shechem because that is where the whole of Israel had gone to make him king."
+        },
+        {
+          "number": 2,
+          "text": "Jeroboam, son of Nebat, was still in Egypt when he heard about this. (He had run away to Egypt to escape from King Solomon and was living there.)"
+        },
+        {
+          "number": 3,
+          "text": "The Israelite leaders sent for him. Jeroboam and the whole assembly of Israelites went to talk with Rehoboam."
+        },
+        {
+          "number": 4,
+          "text": "“Your father placed a heavy burden on us,” they told him. “But now if you lighten the load from when we served your father and the heavy demands he imposed on us, we will serve you.”"
+        },
+        {
+          "number": 5,
+          "text": "Rehoboam answered, “Go away and come back in three days' time.” So the people left."
+        },
+        {
+          "number": 6,
+          "text": "King Rehoboam asked for advice from the elders who had served his father Solomon when he was alive. “How do you advise me to reply to these people about this?” he asked."
+        },
+        {
+          "number": 7,
+          "text": "They replied, “If you are a servant to these people today, if you serve them and answer them, by speaking kindly to them, they will always serve you.”"
+        },
+        {
+          "number": 8,
+          "text": "But Rehoboam dismissed the advice of the elders. Instead he consulted the young men he had grown up with, and who were close to him."
+        },
+        {
+          "number": 9,
+          "text": "He asked them, “What response do you advise that we send back to these people who have told me, ‘Lighten the burden your father put on us’?”"
+        },
+        {
+          "number": 10,
+          "text": "The young men he had grown up with told him, “This is what you have to tell these people who said to you, ‘Your father made our burden heavy, but you should make it lighter.’ This is what you should answer them: ‘My little finger is thicker than my father's waist!"
+        },
+        {
+          "number": 11,
+          "text": "My father placed a heavy burden on you, and I will make it even heavier. My father punished you with whips; I will punish you with scorpions.’”"
+        },
+        {
+          "number": 12,
+          "text": "Three days' later, Jeroboam and all the people returned to Rehoboam, because the king had told them, “Come back in three days time.”"
+        },
+        {
+          "number": 13,
+          "text": "The king answered the people sharply. Dismissing the advice of the elders,"
+        },
+        {
+          "number": 14,
+          "text": "he replied using the advice of the young men. He said, “My father placed a heavy burden on you, and I will make it even heavier. My father punished you with whips; I will punish you with scorpions.”"
+        },
+        {
+          "number": 15,
+          "text": "The king did not listen to what the people said, for this change in circumstances was from the Lord, to fulfill what the Lord had told Jeroboam son of Nebat through Ahijah the Shilonite."
+        },
+        {
+          "number": 16,
+          "text": "When all the Israelites saw that the king wasn't listening to them, they told the king: “What share do we have in David, and what part do we have in the son of Jesse? Go home, Israel! You're on your own, house of David!” So all the Israelites went home."
+        },
+        {
+          "number": 17,
+          "text": "However, Rehoboam still ruled over the Israelites who lived in Judah."
+        },
+        {
+          "number": 18,
+          "text": "Then King Rehoboam sent out Hadoram, who was in charge of forced labor,* but the Israelites stoned him to death. King Rehoboam quickly jumped into his chariot and raced back to Jerusalem."
+        },
+        {
+          "number": 19,
+          "text": "As a result, Israel has been in rebellion against the house of David to this day."
+        },
+        {
+          "number": 20,
+          "text": "When all the Israelites heard that Jeroboam had returned, they sent for him, summoning him to the assembly and made him king over all Israel. Only the tribe of Judah was left to the house of David."
+        },
+        {
+          "number": 21,
+          "text": "When Rehoboam arrived in Jerusalem, he gathered the men from the households of Judah and Benjamin— 180,000 chosen warriors—to go and fight against Israel to bring the kingdom back to Rehoboam, son of Solomon."
+        },
+        {
+          "number": 22,
+          "text": "But a message from the Lord came to Shemaiah the man of God that said,"
+        },
+        {
+          "number": 23,
+          "text": "“Say to Rehoboam, son of Solomon, king of Judah, to Judah and Benjamin, and to the rest of the people:"
+        },
+        {
+          "number": 24,
+          "text": "‘This is what the Lord says. Don't fight against your Israelite relatives. Every one of you, go home! For it was me that made this happen.’” So they obeyed what the Lord told them and went home, as the Lord had said."
+        },
+        {
+          "number": 25,
+          "text": "Jeroboam strengthened* the town of Shechem in the hill country of Ephraim and lived there. From there he went and built Penuel."
+        },
+        {
+          "number": 26,
+          "text": "Jeroboam said to himself, “The kingdom could easily return to the house of David."
+        },
+        {
+          "number": 27,
+          "text": "When people from here go to offer sacrifices at the Lord's Temple in Jerusalem, they will transfer their loyalty back to Rehoboam, king of Judah. Then they will kill me and go back to King Rehoboam.”"
+        },
+        {
+          "number": 28,
+          "text": "So after taking advice, the king had two golden calves made, and he told the people, “Don't bother going to Jerusalem any more. Look, Israel, here are your gods who led you out of the land of Egypt.”"
+        },
+        {
+          "number": 29,
+          "text": "He placed one in Bethel, and the other in Dan."
+        },
+        {
+          "number": 30,
+          "text": "This action brought about sin, because the people went as far north as Dan to worship the idol there."
+        },
+        {
+          "number": 31,
+          "text": "In addition Jeroboam had shrines built on high places and appointed as priests all kinds of people who were not Levites."
+        },
+        {
+          "number": 32,
+          "text": "Jeroboam initiated a festival on the fifteenth day of the eighth month, just like the festival held in Judah, and he offered sacrifices on the altar. He made this offering in Bethel, sacrificing to the calves he had made, and appointed priests in Bethel for the high places he had built."
+        },
+        {
+          "number": 33,
+          "text": "So on the fifteenth day of the eighth month, a month he had chosen himself, Jeroboam offered sacrifices on the altar he had set up in Bethel. In this way he instituted a festival for the Israelites, offering sacrifices on the altar and burning incense."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "12:18",
+          "text": "He was sent out to put down the rebellion."
+        },
+        {
+          "ref": "12:25",
+          "text": "“Strengthened”: literally, “built,” but Shechem existed long before this (see for example Genesis 12:6)."
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The Lord ordered a man of God from Judah to go to Bethel. He arrived just as Jeroboam was standing beside the altar about to present a burnt offering."
+        },
+        {
+          "number": 2,
+          "text": "He shouted out the Lord's condemnation of the altar: “Altar, altar, this is what the Lord says. A son will be born to the house of David. His name will be Josiah, and on you he will sacrifice the priests of the high places who burn offerings on you, and human bones will be burned on you.”"
+        },
+        {
+          "number": 3,
+          "text": "The same day the man of God gave a sign, saying, “This is the sign to prove that the Lord has spoken. Look! The altar will be split apart, and the ashes on it will spill out.”"
+        },
+        {
+          "number": 4,
+          "text": "When King Jeroboam heard the condemnation the man of God had shouted out against the altar in Bethel, he pointed his hand at him and said, “Arrest him!” But the hand the king had pointed at him had become paralyzed and he couldn't draw it back."
+        },
+        {
+          "number": 5,
+          "text": "The altar split apart, and the ashes spilled out from it, fulfilling the sign that the man of God had given from the Lord."
+        },
+        {
+          "number": 6,
+          "text": "Then the king said to the man of God, “Please plead with the Lord your God—pray for me that I may have my hand back!” The man of God pleaded with the Lord, and the king was given back the use of his hand as it was before."
+        },
+        {
+          "number": 7,
+          "text": "Then the king said to the man of God, “Come to my home and have a meal so I can give you a present.”"
+        },
+        {
+          "number": 8,
+          "text": "But the man of God told the king, “Even if you gave me half of everything you own, I still wouldn't go with you. In fact I refuse to eat or drink anything in this place."
+        },
+        {
+          "number": 9,
+          "text": "The Lord ordered me not to eat or drink anything, and not to return by the way I came.”"
+        },
+        {
+          "number": 10,
+          "text": "So he went a different way—he did not return the way he had come to Bethel."
+        },
+        {
+          "number": 11,
+          "text": "It so happened that an old prophet lived in Bethel. His sons* came and told him everything the man of God had done that day in Bethel. They also told their father what the man had said to the king."
+        },
+        {
+          "number": 12,
+          "text": "“Which way did he go?” their father asked them. So his sons showed him the way taken by the man of God from Judah."
+        },
+        {
+          "number": 13,
+          "text": "“Saddle up a donkey for me,” he told his sons. They saddled up a donkey and he got on."
+        },
+        {
+          "number": 14,
+          "text": "He rode after the man of God and found him sitting under an oak tree. “Are you the man of God who came from Judah?” he asked him. “Yes I am,” the man replied."
+        },
+        {
+          "number": 15,
+          "text": "“Come home with me and have something to eat,” he told him."
+        },
+        {
+          "number": 16,
+          "text": "“I can't turn around and go with you, and I won't eat or drink with you in this place,” the man of God replied."
+        },
+        {
+          "number": 17,
+          "text": "“The Lord ordered me, saying ‘You must not eat or drink anything there, or return by the way you came.’”"
+        },
+        {
+          "number": 18,
+          "text": "But the old prophet told him, “I am also a prophet, just like you. An angel told me God said, ‘Take him home with you so that he can have something to eat and drink’” But he was lying to him."
+        },
+        {
+          "number": 19,
+          "text": "So the man of God went back with him, and ate and drank in his house."
+        },
+        {
+          "number": 20,
+          "text": "As they were sitting at the table, a message from the Lord came to the prophet who had brought him back."
+        },
+        {
+          "number": 21,
+          "text": "He called out to the man of God who had come from Judah, “This is what the Lord says: Because you have disobeyed the word of the Lord and have not followed the orders that the Lord your God gave you,"
+        },
+        {
+          "number": 22,
+          "text": "instead you went back and ate and drank in the place where he told you not to, your body will not be buried in the tomb of your fathers.”"
+        },
+        {
+          "number": 23,
+          "text": "After the man of God had finished eating and drinking, the prophet who had brought him back saddled his own donkey for him."
+        },
+        {
+          "number": 24,
+          "text": "But as he went on his way a lion came across him on the road and killed him. His body was left lying in the road, with both the donkey and the lion standing beside it."
+        },
+        {
+          "number": 25,
+          "text": "Some passers-by saw the body lying in the road with the lion standing beside it, so they went and let people know about it in the town where the old prophet lived."
+        },
+        {
+          "number": 26,
+          "text": "When the old prophet who had led the other astray heard what had happened, he said, “It's the man of God who disobeyed the Lord's orders. That's why the Lord put him in the path of the lion, and it has mauled him and killed him, just as the Lord told him would happen.”"
+        },
+        {
+          "number": 27,
+          "text": "The prophet told his sons, “Saddle up a donkey for me.” So they saddled a donkey,"
+        },
+        {
+          "number": 28,
+          "text": "and he went and found the body. It was still lying in the road, with the donkey and the lion standing beside it. The lion had not eaten the body or attacked the donkey."
+        },
+        {
+          "number": 29,
+          "text": "The prophet picked up the body of the man of God, placed it on the donkey, and brought it back to his own town to mourn over him and bury him."
+        },
+        {
+          "number": 30,
+          "text": "He laid the body in his own tomb, and they mourned over him, crying, “My poor brother!”"
+        },
+        {
+          "number": 31,
+          "text": "After he'd buried him, he told his sons, “When I die, bury me in the grave where the man of God is buried. Lay my bones beside his bones."
+        },
+        {
+          "number": 32,
+          "text": "For the message from the Lord that he gave in condemnation against the altar in Bethel, and against all the shrines on the high places in the towns of Samaria, will definitely happen.”"
+        },
+        {
+          "number": 33,
+          "text": "But even after all this, Jeroboam did not change his evil ways. He went on choosing priests from all kinds of people. He appointed anyone who wanted to be a priest of the high places."
+        },
+        {
+          "number": 34,
+          "text": "It was because of this sin that the house of Jeroboam was wiped out, completely destroyed from the face of the earth."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "13:11",
+          "text": "“Sons”: the Hebrew text has “son” here, but in view of the plural being used later it seems best to use it here too."
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "verses": [
+        {
+          "number": 1,
+          "text": "It was at that time that Abijah, Jeroboam's son, fell ill."
+        },
+        {
+          "number": 2,
+          "text": "So Jeroboam told his wife, “Please go and disguise yourself so nobody will know you're Jeroboam's wife. Then go to Shiloh and look for Ahijah the prophet. He was the one who told me I would become king over this people."
+        },
+        {
+          "number": 3,
+          "text": "Take with you ten loaves of bread, some cakes, and a jar of honey for him.* He will explain to you what will happen to the boy.”"
+        },
+        {
+          "number": 4,
+          "text": "Jeroboam's wife did as she was told. She got up and went to Ahijah's house in Shiloh. Ahijah could not see—he had become blind because of his age."
+        },
+        {
+          "number": 5,
+          "text": "But the Lord had told Ahijah, “Look, Jeroboam's wife is coming to ask you about her son, because he's ill. This is what you are to tell her, because she'll come in disguise.”"
+        },
+        {
+          "number": 6,
+          "text": "So as soon as Ahijah heard her footsteps at the door, he called out, “Come in, wife of Jeroboam! Why do you bother coming in disguise? I have been given some bad news for you."
+        },
+        {
+          "number": 7,
+          "text": "Go and tell Jeroboam this is what the Lord, the God of Israel, says: I picked you from the masses and I made you ruler over my people Israel."
+        },
+        {
+          "number": 8,
+          "text": "I took the kingdom from the house of David and gave it to you. But you were not like my servant David, who kept my commandments and was totally committed to following me, only doing what was right in my sight."
+        },
+        {
+          "number": 9,
+          "text": "You have done more evil than all those* who lived before you. You have gone and made other gods for yourself, idols made of molten metal that made me angry. You have tossed me aside."
+        },
+        {
+          "number": 10,
+          "text": "Now pay attention, because as a result of this I am going to bring disaster on the house of Jeroboam. I will totally exterminate every one of your descendants in Israel, whether slave or free. I will burn the house of Jeroboam like a man burning refuse until it's all gone."
+        },
+        {
+          "number": 11,
+          "text": "Those of Jeroboam's family who die in the town will be eaten by dogs, and those who die in the countryside will be eaten by birds. For the Lord has spoken."
+        },
+        {
+          "number": 12,
+          "text": "As for you, get up and go home. As soon as you arrive in the city, the child will die."
+        },
+        {
+          "number": 13,
+          "text": "All of Israel will mourn for him, and they will bury him. He alone of Jeroboam's family will be buried in a tomb* because only in him has the Lord, the God of Israel found anything good—of the whole family of Jeroboam."
+        },
+        {
+          "number": 14,
+          "text": "The Lord will choose for himself a king to rule over Israel who will destroy the house of Jeroboam. This is starting to happen even now!"
+        },
+        {
+          "number": 15,
+          "text": "The Lord will strike Israel like a reed jerked to and fro by the water. He will pull up Israel by the roots from this good land that he gave their forefathers and scatter them beyond the Euphrates, because they have made their pagan Asherah poles, making the Lord angry."
+        },
+        {
+          "number": 16,
+          "text": "He will abandon Israel because of the sins of Jeroboam, those that he committed himself, and those he made Israel commit.”"
+        },
+        {
+          "number": 17,
+          "text": "Jeroboam's wife got up and left for Tirzah. As soon as she stepped through the doorway of her home, the boy died."
+        },
+        {
+          "number": 18,
+          "text": "All of Israel buried him and mourned for him, just as the Lord had said through his servant Ahijah the prophet."
+        },
+        {
+          "number": 19,
+          "text": "The rest of what Jeroboam did, how he engaged in warfare and how he reigned, they are recorded in the Book of Chronicles of the Kings of Israel."
+        },
+        {
+          "number": 20,
+          "text": "Jeroboam reigned for twenty-two years, and then he died. His son Nadab succeeded him as king."
+        },
+        {
+          "number": 21,
+          "text": "Rehoboam, son of Solomon, reigned in Judah. He was forty-one when he became king, and he reigned seventeen years in Jerusalem, the city the Lord had chosen from all the tribes of Israel where he would be honored. The name of his mother was Naamah the Ammonite."
+        },
+        {
+          "number": 22,
+          "text": "Judah did what was evil in the Lord's sight, and because of the sins they committed they made his jealous anger even greater than all their fathers had done."
+        },
+        {
+          "number": 23,
+          "text": "They also set up for themselves high places, sacred pillars, and Asherah poles on every high hill and under every green tree."
+        },
+        {
+          "number": 24,
+          "text": "There were even cult prostitutes* in the land. They followed all the disgusting practices of the nations that the Lord had driven out before the Israelites."
+        },
+        {
+          "number": 25,
+          "text": "In the fifth year of King Rehoboam's reign, Shishak, king of Egypt, attacked Jerusalem."
+        },
+        {
+          "number": 26,
+          "text": "He took the treasures of the Lord's Temple and the royal palace. He took everything, including all the gold shields Solomon had made."
+        },
+        {
+          "number": 27,
+          "text": "So King Rehoboam made bronze shields to replace them and handed them over to the captains of the guard to look after. They stood on duty at the entrance to the royal palace."
+        },
+        {
+          "number": 28,
+          "text": "Whenever the king went to the Lord's Temple, the guards would carry the shields. Afterwards they returned them to the guardroom."
+        },
+        {
+          "number": 29,
+          "text": "The rest of what happened in Rehoboam's reign and everything that he did are recorded in the Book of Chronicles of the Kings of Judah."
+        },
+        {
+          "number": 30,
+          "text": "Rehoboam and Jeroboam were always at war with each other."
+        },
+        {
+          "number": 31,
+          "text": "Rehoboam died and was buried with his ancestors in the City of David. The name of his mother was Naamah the Ammonite. His son Abijam succeeded him as king."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "14:3",
+          "text": "“For him”: implied."
+        },
+        {
+          "ref": "14:9",
+          "text": "Probably referring to previous kings."
+        },
+        {
+          "ref": "14:13",
+          "text": "Receiving a proper burial was considered very important in Israelite society."
+        },
+        {
+          "ref": "14:24",
+          "text": "Referring to both males and females."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Abijam became king of Judah in the eighteenth year of the reign of King Jeroboam, son of Nebat."
+        },
+        {
+          "number": 2,
+          "text": "He reigned in Jerusalem for three years. His mother's name was Maacah, daughter of Abishalom."
+        },
+        {
+          "number": 3,
+          "text": "Abijam committed all the sins his father had before him. He was not wholly dedicated to the Lord his God as his forefather David had been."
+        },
+        {
+          "number": 4,
+          "text": "Even so, for David's sake, the Lord his God let his descendants continue to rule like a lamp,* a son to rule after him and to make Jerusalem strong."
+        },
+        {
+          "number": 5,
+          "text": "For David had done what was right in the Lord's sight, and had not deviated from anything the Lord commanded throughout his lifetime, except in the case of Uriah the Hittite."
+        },
+        {
+          "number": 6,
+          "text": "(Rehoboam and Jeroboam were always at war with each other.)*"
+        },
+        {
+          "number": 7,
+          "text": "The rest of what happened in Abijam's reign and everything that he did are recorded in the Book of Chronicles of the Kings of Judah. Abijam and Jeroboam were always at war with each other."
+        },
+        {
+          "number": 8,
+          "text": "Abijam died and was buried in the City of David. His son Asa succeeded him as king."
+        },
+        {
+          "number": 9,
+          "text": "Asa became king of Judah in the twentieth year of the reign of Jeroboam, king of Israel."
+        },
+        {
+          "number": 10,
+          "text": "He reigned in Jerusalem forty-one years. His grandmother's name was Maacah, daughter of Abishalom."
+        },
+        {
+          "number": 11,
+          "text": "Asa did what was right in the Lord's sight, as his forefather David had done."
+        },
+        {
+          "number": 12,
+          "text": "He expelled the cult prostitutes from the land and got rid of all of the idols that his forefathers had made."
+        },
+        {
+          "number": 13,
+          "text": "He even dismissed his grandmother Maacah as queen mother, because she had made a disgusting idol. Asa had the idol chopped down and burned in the Kidron Valley."
+        },
+        {
+          "number": 14,
+          "text": "Though the high places were not removed, Asa was completely committed to the Lord all his life."
+        },
+        {
+          "number": 15,
+          "text": "He brought into the house of the Lord the silver and gold and the other items that he and his father had dedicated."
+        },
+        {
+          "number": 16,
+          "text": "Asa and Baasha, king of Israel, were always at war with each other."
+        },
+        {
+          "number": 17,
+          "text": "Baasha, king of Israel, attacked Judah and fortified Ramah to stop people coming from or going to Asa, king of Judah.*"
+        },
+        {
+          "number": 18,
+          "text": "So Asa took all the silver and gold that was left in the treasuries of the Lord's Temple and of the royal palace. He handed it over to his servants and sent them to Ben-hadad, son of Tabrimmon, the son of Hezion, king of Aram, who lived in Damascus, along with this message:"
+        },
+        {
+          "number": 19,
+          "text": "“Let us make a treaty between us, just as there was between my father and your father. Look, I've sent you a gift of silver and gold. Go and break your treaty with Baasha, king of Israel, so that he will retreat and leave me alone.”"
+        },
+        {
+          "number": 20,
+          "text": "Ben-hadad accepted Asa's proposal and sent his army with its commanders to attack the towns of Israel. They captured the towns of Ijon, Dan, Abel-beth-maacah, and all Kinnereth, including all the land of Naphtali."
+        },
+        {
+          "number": 21,
+          "text": "When Baasha heard about this, he stopped fortifying Ramah and retreated to Tirzah."
+        },
+        {
+          "number": 22,
+          "text": "Then King Asa issued a proclamation throughout all Judah, with no exception. The people obeyed, and carried away the stones and the timbers Baasha had used for building up Ramah. King Asa used these building materials to strengthen Geba of Benjamin, as well as Mizpah."
+        },
+        {
+          "number": 23,
+          "text": "The rest of what happened in Asa's reign, all his achievements, everything that he did, and the towns he built, are recorded in the Book of Chronicles of the Kings of Judah. But when he grew old he had disease in his feet.*"
+        },
+        {
+          "number": 24,
+          "text": "Asa died and was buried with his ancestors in the City of David. His son Jehoshaphat succeeded him as king."
+        },
+        {
+          "number": 25,
+          "text": "Nadab, son of Jeroboam became king of Israel in the second year of the reign of King Asa of Judah. He reigned in Israel for two years."
+        },
+        {
+          "number": 26,
+          "text": "He did what was evil in the Lord's sight. He followed the ways of his father and committed the same sins his father had made Israel commit."
+        },
+        {
+          "number": 27,
+          "text": "Baasha, son of Ahijah of the tribe of Issachar, plotted a rebellion against him. Baasha murdered Nadab at the Philistine town of Gibbethon while Nadab and the whole Israelite army were besieging it."
+        },
+        {
+          "number": 28,
+          "text": "Baasha killed Nadab and took over as king in the third year of the reign of King Asa of Judah."
+        },
+        {
+          "number": 29,
+          "text": "As soon as he became king he killed all the rest of Jeroboam's family. He did not leave any of Jeroboam's descendants alive—he destroyed them all, as the Lord had said through his servant Ahijah the Shilonite."
+        },
+        {
+          "number": 30,
+          "text": "This happened because of the sins Jeroboam had committed and had made Israel commit, and because he had made the Lord, the God of Israel, angry."
+        },
+        {
+          "number": 31,
+          "text": "The rest of what happened in Nadab's reign and everything that he did are recorded in the Book of Chronicles of the Kings of Israel."
+        },
+        {
+          "number": 32,
+          "text": "Asa and Baasha, king of Israel, were always at war with each other."
+        },
+        {
+          "number": 33,
+          "text": "Baasha, son of Ahijah, became king over all of Israel in the third year of the reign of King Asa in Judah. Baasha reigned in Tirzah for twenty-four years."
+        },
+        {
+          "number": 34,
+          "text": "Baasha did what was evil in the Lord's sight and followed the way of Jeroboam and his sin, which he had made Israel commit."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "15:4",
+          "text": "See 11:36."
+        },
+        {
+          "ref": "15:6",
+          "text": "This verse appears to be repeated from 14:30 and does not fit here in the description of Abijam. In the following verse it indicates that Abijam and Jeroboam were also always at war. Perhaps for this reason this verse is omitted from some manuscripts of the Septuagint."
+        },
+        {
+          "ref": "15:17",
+          "text": "Because some of those in Baasha's kingdom realized that Asa was following the true God, they wished to go over to him (see 2 Chronicles 15:9)."
+        },
+        {
+          "ref": "15:23",
+          "text": "This aspect was associated with problems in Asa's later life—see 2 Chronicles 16."
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Then this message from the Lord came to the prophet Jehu, son of Hanani, condemning Baasha."
+        },
+        {
+          "number": 2,
+          "text": "“Even though I lifted you out of the dust to make you ruler over my people Israel, you have followed the way of Jeroboam and have made my people Israel sin, making me angry by their sins."
+        },
+        {
+          "number": 3,
+          "text": "Now I'm going to destroy Baasha and his family. Baasha, I will make your family like that of Jeroboam, son of Nebat."
+        },
+        {
+          "number": 4,
+          "text": "Those of Baasha's family who die in the town will be eaten by dogs, and those who die in the countryside will be eaten by birds.”"
+        },
+        {
+          "number": 5,
+          "text": "The rest of the events of Baasha's reign, everything that he did and what he accomplished, are recorded in the Book of Chronicles of the Kings of Israel."
+        },
+        {
+          "number": 6,
+          "text": "Baasha died and was buried in Tirzah. His son Elah succeeded him as king."
+        },
+        {
+          "number": 7,
+          "text": "The message from the Lord condemning Baasha and his family came to the prophet Jehu, son of Hanani. It came because Baasha had done what was evil in the Lord's sight, in the same way as the family of Jeroboam had done, and also because Baasha had killed Jeroboam's family. The Lord was angry because of Baasha's sins."
+        },
+        {
+          "number": 8,
+          "text": "Elah, son of Baasha, became king of Israel in the twenty-sixth year of the reign of King Asa of Judah. He reigned in Tirzah for two years."
+        },
+        {
+          "number": 9,
+          "text": "One of Elah's officials called Zimri who was in charge of half his chariots plotted a rebellion against him. One time Elah was in Tirzah, getting himself drunk at the home of Arza, the palace manager at Tirzah."
+        },
+        {
+          "number": 10,
+          "text": "Zimri went up to him, attacked him, and killed him. This was in the twenty-seventh year of the reign of Asa, king of Judah. Then he took over from him as king."
+        },
+        {
+          "number": 11,
+          "text": "As soon as he became king and was installed on his throne, he killed all of Baasha's family. He did not leave a single male alive, whether of his relatives or of his friends."
+        },
+        {
+          "number": 12,
+          "text": "So Zimri destroyed the entire household of Baasha, as the Lord had said in his condemnation of Baasha through Jehu the prophet."
+        },
+        {
+          "number": 13,
+          "text": "This was because of all the sins Baasha and his son Elah had committed and had made Israel to commit. Their worship of their useless idols had angered the Lord, the God of Israel."
+        },
+        {
+          "number": 14,
+          "text": "The rest of what happened in Elah's reign and everything that he did are recorded in the Book of Chronicles of the Kings of Israel."
+        },
+        {
+          "number": 15,
+          "text": "Zimri became king of Israel in the twenty-seventh year of the reign of King Asa of Judah. He reigned in Tirzah seven days. At that time the Israelite army was attacking the Philistine town of Gibbethon."
+        },
+        {
+          "number": 16,
+          "text": "When the troops who were camped there learned that Zimri had plotted rebellion against the king and had murdered him, they made Omri, the army commander, king of Israel that same day in the army camp."
+        },
+        {
+          "number": 17,
+          "text": "Omri and the whole Israelite army left Gibbethon and went and besieged Tirzah."
+        },
+        {
+          "number": 18,
+          "text": "When Zimri saw that the city had been taken he went into the fortress of the royal palace and set it on fire around him, and he died, because of the sins he had committed."
+        },
+        {
+          "number": 19,
+          "text": "He did evil in the Lord's sight and followed the way of Jeroboam and his sin which he had made Israel commit."
+        },
+        {
+          "number": 20,
+          "text": "The rest of what happened in Zimri's reign and his rebellion are recorded in the Book of Chronicles of the Kings of Israel."
+        },
+        {
+          "number": 21,
+          "text": "After this the people of Israel were divided. Half supported Tibni, son of Ginath, as king, while the other half supported Omri."
+        },
+        {
+          "number": 22,
+          "text": "However, those on Omri's side defeated Tibni's supporters. Tibni was killed and Omri became king."
+        },
+        {
+          "number": 23,
+          "text": "Omri became king of Israel in the thirty-first year of the reign of King Asa of Judah. He reigned for a total of twelve years (six of them were in Tirzah)."
+        },
+        {
+          "number": 24,
+          "text": "He purchased the hill of Samaria from Shemer for two talents of silver. He fortified the hill, and named the city that he built Samaria, after Shemer, the previous owner of the hill."
+        },
+        {
+          "number": 25,
+          "text": "Omri did what was evil in the Lord's sight—in fact he did more evil than those* who lived before him."
+        },
+        {
+          "number": 26,
+          "text": "For he followed all the ways of Jeroboam, son of Nebat, and in his sins which he made Israel commit, worshiping their useless idols which angered the Lord, the God of Israel."
+        },
+        {
+          "number": 27,
+          "text": "The rest of what happened in Omri's reign, what he did, and his achievements are recorded in the Book of Chronicles of the Kings of Israel."
+        },
+        {
+          "number": 28,
+          "text": "Omri died and was buried in Samaria. His son Ahab succeeded him as king."
+        },
+        {
+          "number": 29,
+          "text": "Ahab, son of Omri, became king of Israel in the thirty-eighth year of the reign of King Asa of Judah. He reigned in Samaria for twenty-two years."
+        },
+        {
+          "number": 30,
+          "text": "Ahab, son of Omri, did evil in the Lord's sight, more than those who lived before him."
+        },
+        {
+          "number": 31,
+          "text": "He didn't see anything to worry about in following the sins of Jeroboam, son of Nebat, and he even married Jezebel, daughter of Ethbaal, king of the Sidonians, and started to serve and worship Baal."
+        },
+        {
+          "number": 32,
+          "text": "Ahab made an altar for Baal in the temple of Baal that he had built in Samaria."
+        },
+        {
+          "number": 33,
+          "text": "Then he put up an Asherah pole. In this way Ahab did more to anger the Lord, the God of Israel, than all the kings of Israel before him."
+        },
+        {
+          "number": 34,
+          "text": "During Ahab's reign Hiel of Bethel rebuilt Jericho. He sacrificed Abiram his firstborn son when he laid its foundation, and sacrificed Segub his youngest son when he constructed its gates.* This fulfilled the message the Lord had given through Joshua, son of Nun."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "16:25",
+          "text": "Probably referring to previous kings. Also verse 30."
+        },
+        {
+          "ref": "16:34",
+          "text": "The practice of sacrificing children when constructing a building was a rite carried out by the pagan Canaanites."
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Elijah the Tishbite (from Tishbe in Gilead), told Ahab, “As the Lord, the God of Israel, lives, the one I serve, in the years to come there will not be any dew or rain unless I say so!”"
+        },
+        {
+          "number": 2,
+          "text": "Then the Lord told Elijah,"
+        },
+        {
+          "number": 3,
+          "text": "“Leave here and go east. Hide in the valley of the Cherith brook where it meets the Jordan."
+        },
+        {
+          "number": 4,
+          "text": "You can drink from the brook, and I have ordered ravens to bring you food there.”"
+        },
+        {
+          "number": 5,
+          "text": "So Elijah did what the Lord told him. He went to the valley of the Cherith brook, where it meets the Jordan, and stayed there."
+        },
+        {
+          "number": 6,
+          "text": "Ravens brought him bread and meat both in the morning and in the evening, and he drank from the brook."
+        },
+        {
+          "number": 7,
+          "text": "A while later the brook dried up because there had been no rain in the land."
+        },
+        {
+          "number": 8,
+          "text": "Then the Lord told Elijah,"
+        },
+        {
+          "number": 9,
+          "text": "“Leave here and go to Zarephath near Sidon and stay there. I have given instructions to a widow there to provide you with food.”"
+        },
+        {
+          "number": 10,
+          "text": "So he left for Zarephath. When he arrived at the entrance to the town, he saw a woman, a widow, gathering sticks. He called her over and asked her, “Could you bring me a little water in a cup so I can have a drink?”"
+        },
+        {
+          "number": 11,
+          "text": "As she was going to get it, he called after her and said, “Oh, and please bring me a piece of bread.”"
+        },
+        {
+          "number": 12,
+          "text": "She replied, “As the Lord your God lives, I have no bread, only a handful of flour is left in a jar and a little bit of olive oil in a jug. Right now I am gathering a few sticks so I can go and cook what's left for myself and my son so we can eat it, and then we'll die.”"
+        },
+        {
+          "number": 13,
+          "text": "Elijah said to her, “Don't be afraid. Go home and do what you said. But first make me a small loaf of bread from what you have and bring it to me. Then make something for yourself and your son."
+        },
+        {
+          "number": 14,
+          "text": "For this is what the Lord, the God of Israel, says: ‘The jar of flour will not become empty and the jug of olive oil will not run out until the day the Lord sends rain to water the ground.’”"
+        },
+        {
+          "number": 15,
+          "text": "She went and did as Elijah had told her, and Elijah, the widow, and her household were able to eat for many days."
+        },
+        {
+          "number": 16,
+          "text": "The jar of flour did not become empty and the jug of olive oil did not run out, just as the Lord had said through Elijah."
+        },
+        {
+          "number": 17,
+          "text": "Later on the woman's son fell sick. (She was the one who owned the house.) He went from bad to worse, and finally he died."
+        },
+        {
+          "number": 18,
+          "text": "“What are you doing to me,* man of God?” the woman asked Elijah. “Have you come to remind me about my sins and cause my son to die?”"
+        },
+        {
+          "number": 19,
+          "text": "“Give me your son,” Elijah replied. He picked him up from her arms, carried him upstairs to the room where he was staying, and laid him on his bed."
+        },
+        {
+          "number": 20,
+          "text": "Then he cried out to the Lord, saying, “Lord my God, why have you allowed this to happen to this widow who has opened her home to me, this terrible tragedy of causing her son to die?”"
+        },
+        {
+          "number": 21,
+          "text": "He stretched himself out on the boy three times, and cried out to the Lord, “Lord my God, please let this boy's life return to him!”"
+        },
+        {
+          "number": 22,
+          "text": "The Lord responded to Elijah's cry. The boy's life returned to him, and he lived!"
+        },
+        {
+          "number": 23,
+          "text": "Elijah took the boy and brought him down from the room into the house, and gave him to his mother. “See, your son is alive,” Elijah told her."
+        },
+        {
+          "number": 24,
+          "text": "“Now I'm convinced that you are a man of God, and that what the Lord speaks through you is the truth,” the woman replied."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "17:18",
+          "text": "The literal phrase in the Hebrew is “What for me and for you?” It is sometimes translated “What do I have to do you with you?” but here it is clearly being used as a question regarding the death of the widow's son."
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Sometime later, during the third year, a message from the Lord came to Elijah: “Go and appear before Ahab, and I will send rain on the earth.”"
+        },
+        {
+          "number": 2,
+          "text": "So Elijah went to appear before Ahab. In the meantime the famine had become severe in Samaria."
+        },
+        {
+          "number": 3,
+          "text": "Ahab summoned Obadiah, the manager of his palace (Obadiah was a very sincere believer in the Lord."
+        },
+        {
+          "number": 4,
+          "text": "While Jezebel was busy killing the Lord's prophets, Obadiah had taken one hundred prophets and hidden them, fifty in each of two caves, and had provided them with food and water.)"
+        },
+        {
+          "number": 5,
+          "text": "Ahab told Obadiah, “Go throughout the country and check all the springs and valleys. Perhaps we can find some grass to keep the horses and mules alive so we will not lose any of the animals.”"
+        },
+        {
+          "number": 6,
+          "text": "So they divided the land between them. Ahab went in one direction, and Obadiah the other."
+        },
+        {
+          "number": 7,
+          "text": "As Obadiah went on his way, Elijah came to meet him. Obadiah recognized him, bowed down to the ground, and said, “Is it you, my lord Elijah?”"
+        },
+        {
+          "number": 8,
+          "text": "“It's me,” Elijah replied. “Go and tell your master, ‘Elijah is here.’”"
+        },
+        {
+          "number": 9,
+          "text": "“How have I sinned that you are handing me, your servant, over to Ahab to be killed?"
+        },
+        {
+          "number": 10,
+          "text": "As the Lord your God lives, there's no nation or kingdom where my master hasn't sent someone to search for you. When a nation or kingdom said you weren't there, he made them swear that they couldn't find you."
+        },
+        {
+          "number": 11,
+          "text": "And now you're telling me to go to my master and announce, ‘Elijah is here!’"
+        },
+        {
+          "number": 12,
+          "text": "I have no idea where the Spirit of the Lord will take you after I leave you. If I go and tell Ahab and then he can't find you, he's going to kill me, even though I, your servant, have worshiped the Lord since I was young."
+        },
+        {
+          "number": 13,
+          "text": "Didn't you hear, my lord, what I did when Jezebel was busy killing the Lord's prophets? I hid a hundred of the Lord's prophets, fifty in each of two caves, and provided them with food and water."
+        },
+        {
+          "number": 14,
+          "text": "And now you're telling me to go to my master and announce, ‘Elijah is here.’ He's going to kill me!”"
+        },
+        {
+          "number": 15,
+          "text": "Elijah replied, “As the Lord Almighty lives, the one I serve, I will definitely appear before Ahab today.”"
+        },
+        {
+          "number": 16,
+          "text": "So Obadiah went to meet Ahab and told him, and then Ahab went to meet Elijah."
+        },
+        {
+          "number": 17,
+          "text": "When Ahab saw Elijah, he said to him, “Is that you—you who are causing trouble for Israel?”"
+        },
+        {
+          "number": 18,
+          "text": "“I'm not causing trouble for Israel,” Elijah replied. “It's you and your father's family! You have rejected the Lord's commands and are worshiping the Baals."
+        },
+        {
+          "number": 19,
+          "text": "Now call together all of Israel and meet me on Mount Carmel, along with the four hundred and fifty prophets of Baal and the four hundred prophets of Asherah, who are supported by Jezebel.”"
+        },
+        {
+          "number": 20,
+          "text": "So Ahab summoned all of Israel and also gathered the prophets on Mount Carmel."
+        },
+        {
+          "number": 21,
+          "text": "Elijah approached the people and asked them, “How long will you hobble along, hesitating between two opposite beliefs? If the Lord is God, then follow him. But if Baal is God, then follow him.” But the people didn't answer."
+        },
+        {
+          "number": 22,
+          "text": "Then Elijah told them, “I am the only one left of the Lord's prophets—just me alone—but Baal has four hundred and fifty prophets."
+        },
+        {
+          "number": 23,
+          "text": "Provide us with two bulls. Let the prophets of Baal choose for themselves the one they want, and have them cut it into pieces and place it on the firewood. But don't set fire to it. I will prepare the other bull and place it on the firewood but I won't set fire to it."
+        },
+        {
+          "number": 24,
+          "text": "Then you call on your god by name, and I will call on the Lord by name. The god who replies by sending fire—he is God.” Then all the people said, “We agree to what you say.”*"
+        },
+        {
+          "number": 25,
+          "text": "Elijah said to the prophets of Baal, “You choose one of the bulls and prepare it first, because there are so many of you. Call on your god by name, but don't light the fire.”"
+        },
+        {
+          "number": 26,
+          "text": "So they took the bull provided and prepared it. Then they called on Baal by name from morning until noon. “Baal, answer us!” they pleaded. But no voice was heard, no one answered. They hobbled* in a dance around the altar they had made."
+        },
+        {
+          "number": 27,
+          "text": "At noon Elijah began to mock them. “Shout really loud!” he said. “Isn't he meant to be a god? Maybe he's meditating, or he's gone to the bathroom, or he's away on a trip! Maybe he's asleep and has to be woken up!”"
+        },
+        {
+          "number": 28,
+          "text": "They shouted even louder and cut themselves with swords and spears until they bled. This was their usual way of worshiping."
+        },
+        {
+          "number": 29,
+          "text": "Noon came and went, and they went on with their manic “prophesying” until the time* of the evening sacrifice. But no voice was heard, no one answered, no one was listening."
+        },
+        {
+          "number": 30,
+          "text": "Then Elijah told everyone, “Come over here to me.” They went over to him, and he repaired the altar of the Lord that had been torn down."
+        },
+        {
+          "number": 31,
+          "text": "Elijah took twelve stones to represent the tribes of the sons of Jacob. (Jacob was the one who received the Lord's message that said, “Israel shall be your name.”)"
+        },
+        {
+          "number": 32,
+          "text": "With the stones he built an altar in the Lord's name. He dug a ditch around it that could hold two seahs of seed."
+        },
+        {
+          "number": 33,
+          "text": "He put the wood in place, cut the bull into pieces, and laid it on the wood. Then he told them, “Fill up four large jars with water and pour it over the offering and the wood.”"
+        },
+        {
+          "number": 34,
+          "text": "“Do it again,” he said. So they did. “Do it for a third time,” he said. So they did it for the third time."
+        },
+        {
+          "number": 35,
+          "text": "The water ran down all over the altar and even filled the ditch."
+        },
+        {
+          "number": 36,
+          "text": "At the time of the evening sacrifice, the prophet Elijah went over to the altar and prayed: “Lord, God of Abraham, Isaac, and Israel, demonstrate today that you are God in Israel, that I am your servant, and that everything I have done has been at your command."
+        },
+        {
+          "number": 37,
+          "text": "Answer me, Lord! Answer me, so that these people will know that you, Lord, are God, and that you are bringing them back to you.”"
+        },
+        {
+          "number": 38,
+          "text": "Then the fire of the Lord came down and burned up the sacrifice, the wood, the stones, and the soil—it even licked up the water in the ditch!"
+        },
+        {
+          "number": 39,
+          "text": "When all the people saw this, they fell facedown on the ground and shouted, “The Lord, he is God! The Lord, he is God!”"
+        },
+        {
+          "number": 40,
+          "text": "Then Elijah ordered them, “Grab hold of the prophets of Baal. Don't let any escape!” They grabbed them, and Elijah brought them down to the Kishon Valley and killed them there."
+        },
+        {
+          "number": 41,
+          "text": "Elijah told Ahab, “Go and eat and drink, for I hear the sound of a heavy rain coming.”"
+        },
+        {
+          "number": 42,
+          "text": "So Ahab went to eat and drink, but Elijah went to the top of Carmel. There he bent down to the ground, putting his face between his knees."
+        },
+        {
+          "number": 43,
+          "text": "“Go and look toward the sea,” he told his servant. The man went and looked. “There's nothing there,” he said. Seven times Elijah told him, “Go and look again.”"
+        },
+        {
+          "number": 44,
+          "text": "The seventh time the servant came back and said, “I saw a small cloud the size of a man's hand coming up from the sea.” So Elijah said, “Run to Ahab and tell him, ‘Get your chariot ready and go down before the rain stops you.’”"
+        },
+        {
+          "number": 45,
+          "text": "Very quickly the sky grew dark with clouds, the wind blew, heavy rain started falling, and Ahab rode down to Jezreel."
+        },
+        {
+          "number": 46,
+          "text": "The Lord gave his power to Elijah—he tucked his cloak into his belt and ran ahead of Ahab all the way to Jezreel."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "18:24",
+          "text": "“We agree to what you say”: literally “the word is good.” Perhaps a more modern colloquialism would be “good idea.”"
+        },
+        {
+          "ref": "18:26",
+          "text": "“Hobbled”: the word is the same used in verse 21 for their wavering between two beliefs. It is used here to describe the wayward, stumbling dance of these pagan priests who became increasingly disorientated as they tried to make their “god” answer them."
+        },
+        {
+          "ref": "18:29",
+          "text": "Around 3 pm."
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ahab told Jezebel everything that Elijah had done and that he had killed all the prophets of Baal with the sword."
+        },
+        {
+          "number": 2,
+          "text": "Jezebel sent a messenger to Elijah to say, “May the gods do as much to me and more if by tomorrow I haven't made your life like the lives of those you killed!”"
+        },
+        {
+          "number": 3,
+          "text": "Elijah was afraid and ran for his life. When he arrived in Beersheba in Judah, he left his servant there"
+        },
+        {
+          "number": 4,
+          "text": "and traveled another day's journey into the desert. He sat down under a broom tree and asked to die. “I've had enough now, Lord,” he said. “Take my life! I'm no better than my forefathers.”"
+        },
+        {
+          "number": 5,
+          "text": "He lay down and fell asleep under the broom tree. All of a sudden an angel touched him and said, “Get up, and eat.”"
+        },
+        {
+          "number": 6,
+          "text": "He looked around, and there beside his head was some bread baking over hot coals, and a jar of water. He ate and drank and lay down again."
+        },
+        {
+          "number": 7,
+          "text": "The angel of the Lord returned a second time and touched him, and said, “Get up and eat, otherwise the journey will be too much for you.”"
+        },
+        {
+          "number": 8,
+          "text": "So he got up and ate and drank, and with the strength the food gave him he was able to walk forty days and forty nights to Mount Horeb,* the mountain of God."
+        },
+        {
+          "number": 9,
+          "text": "There he entered a cave and spent the night. The Lord spoke to Elijah, and asked him, “What are you doing here, Elijah?”"
+        },
+        {
+          "number": 10,
+          "text": "“I have worked passionately for the Lord God Almighty,” he replied. “But the Israelites have abandoned your agreement, torn down your altars, and killed your prophets with the sword. I am the only one who's left, and they are trying to kill me as well.”"
+        },
+        {
+          "number": 11,
+          "text": "Then the Lord told him, “Go out and stand on the mountain before the Lord.” Right then the Lord passed by. A tremendously powerful wind ripped into the mountains and smashed rocks before the Lord, but the Lord wasn't in the wind. After the wind there came an earthquake, but the Lord wasn't in the earthquake."
+        },
+        {
+          "number": 12,
+          "text": "After the earthquake there came a fire, but the Lord wasn't in the fire. And after the fire came a voice speaking in a gentle whisper."
+        },
+        {
+          "number": 13,
+          "text": "When Elijah heard it, he wrapped his cloak around his face and went out and stood at the cave entrance. Immediately a voice spoke to him and asked, “What are you doing here, Elijah?”"
+        },
+        {
+          "number": 14,
+          "text": "“I have worked passionately for the Lord God Almighty,” he replied. “But the Israelites have abandoned your agreement, torn down your altars, and killed your prophets with the sword. I am the only one who's left, and they are trying to kill me as well.”"
+        },
+        {
+          "number": 15,
+          "text": "The Lord told him, “Go back the way you came to the desert of Damascus. When you get there, go and anoint Hazael king of Aram."
+        },
+        {
+          "number": 16,
+          "text": "Also anoint Jehu, son of Nimshi, king of Israel and Elisha, son of Shaphat, from Abel-meholah, to take over from you as prophet."
+        },
+        {
+          "number": 17,
+          "text": "Jehu will execute anyone who escapes the sword of Hazael, and Elisha will execute anyone who escapes the sword of Jehu."
+        },
+        {
+          "number": 18,
+          "text": "I still have seven thousand left in Israel, all those who have not bowed their knees to worship Baal and whose mouths have not kissed him.”"
+        },
+        {
+          "number": 19,
+          "text": "So Elijah left, and went and found Elisha, son of Shaphat. He was plowing with twelve pairs of oxen, and he was with the twelfth pair. Elijah went over to him and threw his cloak around him."
+        },
+        {
+          "number": 20,
+          "text": "Elisha left the oxen, ran after Elijah, and said, “Please let me go and kiss my father and mother goodbye, and then I will follow you.” “Go on home,” Elijah replied. “I've never done anything for you.”*"
+        },
+        {
+          "number": 21,
+          "text": "Elisha left him, took his pair of oxen, and slaughtered them. Using the wood of the oxen's yoke as fuel, he cooked the meat and gave it to the people, and they ate it.* Then he left to follow and serve Elijah."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "19:8",
+          "text": "Another name for Mount Sinai."
+        },
+        {
+          "ref": "19:20",
+          "text": "Meaning that there was no material advantage in following Elijah."
+        },
+        {
+          "ref": "19:21",
+          "text": "By taking these actions Elisha indicated to everyone he would not be using the oxen and plow ever again."
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ben-hadad, king of Aram, called up his entire army. Together with thirty-two kings and their assembled horses and chariots, he marched to besiege Samaria, to fight against it."
+        },
+        {
+          "number": 2,
+          "text": "He sent messengers to Ahab, king of Israel, in the city to tell him, “This is what Ben-hadad says:"
+        },
+        {
+          "number": 3,
+          "text": "Your silver and gold belong to me now, and your best wives and children also belong to me!”"
+        },
+        {
+          "number": 4,
+          "text": "“It's as you say, my lord the king,” the king of Israel replied. “I am yours, as well as everything that belongs to me.”"
+        },
+        {
+          "number": 5,
+          "text": "The messengers returned and said, “This is what Ben-hadad says: I have sent you a message demanding you give me your silver, your gold, your wives, and your children."
+        },
+        {
+          "number": 6,
+          "text": "But around this time tomorrow I'm going to send my men to search your palace and the homes of your officials. They will take and carry away everything you see as valuable.”"
+        },
+        {
+          "number": 7,
+          "text": "The king of Israel called all the elders of the land and told them, “Look how this man is trying to cause trouble! When he demanded my wives and my children, my silver and my gold, I didn't say no.”"
+        },
+        {
+          "number": 8,
+          "text": "All the elders and all the people present responded, “Don't listen to him. Don't agree to his demands.”"
+        },
+        {
+          "number": 9,
+          "text": "So the king told Ben-hadad's messengers, “Tell my lord the king: Everything you demanded at first your servant will do, but I cannot agree to this latest demand.” The messengers took the reply back to him."
+        },
+        {
+          "number": 10,
+          "text": "Ben-hadad responded to him, “May the gods do as much to me and more if there remains enough dust in Samaria to give my subjects a handful each!”"
+        },
+        {
+          "number": 11,
+          "text": "The king of Israel replied, “Tell him this: A man putting on his armor should not brag like one who is taking it off.”*"
+        },
+        {
+          "number": 12,
+          "text": "Ben-hadad received this message while he and the kings were drinking in their tents. He immediately gave the order to his officers, “Get ready to attack!” So they prepared to attack the city."
+        },
+        {
+          "number": 13,
+          "text": "At the same time a prophet came up to Ahab, king of Israel, and told him, “This is what the Lord says: You see this massive army? Just watch, because I will make you victorious today, and you will be convinced* that I am the Lord.”"
+        },
+        {
+          "number": 14,
+          "text": "“But who's going to do this?” Ahab asked. The prophet answered, “This is what the Lord says: It will be the young officers under the district commanders.” “And who's going to start the battle?” he asked. The prophet replied, “You are!”"
+        },
+        {
+          "number": 15,
+          "text": "So Ahab called up the 232 young officers of the district commanders, and assembled the 7,000 soldiers that made up Israel's army."
+        },
+        {
+          "number": 16,
+          "text": "They left at noon while Ben-hadad and the thirty-two kings with him were busy getting drunk in their tents."
+        },
+        {
+          "number": 17,
+          "text": "The young officers of the district commanders took the lead. The scouts Ben-hadad had sent out came and reported to him, “Enemy soldiers are advancing from Samaria.”"
+        },
+        {
+          "number": 18,
+          "text": "“If they're coming in peace, take them alive,” he ordered. “If they're coming to attack, take them alive.”"
+        },
+        {
+          "number": 19,
+          "text": "The young officers of the district commanders advanced from the city, followed by the army."
+        },
+        {
+          "number": 20,
+          "text": "Each man killed his opponent, and the Arameans ran away. The Israelites chased them, but Ben-hadad, king of Aram, escaped on horseback with his cavalry."
+        },
+        {
+          "number": 21,
+          "text": "Then the king of Israel came out and attacked the horses and chariots. He inflicted a great defeat on the Arameans."
+        },
+        {
+          "number": 22,
+          "text": "Later on the prophet came to the king of Israel and told him, “Go and reinforce your defenses, and check what you need to do, because in the spring the king of Aram will come and attack you again.”"
+        },
+        {
+          "number": 23,
+          "text": "In the meantime the king of Aram's officers told him, “Their gods are gods of the mountains. That's why they could defeat us. But if we fight them in the lowlands, we can beat them."
+        },
+        {
+          "number": 24,
+          "text": "You should do this: remove each of the kings from their positions and replace them with commanders."
+        },
+        {
+          "number": 25,
+          "text": "You also have to raise another army to replace the one you lost—horse for horse, chariot for chariot. Then we can fight them in the lowlands and we will definitely beat them.” Ben-hadad listened to their advice and did as they said."
+        },
+        {
+          "number": 26,
+          "text": "When spring came Ben-hadad called up the Aramean army and went to attack Israel at Aphek."
+        },
+        {
+          "number": 27,
+          "text": "The Israelite army was also called up and provided with supplies. They went to confront the Arameans. But when the Israelites set up their camp opposite the enemy they looked like two little flocks of goats in comparison with the Aramean army that filled the whole land."
+        },
+        {
+          "number": 28,
+          "text": "Then the man of God came to the king of Israel and said, “This is what the Lord says: Because the Arameans have said, ‘The Lord is only a god of the mountains and not of the valleys,’ I will make you victorious over the whole of this massive army. Then you will be convinced that I am the Lord.”"
+        },
+        {
+          "number": 29,
+          "text": "The armies camped opposite each other for seven days. On the seventh day the battle took place. The Israelites killed 100,000 of the Aramean infantry in one day."
+        },
+        {
+          "number": 30,
+          "text": "The rest ran away to the town of Aphek, where a wall collapsed on 27,000 of those that remained. Ben-hadad also ran to the town and hid in an inside room."
+        },
+        {
+          "number": 31,
+          "text": "Ben-hadad's officers said to him, “Look, we've heard that the Israelite kings are merciful. Let's surrender to the king of Israel, wearing sackcloth around our waists and ropes on our heads. Maybe he will let you live.”"
+        },
+        {
+          "number": 32,
+          "text": "So wearing sackcloth around their waists and ropes on their heads, they went and surrendered to the king of Israel, and told him, “Your servant Ben-hadad asks, ‘Please let me live.’” The king replied “Is he still alive? I think of him as my brother.”"
+        },
+        {
+          "number": 33,
+          "text": "The men thought this was a good sign and they immediately took the king at his word, saying, “Yes, Ben-hahad is your brother.” “Go and fetch him!” said the king. So Ben-hadad came out of hiding and surrendered to Ahab, who pulled him up into his chariot."
+        },
+        {
+          "number": 34,
+          "text": "Ben-hadad said to him, “I will return the towns my father took from your father,* and you can organize your own places for trade in Damascus, like my father did in Samaria.” “By making this agreement I set you free,” Ahab replied. He made a treaty with Ben-hadad and let him go."
+        },
+        {
+          "number": 35,
+          "text": "Following a message he received from the Lord, one of the sons of the prophets* said to his colleague, “Please hit me.” But the man refused to hit him."
+        },
+        {
+          "number": 36,
+          "text": "So the prophet told him, “Since you have not done what the Lord said, once you leave me a lion is going to kill you.” When the man left, a lion came and killed him."
+        },
+        {
+          "number": 37,
+          "text": "The prophet found another man and said, “Please hit me!” So the man hit him, wounding him."
+        },
+        {
+          "number": 38,
+          "text": "Then the prophet went and stood beside the road, waiting for the king. He had disguised himself with a bandage over his eyes."
+        },
+        {
+          "number": 39,
+          "text": "As the king was passing by, he shouted out to the king: “Your servant had gone out fighting right in the middle of the battle, when all of a sudden a man came over with a prisoner and told me, ‘Guard this man! If for any reason he escapes, you will pay for his life with your life, or you will be fined a talent of silver.’"
+        },
+        {
+          "number": 40,
+          "text": "But while your servant was busy with other things, the man got away.” “So that will be your punishment then,” the king of Israel told him. “You have sentenced yourself.”"
+        },
+        {
+          "number": 41,
+          "text": "Then the prophet quickly took off the bandage from his eyes, and the king of Israel recognized he was one of the prophets."
+        },
+        {
+          "number": 42,
+          "text": "He told the king, “This is what the Lord says: You have let go a man I had decided should die. Therefore you will pay for his life with your life, your people for his people.”"
+        },
+        {
+          "number": 43,
+          "text": "The king of Israel went home to Samaria, sulking and infuriated."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "20:11",
+          "text": "In other words, boasting should only be done when victory is won."
+        },
+        {
+          "ref": "20:13",
+          "text": "“Convinced”: literally, “know,” but this is more than simply being aware of something, rather a motivating belief."
+        },
+        {
+          "ref": "20:34",
+          "text": "See 15:20."
+        },
+        {
+          "ref": "20:35",
+          "text": "“Sons of the prophets,” also referred to as “the school of the prophets” was a kind of institution of religious education and a center for the prophetic gift."
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Sometime later this happened: There was a man named Naboth from Jezreel, who owned a vineyard in Jezreel close to King Ahab's palace in Samaria."
+        },
+        {
+          "number": 2,
+          "text": "Ahab went to Naboth and said, “Give me your vineyard so I can turn it into a vegetable garden, because it's close to my palace. In return I'll give you a better vineyard, or if you want I'll pay you for it in cash.”"
+        },
+        {
+          "number": 3,
+          "text": "But Naboth replied, “The Lord curse me if I should give you my forefathers' inheritance.”*"
+        },
+        {
+          "number": 4,
+          "text": "Ahab went home sulking and infuriated because Naboth from Jezreel had said, “I will not give you my forefathers' inheritance.” He went to bed, wouldn't look at anyone, and refused to eat."
+        },
+        {
+          "number": 5,
+          "text": "His wife Jezebel came in and asked him, “What are you so upset about that you don't want to eat?”"
+        },
+        {
+          "number": 6,
+          "text": "Ahab replied, “It's because I talked with Naboth from Jezreel and I asked him, ‘Give me your vineyard for cash, or if you want, I'll give you another vineyard instead.’ But he said, ‘I will not give you my vineyard.’”"
+        },
+        {
+          "number": 7,
+          "text": "“Aren't you the king of Israel?” his wife Jezebel replied. “Get up, have something to eat, and cheer up. I'll get you the vineyard of Naboth from Jezreel.”"
+        },
+        {
+          "number": 8,
+          "text": "So she wrote some letters in Ahab's name and sealed them with his seal. She sent the letters to the elders and leaders in the town where Naboth lived."
+        },
+        {
+          "number": 9,
+          "text": "In the letters she wrote to tell them, “Announce a religious fast, and give Naboth a seat of honor."
+        },
+        {
+          "number": 10,
+          "text": "But seat two bad men* opposite him and have them accuse him, saying, ‘You have cursed God and the king!’ Then take him out and stone him to death.”"
+        },
+        {
+          "number": 11,
+          "text": "So the elders and leaders who lived in Naboth's town did as Jezebel had said in the letters she had written and sent to them."
+        },
+        {
+          "number": 12,
+          "text": "They announced a religious fast, and gave Naboth a seat of honor."
+        },
+        {
+          "number": 13,
+          "text": "Two bad men came and sat opposite him, and accused him in front of the people, saying, “Naboth has cursed God and the king.” So they took him outside the town and stoned him to death."
+        },
+        {
+          "number": 14,
+          "text": "Then they sent a message to Jezebel, saying, “Naboth has been stoned. He's dead.”"
+        },
+        {
+          "number": 15,
+          "text": "As soon as Jezebel heard that Naboth had been stoned and he was dead, Jezebel told Ahab, “Get up, go and claim ownership of the vineyard of Naboth from Jezreel, which he refused to sell you, for Naboth is no longer alive, but dead.”"
+        },
+        {
+          "number": 16,
+          "text": "When Ahab heard that Naboth was dead, he got up and went to claim ownership of Naboth's vineyard."
+        },
+        {
+          "number": 17,
+          "text": "Then the Lord sent a message to Elijah the Tishbite:"
+        },
+        {
+          "number": 18,
+          "text": "“Go and meet Ahab, king of Israel, in Samaria. He is right now in Naboth's vineyard, where he has gone to claim ownership of it."
+        },
+        {
+          "number": 19,
+          "text": "Tell him: This is what the Lord says: Have you murdered a man and robbed him? Then tell him: This is what the Lord says: In the very spot where dogs licked up Naboth's blood, dogs will lick up your own blood.”"
+        },
+        {
+          "number": 20,
+          "text": "“So have you come to find me, my enemy?” Ahab asked Elijah. “I have found you, because you have sold yourself to do what is evil in the Lord's sight,” Elijah replied."
+        },
+        {
+          "number": 21,
+          "text": "He says, “Watch out! I'm going to bring disaster on you and destroy your descendants. I will kill every male of Ahab's line, both slave and free, throughout the whole of Israel."
+        },
+        {
+          "number": 22,
+          "text": "I will make your house like that of Jeroboam, son of Nebat, and like that of Baasha, son of Ahijah, because you have angered me and made Israel sin."
+        },
+        {
+          "number": 23,
+          "text": "And as far as Jezebel is concerned, the Lord says, ‘Dogs will eat Jezebel by the wall of Jezreel.’"
+        },
+        {
+          "number": 24,
+          "text": "Those of Ahab's family who die in the town will be eaten by dogs, and those who die in the countryside will be eaten by birds.”"
+        },
+        {
+          "number": 25,
+          "text": "(No one else was so bad as Ahab, who sold himself to do what is evil in the Lord's sight, because his wife Jezebel encouraged him."
+        },
+        {
+          "number": 26,
+          "text": "He did the most despicable things, worshiping idols like the Amorites the Lord had driven out before Israel.)"
+        },
+        {
+          "number": 27,
+          "text": "As soon as Ahab heard this message, he tore his clothes, put on sackcloth, and fasted. He even went to bed in sackcloth, and walked around repentantly.*"
+        },
+        {
+          "number": 28,
+          "text": "Then the Lord sent a message to Elijah the Tishbite:"
+        },
+        {
+          "number": 29,
+          "text": "“Have you seen how Ahab has humbled himself before me? Because he has humbled himself before me, I will not bring the disaster during his lifetime, but I will bring down disaster on his family in the lifetime of his son.”"
+        }
+      ],
+      "notes": [
+        {
+          "ref": "21:3",
+          "text": "According to Levitical law, inheritance was to be kept according to the original tribal allocations. See Numbers 36:7-9."
+        },
+        {
+          "ref": "21:10",
+          "text": "“Bad men”: literally, “sons of wickedness.”"
+        },
+        {
+          "ref": "21:27",
+          "text": "“Repentantly”: literally, “gently.”"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "verses": [
+        {
+          "number": 1,
+          "text": "For three years Aram and Israel were not at war."
+        },
+        {
+          "number": 2,
+          "text": "But in the third year Jehoshaphat, king of Judah, went to visit the king of Israel."
+        },
+        {
+          "number": 3,
+          "text": "The king of Israel had said to his officers, “Aren't you aware that Ramoth-gilead really belongs to us and yet we haven't done anything to take it back from the king of Aram?”"
+        },
+        {
+          "number": 4,
+          "text": "So he asked Jehoshaphat, “Will you join me in an attack to recapture Ramoth-gilead?” Jehoshaphat replied to the king of Israel, “You and I are as one, my men and your men are as one, and my horses and your horses are as one.”"
+        },
+        {
+          "number": 5,
+          "text": "Then Jehoshaphat said to the king of Israel, “But first though, please find out what the Lord says.”"
+        },
+        {
+          "number": 6,
+          "text": "So the king of Israel brought out the prophets—four hundred of them—and he asked them, “Should I go up and attack Ramoth-gilead, or should I not?” “Yes, go ahead,” they replied, “for the Lord will hand it over to the king.”"
+        },
+        {
+          "number": 7,
+          "text": "But Jehoshaphat asked, “Isn't there another prophet of the Lord here that we can ask?”"
+        },
+        {
+          "number": 8,
+          "text": "“Yes, there's another man who could consult the Lord,” the king of Israel replied, “but I don't like him because he never prophesies anything good for me—it's always bad! His name is Micaiah, son of Imlah.” “You shouldn't talk like that,” said Jehoshaphat."
+        },
+        {
+          "number": 9,
+          "text": "The king of Israel called over one of his officials and told him, “Bring me Micaiah, son of Imlah, right away.”"
+        },
+        {
+          "number": 10,
+          "text": "Dressed in their royal robes, the king of Israel and King Jehoshaphat of Judah, were sitting on their thrones at the threshing floor beside the gate of Samaria, with all of the prophets prophesying in front of them."
+        },
+        {
+          "number": 11,
+          "text": "One of them, Zedekiah, son of Chenaanah, had made himself iron horns. He announced, “This is what the Lord says: ‘With these horns you will gore the Arameans until they're dead!’”"
+        },
+        {
+          "number": 12,
+          "text": "All the prophets were prophesying the same thing, saying, “Go ahead, attack Ramoth-gilead; you will be successful, for the Lord will hand it over to the king.”"
+        },
+        {
+          "number": 13,
+          "text": "The messenger who went to call Micaiah told him, “Look, all the prophets are unanimous in prophesying positively to the king. So please make sure to speak positively like them.”"
+        },
+        {
+          "number": 14,
+          "text": "But Micaiah replied, “As the Lord lives, I can only say what my God tells me.”"
+        },
+        {
+          "number": 15,
+          "text": "When he came before the king, the king asked him, “Should we go up and attack Ramoth-gilead, or should we not?” “Yes, go ahead and be victorious,” Micaiah replied, “for the Lord will give it into the king's hand.”*"
+        },
+        {
+          "number": 16,
+          "text": "But the king said to him, “How many times must I make you swear to tell me only the truth in the name of the Lord?”"
+        },
+        {
+          "number": 17,
+          "text": "So Micaiah answered, “I saw all Israel scattered on the mountains like sheep without a shepherd. The Lord said, ‘These people have no master;* let each of them go home in peace.’”"
+        },
+        {
+          "number": 18,
+          "text": "The king of Israel said to Jehoshaphat, “Didn't I tell you he never prophesies anything good for me, only bad?”"
+        },
+        {
+          "number": 19,
+          "text": "Micaiah went on to say, “So listen to what the Lord says. I saw the Lord sitting on his throne, surrounded by the whole army of heaven standing to his right and to his left."
+        },
+        {
+          "number": 20,
+          "text": "The Lord asked, ‘Who will trick Ahab, king of Israel, into attacking Ramoth-gilead so he will be killed there?’ One said this, another said that, and another said something else."
+        },
+        {
+          "number": 21,
+          "text": "Finally a spirit came and approached the Lord and said, ‘I will trick him.’"
+        },
+        {
+          "number": 22,
+          "text": "‘How are you going to do that?’ the Lord asked. ‘I will go and be a lying spirit and make all his prophets tell lies,’ the spirit replied. ‘That will work,’ the Lord responded. ‘Go and do it.’"
+        },
+        {
+          "number": 23,
+          "text": "As you see, the Lord has put a lying spirit into these prophets of yours, and the Lord has pronounced your death sentence.”"
+        },
+        {
+          "number": 24,
+          "text": "Then Zedekiah, son of Chenaanah, went and slapped Micaiah in the face, and demanded, “Which way did the Spirit of the Lord go when he left me to speak to you?”"
+        },
+        {
+          "number": 25,
+          "text": "“You'll soon find out when you try and find some secret place to hide!” Micaiah replied."
+        },
+        {
+          "number": 26,
+          "text": "The king of Israel ordered, “Place Micaiah under arrest and take him back to Amon the governor of the city and to my son Joash."
+        },
+        {
+          "number": 27,
+          "text": "Tell them these are the king's instructions: ‘Put this man in jail. Give him only bread and water until my safe return.’”"
+        },
+        {
+          "number": 28,
+          "text": "“If you do in fact return safely then the Lord has not spoken through me,” Micaiah declared. “Pay attention everyone to all I've said!”"
+        },
+        {
+          "number": 29,
+          "text": "The king of Israel and Jehoshaphat, king of Judah, went to attack Ramoth-gilead."
+        },
+        {
+          "number": 30,
+          "text": "The king of Israel told Jehoshaphat, “When I go into battle I will be in disguise, but you should wear your royal robes.” So the king of Israel disguised himself and went into battle."
+        },
+        {
+          "number": 31,
+          "text": "The king of Aram had already given these orders to his chariot commanders: “Head straight for the king of Israel alone. Don't fight with anyone else, whoever they are.”"
+        },
+        {
+          "number": 32,
+          "text": "So when the chariot commanders saw Jehoshaphat, they shouted, “This must be the king of Israel!” So they turned to attack him, but when Jehoshaphat called out for help,"
+        },
+        {
+          "number": 33,
+          "text": "the chariot commanders saw it wasn't the king of Israel and stopped chasing him."
+        },
+        {
+          "number": 34,
+          "text": "However, an enemy archer shot an arrow at random, hitting the king of Israel between the joints of his armor by his breastplate. The king told his charioteer, “Turn around and get me out of the fight, because I've been wounded!”"
+        },
+        {
+          "number": 35,
+          "text": "The battle lasted all day. The king of Israel was propped up in his chariot to face the Arameans, but in the evening he died. The blood had poured out of his wound onto the floor of the chariot."
+        },
+        {
+          "number": 36,
+          "text": "At sunset, a shout went out from the lines: “Retreat! Every man back to his town, every man back to his own country!”"
+        },
+        {
+          "number": 37,
+          "text": "So the king died. He was taken back to Samaria where they buried him."
+        },
+        {
+          "number": 38,
+          "text": "They washed his chariot at a pool in Samaria where the prostitutes came to bathe, and dogs licked up his blood, just as the Lord had said."
+        },
+        {
+          "number": 39,
+          "text": "The rest of what happened in Ahab's reign, all that he did, the ivory palace he constructed and all the cities he built are recorded in the Book of Chronicles of the Kings of Israel."
+        },
+        {
+          "number": 40,
+          "text": "Ahab died and his son Ahaziah succeeded him as king."
+        },
+        {
+          "number": 41,
+          "text": "Jehoshaphat, son of Asa, became king of Judah in the fourth year of the reign of Ahab, king of Israel."
+        },
+        {
+          "number": 42,
+          "text": "Jehoshaphat was thirty-five when he became king, and he reigned in Jerusalem for twenty-five years. His mother's name was Azubah, daughter of Shilhi."
+        },
+        {
+          "number": 43,
+          "text": "He followed all the ways of his father; he did not depart from them, and he did what was right in the Lord's sight. However, the high places were not removed and the people still sacrificed and presented offerings there."
+        },
+        {
+          "number": 44,
+          "text": "Jehoshaphat also made peace with the king of Israel."
+        },
+        {
+          "number": 45,
+          "text": "The rest of what happened in Jehoshaphat's reign, his great achievements and the wars he fought are recorded in the Book of Chronicles of the Kings of Judah."
+        },
+        {
+          "number": 46,
+          "text": "He expelled from the land any cult prostitutes who were left from the time of his father Asa."
+        },
+        {
+          "number": 47,
+          "text": "(At that time there was no king in Edom; only a deputy who served as king.)"
+        },
+        {
+          "number": 48,
+          "text": "Jehoshaphat built seagoing ships* to sail to Ophir for gold, but they didn't go because they were wrecked at Ezion-geber."
+        },
+        {
+          "number": 49,
+          "text": "During that time Ahaziah, son of Ahab, asked Jehoshaphat, “Let my men sail with your men,” but Jehoshaphat refused."
+        },
+        {
+          "number": 50,
+          "text": "Jehoshaphat died and was buried with his forefathers in the City of David. His son Jehoram succeeded him as king."
+        },
+        {
+          "number": 51,
+          "text": "Ahaziah, son of Ahab, became king of Israel in Samaria in the seventeenth year of Jehoshaphat, king of Judah, and he reigned over Israel for two years."
+        },
+        {
+          "number": 52,
+          "text": "He did what was evil in the Lord's sight and followed the ways of his father and mother, and of Jeroboam, son of Nebat, who had made Israel sin."
+        },
+        {
+          "number": 53,
+          "text": "He served Baal and worshiped him, and angered the Lord, the God of Israel, just as his father had."
+        }
+      ],
+      "notes": [
+        {
+          "ref": "22:15",
+          "text": "Perhaps Micaiah is using a sarcastic repetition of the other prophets, leading Ahab to respond as he does in the next verse."
+        },
+        {
+          "ref": "22:17",
+          "text": "“No master”: implying that their master is dead."
+        },
+        {
+          "ref": "22:48",
+          "text": "“Seagoing ships”: literally “ships of Tarshish” to indicate they were built for long-distance travel. See 2 Chronicles 20:35-37."
+        }
+      ]
+    }
+  ]
+}
