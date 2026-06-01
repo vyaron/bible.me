@@ -9,8 +9,7 @@ import {
   getChapterUrl,
   getBookUrl
 } from '@/lib/bible'
-import { getChapterAudio } from '@/lib/audio'
-import { getHebrewChapterAudio } from '@/lib/hebrew-audio'
+import { getEnglishChapterAudio, getHebrewChapterAudioFromManifest } from '@/lib/audio-manifest'
 import { getHebrewChapter } from '@/lib/hebrew'
 import { getSiteUrl, siteName } from '@/lib/site'
 
@@ -74,8 +73,8 @@ export default async function ChapterPage({ params }: ChapterPageProps) {
   const siteUrl = getSiteUrl()
   const allBooks = await getBibleIndex()
   const bookIndex = allBooks.books.find((item) => item.slug === book.slug)
-  const chapterAudio = await getChapterAudio(book.code, chapter.number)
-  const hebrewChapterAudio = await getHebrewChapterAudio(book.code, chapter.number)
+  const chapterAudio = getEnglishChapterAudio(book.code, chapter.number)
+  const hebrewChapterAudio = getHebrewChapterAudioFromManifest(book.code, chapter.number)
   const hebrewChapterData = await getHebrewChapter(book.code, chapter.number)
   const hebrewVerseMap = new Map(hebrewChapterData?.chapter.verses.map((verse) => [verse.number, verse]))
 
