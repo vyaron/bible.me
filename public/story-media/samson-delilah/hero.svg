@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Samson and Delilah</title>
+  <desc id="desc">Illustrative artwork for Samson and Delilah</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1f2840"/>
+      <stop offset="100%" stop-color="#7a4e25"/>
+    </linearGradient>
+    <linearGradient id="light" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f9d39a" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#f9d39a" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#sky)"/>
+  <ellipse cx="590" cy="730" rx="460" ry="120" fill="#1a1320" opacity="0.45"/>
+  <rect x="180" y="220" width="170" height="500" rx="24" fill="#e6cfaa" opacity="0.85"/>
+  <rect x="850" y="220" width="170" height="500" rx="24" fill="#e6cfaa" opacity="0.85"/>
+  <rect x="535" y="260" width="130" height="340" rx="60" fill="#2f2a38"/>
+  <circle cx="600" cy="205" r="72" fill="#3a3347"/>
+  <path d="M505 162c25-35 165-35 190 0-26 28-164 28-190 0Z" fill="#b37a4b"/>
+  <path d="M460 560 320 515l-16 44 152 50Z" fill="#d4b083"/>
+  <path d="M740 560 880 515l16 44-152 50Z" fill="#d4b083"/>
+  <path d="M540 212c18-36 101-44 120 0" stroke="#f4c178" stroke-width="10" fill="none" opacity="0.7"/>
+  <rect x="0" y="0" width="1200" height="360" fill="url(#light)"/>
+</svg>

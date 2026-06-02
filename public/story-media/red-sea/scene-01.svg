@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Red Sea artwork">
+  <rect width="1200" height="800" fill="#213147"/>
+  <path d="M0 760L470 200H730L1200 760V800H0Z" fill="#2d78a8"/>
+  <path d="M470 200L420 0H780L730 200Z" fill="#f6e6c6"/>
+  <path d="M515 760H685V280H515Z" fill="#f7d68a"/>
+</svg>

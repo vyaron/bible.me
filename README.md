@@ -15,10 +15,13 @@ Next.js Bible reader with chapter routes and optional chapter audio.
 
 - Story landing page: `/story`
 - Story detail page: `/story/[slug]`
-- Story manifest: `src/lib/story-data.ts`
-- Story artwork assets: `public/story/*.svg`
+- Story manifest entrypoint: `src/lib/story-data.ts`
+- Story content registry: `src/content/story/index.ts`
+- Story content files: `src/content/story/*.ts`
+- Story artwork assets: `public/story-media/<slug>/*`
+- Shared story assets: `public/story-media/_shared/*`
 
-Initial story set includes 8 curated stories (4 OT + 4 NT) with summary text, AI-style illustrations, and links to source passages.
+Initial story set includes 9 curated stories with summary text, rich blocks (image/video/text/quote/scripture), and links to relevant source passages.
 
 ## Bible Tree experience
 

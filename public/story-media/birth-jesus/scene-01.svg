@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Birth of Jesus artwork">
+  <rect width="1200" height="800" fill="#1e2f4a"/>
+  <circle cx="950" cy="120" r="70" fill="#ffe7a6"/>
+  <path d="M0 610C190 560 410 560 640 610S980 680 1200 620V800H0Z" fill="#755437"/>
+  <rect x="450" y="470" width="300" height="120" fill="#8f6541"/>
+  <circle cx="600" cy="520" r="28" fill="#f6d8a8"/>
+</svg>

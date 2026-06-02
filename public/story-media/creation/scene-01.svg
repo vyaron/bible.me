@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Creation story artwork">
+  <rect width="1200" height="800" fill="#101724"/>
+  <circle cx="250" cy="170" r="210" fill="#f6cd7a" opacity="0.92"/>
+  <circle cx="250" cy="170" r="120" fill="#fff3cf" opacity="0.55"/>
+  <path d="M0 580C220 510 420 510 620 575S990 680 1200 560V800H0Z" fill="#2f5f8f"/>
+  <path d="M0 640C170 620 350 640 540 700S910 790 1200 710V800H0Z" fill="#7bb57b"/>
+</svg>

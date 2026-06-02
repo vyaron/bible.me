@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Resurrection artwork">
+  <rect width="1200" height="800" fill="#efe6d5"/>
+  <circle cx="860" cy="180" r="120" fill="#ffe0a0"/>
+  <rect x="0" y="520" width="1200" height="280" fill="#b59e78"/>
+  <rect x="520" y="260" width="180" height="280" fill="#8d6a45"/>
+  <circle cx="720" cy="460" r="80" fill="#d8c3a1"/>
+</svg>

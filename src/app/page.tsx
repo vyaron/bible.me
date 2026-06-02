@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 
 import { getBibleIndex, groupBooksByTestament, getBookUrl } from '@/lib/bible'
 import { siteName } from '@/lib/site'
+import { storyList } from '@/lib/story-data'
 import { getVerseOfDayList } from '@/lib/verse-of-day'
 
 import { VerseOfDayCard } from './verse-of-day-card'
@@ -49,10 +50,10 @@ export default async function HomePage() {
             <h2>Greatest Stories Ever Told</h2>
             <p>Explore Bible great stories with summaries, visuals, and source links.</p>
           </div>
-          <span className="badge">8 stories</span>
+          <span className="badge">{storyList.length} stories</span>
         </div>
         <a className="story-feature-card" href="/story">
-          <img className="story-feature-image" src="/story/creation.svg" alt="Great Bible stories artwork" />
+          <img className="story-feature-image" src="/story-media/creation/hero.svg" alt="Great Bible stories artwork" />
           <div>
             <strong>Bible Great Stories</strong>
             <p className="muted">Start with Creation, Noah, Exodus, David, Jesus and more.</p>
@@ -69,7 +70,7 @@ export default async function HomePage() {
           <span className="badge">new</span>
         </div>
         <a className="story-feature-card" href="/tree">
-          <img className="story-feature-image" src="/story/red-sea.svg" alt="Bible tree artwork" />
+          <img className="story-feature-image" src="/story-media/red-sea/hero.svg" alt="Bible tree artwork" />
           <div>
             <strong>Open Bible Tree</strong>
             <p className="muted">Family connections, first mention links, and person details.</p>
