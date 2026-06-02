@@ -30,7 +30,7 @@ export function VerseOfDayCard({ verses }: VerseOfDayCardProps) {
   }
 
   return (
-    <section className="panel reader section verse-of-day" aria-labelledby="verse-of-day-title">
+    <section className="panel reader section verse-of-day home-verse-of-day" aria-labelledby="verse-of-day-title">
       <div className="section-header">
         <div>
           <h2 id="verse-of-day-title">Verse of the Day</h2>

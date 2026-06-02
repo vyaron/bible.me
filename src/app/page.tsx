@@ -19,7 +19,7 @@ export default async function HomePage() {
 
   return (
     <>
-      <section className="hero">
+      <section className="hero home-hero">
         <p className="hero-kicker">{siteName}</p>
         <h1>Read the Bible with a simple path to every chapter.</h1>
         <p>
@@ -44,7 +44,7 @@ export default async function HomePage() {
 
       <VerseOfDayCard verses={versesOfDay} />
 
-      <section className="panel reader">
+      <section className="panel reader section home-stories-panel">
         <div className="section-header">
           <div>
             <h2>Greatest Stories Ever Told</h2>
@@ -52,16 +52,12 @@ export default async function HomePage() {
           </div>
           <span className="badge">{storyList.length} stories</span>
         </div>
-        <a className="story-feature-card" href="/story">
-          <img className="story-feature-image" src="/story-media/creation/hero.svg" alt="Great Bible stories artwork" />
-          <div>
-            <strong>Bible Great Stories</strong>
-            <p className="muted">Start with Creation, Noah, Exodus, David, Jesus and more.</p>
-          </div>
+        <a className="home-panel-action" href="/story">
+          Explore Bible Great Stories
         </a>
       </section>
 
-      <section className="panel reader section">
+      <section className="panel reader section home-tree-panel">
         <div className="section-header">
           <div>
             <h2>Bible Tree</h2>
@@ -69,16 +65,12 @@ export default async function HomePage() {
           </div>
           <span className="badge">new</span>
         </div>
-        <a className="story-feature-card" href="/tree">
-          <img className="story-feature-image" src="/story-media/red-sea/hero.svg" alt="Bible tree artwork" />
-          <div>
-            <strong>Open Bible Tree</strong>
-            <p className="muted">Family connections, first mention links, and person details.</p>
-          </div>
+        <a className="home-panel-action" href="/tree">
+          Open Bible Tree
         </a>
       </section>
 
-      <section className="panel reader">
+      <section className="panel reader home-ot-panel">
         <div className="section-header">
           <div>
             <h2>Old Testament</h2>
@@ -100,7 +92,7 @@ export default async function HomePage() {
         </div>
       </section>
 
-      <section className="panel reader section">
+      <section className="panel reader section home-nt-panel">
         <div className="section-header">
           <div>
             <h2>New Testament</h2>

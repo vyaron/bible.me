@@ -8,7 +8,7 @@ export const samsonDelilahStory: Story = {
     'Set in the Shephelah and Philistine borderlands, Samson\'s story combines divine calling, violent conflict, betrayal, and a final act in Gaza.',
   heroMedia: {
     type: 'image',
-    src: '/story-media/samson-delilah/Ancient_History_Timeline_of_Gaza.png',
+    src: '/story-media/samson-delilah/hero.png',
     alt: 'Ancient history timeline of Gaza',
     caption: 'Geography and power centers help frame Samson\'s conflict with Philistine Gaza.'
   },
@@ -62,6 +62,12 @@ export const samsonDelilahStory: Story = {
       heading: 'Betrayal by Delilah',
       body: 'Samson\'s downfall came through Delilah in the Valley of Sorek. Philistine lords offered her silver to discover the secret of his strength. After three failed attempts, Samson revealed his Nazirite hair vow. While he slept on her lap, his seven braids were shaved and his strength left him.'
     },
+{
+      type: 'image',
+      src: '/story-media/samson-delilah/hero.png',
+      alt: 'Samson and Delilah',
+      caption: 'Delilah\'s betrayal leads to Samson\'s capture and final'
+    },    
     {
       type: 'text',
       heading: 'Final Destruction in Gaza',

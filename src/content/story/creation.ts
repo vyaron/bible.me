@@ -8,7 +8,7 @@ export const creationStory: Story = {
     'God creates the heavens and the earth, bringing light, life, and order from chaos. This story frames human purpose and the goodness of creation.',
   heroMedia: {
     type: 'image',
-    src: '/story-media/creation/hero.svg',
+    src: '/story-media/creation/hero.png',
     alt: 'Creation of earth and sky',
     caption: 'In the beginning, God created the heavens and the earth.'
   },
@@ -24,7 +24,7 @@ export const creationStory: Story = {
     },
     {
       type: 'image',
-      src: '/story-media/creation/scene-01.svg',
+      src: '/story-media/creation/hero.png',
       alt: 'Creation illustration with sky and earth',
       caption: 'Light enters darkness as creation unfolds.'
     },

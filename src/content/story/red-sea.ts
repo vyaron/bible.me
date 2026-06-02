@@ -8,7 +8,7 @@ export const redSeaStory: Story = {
     'After the Exodus, Israel is trapped between Pharaoh and the sea. God parts the waters and leads his people into freedom.',
   heroMedia: {
     type: 'image',
-    src: '/story-media/red-sea/hero.svg',
+    src: '/story-media/red-sea/hero.png',
     alt: 'Sea parting for Israel',
     caption: 'God makes a way where there seems to be none.'
   },
@@ -25,7 +25,7 @@ export const redSeaStory: Story = {
     },
     {
       type: 'image',
-      src: '/story-media/red-sea/scene-01.svg',
+      src: '/story-media/red-sea/hero.png',
       alt: 'Israel crossing between walls of water',
       caption: 'The sea opens and the people cross on dry ground.'
     },

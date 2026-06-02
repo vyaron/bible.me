@@ -156,6 +156,159 @@ main {
   margin-bottom: 1.5rem;
 }
 
+.home-hero {
+  position: relative;
+  overflow: hidden;
+  background:
+    linear-gradient(0deg, rgba(255, 250, 242, 0.84), rgba(255, 250, 242, 0.84)),
+    url('/img/view.png') center/cover no-repeat;
+}
+
+.home-hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(120deg, rgba(255, 255, 255, 0.72), rgba(255, 255, 255, 0.28) 58%),
+    radial-gradient(circle at 80% 0%, rgba(106, 72, 34, 0.22), transparent 48%);
+  pointer-events: none;
+}
+
+.home-hero > * {
+  position: relative;
+  z-index: 1;
+}
+
+.tree-hero {
+  position: relative;
+  overflow: hidden;
+  background:
+    linear-gradient(0deg, rgba(255, 250, 242, 0.7), rgba(255, 250, 242, 0.7)),
+    url('/img/tree.png') right center / cover no-repeat;
+}
+
+.tree-hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    90deg,
+    rgba(255, 250, 242, 0.96) 0%,
+    rgba(255, 250, 242, 0.86) 38%,
+    rgba(255, 250, 242, 0.44) 66%,
+    rgba(255, 250, 242, 0.08) 100%
+  );
+  pointer-events: none;
+}
+
+.tree-hero > * {
+  position: relative;
+  z-index: 1;
+}
+
+.story-hero {
+  position: relative;
+  overflow: hidden;
+  background:
+    linear-gradient(0deg, rgba(255, 250, 242, 0.72), rgba(255, 250, 242, 0.72)),
+    url('/img/book.png') right center / cover no-repeat;
+}
+
+.story-hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    90deg,
+    rgba(255, 250, 242, 0.97) 0%,
+    rgba(255, 250, 242, 0.86) 38%,
+    rgba(255, 250, 242, 0.45) 66%,
+    rgba(255, 250, 242, 0.1) 100%
+  );
+  pointer-events: none;
+}
+
+.story-hero > * {
+  position: relative;
+  z-index: 1;
+}
+
+.home-stories-panel,
+.home-tree-panel,
+.home-ot-panel,
+.home-nt-panel {
+  position: relative;
+  overflow: hidden;
+}
+
+.home-stories-panel {
+  background:
+    linear-gradient(0deg, rgba(255, 250, 242, 0.86), rgba(255, 250, 242, 0.86)),
+    url('/img/noah.png') center/cover no-repeat;
+}
+
+.home-tree-panel {
+  background:
+    linear-gradient(0deg, rgba(255, 250, 242, 0.86), rgba(255, 250, 242, 0.86)),
+    url('/img/tree.png') center/cover no-repeat;
+  margin-bottom: 1rem;
+}
+
+.home-ot-panel {
+  background:
+    linear-gradient(0deg, rgba(255, 250, 242, 0.9), rgba(255, 250, 242, 0.9)),
+    url('/img/OT.png') center/cover no-repeat;
+}
+
+.home-nt-panel {
+  background:
+    linear-gradient(0deg, rgba(255, 250, 242, 0.9), rgba(255, 250, 242, 0.9)),
+    url('/img/NT.png') center/cover no-repeat;
+}
+
+.home-stories-panel::before,
+.home-tree-panel::before,
+.home-ot-panel::before,
+.home-nt-panel::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(120deg, rgba(255, 255, 255, 0.72), rgba(255, 255, 255, 0.24) 58%),
+    radial-gradient(circle at 85% 8%, rgba(106, 72, 34, 0.2), transparent 50%);
+  pointer-events: none;
+}
+
+.home-stories-panel > *,
+.home-tree-panel > *,
+.home-ot-panel > *,
+.home-nt-panel > * {
+  position: relative;
+  z-index: 1;
+}
+
+.home-panel-action {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.72rem 1.05rem;
+  border: 1px solid var(--border-strong);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.86);
+  color: var(--accent-strong);
+  font-family: var(--font-ui);
+  font-size: 0.95rem;
+  font-weight: 700;
+  width: fit-content;
+}
+
+.home-panel-action:hover,
+.home-panel-action:focus-visible {
+  transform: translateY(-1px);
+  border-color: rgba(90, 55, 25, 0.5);
+  box-shadow: 0 12px 24px rgba(58, 38, 17, 0.12);
+}
+
 .hero-kicker {
   margin: 0 0 0.75rem;
   color: var(--accent-strong);
@@ -595,13 +748,19 @@ main {
   overflow: hidden;
 }
 
+.home-verse-of-day {
+  background:
+    linear-gradient(0deg, rgba(255, 251, 245, 0.86), rgba(255, 251, 245, 0.86)),
+    url('/img/book.png') center/cover no-repeat;
+}
+
 .verse-of-day::before {
   content: '';
   position: absolute;
   inset: 0;
   background:
-    linear-gradient(128deg, rgba(255, 255, 255, 0.62), rgba(255, 255, 255, 0.05) 52%),
-    radial-gradient(circle at 10% 0%, rgba(210, 147, 72, 0.2), transparent 55%);
+    linear-gradient(128deg, rgba(255, 255, 255, 0.72), rgba(255, 255, 255, 0.14) 52%),
+    radial-gradient(circle at 10% 0%, rgba(210, 147, 72, 0.22), transparent 55%);
   pointer-events: none;
 }
 

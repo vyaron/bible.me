@@ -14,7 +14,7 @@ export default async function TreePage() {
 
   return (
     <>
-      <section className="hero">
+      <section className="hero tree-hero">
         <p className="hero-kicker">Genealogy</p>
         <h1>Bible Tree</h1>
         <p>

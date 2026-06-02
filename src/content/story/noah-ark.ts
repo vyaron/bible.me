@@ -8,7 +8,7 @@ export const noahArkStory: Story = {
     'As violence fills the earth, Noah obeys God and builds the ark. Through judgment and mercy, a covenant future is preserved.',
   heroMedia: {
     type: 'image',
-    src: '/story-media/noah-ark/hero.svg',
+    src: '/story-media/noah-ark/noah.png',
     alt: 'Noah ark floating above flood waters',
     caption: 'Noah trusts and obeys in a generation of chaos.'
   },
@@ -21,7 +21,7 @@ export const noahArkStory: Story = {
     },
     {
       type: 'image',
-      src: '/story-media/noah-ark/scene-01.svg',
+      src: '/story-media/noah-ark/noah.png',
       alt: 'Ark and rainbow after flood',
       caption: 'A rainbow marks God\'s covenant promise.'
     },

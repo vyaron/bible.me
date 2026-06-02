@@ -8,7 +8,7 @@ export const davidGoliathStory: Story = {
     'A young shepherd stands where armies tremble. David trusts God and defeats Goliath, showing courage born from faith.',
   heroMedia: {
     type: 'image',
-    src: '/story-media/david-goliath/hero.svg',
+    src: '/story-media/david-goliath/hero.png',
     alt: 'David facing Goliath',
     caption: 'Faith, not armor, defines David\'s victory.'
   },
@@ -21,7 +21,7 @@ export const davidGoliathStory: Story = {
     },
     {
       type: 'image',
-      src: '/story-media/david-goliath/scene-01.svg',
+      src: '/story-media/david-goliath/hero.png',
       alt: 'David with sling in battle',
       caption: 'A single stone changes the course of battle.'
     },

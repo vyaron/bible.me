@@ -37,7 +37,7 @@ export default function StoryPage() {
 
   return (
     <>
-      <section className="hero">
+      <section className="hero story-hero">
         <p className="hero-kicker">Explore Stories</p>
         <h1>Greatest stories ever told</h1>
         <p>
