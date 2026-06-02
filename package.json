@@ -8,6 +8,8 @@
     "audio:build": "node scripts/build-audio-index.mjs",
     "hebrew:build": "node scripts/build-hebrew-index.mjs",
     "hebrew-audio:build": "node scripts/build-hebrew-audio-index.mjs",
+    "tree:import": "node scripts/import-bible-tree.mjs",
+    "tree:mentions": "node scripts/build-tree-first-mentions.mjs",
     "build": "next build",
     "start": "next start",
     "typecheck": "tsc --noEmit"

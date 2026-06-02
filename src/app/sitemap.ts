@@ -2,6 +2,7 @@ import type { MetadataRoute } from 'next'
 
 import { getBibleIndex, getChapterUrl, getBookUrl } from '@/lib/bible'
 import { getSiteUrl } from '@/lib/site'
+import { storyList } from '@/lib/story-data'
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const bibleIndex = await getBibleIndex()
@@ -14,6 +15,24 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       lastModified: generatedAt,
       changeFrequency: 'weekly',
       priority: 1
+    },
+    {
+      url: `${siteUrl}/story`,
+      lastModified: generatedAt,
+      changeFrequency: 'weekly',
+      priority: 0.8
+    },
+    ...storyList.map((story) => ({
+      url: `${siteUrl}/story/${story.slug}`,
+      lastModified: generatedAt,
+      changeFrequency: 'weekly' as const,
+      priority: 0.7
+    })),
+    {
+      url: `${siteUrl}/tree`,
+      lastModified: generatedAt,
+      changeFrequency: 'weekly',
+      priority: 0.85
     },
     ...bibleIndex.books.flatMap((book) => {
       const bookUrl = `${siteUrl}${getBookUrl(book.slug)}`

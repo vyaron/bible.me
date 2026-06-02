@@ -40,6 +40,40 @@ export default async function HomePage() {
       <section className="panel reader">
         <div className="section-header">
           <div>
+            <h2>Greatest Stories Ever Told</h2>
+            <p>Explore Bible great stories with summaries, visuals, and source links.</p>
+          </div>
+          <span className="badge">8 stories</span>
+        </div>
+        <a className="story-feature-card" href="/story">
+          <img className="story-feature-image" src="/story/creation.svg" alt="Great Bible stories artwork" />
+          <div>
+            <strong>Bible Great Stories</strong>
+            <p className="muted">Start with Creation, Noah, Exodus, David, Jesus and more.</p>
+          </div>
+        </a>
+      </section>
+
+      <section className="panel reader section">
+        <div className="section-header">
+          <div>
+            <h2>Bible Tree</h2>
+            <p>Explore genealogy and jump to first-mention chapters.</p>
+          </div>
+          <span className="badge">new</span>
+        </div>
+        <a className="story-feature-card" href="/tree">
+          <img className="story-feature-image" src="/story/red-sea.svg" alt="Bible tree artwork" />
+          <div>
+            <strong>Open Bible Tree</strong>
+            <p className="muted">Family connections, first mention links, and person details.</p>
+          </div>
+        </a>
+      </section>
+
+      <section className="panel reader">
+        <div className="section-header">
+          <div>
             <h2>Old Testament</h2>
             <p>Genesis through Malachi.</p>
           </div>

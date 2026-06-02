@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="AI visual texture">
+  <defs>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f4e6cf"/>
+      <stop offset="100%" stop-color="#b88959"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#a)"/>
+  <circle cx="200" cy="140" r="180" fill="#fff4e6" opacity="0.42"/>
+  <circle cx="980" cy="640" r="260" fill="#8b5a2d" opacity="0.2"/>
+  <path d="M0 600C170 510 310 530 450 600S760 710 1200 540V800H0Z" fill="#f7ede0" opacity="0.35"/>
+</svg>

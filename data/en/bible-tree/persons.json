@@ -1,0 +1,1824 @@
+{
+  "sourceRepo": "https://github.com/vyaron/bible-tree",
+  "sourceFile": "js/services/person.service.js",
+  "generatedAt": "2026-06-02T07:01:38.487Z",
+  "personCount": 119,
+  "persons": [
+    {
+      "id": "p10",
+      "name": "God",
+      "nameHe": "אלוהים",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [],
+      "childrenIds": [
+        "p101",
+        "p102"
+      ],
+      "level": 0
+    },
+    {
+      "id": "p101",
+      "name": "Adam",
+      "nameHe": "אדם",
+      "yearBorn": -4004,
+      "yearDied": -3074,
+      "spouseIds": [
+        "p102"
+      ],
+      "parentIds": [
+        "p10"
+      ],
+      "childrenIds": [
+        "p203",
+        "p204",
+        "p205"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p102",
+      "name": "Eve",
+      "nameHe": "חוה",
+      "yearBorn": -4004,
+      "yearDied": null,
+      "spouseIds": [
+        "p101"
+      ],
+      "parentIds": [
+        "p10"
+      ],
+      "childrenIds": [
+        "p203",
+        "p204",
+        "p205"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p203",
+      "name": "Cain",
+      "nameHe": "קין",
+      "yearBorn": -3874,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p101",
+        "p102"
+      ],
+      "childrenIds": [],
+      "level": 2
+    },
+    {
+      "id": "p204",
+      "name": "Abel",
+      "nameHe": "הבל",
+      "yearBorn": -3876,
+      "yearDied": -3946,
+      "spouseIds": [],
+      "parentIds": [
+        "p101",
+        "p102"
+      ],
+      "childrenIds": [],
+      "level": 2
+    },
+    {
+      "id": "p205",
+      "name": "Seth",
+      "nameHe": "שת",
+      "yearBorn": -3874,
+      "yearDied": -2962,
+      "spouseIds": [],
+      "parentIds": [
+        "p101",
+        "p102"
+      ],
+      "childrenIds": [
+        "p306"
+      ],
+      "level": 2
+    },
+    {
+      "id": "p306",
+      "name": "Enosh",
+      "nameHe": "אנוש",
+      "yearBorn": -3769,
+      "yearDied": -2864,
+      "spouseIds": [],
+      "parentIds": [
+        "p205"
+      ],
+      "childrenIds": [
+        "p407"
+      ],
+      "level": 3
+    },
+    {
+      "id": "p407",
+      "name": "Kenan",
+      "nameHe": "קינן",
+      "yearBorn": -3679,
+      "yearDied": -2769,
+      "spouseIds": [],
+      "parentIds": [
+        "p306"
+      ],
+      "childrenIds": [
+        "p508"
+      ],
+      "level": 4
+    },
+    {
+      "id": "p508",
+      "name": "Mahalalel",
+      "nameHe": "מהללאל",
+      "yearBorn": -3609,
+      "yearDied": -2714,
+      "spouseIds": [],
+      "parentIds": [
+        "p407"
+      ],
+      "childrenIds": [
+        "p609"
+      ],
+      "level": 5
+    },
+    {
+      "id": "p609",
+      "name": "Jared",
+      "nameHe": "ירד",
+      "yearBorn": -3544,
+      "yearDied": -2582,
+      "spouseIds": [],
+      "parentIds": [
+        "p508"
+      ],
+      "childrenIds": [
+        "p710"
+      ],
+      "level": 6
+    },
+    {
+      "id": "p710",
+      "name": "Enoch",
+      "nameHe": "חנוך",
+      "yearBorn": -3382,
+      "yearDied": -3017,
+      "spouseIds": [],
+      "parentIds": [
+        "p609"
+      ],
+      "childrenIds": [
+        "p811"
+      ],
+      "level": 7
+    },
+    {
+      "id": "p811",
+      "name": "Methuselah",
+      "nameHe": "מתושלח",
+      "yearBorn": -3317,
+      "yearDied": -2348,
+      "spouseIds": [],
+      "parentIds": [
+        "p710"
+      ],
+      "childrenIds": [
+        "p912"
+      ],
+      "level": 8
+    },
+    {
+      "id": "p912",
+      "name": "Lamech",
+      "nameHe": "למך",
+      "yearBorn": -3130,
+      "yearDied": -2353,
+      "spouseIds": [],
+      "parentIds": [
+        "p811"
+      ],
+      "childrenIds": [
+        "p1013"
+      ],
+      "level": 9
+    },
+    {
+      "id": "p1013",
+      "name": "Noah",
+      "nameHe": "נח",
+      "yearBorn": -2948,
+      "yearDied": -1998,
+      "spouseIds": [],
+      "parentIds": [
+        "p912"
+      ],
+      "childrenIds": [
+        "p1115",
+        "p1116",
+        "p1117"
+      ],
+      "level": 10
+    },
+    {
+      "id": "p1115",
+      "name": "Shem",
+      "nameHe": "שם",
+      "yearBorn": -2446,
+      "yearDied": -1846,
+      "spouseIds": [],
+      "parentIds": [
+        "p1013"
+      ],
+      "childrenIds": [
+        "p1218"
+      ],
+      "level": 11
+    },
+    {
+      "id": "p1116",
+      "name": "Ham",
+      "nameHe": "חם",
+      "yearBorn": -2446,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p1013"
+      ],
+      "childrenIds": [],
+      "level": 11
+    },
+    {
+      "id": "p1117",
+      "name": "Japheth",
+      "nameHe": "יפת",
+      "yearBorn": -2446,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p1013"
+      ],
+      "childrenIds": [],
+      "level": 11
+    },
+    {
+      "id": "p1218",
+      "name": "Arphaxad",
+      "nameHe": "ארפכשד",
+      "yearBorn": -2346,
+      "yearDied": -1908,
+      "spouseIds": [],
+      "parentIds": [
+        "p1115"
+      ],
+      "childrenIds": [
+        "p1319"
+      ],
+      "level": 12
+    },
+    {
+      "id": "p1319",
+      "name": "Shelah",
+      "nameHe": "שלח",
+      "yearBorn": -2311,
+      "yearDied": -1878,
+      "spouseIds": [],
+      "parentIds": [
+        "p1218"
+      ],
+      "childrenIds": [
+        "p1420"
+      ],
+      "level": 13
+    },
+    {
+      "id": "p1420",
+      "name": "Eber",
+      "nameHe": "עבר",
+      "yearBorn": -2281,
+      "yearDied": -1817,
+      "spouseIds": [],
+      "parentIds": [
+        "p1319"
+      ],
+      "childrenIds": [
+        "p1521"
+      ],
+      "level": 14
+    },
+    {
+      "id": "p1521",
+      "name": "Peleg",
+      "nameHe": "פלג",
+      "yearBorn": -2247,
+      "yearDied": -2008,
+      "spouseIds": [],
+      "parentIds": [
+        "p1420"
+      ],
+      "childrenIds": [
+        "p1622"
+      ],
+      "level": 15
+    },
+    {
+      "id": "p1622",
+      "name": "Reu",
+      "nameHe": "רעו",
+      "yearBorn": -2217,
+      "yearDied": -1978,
+      "spouseIds": [],
+      "parentIds": [
+        "p1521"
+      ],
+      "childrenIds": [
+        "p1723"
+      ],
+      "level": 16
+    },
+    {
+      "id": "p1723",
+      "name": "Serug",
+      "nameHe": "שרוג",
+      "yearBorn": -2185,
+      "yearDied": -1955,
+      "spouseIds": [],
+      "parentIds": [
+        "p1622"
+      ],
+      "childrenIds": [
+        "p1824"
+      ],
+      "level": 17
+    },
+    {
+      "id": "p1824",
+      "name": "Nahor",
+      "nameHe": "נחור",
+      "yearBorn": -2155,
+      "yearDied": -2007,
+      "spouseIds": [],
+      "parentIds": [
+        "p1723"
+      ],
+      "childrenIds": [
+        "p1925"
+      ],
+      "level": 18
+    },
+    {
+      "id": "p1925",
+      "name": "Terah",
+      "nameHe": "תרח",
+      "yearBorn": -2126,
+      "yearDied": -1921,
+      "spouseIds": [],
+      "parentIds": [
+        "p1824"
+      ],
+      "childrenIds": [
+        "p2026",
+        "p2027",
+        "p2028"
+      ],
+      "level": 19
+    },
+    {
+      "id": "p2026",
+      "name": "Abraham",
+      "nameHe": "אברהם",
+      "yearBorn": -1996,
+      "yearDied": -1821,
+      "spouseIds": [
+        "p2029"
+      ],
+      "parentIds": [
+        "p1925"
+      ],
+      "childrenIds": [
+        "p2130",
+        "p2131"
+      ],
+      "level": 20
+    },
+    {
+      "id": "p2027",
+      "name": "Nahor II",
+      "nameHe": "נחור",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p1925"
+      ],
+      "childrenIds": [],
+      "level": 20
+    },
+    {
+      "id": "p2028",
+      "name": "Haran",
+      "nameHe": "הרן",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p1925"
+      ],
+      "childrenIds": [],
+      "level": 20
+    },
+    {
+      "id": "p2029",
+      "name": "Sarah",
+      "nameHe": "שרה",
+      "yearBorn": -1986,
+      "yearDied": -1859,
+      "spouseIds": [
+        "p2026"
+      ],
+      "parentIds": [],
+      "childrenIds": [
+        "p2131"
+      ],
+      "level": 20
+    },
+    {
+      "id": "p2130",
+      "name": "Ishmael",
+      "nameHe": "ישמעאל",
+      "yearBorn": -1910,
+      "yearDied": -1773,
+      "spouseIds": [],
+      "parentIds": [
+        "p2026"
+      ],
+      "childrenIds": [],
+      "level": 21
+    },
+    {
+      "id": "p2131",
+      "name": "Isaac",
+      "nameHe": "יצחק",
+      "yearBorn": -1896,
+      "yearDied": -1716,
+      "spouseIds": [
+        "p2132"
+      ],
+      "parentIds": [
+        "p2026",
+        "p2029"
+      ],
+      "childrenIds": [
+        "p2233",
+        "p2234"
+      ],
+      "level": 21
+    },
+    {
+      "id": "p2132",
+      "name": "Rebekah",
+      "nameHe": "רבקה",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [
+        "p2131"
+      ],
+      "parentIds": [],
+      "childrenIds": [
+        "p2233",
+        "p2234"
+      ],
+      "level": 21
+    },
+    {
+      "id": "p2233",
+      "name": "Esau",
+      "nameHe": "עשו",
+      "yearBorn": -1836,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p2131",
+        "p2132"
+      ],
+      "childrenIds": [],
+      "level": 22
+    },
+    {
+      "id": "p2234",
+      "name": "Jacob",
+      "nameHe": "יעקב",
+      "yearBorn": -1836,
+      "yearDied": -1689,
+      "spouseIds": [
+        "p2235",
+        "p2236",
+        "p2237",
+        "p2238"
+      ],
+      "parentIds": [
+        "p2131",
+        "p2132"
+      ],
+      "childrenIds": [
+        "p2337",
+        "p2338",
+        "p2339",
+        "p2340",
+        "p2341",
+        "p2342",
+        "p2343",
+        "p2344",
+        "p2345",
+        "p2346",
+        "p2347",
+        "p2348"
+      ],
+      "level": 22
+    },
+    {
+      "id": "p2235",
+      "name": "Leah",
+      "nameHe": "לאה",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [
+        "p2234"
+      ],
+      "parentIds": [],
+      "childrenIds": [
+        "p2337",
+        "p2338",
+        "p2339",
+        "p2342",
+        "p2345",
+        "p2347"
+      ],
+      "level": 22
+    },
+    {
+      "id": "p2236",
+      "name": "Rachel",
+      "nameHe": "רחל",
+      "yearBorn": null,
+      "yearDied": -1730,
+      "spouseIds": [
+        "p2234"
+      ],
+      "parentIds": [],
+      "childrenIds": [
+        "p2346",
+        "p2348"
+      ],
+      "level": 22
+    },
+    {
+      "id": "p2237",
+      "name": "Bilhah",
+      "nameHe": "בלהה",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [
+        "p2234"
+      ],
+      "parentIds": [],
+      "childrenIds": [
+        "p2341",
+        "p2342"
+      ],
+      "level": 22
+    },
+    {
+      "id": "p2238",
+      "name": "Zilpah",
+      "nameHe": "זלפה",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [
+        "p2234"
+      ],
+      "parentIds": [],
+      "childrenIds": [
+        "p2343",
+        "p2344"
+      ],
+      "level": 22
+    },
+    {
+      "id": "p2337",
+      "name": "Reuben",
+      "nameHe": "ראובן",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p2234",
+        "p2235"
+      ],
+      "childrenIds": [],
+      "level": 23
+    },
+    {
+      "id": "p2338",
+      "name": "Simeon",
+      "nameHe": "שמעון",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p2234",
+        "p2235"
+      ],
+      "childrenIds": [],
+      "level": 23
+    },
+    {
+      "id": "p2339",
+      "name": "Levi",
+      "nameHe": "לוי",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p2234",
+        "p2235"
+      ],
+      "childrenIds": [
+        "p2449"
+      ],
+      "level": 23
+    },
+    {
+      "id": "p2340",
+      "name": "Judah",
+      "nameHe": "יהודה",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [
+        "p2349"
+      ],
+      "parentIds": [
+        "p2234",
+        "p2235"
+      ],
+      "childrenIds": [
+        "p2456"
+      ],
+      "level": 23
+    },
+    {
+      "id": "p2341",
+      "name": "Dan",
+      "nameHe": "דן",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p2234",
+        "p2237"
+      ],
+      "childrenIds": [
+        "p2963"
+      ],
+      "level": 23
+    },
+    {
+      "id": "p2342",
+      "name": "Naphtali",
+      "nameHe": "נפתלי",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p2234",
+        "p2237"
+      ],
+      "childrenIds": [],
+      "level": 23
+    },
+    {
+      "id": "p2343",
+      "name": "Gad",
+      "nameHe": "גד",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p2234",
+        "p2238"
+      ],
+      "childrenIds": [],
+      "level": 23
+    },
+    {
+      "id": "p2344",
+      "name": "Asher",
+      "nameHe": "אשר",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p2234",
+        "p2238"
+      ],
+      "childrenIds": [],
+      "level": 23
+    },
+    {
+      "id": "p2345",
+      "name": "Issachar",
+      "nameHe": "יששכר",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p2234",
+        "p2235"
+      ],
+      "childrenIds": [],
+      "level": 23
+    },
+    {
+      "id": "p2346",
+      "name": "Joseph",
+      "nameHe": "יוסף",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p2234",
+        "p2236"
+      ],
+      "childrenIds": [],
+      "level": 23
+    },
+    {
+      "id": "p2347",
+      "name": "Zebulun",
+      "nameHe": "זבולון",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p2234",
+        "p2235"
+      ],
+      "childrenIds": [],
+      "level": 23
+    },
+    {
+      "id": "p2348",
+      "name": "Benjamin",
+      "nameHe": "בנימין",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p2234",
+        "p2236"
+      ],
+      "childrenIds": [],
+      "level": 23
+    },
+    {
+      "id": "p2349",
+      "name": "Tamar",
+      "nameHe": "תמר",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [
+        "p2340"
+      ],
+      "parentIds": [],
+      "childrenIds": [
+        "p2456"
+      ],
+      "level": 23
+    },
+    {
+      "id": "p2456",
+      "name": "Perez",
+      "nameHe": "פרץ",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p2340",
+        "p2349"
+      ],
+      "childrenIds": [
+        "p2557"
+      ],
+      "level": 24
+    },
+    {
+      "id": "p2557",
+      "name": "Hezron",
+      "nameHe": "חצרון",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p2456"
+      ],
+      "childrenIds": [
+        "p2658"
+      ],
+      "level": 25
+    },
+    {
+      "id": "p2658",
+      "name": "Ram",
+      "nameHe": "רם",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p2557"
+      ],
+      "childrenIds": [
+        "p2759"
+      ],
+      "level": 26
+    },
+    {
+      "id": "p2759",
+      "name": "Amminadab",
+      "nameHe": "עמינדב",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p2658"
+      ],
+      "childrenIds": [
+        "p2860"
+      ],
+      "level": 27
+    },
+    {
+      "id": "p2860",
+      "name": "Nahshon",
+      "nameHe": "נחשון",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p2759"
+      ],
+      "childrenIds": [
+        "p2961"
+      ],
+      "level": 28
+    },
+    {
+      "id": "p2961",
+      "name": "Salmon",
+      "nameHe": "שלמון",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [
+        "p2962"
+      ],
+      "parentIds": [
+        "p2860"
+      ],
+      "childrenIds": [
+        "p3062"
+      ],
+      "level": 29
+    },
+    {
+      "id": "p2962",
+      "name": "Rahab",
+      "nameHe": "רחב",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [
+        "p2961"
+      ],
+      "parentIds": [],
+      "childrenIds": [
+        "p3062"
+      ],
+      "level": 29
+    },
+    {
+      "id": "p3062",
+      "name": "Boaz",
+      "nameHe": "בועז",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [
+        "p3063"
+      ],
+      "parentIds": [
+        "p2961",
+        "p2962"
+      ],
+      "childrenIds": [
+        "p3163"
+      ],
+      "level": 30
+    },
+    {
+      "id": "p3063",
+      "name": "Ruth",
+      "nameHe": "רות",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [
+        "p3062"
+      ],
+      "parentIds": [],
+      "childrenIds": [
+        "p3163"
+      ],
+      "level": 30
+    },
+    {
+      "id": "p3064",
+      "name": "Samson",
+      "nameHe": "שמשון",
+      "yearBorn": -1155,
+      "yearDied": -1075,
+      "spouseIds": [],
+      "parentIds": [
+        "p2963"
+      ],
+      "childrenIds": [],
+      "level": 30
+    },
+    {
+      "id": "p3163",
+      "name": "Obed",
+      "nameHe": "עובד",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p3062",
+        "p3063"
+      ],
+      "childrenIds": [
+        "p3264"
+      ],
+      "level": 31
+    },
+    {
+      "id": "p3264",
+      "name": "Jesse",
+      "nameHe": "ישי",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p3163"
+      ],
+      "childrenIds": [
+        "p3365"
+      ],
+      "level": 32
+    },
+    {
+      "id": "p3365",
+      "name": "David",
+      "nameHe": "דוד",
+      "yearBorn": -1040,
+      "yearDied": -970,
+      "spouseIds": [
+        "p3366",
+        "p3367",
+        "p3368",
+        "p3369",
+        "p3370",
+        "p3371",
+        "p3372"
+      ],
+      "parentIds": [
+        "p3264"
+      ],
+      "childrenIds": [
+        "p3466",
+        "p3467",
+        "p3468",
+        "p3469",
+        "p3470",
+        "p3471"
+      ],
+      "level": 33
+    },
+    {
+      "id": "p3366",
+      "name": "Michal",
+      "nameHe": "מיכל",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [
+        "p3365"
+      ],
+      "parentIds": [],
+      "childrenIds": [],
+      "level": 33
+    },
+    {
+      "id": "p3367",
+      "name": "Ahinoam",
+      "nameHe": "אחינעם",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [
+        "p3365"
+      ],
+      "parentIds": [],
+      "childrenIds": [
+        "p3466"
+      ],
+      "level": 33
+    },
+    {
+      "id": "p3368",
+      "name": "Abigail",
+      "nameHe": "אביגיל",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [
+        "p3365"
+      ],
+      "parentIds": [],
+      "childrenIds": [
+        "p3467"
+      ],
+      "level": 33
+    },
+    {
+      "id": "p3369",
+      "name": "Maacah",
+      "nameHe": "מעכה",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [
+        "p3365"
+      ],
+      "parentIds": [],
+      "childrenIds": [
+        "p3468"
+      ],
+      "level": 33
+    },
+    {
+      "id": "p3370",
+      "name": "Haggith",
+      "nameHe": "חגית",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [
+        "p3365"
+      ],
+      "parentIds": [],
+      "childrenIds": [
+        "p3469"
+      ],
+      "level": 33
+    },
+    {
+      "id": "p3371",
+      "name": "Abital",
+      "nameHe": "אביטל",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [
+        "p3365"
+      ],
+      "parentIds": [],
+      "childrenIds": [],
+      "level": 33
+    },
+    {
+      "id": "p3372",
+      "name": "Bathsheba",
+      "nameHe": "בת שבע",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [
+        "p3365"
+      ],
+      "parentIds": [],
+      "childrenIds": [
+        "p3470",
+        "p3471"
+      ],
+      "level": 33
+    },
+    {
+      "id": "p3466",
+      "name": "Amnon",
+      "nameHe": "אמנון",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p3365",
+        "p3367"
+      ],
+      "childrenIds": [],
+      "level": 34
+    },
+    {
+      "id": "p3467",
+      "name": "Chileab",
+      "nameHe": "כלאב",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p3365",
+        "p3368"
+      ],
+      "childrenIds": [],
+      "level": 34
+    },
+    {
+      "id": "p3468",
+      "name": "Absalom",
+      "nameHe": "אבשלום",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p3365",
+        "p3369"
+      ],
+      "childrenIds": [],
+      "level": 34
+    },
+    {
+      "id": "p3469",
+      "name": "Adonijah",
+      "nameHe": "אדוניה",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p3365",
+        "p3370"
+      ],
+      "childrenIds": [],
+      "level": 34
+    },
+    {
+      "id": "p3470",
+      "name": "Nathan",
+      "nameHe": "נתן",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p3365",
+        "p3372"
+      ],
+      "childrenIds": [],
+      "level": 34
+    },
+    {
+      "id": "p3471",
+      "name": "Solomon",
+      "nameHe": "שלמה",
+      "yearBorn": -990,
+      "yearDied": -931,
+      "spouseIds": [],
+      "parentIds": [
+        "p3365",
+        "p3372"
+      ],
+      "childrenIds": [
+        "p3572"
+      ],
+      "level": 34
+    },
+    {
+      "id": "p2449",
+      "name": "Kohath",
+      "nameHe": "קהת",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p2339"
+      ],
+      "childrenIds": [
+        "p2550"
+      ],
+      "level": 24
+    },
+    {
+      "id": "p2550",
+      "name": "Amram",
+      "nameHe": "עמרם",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [
+        "p2551"
+      ],
+      "parentIds": [
+        "p2449"
+      ],
+      "childrenIds": [
+        "p2652",
+        "p2653",
+        "p2654"
+      ],
+      "level": 25
+    },
+    {
+      "id": "p2551",
+      "name": "Jochebed",
+      "nameHe": "יוכבד",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [
+        "p2550"
+      ],
+      "parentIds": [],
+      "childrenIds": [
+        "p2652",
+        "p2653",
+        "p2654"
+      ],
+      "level": 25
+    },
+    {
+      "id": "p2652",
+      "name": "Miriam",
+      "nameHe": "מרים",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p2550",
+        "p2551"
+      ],
+      "childrenIds": [],
+      "level": 26
+    },
+    {
+      "id": "p2653",
+      "name": "Aaron",
+      "nameHe": "אהרן",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p2550",
+        "p2551"
+      ],
+      "childrenIds": [],
+      "level": 26
+    },
+    {
+      "id": "p2654",
+      "name": "Moses",
+      "nameHe": "משה",
+      "yearBorn": -1526,
+      "yearDied": -1406,
+      "spouseIds": [
+        "p2655"
+      ],
+      "parentIds": [
+        "p2550",
+        "p2551"
+      ],
+      "childrenIds": [],
+      "level": 26
+    },
+    {
+      "id": "p2655",
+      "name": "Zipporah",
+      "nameHe": "ציפורה",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [
+        "p2654"
+      ],
+      "parentIds": [],
+      "childrenIds": [],
+      "level": 26
+    },
+    {
+      "id": "p2656",
+      "name": "Joshua",
+      "nameHe": "יהושע",
+      "yearBorn": -1476,
+      "yearDied": -1366,
+      "spouseIds": [],
+      "parentIds": [],
+      "childrenIds": [],
+      "level": 26
+    },
+    {
+      "id": "p2751",
+      "name": "Caleb",
+      "nameHe": "כלב",
+      "yearBorn": -1530,
+      "yearDied": -1424,
+      "spouseIds": [],
+      "parentIds": [],
+      "childrenIds": [],
+      "level": 27
+    },
+    {
+      "id": "p2963",
+      "name": "Manoah",
+      "nameHe": "מנוח",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p2341"
+      ],
+      "childrenIds": [
+        "p3064"
+      ],
+      "level": 29
+    },
+    {
+      "id": "p2965",
+      "name": "Gideon",
+      "nameHe": "גדעון",
+      "yearBorn": null,
+      "yearDied": -1162,
+      "spouseIds": [],
+      "parentIds": [],
+      "childrenIds": [],
+      "level": 29
+    },
+    {
+      "id": "p3572",
+      "name": "Rehoboam",
+      "nameHe": "רחבעם",
+      "yearBorn": -972,
+      "yearDied": -913,
+      "spouseIds": [],
+      "parentIds": [
+        "p3471"
+      ],
+      "childrenIds": [
+        "p3673"
+      ],
+      "level": 35
+    },
+    {
+      "id": "p3673",
+      "name": "Abijah",
+      "nameHe": "אביה",
+      "yearBorn": null,
+      "yearDied": -911,
+      "spouseIds": [],
+      "parentIds": [
+        "p3572"
+      ],
+      "childrenIds": [
+        "p3774"
+      ],
+      "level": 36
+    },
+    {
+      "id": "p3774",
+      "name": "Asa",
+      "nameHe": "אסא",
+      "yearBorn": null,
+      "yearDied": -870,
+      "spouseIds": [],
+      "parentIds": [
+        "p3673"
+      ],
+      "childrenIds": [
+        "p3875"
+      ],
+      "level": 37
+    },
+    {
+      "id": "p3875",
+      "name": "Jehoshaphat",
+      "nameHe": "יהושפט",
+      "yearBorn": -895,
+      "yearDied": -848,
+      "spouseIds": [],
+      "parentIds": [
+        "p3774"
+      ],
+      "childrenIds": [
+        "p3976"
+      ],
+      "level": 38
+    },
+    {
+      "id": "p3976",
+      "name": "Jehoram",
+      "nameHe": "יהורם",
+      "yearBorn": null,
+      "yearDied": -841,
+      "spouseIds": [],
+      "parentIds": [
+        "p3875"
+      ],
+      "childrenIds": [
+        "p4077"
+      ],
+      "level": 39
+    },
+    {
+      "id": "p4077",
+      "name": "Ahaziah",
+      "nameHe": "אחזיהו",
+      "yearBorn": null,
+      "yearDied": -841,
+      "spouseIds": [],
+      "parentIds": [
+        "p3976"
+      ],
+      "childrenIds": [
+        "p4178"
+      ],
+      "level": 40
+    },
+    {
+      "id": "p4178",
+      "name": "Joash",
+      "nameHe": "יואש",
+      "yearBorn": -843,
+      "yearDied": -803,
+      "spouseIds": [],
+      "parentIds": [
+        "p4077"
+      ],
+      "childrenIds": [
+        "p4279"
+      ],
+      "level": 41
+    },
+    {
+      "id": "p4279",
+      "name": "Amaziah",
+      "nameHe": "אמציה",
+      "yearBorn": null,
+      "yearDied": -767,
+      "spouseIds": [],
+      "parentIds": [
+        "p4178"
+      ],
+      "childrenIds": [
+        "p4380"
+      ],
+      "level": 42
+    },
+    {
+      "id": "p4380",
+      "name": "Uzziah",
+      "nameHe": "עזיהו",
+      "yearBorn": null,
+      "yearDied": -739,
+      "spouseIds": [],
+      "parentIds": [
+        "p4279"
+      ],
+      "childrenIds": [
+        "p4481"
+      ],
+      "level": 43
+    },
+    {
+      "id": "p4481",
+      "name": "Jotham",
+      "nameHe": "יותם",
+      "yearBorn": null,
+      "yearDied": -731,
+      "spouseIds": [],
+      "parentIds": [
+        "p4380"
+      ],
+      "childrenIds": [
+        "p4582"
+      ],
+      "level": 44
+    },
+    {
+      "id": "p4582",
+      "name": "Ahaz",
+      "nameHe": "אחז",
+      "yearBorn": null,
+      "yearDied": -716,
+      "spouseIds": [],
+      "parentIds": [
+        "p4481"
+      ],
+      "childrenIds": [
+        "p4683"
+      ],
+      "level": 45
+    },
+    {
+      "id": "p4683",
+      "name": "Hezekiah",
+      "nameHe": "חזקיהו",
+      "yearBorn": -741,
+      "yearDied": -687,
+      "spouseIds": [],
+      "parentIds": [
+        "p4582"
+      ],
+      "childrenIds": [
+        "p4784"
+      ],
+      "level": 46
+    },
+    {
+      "id": "p4784",
+      "name": "Manasseh",
+      "nameHe": "מנשה",
+      "yearBorn": -709,
+      "yearDied": -643,
+      "spouseIds": [],
+      "parentIds": [
+        "p4683"
+      ],
+      "childrenIds": [
+        "p4885"
+      ],
+      "level": 47
+    },
+    {
+      "id": "p4885",
+      "name": "Amon",
+      "nameHe": "אמון",
+      "yearBorn": null,
+      "yearDied": -640,
+      "spouseIds": [],
+      "parentIds": [
+        "p4784"
+      ],
+      "childrenIds": [
+        "p4986"
+      ],
+      "level": 48
+    },
+    {
+      "id": "p4986",
+      "name": "Josiah",
+      "nameHe": "יאשיהו",
+      "yearBorn": -649,
+      "yearDied": -609,
+      "spouseIds": [],
+      "parentIds": [
+        "p4885"
+      ],
+      "childrenIds": [
+        "p5087"
+      ],
+      "level": 49
+    },
+    {
+      "id": "p5087",
+      "name": "Jehoiakim",
+      "nameHe": "יהויקים",
+      "yearBorn": null,
+      "yearDied": -598,
+      "spouseIds": [],
+      "parentIds": [
+        "p4986"
+      ],
+      "childrenIds": [
+        "p5188"
+      ],
+      "level": 50
+    },
+    {
+      "id": "p5188",
+      "name": "Jeconiah",
+      "nameHe": "יכניה",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p5087"
+      ],
+      "childrenIds": [
+        "p5289"
+      ],
+      "level": 51
+    },
+    {
+      "id": "p5289",
+      "name": "Shealtiel",
+      "nameHe": "שאלתיאל",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p5188"
+      ],
+      "childrenIds": [
+        "p5390"
+      ],
+      "level": 52
+    },
+    {
+      "id": "p5390",
+      "name": "Zerubbabel",
+      "nameHe": "זרובבל",
+      "yearBorn": null,
+      "yearDied": -510,
+      "spouseIds": [],
+      "parentIds": [
+        "p5289"
+      ],
+      "childrenIds": [
+        "p5491"
+      ],
+      "level": 53
+    },
+    {
+      "id": "p5491",
+      "name": "Abiud",
+      "nameHe": "אביוד",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p5390"
+      ],
+      "childrenIds": [
+        "p5592"
+      ],
+      "level": 54
+    },
+    {
+      "id": "p5592",
+      "name": "Eliakim",
+      "nameHe": "אליקים",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p5491"
+      ],
+      "childrenIds": [
+        "p5693"
+      ],
+      "level": 55
+    },
+    {
+      "id": "p5693",
+      "name": "Azor",
+      "nameHe": "עזור",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p5592"
+      ],
+      "childrenIds": [
+        "p5794"
+      ],
+      "level": 56
+    },
+    {
+      "id": "p5794",
+      "name": "Zadok",
+      "nameHe": "צדוק",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p5693"
+      ],
+      "childrenIds": [
+        "p5895"
+      ],
+      "level": 57
+    },
+    {
+      "id": "p5895",
+      "name": "Achim",
+      "nameHe": "אכים",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p5794"
+      ],
+      "childrenIds": [
+        "p5996"
+      ],
+      "level": 58
+    },
+    {
+      "id": "p5996",
+      "name": "Eliud",
+      "nameHe": "אליעוד",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p5895"
+      ],
+      "childrenIds": [
+        "p6097"
+      ],
+      "level": 59
+    },
+    {
+      "id": "p6097",
+      "name": "Eleazar",
+      "nameHe": "אלעזר",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p5996"
+      ],
+      "childrenIds": [
+        "p6198"
+      ],
+      "level": 60
+    },
+    {
+      "id": "p6198",
+      "name": "Matthan",
+      "nameHe": "מתן",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p6097"
+      ],
+      "childrenIds": [
+        "p6299"
+      ],
+      "level": 61
+    },
+    {
+      "id": "p6299",
+      "name": "Jacob",
+      "nameHe": "יעקב",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [],
+      "parentIds": [
+        "p6198"
+      ],
+      "childrenIds": [
+        "p6300"
+      ],
+      "level": 62
+    },
+    {
+      "id": "p6300",
+      "name": "Joseph",
+      "nameHe": "יוסף",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [
+        "p6301"
+      ],
+      "parentIds": [
+        "p6299"
+      ],
+      "childrenIds": [
+        "p6402"
+      ],
+      "level": 63
+    },
+    {
+      "id": "p6301",
+      "name": "Mary",
+      "nameHe": "מרים",
+      "yearBorn": null,
+      "yearDied": null,
+      "spouseIds": [
+        "p6300"
+      ],
+      "parentIds": [],
+      "childrenIds": [
+        "p6402"
+      ],
+      "level": 63
+    },
+    {
+      "id": "p6402",
+      "name": "Jesus",
+      "nameHe": "ישוע",
+      "yearBorn": -4,
+      "yearDied": 30,
+      "spouseIds": [],
+      "parentIds": [
+        "p6300",
+        "p6301"
+      ],
+      "childrenIds": [],
+      "level": 64
+    }
+  ]
+}

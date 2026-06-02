@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Noah ark artwork">
+  <rect width="1200" height="800" fill="#5c7082"/>
+  <path d="M0 420C190 360 390 360 580 420S980 500 1200 430V800H0Z" fill="#3f5f73"/>
+  <path d="M350 360H860L790 470H420Z" fill="#7d4e2c"/>
+  <rect x="510" y="300" width="180" height="70" fill="#955d35"/>
+  <circle cx="600" cy="335" r="18" fill="#f2d6a6"/>
+</svg>

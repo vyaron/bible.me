@@ -1,0 +1,845 @@
+{
+  "generatedAt": "2026-06-02T07:01:40.217Z",
+  "source": {
+    "personsPath": "data\\en\\bible-tree\\persons.json",
+    "bibleIndexPath": "data\\en\\bible-txt\\index.json"
+  },
+  "personCount": 119,
+  "matchedCount": 117,
+  "unmatchedCount": 2,
+  "mentions": {
+    "p10": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 1,
+      "reason": "god"
+    },
+    "p101": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 2,
+      "reason": "adam"
+    },
+    "p102": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 2,
+      "reason": "eve"
+    },
+    "p203": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 4,
+      "reason": "cain"
+    },
+    "p204": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 4,
+      "reason": "abel"
+    },
+    "p205": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 4,
+      "reason": "seth"
+    },
+    "p306": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 4,
+      "reason": "enosh"
+    },
+    "p407": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 5,
+      "reason": "kenan"
+    },
+    "p508": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 5,
+      "reason": "mahalalel"
+    },
+    "p609": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 5,
+      "reason": "jared"
+    },
+    "p710": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 4,
+      "reason": "enoch"
+    },
+    "p811": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 5,
+      "reason": "methuselah"
+    },
+    "p912": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 4,
+      "reason": "lamech"
+    },
+    "p1013": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 5,
+      "reason": "noah"
+    },
+    "p1115": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 5,
+      "reason": "shem"
+    },
+    "p1116": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 5,
+      "reason": "ham"
+    },
+    "p1117": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 5,
+      "reason": "japheth"
+    },
+    "p1218": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 10,
+      "reason": "arphaxad"
+    },
+    "p1319": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 10,
+      "reason": "shelah"
+    },
+    "p1420": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 10,
+      "reason": "eber"
+    },
+    "p1521": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 10,
+      "reason": "peleg"
+    },
+    "p1622": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 11,
+      "reason": "reu"
+    },
+    "p1723": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 11,
+      "reason": "serug"
+    },
+    "p1824": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 11,
+      "reason": "nahor"
+    },
+    "p1925": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 11,
+      "reason": "terah"
+    },
+    "p2026": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 11,
+      "reason": "abram"
+    },
+    "p2027": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 11,
+      "reason": "nahor"
+    },
+    "p2028": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 11,
+      "reason": "haran"
+    },
+    "p2029": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 11,
+      "reason": "sarai"
+    },
+    "p2130": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 16,
+      "reason": "ishmael"
+    },
+    "p2131": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 17,
+      "reason": "isaac"
+    },
+    "p2132": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 22,
+      "reason": "rebekah"
+    },
+    "p2233": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 25,
+      "reason": "esau"
+    },
+    "p2234": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 25,
+      "reason": "jacob"
+    },
+    "p2235": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 29,
+      "reason": "leah"
+    },
+    "p2236": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 29,
+      "reason": "rachel"
+    },
+    "p2237": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 29,
+      "reason": "bilhah"
+    },
+    "p2238": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 29,
+      "reason": "zilpah"
+    },
+    "p2337": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 29,
+      "reason": "reuben"
+    },
+    "p2338": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 29,
+      "reason": "simeon"
+    },
+    "p2339": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 29,
+      "reason": "levi"
+    },
+    "p2340": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 29,
+      "reason": "judah"
+    },
+    "p2341": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 14,
+      "reason": "dan"
+    },
+    "p2342": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 30,
+      "reason": "naphtali"
+    },
+    "p2343": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 30,
+      "reason": "gad"
+    },
+    "p2344": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 30,
+      "reason": "asher"
+    },
+    "p2345": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 30,
+      "reason": "issachar"
+    },
+    "p2346": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 30,
+      "reason": "joseph"
+    },
+    "p2347": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 30,
+      "reason": "zebulun"
+    },
+    "p2348": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 35,
+      "reason": "benjamin"
+    },
+    "p2349": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 14,
+      "reason": "tamar"
+    },
+    "p2456": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 38,
+      "reason": "perez"
+    },
+    "p2557": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 46,
+      "reason": "hezron"
+    },
+    "p2658": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 15,
+      "reason": "ram"
+    },
+    "p2759": {
+      "bookCode": "EXO",
+      "bookSlug": "exodus",
+      "bookName": "Exodus",
+      "chapter": 6,
+      "reason": "amminadab"
+    },
+    "p2860": {
+      "bookCode": "EXO",
+      "bookSlug": "exodus",
+      "bookName": "Exodus",
+      "chapter": 6,
+      "reason": "nahshon"
+    },
+    "p2961": {
+      "bookCode": "RUT",
+      "bookSlug": "ruth",
+      "bookName": "Ruth",
+      "chapter": 4,
+      "reason": "salmon"
+    },
+    "p2962": {
+      "bookCode": "JOS",
+      "bookSlug": "joshua",
+      "bookName": "Joshua",
+      "chapter": 2,
+      "reason": "rahab"
+    },
+    "p3062": {
+      "bookCode": "RUT",
+      "bookSlug": "ruth",
+      "bookName": "Ruth",
+      "chapter": 2,
+      "reason": "boaz"
+    },
+    "p3063": {
+      "bookCode": "RUT",
+      "bookSlug": "ruth",
+      "bookName": "Ruth",
+      "chapter": 1,
+      "reason": "ruth"
+    },
+    "p3064": {
+      "bookCode": "JDG",
+      "bookSlug": "judges",
+      "bookName": "Judges",
+      "chapter": 13,
+      "reason": "samson"
+    },
+    "p3163": {
+      "bookCode": "RUT",
+      "bookSlug": "ruth",
+      "bookName": "Ruth",
+      "chapter": 4,
+      "reason": "obed"
+    },
+    "p3264": {
+      "bookCode": "RUT",
+      "bookSlug": "ruth",
+      "bookName": "Ruth",
+      "chapter": 4,
+      "reason": "jesse"
+    },
+    "p3365": {
+      "bookCode": "RUT",
+      "bookSlug": "ruth",
+      "bookName": "Ruth",
+      "chapter": 4,
+      "reason": "david"
+    },
+    "p3366": {
+      "bookCode": "1SA",
+      "bookSlug": "1-samuel",
+      "bookName": "1 Samuel",
+      "chapter": 14,
+      "reason": "michal"
+    },
+    "p3367": {
+      "bookCode": "1SA",
+      "bookSlug": "1-samuel",
+      "bookName": "1 Samuel",
+      "chapter": 14,
+      "reason": "ahinoam"
+    },
+    "p3368": {
+      "bookCode": "1SA",
+      "bookSlug": "1-samuel",
+      "bookName": "1 Samuel",
+      "chapter": 25,
+      "reason": "abigail"
+    },
+    "p3369": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 22,
+      "reason": "maacah"
+    },
+    "p3370": {
+      "bookCode": "2SA",
+      "bookSlug": "2-samuel",
+      "bookName": "2 Samuel",
+      "chapter": 3,
+      "reason": "haggith"
+    },
+    "p3371": {
+      "bookCode": "2SA",
+      "bookSlug": "2-samuel",
+      "bookName": "2 Samuel",
+      "chapter": 3,
+      "reason": "abital"
+    },
+    "p3372": {
+      "bookCode": "2SA",
+      "bookSlug": "2-samuel",
+      "bookName": "2 Samuel",
+      "chapter": 11,
+      "reason": "bathsheba"
+    },
+    "p3466": {
+      "bookCode": "2SA",
+      "bookSlug": "2-samuel",
+      "bookName": "2 Samuel",
+      "chapter": 3,
+      "reason": "amnon"
+    },
+    "p3467": {
+      "bookCode": "2SA",
+      "bookSlug": "2-samuel",
+      "bookName": "2 Samuel",
+      "chapter": 3,
+      "reason": "chileab"
+    },
+    "p3468": {
+      "bookCode": "2SA",
+      "bookSlug": "2-samuel",
+      "bookName": "2 Samuel",
+      "chapter": 3,
+      "reason": "absalom"
+    },
+    "p3469": {
+      "bookCode": "2SA",
+      "bookSlug": "2-samuel",
+      "bookName": "2 Samuel",
+      "chapter": 3,
+      "reason": "adonijah"
+    },
+    "p3470": {
+      "bookCode": "2SA",
+      "bookSlug": "2-samuel",
+      "bookName": "2 Samuel",
+      "chapter": 5,
+      "reason": "nathan"
+    },
+    "p3471": {
+      "bookCode": "2SA",
+      "bookSlug": "2-samuel",
+      "bookName": "2 Samuel",
+      "chapter": 5,
+      "reason": "solomon"
+    },
+    "p2449": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 46,
+      "reason": "kohath"
+    },
+    "p2550": {
+      "bookCode": "EXO",
+      "bookSlug": "exodus",
+      "bookName": "Exodus",
+      "chapter": 6,
+      "reason": "amram"
+    },
+    "p2551": {
+      "bookCode": "EXO",
+      "bookSlug": "exodus",
+      "bookName": "Exodus",
+      "chapter": 6,
+      "reason": "jochebed"
+    },
+    "p2652": {
+      "bookCode": "EXO",
+      "bookSlug": "exodus",
+      "bookName": "Exodus",
+      "chapter": 15,
+      "reason": "miriam"
+    },
+    "p2653": {
+      "bookCode": "EXO",
+      "bookSlug": "exodus",
+      "bookName": "Exodus",
+      "chapter": 4,
+      "reason": "aaron"
+    },
+    "p2654": {
+      "bookCode": "EXO",
+      "bookSlug": "exodus",
+      "bookName": "Exodus",
+      "chapter": 2,
+      "reason": "moses"
+    },
+    "p2655": {
+      "bookCode": "EXO",
+      "bookSlug": "exodus",
+      "bookName": "Exodus",
+      "chapter": 2,
+      "reason": "zipporah"
+    },
+    "p2656": {
+      "bookCode": "EXO",
+      "bookSlug": "exodus",
+      "bookName": "Exodus",
+      "chapter": 17,
+      "reason": "joshua"
+    },
+    "p2751": {
+      "bookCode": "NUM",
+      "bookSlug": "numbers",
+      "bookName": "Numbers",
+      "chapter": 13,
+      "reason": "caleb"
+    },
+    "p2963": {
+      "bookCode": "JDG",
+      "bookSlug": "judges",
+      "bookName": "Judges",
+      "chapter": 13,
+      "reason": "manoah"
+    },
+    "p2965": {
+      "bookCode": "JDG",
+      "bookSlug": "judges",
+      "bookName": "Judges",
+      "chapter": 6,
+      "reason": "gideon"
+    },
+    "p3572": {
+      "bookCode": "1KI",
+      "bookSlug": "1-kings",
+      "bookName": "1 Kings",
+      "chapter": 11,
+      "reason": "rehoboam"
+    },
+    "p3673": {
+      "bookCode": "1SA",
+      "bookSlug": "1-samuel",
+      "bookName": "1 Samuel",
+      "chapter": 8,
+      "reason": "abijah"
+    },
+    "p3774": {
+      "bookCode": "1KI",
+      "bookSlug": "1-kings",
+      "bookName": "1 Kings",
+      "chapter": 15,
+      "reason": "asa"
+    },
+    "p3875": {
+      "bookCode": "2SA",
+      "bookSlug": "2-samuel",
+      "bookName": "2 Samuel",
+      "chapter": 8,
+      "reason": "jehoshaphat"
+    },
+    "p3976": {
+      "bookCode": "1KI",
+      "bookSlug": "1-kings",
+      "bookName": "1 Kings",
+      "chapter": 22,
+      "reason": "jehoram"
+    },
+    "p4077": {
+      "bookCode": "1KI",
+      "bookSlug": "1-kings",
+      "bookName": "1 Kings",
+      "chapter": 22,
+      "reason": "ahaziah"
+    },
+    "p4178": {
+      "bookCode": "JDG",
+      "bookSlug": "judges",
+      "bookName": "Judges",
+      "chapter": 6,
+      "reason": "joash"
+    },
+    "p4279": {
+      "bookCode": "2KI",
+      "bookSlug": "2-kings",
+      "bookName": "2 Kings",
+      "chapter": 12,
+      "reason": "amaziah"
+    },
+    "p4380": {
+      "bookCode": "2KI",
+      "bookSlug": "2-kings",
+      "bookName": "2 Kings",
+      "chapter": 15,
+      "reason": "uzziah"
+    },
+    "p4481": {
+      "bookCode": "JDG",
+      "bookSlug": "judges",
+      "bookName": "Judges",
+      "chapter": 9,
+      "reason": "jotham"
+    },
+    "p4582": {
+      "bookCode": "2KI",
+      "bookSlug": "2-kings",
+      "bookName": "2 Kings",
+      "chapter": 15,
+      "reason": "ahaz"
+    },
+    "p4683": {
+      "bookCode": "2KI",
+      "bookSlug": "2-kings",
+      "bookName": "2 Kings",
+      "chapter": 16,
+      "reason": "hezekiah"
+    },
+    "p4784": {
+      "bookCode": "GEN",
+      "bookSlug": "genesis",
+      "bookName": "Genesis",
+      "chapter": 41,
+      "reason": "manasseh"
+    },
+    "p4885": {
+      "bookCode": "1KI",
+      "bookSlug": "1-kings",
+      "bookName": "1 Kings",
+      "chapter": 22,
+      "reason": "amon"
+    },
+    "p4986": {
+      "bookCode": "1KI",
+      "bookSlug": "1-kings",
+      "bookName": "1 Kings",
+      "chapter": 13,
+      "reason": "josiah"
+    },
+    "p5087": {
+      "bookCode": "2KI",
+      "bookSlug": "2-kings",
+      "bookName": "2 Kings",
+      "chapter": 23,
+      "reason": "jehoiakim"
+    },
+    "p5188": {
+      "bookCode": "2KI",
+      "bookSlug": "2-kings",
+      "bookName": "2 Kings",
+      "chapter": 24,
+      "reason": "manual:Jehoiachin/Jeconiah"
+    },
+    "p5289": {
+      "bookCode": "1CH",
+      "bookSlug": "1-chronicles",
+      "bookName": "1 Chronicles",
+      "chapter": 3,
+      "reason": "shealtiel"
+    },
+    "p5390": {
+      "bookCode": "1CH",
+      "bookSlug": "1-chronicles",
+      "bookName": "1 Chronicles",
+      "chapter": 3,
+      "reason": "zerubbabel"
+    },
+    "p5491": {
+      "bookCode": "MAT",
+      "bookSlug": "matthew",
+      "bookName": "Matthew",
+      "chapter": 1,
+      "reason": "abiud"
+    },
+    "p5592": {
+      "bookCode": "2KI",
+      "bookSlug": "2-kings",
+      "bookName": "2 Kings",
+      "chapter": 18,
+      "reason": "eliakim"
+    },
+    "p5693": {
+      "bookCode": "MAT",
+      "bookSlug": "matthew",
+      "bookName": "Matthew",
+      "chapter": 1,
+      "reason": "azor"
+    },
+    "p5794": {
+      "bookCode": "2SA",
+      "bookSlug": "2-samuel",
+      "bookName": "2 Samuel",
+      "chapter": 8,
+      "reason": "zadok"
+    },
+    "p5895": {
+      "bookCode": "MAT",
+      "bookSlug": "matthew",
+      "bookName": "Matthew",
+      "chapter": 1,
+      "reason": "manual:genealogy"
+    },
+    "p5996": {
+      "bookCode": "MAT",
+      "bookSlug": "matthew",
+      "bookName": "Matthew",
+      "chapter": 1,
+      "reason": "eliud"
+    },
+    "p6097": {
+      "bookCode": "EXO",
+      "bookSlug": "exodus",
+      "bookName": "Exodus",
+      "chapter": 6,
+      "reason": "eleazar"
+    },
+    "p6198": {
+      "bookCode": "MAT",
+      "bookSlug": "matthew",
+      "bookName": "Matthew",
+      "chapter": 1,
+      "reason": "matthan"
+    },
+    "p6299": {
+      "bookCode": "MAT",
+      "bookSlug": "matthew",
+      "bookName": "Matthew",
+      "chapter": 1,
+      "reason": "jacob"
+    },
+    "p6300": {
+      "bookCode": "MAT",
+      "bookSlug": "matthew",
+      "bookName": "Matthew",
+      "chapter": 1,
+      "reason": "joseph"
+    },
+    "p6301": {
+      "bookCode": "MAT",
+      "bookSlug": "matthew",
+      "bookName": "Matthew",
+      "chapter": 1,
+      "reason": "mary"
+    },
+    "p6402": {
+      "bookCode": "MAT",
+      "bookSlug": "matthew",
+      "bookName": "Matthew",
+      "chapter": 1,
+      "reason": "jesus"
+    }
+  }
+}

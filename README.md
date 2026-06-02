@@ -2,6 +2,24 @@
 
 Next.js Bible reader with chapter routes and optional chapter audio.
 
+## Story experience
+
+- Story landing page: `/story`
+- Story detail page: `/story/[slug]`
+- Story manifest: `src/lib/story-data.ts`
+- Story artwork assets: `public/story/*.svg`
+
+Initial story set includes 8 curated stories (4 OT + 4 NT) with summary text, AI-style illustrations, and links to source passages.
+
+## Bible Tree experience
+
+- Tree page: `/tree`
+- Tree dataset: `data/en/bible-tree/persons.json`
+- First-mention index: `data/en/bible-tree/mentions.json`
+- Tree loader types/helpers: `src/lib/bible-tree/*`
+
+Tree nodes include a chapter link to the first mention in bible.me and a click modal that fetches Wikipedia summary data when available.
+
 ## Data sources
 
 - Bible text: `data/en/bible-txt`
@@ -18,6 +36,8 @@ Next.js Bible reader with chapter routes and optional chapter audio.
 - `npm run audio:build` scans `data/en/audio` and generates `data/en/audio/index.json`.
 - `npm run hebrew:build` converts Torah Hebrew data into normalized files for chapter lookup.
 - `npm run hebrew-audio:build` scans `data/he/audio` and generates `data/he/audio/index.json`.
+- `npm run tree:import` imports person genealogy data from `vyaron/bible-tree` into local JSON.
+- `npm run tree:mentions` precomputes first-mention chapter links for tree nodes.
 - `npm run build` runs `prebuild` (audio + Hebrew text + Hebrew audio generation) and then builds Next.js.
 - `npm run start` starts the production server.
 

@@ -47,6 +47,12 @@ export default function RootLayout({
                 <a className="nav-pill" href="/">
                   Home
                 </a>
+                <a className="nav-pill" href="/tree">
+                  Tree
+                </a>
+                <a className="nav-pill" href="/story">
+                  Story
+                </a>
               </nav>
             </div>
           </header>
