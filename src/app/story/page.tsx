@@ -38,7 +38,6 @@ export default function StoryPage() {
   return (
     <>
       <section className="hero story-hero">
-        <p className="hero-kicker">Explore Stories</p>
         <h1>Greatest stories ever told</h1>
         <p>
           Discover foundational Bible stories with rich visuals, curated summaries, and direct links to relevant
@@ -49,8 +48,7 @@ export default function StoryPage() {
       <section className="panel reader">
         <div className="section-header">
           <div>
-            <h2>Bible Great Stories</h2>
-            <p>Start with these curated stories and explore each narrative scene by scene across OT and NT.</p>
+            <h2>Expolre Greatest Stories</h2>
           </div>
           <span className="badge">{storyList.length} stories</span>
         </div>

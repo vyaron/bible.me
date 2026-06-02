@@ -1,7 +1,10 @@
 import { birthJesusStory } from '@/content/story/birth-jesus'
+import { bindingIsaacStory } from '@/content/story/binding-isaac'
+import { burningBushStory } from '@/content/story/burning-bush'
 import { calmStormStory } from '@/content/story/calm-storm'
 import { creationStory } from '@/content/story/creation'
 import { davidGoliathStory } from '@/content/story/david-goliath'
+import { josephBrothersStory } from '@/content/story/joseph-brothers'
 import { noahArkStory } from '@/content/story/noah-ark'
 import { prodigalSonStory } from '@/content/story/prodigal-son'
 import { redSeaStory } from '@/content/story/red-sea'
@@ -27,6 +30,9 @@ export type {
 export const storyList: Story[] = [
   creationStory,
   noahArkStory,
+  bindingIsaacStory,
+  josephBrothersStory,
+  burningBushStory,
   redSeaStory,
   davidGoliathStory,
   samsonDelilahStory,

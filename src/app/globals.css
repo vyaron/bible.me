@@ -140,19 +140,37 @@ main {
 }
 
 .nav-pill {
-  padding: 0.55rem 0.95rem;
-  border-radius: 999px;
-  border: 1px solid transparent;
-  background: var(--accent-soft);
-  color: var(--accent-strong);
+  position: relative;
+  padding: 0.2rem 0;
+  border: 0;
+  background: transparent;
+  color: var(--text);
   font-family: var(--font-ui);
-  font-size: 0.95rem;
+  font-size: 0.94rem;
+  letter-spacing: 0.01em;
 }
 
 .nav-pill:hover,
 .nav-pill:focus-visible {
-  border-color: var(--border-strong);
-  background: rgba(255, 255, 255, 0.84);
+  color: var(--accent-strong);
+}
+
+.nav-pill::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -0.2rem;
+  height: 1px;
+  background: currentColor;
+  transform: scaleX(0);
+  transform-origin: left center;
+  transition: transform 160ms ease;
+}
+
+.nav-pill:hover::after,
+.nav-pill:focus-visible::after {
+  transform: scaleX(1);
 }
 
 .hero,
@@ -541,13 +559,15 @@ main {
 .badge {
   display: inline-flex;
   align-items: center;
-  gap: 0.35rem;
-  padding: 0.34rem 0.65rem;
-  border-radius: 999px;
-  background: var(--accent-soft);
-  color: var(--accent-strong);
+  gap: 0.3rem;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: var(--muted);
   font-family: var(--font-ui);
-  font-size: 0.82rem;
+  font-size: 0.8rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
 }
 
 .reader {
