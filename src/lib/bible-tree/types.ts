@@ -15,6 +15,7 @@ export type FirstMention = {
   bookSlug: string
   bookName: string
   chapter: number
+  verse: number
   reason: string
 }
 

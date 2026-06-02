@@ -13,6 +13,8 @@ import { getEnglishChapterAudio, getHebrewChapterAudioFromManifest } from '@/lib
 import { getHebrewChapter } from '@/lib/hebrew'
 import { getSiteUrl, siteName } from '@/lib/site'
 
+import { VerseDeepLinkHandler } from './verse-deep-link'
+
 type ChapterPageProps = {
   params: Promise<{
     book: string
@@ -80,6 +82,7 @@ export default async function ChapterPage({ params }: ChapterPageProps) {
 
   return (
     <section className="panel reader">
+      <VerseDeepLinkHandler />
       <div className="reader-top">
         <div className="reader-meta">
           <a href="/">Home</a> <span aria-hidden="true">/</span> <a href={getBookUrl(book.slug)}>{book.name}</a>
@@ -132,7 +135,9 @@ export default async function ChapterPage({ params }: ChapterPageProps) {
         <div className="verse-list" aria-label={`${book.name} chapter ${chapter.number}`}>
           {chapter.verses.map((verse) => (
             <div key={verse.number} className="verse" id={`verse-${verse.number}`}>
-              <span className="verse-number">{verse.number}</span>
+              <a className="verse-number verse-number-link" href={`#verse-${verse.number}`}>
+                {verse.number}
+              </a>
               <div className="verse-body">
                 <div className="verse-text">{verse.text}</div>
                 {hebrewVerseMap.has(verse.number) ? (

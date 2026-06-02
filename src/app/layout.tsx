@@ -41,17 +41,17 @@ export default function RootLayout({
             <div className="shell site-nav">
               <a className="brand" href="/" aria-label="Bible.me home">
                 <strong>Bible.me</strong>
-                <span>Readable scripture with clean routes</span>
+                <span>Bible for Everyone</span>
               </a>
               <nav className="nav-links" aria-label="Primary">
                 <a className="nav-pill" href="/">
                   Home
                 </a>
                 <a className="nav-pill" href="/tree">
-                  Tree
+                  Bible Tree
                 </a>
                 <a className="nav-pill" href="/story">
-                  Story
+                  Stories
                 </a>
               </nav>
             </div>

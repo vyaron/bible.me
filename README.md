@@ -2,6 +2,15 @@
 
 Next.js Bible reader with chapter routes and optional chapter audio.
 
+## Verse of the Day
+
+- Homepage includes a `Verse of the Day` card in the header area.
+- Rotation is deterministic and UTC-based: day-of-year modulo 20 curated verses.
+- Card includes an `Another verse` button that cycles through the curated set client-side.
+- Verse references deep-link to chapter verse anchors in this format:
+	- `/books/[bookSlug]/[chapter]#verse-[verseNumber]`
+- Source selection and lookup helper: `src/lib/verse-of-day.ts`
+
 ## Story experience
 
 - Story landing page: `/story`

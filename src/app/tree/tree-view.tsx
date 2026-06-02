@@ -466,7 +466,7 @@ export function BibleTreeView({ persons }: BibleTreeViewProps) {
                   }
 
                   const mentionHref = person.firstMention
-                    ? `/books/${person.firstMention.bookSlug}/${person.firstMention.chapter}`
+                    ? `/books/${person.firstMention.bookSlug}/${person.firstMention.chapter}#verse-${person.firstMention.verse}`
                     : undefined
 
                   return (
@@ -487,7 +487,7 @@ export function BibleTreeView({ persons }: BibleTreeViewProps) {
 
                       {mentionHref ? (
                         <a className="tree-mention-link" href={mentionHref}>
-                          First mention: {person.firstMention?.bookName} {person.firstMention?.chapter}
+                          First mention: {person.firstMention?.bookName} {person.firstMention?.chapter}:{person.firstMention?.verse}
                         </a>
                       ) : (
                         <span className="tree-mention-missing">First mention unavailable</span>

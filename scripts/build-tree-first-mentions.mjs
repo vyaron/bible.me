@@ -119,23 +119,31 @@ async function run() {
       const bookJson = await readJson(bookPath)
 
       for (const chapter of bookJson.chapters) {
-        const text = chapterText(chapter)
-        const matched = patterns.some((pattern) => pattern.regex.test(text))
+        const chapterFullText = chapterText(chapter)
 
-        if (!matched) {
+        if (!matchesOverride(chapterFullText, override)) {
           continue
         }
 
-        if (!matchesOverride(text, override)) {
+        const matchedVerse = chapter.verses.find((verse) => {
+          const verseText = normalize(verse.text)
+
+          return patterns.some((pattern) => pattern.regex.test(verseText))
+        })
+
+        if (!matchedVerse) {
           continue
         }
+
+        const matchedPattern = patterns.find((pattern) => pattern.regex.test(normalize(matchedVerse.text)))
 
         firstMatch = {
           bookCode: book.code,
           bookSlug: book.slug,
           bookName: book.name,
           chapter: chapter.number,
-          reason: patterns.find((pattern) => pattern.regex.test(text))?.term || person.name
+          verse: matchedVerse.number,
+          reason: matchedPattern?.term || person.name
         }
         break
       }

@@ -2,6 +2,9 @@ import type { Metadata } from 'next'
 
 import { getBibleIndex, groupBooksByTestament, getBookUrl } from '@/lib/bible'
 import { siteName } from '@/lib/site'
+import { getVerseOfDayList } from '@/lib/verse-of-day'
+
+import { VerseOfDayCard } from './verse-of-day-card'
 
 export const metadata: Metadata = {
   title: 'Bible reading home',
@@ -11,6 +14,7 @@ export const metadata: Metadata = {
 export default async function HomePage() {
   const bibleIndex = await getBibleIndex()
   const groupedBooks = groupBooksByTestament(bibleIndex.books)
+  const versesOfDay = await getVerseOfDayList()
 
   return (
     <>
@@ -36,6 +40,8 @@ export default async function HomePage() {
           </div>
         </div>
       </section>
+
+      <VerseOfDayCard verses={versesOfDay} />
 
       <section className="panel reader">
         <div className="section-header">

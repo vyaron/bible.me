@@ -109,5 +109,5 @@ export function getBibleTreeMentionHref(person: BibleTreePersonWithMention) {
     return undefined
   }
 
-  return `/books/${person.firstMention.bookSlug}/${person.firstMention.chapter}`
+  return `/books/${person.firstMention.bookSlug}/${person.firstMention.chapter}#verse-${person.firstMention.verse}`
 }

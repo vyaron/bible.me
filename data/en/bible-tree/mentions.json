@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T07:01:40.217Z",
+  "generatedAt": "2026-06-02T08:01:05.920Z",
   "source": {
     "personsPath": "data\\en\\bible-tree\\persons.json",
     "bibleIndexPath": "data\\en\\bible-txt\\index.json"
@@ -13,6 +13,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 1,
+      "verse": 1,
       "reason": "god"
     },
     "p101": {
@@ -20,6 +21,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 2,
+      "verse": 7,
       "reason": "adam"
     },
     "p102": {
@@ -27,6 +29,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 2,
+      "verse": 25,
       "reason": "eve"
     },
     "p203": {
@@ -34,6 +37,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 4,
+      "verse": 1,
       "reason": "cain"
     },
     "p204": {
@@ -41,6 +45,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 4,
+      "verse": 2,
       "reason": "abel"
     },
     "p205": {
@@ -48,6 +53,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 4,
+      "verse": 25,
       "reason": "seth"
     },
     "p306": {
@@ -55,6 +61,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 4,
+      "verse": 26,
       "reason": "enosh"
     },
     "p407": {
@@ -62,6 +69,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 5,
+      "verse": 9,
       "reason": "kenan"
     },
     "p508": {
@@ -69,6 +77,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 5,
+      "verse": 15,
       "reason": "mahalalel"
     },
     "p609": {
@@ -76,6 +85,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 5,
+      "verse": 15,
       "reason": "jared"
     },
     "p710": {
@@ -83,6 +93,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 4,
+      "verse": 17,
       "reason": "enoch"
     },
     "p811": {
@@ -90,6 +101,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 5,
+      "verse": 21,
       "reason": "methuselah"
     },
     "p912": {
@@ -97,6 +109,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 4,
+      "verse": 18,
       "reason": "lamech"
     },
     "p1013": {
@@ -104,6 +117,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 5,
+      "verse": 29,
       "reason": "noah"
     },
     "p1115": {
@@ -111,6 +125,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 5,
+      "verse": 32,
       "reason": "shem"
     },
     "p1116": {
@@ -118,6 +133,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 5,
+      "verse": 32,
       "reason": "ham"
     },
     "p1117": {
@@ -125,6 +141,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 5,
+      "verse": 32,
       "reason": "japheth"
     },
     "p1218": {
@@ -132,6 +149,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 10,
+      "verse": 22,
       "reason": "arphaxad"
     },
     "p1319": {
@@ -139,6 +157,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 10,
+      "verse": 24,
       "reason": "shelah"
     },
     "p1420": {
@@ -146,6 +165,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 10,
+      "verse": 21,
       "reason": "eber"
     },
     "p1521": {
@@ -153,6 +173,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 10,
+      "verse": 25,
       "reason": "peleg"
     },
     "p1622": {
@@ -160,6 +181,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 11,
+      "verse": 18,
       "reason": "reu"
     },
     "p1723": {
@@ -167,6 +189,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 11,
+      "verse": 20,
       "reason": "serug"
     },
     "p1824": {
@@ -174,6 +197,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 11,
+      "verse": 22,
       "reason": "nahor"
     },
     "p1925": {
@@ -181,6 +205,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 11,
+      "verse": 24,
       "reason": "terah"
     },
     "p2026": {
@@ -188,6 +213,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 11,
+      "verse": 26,
       "reason": "abram"
     },
     "p2027": {
@@ -195,6 +221,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 11,
+      "verse": 22,
       "reason": "nahor"
     },
     "p2028": {
@@ -202,6 +229,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 11,
+      "verse": 26,
       "reason": "haran"
     },
     "p2029": {
@@ -209,6 +237,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 11,
+      "verse": 29,
       "reason": "sarai"
     },
     "p2130": {
@@ -216,6 +245,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 16,
+      "verse": 11,
       "reason": "ishmael"
     },
     "p2131": {
@@ -223,6 +253,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 17,
+      "verse": 19,
       "reason": "isaac"
     },
     "p2132": {
@@ -230,6 +261,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 22,
+      "verse": 23,
       "reason": "rebekah"
     },
     "p2233": {
@@ -237,6 +269,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 25,
+      "verse": 25,
       "reason": "esau"
     },
     "p2234": {
@@ -244,6 +277,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 25,
+      "verse": 26,
       "reason": "jacob"
     },
     "p2235": {
@@ -251,6 +285,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 29,
+      "verse": 16,
       "reason": "leah"
     },
     "p2236": {
@@ -258,6 +293,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 29,
+      "verse": 6,
       "reason": "rachel"
     },
     "p2237": {
@@ -265,6 +301,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 29,
+      "verse": 29,
       "reason": "bilhah"
     },
     "p2238": {
@@ -272,6 +309,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 29,
+      "verse": 24,
       "reason": "zilpah"
     },
     "p2337": {
@@ -279,6 +317,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 29,
+      "verse": 32,
       "reason": "reuben"
     },
     "p2338": {
@@ -286,6 +325,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 29,
+      "verse": 33,
       "reason": "simeon"
     },
     "p2339": {
@@ -293,6 +333,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 29,
+      "verse": 34,
       "reason": "levi"
     },
     "p2340": {
@@ -300,6 +341,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 29,
+      "verse": 35,
       "reason": "judah"
     },
     "p2341": {
@@ -307,6 +349,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 14,
+      "verse": 14,
       "reason": "dan"
     },
     "p2342": {
@@ -314,6 +357,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 30,
+      "verse": 8,
       "reason": "naphtali"
     },
     "p2343": {
@@ -321,6 +365,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 30,
+      "verse": 11,
       "reason": "gad"
     },
     "p2344": {
@@ -328,6 +373,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 30,
+      "verse": 13,
       "reason": "asher"
     },
     "p2345": {
@@ -335,6 +381,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 30,
+      "verse": 18,
       "reason": "issachar"
     },
     "p2346": {
@@ -342,6 +389,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 30,
+      "verse": 24,
       "reason": "joseph"
     },
     "p2347": {
@@ -349,6 +397,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 30,
+      "verse": 20,
       "reason": "zebulun"
     },
     "p2348": {
@@ -356,6 +405,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 35,
+      "verse": 18,
       "reason": "benjamin"
     },
     "p2349": {
@@ -363,6 +413,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 14,
+      "verse": 7,
       "reason": "tamar"
     },
     "p2456": {
@@ -370,6 +421,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 38,
+      "verse": 29,
       "reason": "perez"
     },
     "p2557": {
@@ -377,6 +429,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 46,
+      "verse": 9,
       "reason": "hezron"
     },
     "p2658": {
@@ -384,6 +437,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 15,
+      "verse": 9,
       "reason": "ram"
     },
     "p2759": {
@@ -391,6 +445,7 @@
       "bookSlug": "exodus",
       "bookName": "Exodus",
       "chapter": 6,
+      "verse": 23,
       "reason": "amminadab"
     },
     "p2860": {
@@ -398,6 +453,7 @@
       "bookSlug": "exodus",
       "bookName": "Exodus",
       "chapter": 6,
+      "verse": 23,
       "reason": "nahshon"
     },
     "p2961": {
@@ -405,6 +461,7 @@
       "bookSlug": "ruth",
       "bookName": "Ruth",
       "chapter": 4,
+      "verse": 20,
       "reason": "salmon"
     },
     "p2962": {
@@ -412,6 +469,7 @@
       "bookSlug": "joshua",
       "bookName": "Joshua",
       "chapter": 2,
+      "verse": 1,
       "reason": "rahab"
     },
     "p3062": {
@@ -419,6 +477,7 @@
       "bookSlug": "ruth",
       "bookName": "Ruth",
       "chapter": 2,
+      "verse": 1,
       "reason": "boaz"
     },
     "p3063": {
@@ -426,6 +485,7 @@
       "bookSlug": "ruth",
       "bookName": "Ruth",
       "chapter": 1,
+      "verse": 4,
       "reason": "ruth"
     },
     "p3064": {
@@ -433,6 +493,7 @@
       "bookSlug": "judges",
       "bookName": "Judges",
       "chapter": 13,
+      "verse": 24,
       "reason": "samson"
     },
     "p3163": {
@@ -440,6 +501,7 @@
       "bookSlug": "ruth",
       "bookName": "Ruth",
       "chapter": 4,
+      "verse": 17,
       "reason": "obed"
     },
     "p3264": {
@@ -447,6 +509,7 @@
       "bookSlug": "ruth",
       "bookName": "Ruth",
       "chapter": 4,
+      "verse": 17,
       "reason": "jesse"
     },
     "p3365": {
@@ -454,6 +517,7 @@
       "bookSlug": "ruth",
       "bookName": "Ruth",
       "chapter": 4,
+      "verse": 17,
       "reason": "david"
     },
     "p3366": {
@@ -461,6 +525,7 @@
       "bookSlug": "1-samuel",
       "bookName": "1 Samuel",
       "chapter": 14,
+      "verse": 49,
       "reason": "michal"
     },
     "p3367": {
@@ -468,6 +533,7 @@
       "bookSlug": "1-samuel",
       "bookName": "1 Samuel",
       "chapter": 14,
+      "verse": 50,
       "reason": "ahinoam"
     },
     "p3368": {
@@ -475,6 +541,7 @@
       "bookSlug": "1-samuel",
       "bookName": "1 Samuel",
       "chapter": 25,
+      "verse": 3,
       "reason": "abigail"
     },
     "p3369": {
@@ -482,6 +549,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 22,
+      "verse": 24,
       "reason": "maacah"
     },
     "p3370": {
@@ -489,6 +557,7 @@
       "bookSlug": "2-samuel",
       "bookName": "2 Samuel",
       "chapter": 3,
+      "verse": 4,
       "reason": "haggith"
     },
     "p3371": {
@@ -496,6 +565,7 @@
       "bookSlug": "2-samuel",
       "bookName": "2 Samuel",
       "chapter": 3,
+      "verse": 4,
       "reason": "abital"
     },
     "p3372": {
@@ -503,6 +573,7 @@
       "bookSlug": "2-samuel",
       "bookName": "2 Samuel",
       "chapter": 11,
+      "verse": 3,
       "reason": "bathsheba"
     },
     "p3466": {
@@ -510,6 +581,7 @@
       "bookSlug": "2-samuel",
       "bookName": "2 Samuel",
       "chapter": 3,
+      "verse": 2,
       "reason": "amnon"
     },
     "p3467": {
@@ -517,6 +589,7 @@
       "bookSlug": "2-samuel",
       "bookName": "2 Samuel",
       "chapter": 3,
+      "verse": 3,
       "reason": "chileab"
     },
     "p3468": {
@@ -524,6 +597,7 @@
       "bookSlug": "2-samuel",
       "bookName": "2 Samuel",
       "chapter": 3,
+      "verse": 3,
       "reason": "absalom"
     },
     "p3469": {
@@ -531,6 +605,7 @@
       "bookSlug": "2-samuel",
       "bookName": "2 Samuel",
       "chapter": 3,
+      "verse": 4,
       "reason": "adonijah"
     },
     "p3470": {
@@ -538,6 +613,7 @@
       "bookSlug": "2-samuel",
       "bookName": "2 Samuel",
       "chapter": 5,
+      "verse": 14,
       "reason": "nathan"
     },
     "p3471": {
@@ -545,6 +621,7 @@
       "bookSlug": "2-samuel",
       "bookName": "2 Samuel",
       "chapter": 5,
+      "verse": 14,
       "reason": "solomon"
     },
     "p2449": {
@@ -552,6 +629,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 46,
+      "verse": 11,
       "reason": "kohath"
     },
     "p2550": {
@@ -559,6 +637,7 @@
       "bookSlug": "exodus",
       "bookName": "Exodus",
       "chapter": 6,
+      "verse": 18,
       "reason": "amram"
     },
     "p2551": {
@@ -566,6 +645,7 @@
       "bookSlug": "exodus",
       "bookName": "Exodus",
       "chapter": 6,
+      "verse": 20,
       "reason": "jochebed"
     },
     "p2652": {
@@ -573,6 +653,7 @@
       "bookSlug": "exodus",
       "bookName": "Exodus",
       "chapter": 15,
+      "verse": 20,
       "reason": "miriam"
     },
     "p2653": {
@@ -580,6 +661,7 @@
       "bookSlug": "exodus",
       "bookName": "Exodus",
       "chapter": 4,
+      "verse": 14,
       "reason": "aaron"
     },
     "p2654": {
@@ -587,6 +669,7 @@
       "bookSlug": "exodus",
       "bookName": "Exodus",
       "chapter": 2,
+      "verse": 10,
       "reason": "moses"
     },
     "p2655": {
@@ -594,6 +677,7 @@
       "bookSlug": "exodus",
       "bookName": "Exodus",
       "chapter": 2,
+      "verse": 21,
       "reason": "zipporah"
     },
     "p2656": {
@@ -601,6 +685,7 @@
       "bookSlug": "exodus",
       "bookName": "Exodus",
       "chapter": 17,
+      "verse": 9,
       "reason": "joshua"
     },
     "p2751": {
@@ -608,6 +693,7 @@
       "bookSlug": "numbers",
       "bookName": "Numbers",
       "chapter": 13,
+      "verse": 6,
       "reason": "caleb"
     },
     "p2963": {
@@ -615,6 +701,7 @@
       "bookSlug": "judges",
       "bookName": "Judges",
       "chapter": 13,
+      "verse": 2,
       "reason": "manoah"
     },
     "p2965": {
@@ -622,6 +709,7 @@
       "bookSlug": "judges",
       "bookName": "Judges",
       "chapter": 6,
+      "verse": 11,
       "reason": "gideon"
     },
     "p3572": {
@@ -629,6 +717,7 @@
       "bookSlug": "1-kings",
       "bookName": "1 Kings",
       "chapter": 11,
+      "verse": 43,
       "reason": "rehoboam"
     },
     "p3673": {
@@ -636,6 +725,7 @@
       "bookSlug": "1-samuel",
       "bookName": "1 Samuel",
       "chapter": 8,
+      "verse": 2,
       "reason": "abijah"
     },
     "p3774": {
@@ -643,6 +733,7 @@
       "bookSlug": "1-kings",
       "bookName": "1 Kings",
       "chapter": 15,
+      "verse": 8,
       "reason": "asa"
     },
     "p3875": {
@@ -650,6 +741,7 @@
       "bookSlug": "2-samuel",
       "bookName": "2 Samuel",
       "chapter": 8,
+      "verse": 16,
       "reason": "jehoshaphat"
     },
     "p3976": {
@@ -657,6 +749,7 @@
       "bookSlug": "1-kings",
       "bookName": "1 Kings",
       "chapter": 22,
+      "verse": 50,
       "reason": "jehoram"
     },
     "p4077": {
@@ -664,6 +757,7 @@
       "bookSlug": "1-kings",
       "bookName": "1 Kings",
       "chapter": 22,
+      "verse": 40,
       "reason": "ahaziah"
     },
     "p4178": {
@@ -671,6 +765,7 @@
       "bookSlug": "judges",
       "bookName": "Judges",
       "chapter": 6,
+      "verse": 11,
       "reason": "joash"
     },
     "p4279": {
@@ -678,6 +773,7 @@
       "bookSlug": "2-kings",
       "bookName": "2 Kings",
       "chapter": 12,
+      "verse": 21,
       "reason": "amaziah"
     },
     "p4380": {
@@ -685,6 +781,7 @@
       "bookSlug": "2-kings",
       "bookName": "2 Kings",
       "chapter": 15,
+      "verse": 13,
       "reason": "uzziah"
     },
     "p4481": {
@@ -692,6 +789,7 @@
       "bookSlug": "judges",
       "bookName": "Judges",
       "chapter": 9,
+      "verse": 5,
       "reason": "jotham"
     },
     "p4582": {
@@ -699,6 +797,7 @@
       "bookSlug": "2-kings",
       "bookName": "2 Kings",
       "chapter": 15,
+      "verse": 38,
       "reason": "ahaz"
     },
     "p4683": {
@@ -706,6 +805,7 @@
       "bookSlug": "2-kings",
       "bookName": "2 Kings",
       "chapter": 16,
+      "verse": 20,
       "reason": "hezekiah"
     },
     "p4784": {
@@ -713,6 +813,7 @@
       "bookSlug": "genesis",
       "bookName": "Genesis",
       "chapter": 41,
+      "verse": 51,
       "reason": "manasseh"
     },
     "p4885": {
@@ -720,6 +821,7 @@
       "bookSlug": "1-kings",
       "bookName": "1 Kings",
       "chapter": 22,
+      "verse": 26,
       "reason": "amon"
     },
     "p4986": {
@@ -727,6 +829,7 @@
       "bookSlug": "1-kings",
       "bookName": "1 Kings",
       "chapter": 13,
+      "verse": 2,
       "reason": "josiah"
     },
     "p5087": {
@@ -734,20 +837,16 @@
       "bookSlug": "2-kings",
       "bookName": "2 Kings",
       "chapter": 23,
+      "verse": 34,
       "reason": "jehoiakim"
     },
-    "p5188": {
-      "bookCode": "2KI",
-      "bookSlug": "2-kings",
-      "bookName": "2 Kings",
-      "chapter": 24,
-      "reason": "manual:Jehoiachin/Jeconiah"
-    },
+    "p5188": null,
     "p5289": {
       "bookCode": "1CH",
       "bookSlug": "1-chronicles",
       "bookName": "1 Chronicles",
       "chapter": 3,
+      "verse": 17,
       "reason": "shealtiel"
     },
     "p5390": {
@@ -755,6 +854,7 @@
       "bookSlug": "1-chronicles",
       "bookName": "1 Chronicles",
       "chapter": 3,
+      "verse": 19,
       "reason": "zerubbabel"
     },
     "p5491": {
@@ -762,6 +862,7 @@
       "bookSlug": "matthew",
       "bookName": "Matthew",
       "chapter": 1,
+      "verse": 13,
       "reason": "abiud"
     },
     "p5592": {
@@ -769,6 +870,7 @@
       "bookSlug": "2-kings",
       "bookName": "2 Kings",
       "chapter": 18,
+      "verse": 18,
       "reason": "eliakim"
     },
     "p5693": {
@@ -776,6 +878,7 @@
       "bookSlug": "matthew",
       "bookName": "Matthew",
       "chapter": 1,
+      "verse": 13,
       "reason": "azor"
     },
     "p5794": {
@@ -783,20 +886,16 @@
       "bookSlug": "2-samuel",
       "bookName": "2 Samuel",
       "chapter": 8,
+      "verse": 17,
       "reason": "zadok"
     },
-    "p5895": {
-      "bookCode": "MAT",
-      "bookSlug": "matthew",
-      "bookName": "Matthew",
-      "chapter": 1,
-      "reason": "manual:genealogy"
-    },
+    "p5895": null,
     "p5996": {
       "bookCode": "MAT",
       "bookSlug": "matthew",
       "bookName": "Matthew",
       "chapter": 1,
+      "verse": 14,
       "reason": "eliud"
     },
     "p6097": {
@@ -804,6 +903,7 @@
       "bookSlug": "exodus",
       "bookName": "Exodus",
       "chapter": 6,
+      "verse": 23,
       "reason": "eleazar"
     },
     "p6198": {
@@ -811,6 +911,7 @@
       "bookSlug": "matthew",
       "bookName": "Matthew",
       "chapter": 1,
+      "verse": 15,
       "reason": "matthan"
     },
     "p6299": {
@@ -818,6 +919,7 @@
       "bookSlug": "matthew",
       "bookName": "Matthew",
       "chapter": 1,
+      "verse": 2,
       "reason": "jacob"
     },
     "p6300": {
@@ -825,6 +927,7 @@
       "bookSlug": "matthew",
       "bookName": "Matthew",
       "chapter": 1,
+      "verse": 16,
       "reason": "joseph"
     },
     "p6301": {
@@ -832,6 +935,7 @@
       "bookSlug": "matthew",
       "bookName": "Matthew",
       "chapter": 1,
+      "verse": 16,
       "reason": "mary"
     },
     "p6402": {
@@ -839,6 +943,7 @@
       "bookSlug": "matthew",
       "bookName": "Matthew",
       "chapter": 1,
+      "verse": 1,
       "reason": "jesus"
     }
   }

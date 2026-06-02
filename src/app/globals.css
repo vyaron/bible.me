@@ -532,6 +532,36 @@ main {
   font-weight: 700;
 }
 
+.verse-number-link {
+  text-decoration: none;
+}
+
+.verse-number-link:hover,
+.verse-number-link:focus-visible {
+  background: rgba(122, 78, 37, 0.2);
+  border: 1px solid var(--border-strong);
+}
+
+.verse-deep-link-active {
+  border-radius: var(--radius-sm);
+  background: linear-gradient(90deg, rgba(250, 221, 166, 0.42), rgba(255, 255, 255, 0.08));
+  animation: verse-deep-link-flash 4.2s ease forwards;
+}
+
+@keyframes verse-deep-link-flash {
+  0% {
+    box-shadow: 0 0 0 0 rgba(211, 131, 39, 0.7);
+  }
+
+  30% {
+    box-shadow: 0 0 0 8px rgba(211, 131, 39, 0.12);
+  }
+
+  100% {
+    box-shadow: 0 0 0 0 rgba(211, 131, 39, 0);
+  }
+}
+
 .verse-text {
   font-size: 1.08rem;
 }
@@ -558,6 +588,100 @@ main {
   background: rgba(255, 255, 255, 0.74);
   padding: 0.9rem;
   transition: transform 160ms ease, border-color 160ms ease, box-shadow 160ms ease;
+}
+
+.verse-of-day {
+  position: relative;
+  overflow: hidden;
+}
+
+.verse-of-day::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(128deg, rgba(255, 255, 255, 0.62), rgba(255, 255, 255, 0.05) 52%),
+    radial-gradient(circle at 10% 0%, rgba(210, 147, 72, 0.2), transparent 55%);
+  pointer-events: none;
+}
+
+.verse-of-day > * {
+  position: relative;
+  z-index: 1;
+}
+
+.verse-of-day-quote {
+  margin: 0;
+  padding: 1rem 1.1rem;
+  border-left: 4px solid rgba(122, 78, 37, 0.55);
+  border-radius: var(--radius-sm);
+  background: rgba(255, 255, 255, 0.72);
+}
+
+.verse-of-day-quote p {
+  margin: 0;
+  font-size: 1.12rem;
+}
+
+.verse-of-day-footer {
+  margin-top: 0.9rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.85rem;
+}
+
+.verse-of-day-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.verse-of-day-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35rem;
+  padding: 0.55rem 0.9rem;
+  border: 1px solid var(--border-strong);
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent-strong);
+  font-family: var(--font-ui);
+  font-size: 0.94rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.verse-of-day-button:hover,
+.verse-of-day-button:focus-visible {
+  transform: translateY(-1px);
+  border-color: rgba(90, 55, 25, 0.45);
+  box-shadow: 0 12px 30px rgba(58, 38, 17, 0.12);
+}
+
+.verse-of-day-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35rem;
+  padding: 0.55rem 0.9rem;
+  border: 1px solid var(--border-strong);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.82);
+  color: var(--accent-strong);
+  font-family: var(--font-ui);
+  font-size: 0.94rem;
+  font-weight: 600;
+}
+
+.verse-of-day-link:hover,
+.verse-of-day-link:focus-visible {
+  transform: translateY(-1px);
+  border-color: rgba(90, 55, 25, 0.45);
+  box-shadow: 0 12px 30px rgba(58, 38, 17, 0.12);
 }
 
 .story-feature-card {
@@ -861,6 +985,15 @@ main {
 
   .story-feature-card {
     grid-template-columns: 1fr;
+  }
+
+  .verse-of-day-footer {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .verse-of-day-actions {
+    width: 100%;
   }
 
   .tree-group {
