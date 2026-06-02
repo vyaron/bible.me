@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import { Suspense } from 'react'
 
 import { getBibleTreeData } from '@/lib/bible-tree/data'
 
@@ -36,7 +37,9 @@ export default async function TreePage() {
           {treeData.matchedCount} with mention links • {treeData.personCount - treeData.matchedCount} unmatched
         </p>
 
-        <BibleTreeView persons={treeData.persons} />
+        <Suspense fallback={<p className="audio-note">Loading tree view...</p>}>
+          <BibleTreeView persons={treeData.persons} />
+        </Suspense>
       </section>
     </>
   )

@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 
 import { AppMap } from '@/app/components/app-map'
+import { FavoriteButton } from '@/app/components/favorite-button'
 import { getStoryBySlug, storyList } from '@/lib/story-data'
 
 function isAllowedEmbedUrl(url: string) {
@@ -56,7 +57,10 @@ export default async function StoryDetailPage({ params }: StoryDetailPageProps) 
         <div className="reader-meta">
           <a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/story">Story</a>
         </div>
-        <h1>{story.title}</h1>
+        <div className="story-detail-title-row">
+          <h1>{story.title}</h1>
+          <FavoriteButton item={{ type: 'story', slug: story.slug, title: story.title }} />
+        </div>
         <p>{story.summary}</p>
       </div>
 
@@ -151,6 +155,11 @@ export default async function StoryDetailPage({ params }: StoryDetailPageProps) 
             ))}
           </ul>
         </div>
+      </div>
+
+      <div className="story-detail-footer-fav">
+        <FavoriteButton item={{ type: 'story', slug: story.slug, title: story.title }} />
+        <span className="muted">Save this story</span>
       </div>
     </section>
   )

@@ -3,6 +3,7 @@
 import { useMemo, useState } from 'react'
 
 import type { VerseOfDay } from '@/lib/verse-of-day'
+import { FavoriteButton } from '@/app/components/favorite-button'
 
 type VerseOfDayCardProps = {
   verses: VerseOfDay[]
@@ -50,6 +51,16 @@ export function VerseOfDayCard({ verses }: VerseOfDayCardProps) {
           <a className="verse-of-day-link" href={verse.href}>
             Open verse
           </a>
+          <FavoriteButton
+            item={{
+              type: 'verse',
+              book: verse.bookSlug,
+              chapter: verse.chapter,
+              verse: verse.verse,
+              text: verse.text,
+              href: verse.href
+            }}
+          />
         </div>
       </div>
     </section>

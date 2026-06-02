@@ -1,8 +1,10 @@
 'use client'
 
 import { useEffect, useMemo, useState } from 'react'
+import { useSearchParams } from 'next/navigation'
 
 import type { BibleTreePersonWithMention } from '@/lib/bible-tree/types'
+import { FavoriteButton } from '@/app/components/favorite-button'
 
 type BibleTreeViewProps = {
   persons: BibleTreePersonWithMention[]
@@ -161,6 +163,8 @@ async function getPersonWikiData(person: BibleTreePersonWithMention) {
 }
 
 export function BibleTreeView({ persons }: BibleTreeViewProps) {
+  const searchParams = useSearchParams()
+  const personFromQuery = searchParams.get('person')
   const [lines, setLines] = useState<LineSegment[]>([])
   const [selectedPersonId, setSelectedPersonId] = useState<string | null>(null)
   const [wikiData, setWikiData] = useState<WikiData | null>(null)
@@ -389,6 +393,32 @@ export function BibleTreeView({ persons }: BibleTreeViewProps) {
   }, [levels, personById])
 
   useEffect(() => {
+    if (!personFromQuery || !personById.has(personFromQuery)) {
+      return
+    }
+
+    setSelectedPersonId(personFromQuery)
+
+    const animationFrame = window.requestAnimationFrame(() => {
+      const personElement = document.querySelector<HTMLElement>(`[data-person-id="${personFromQuery}"]`)
+
+      if (!personElement) {
+        return
+      }
+
+      personElement.scrollIntoView({
+        behavior: 'smooth',
+        block: 'center',
+        inline: 'center'
+      })
+    })
+
+    return () => {
+      window.cancelAnimationFrame(animationFrame)
+    }
+  }, [personFromQuery, personById])
+
+  useEffect(() => {
     if (!selectedPersonId) {
       setWikiData(null)
       setWikiLoading(false)
@@ -542,6 +572,7 @@ export function BibleTreeView({ persons }: BibleTreeViewProps) {
                             Read more on Wikipedia
                           </a>
                         ) : null}
+                        <FavoriteButton item={{ type: 'person', id: selectedPerson.id, name: selectedPerson.name }} />
                       </div>
                     </div>
                   </>

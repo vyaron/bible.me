@@ -8,6 +8,7 @@ import {
   getChapterUrl
 } from '@/lib/bible'
 import { siteName } from '@/lib/site'
+import { FavoriteButton } from '@/app/components/favorite-button'
 
 function toHebrewNumeral(value: number) {
   const specialCases: Record<number, string> = {
@@ -107,12 +108,13 @@ export default async function BookPage({ params }: BookPageProps) {
   return (
     <section className="panel reader">
       <div className="reader-top">
-        <div>
+        <div className="book-title-row">
           <h1>{book.name}</h1>
-          <p className="reader-meta">
-            {book.chapters.length} chapters • {book.stats.verses.toLocaleString()} verses
-          </p>
+          <FavoriteButton item={{ type: 'book', slug: book.slug, name: book.name }} />
         </div>
+        <p className="reader-meta">
+          {book.chapters.length} chapters • {book.stats.verses.toLocaleString()} verses
+        </p>
       </div>
 
       <div className="section">

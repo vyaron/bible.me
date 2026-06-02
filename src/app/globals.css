@@ -1070,6 +1070,46 @@ main {
   gap: 1rem;
 }
 
+.story-detail-title-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.6rem;
+}
+
+.story-detail-title-row h1 {
+  flex: 1 1 0;
+  margin: 0;
+}
+
+.book-title-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.6rem;
+}
+
+.book-title-row h1 {
+  flex: 1 1 0;
+  margin: 0;
+}
+
+.chapter-title-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.6rem;
+}
+
+.chapter-title-row h1 {
+  flex: 1 1 0;
+  margin: 0;
+}
+
+.story-detail-footer-fav {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.6rem 0;
+}
+
 .story-blocks {
   display: grid;
   gap: 1rem;
@@ -1194,6 +1234,147 @@ main {
 
 .story-source-note {
   display: inline;
+}
+
+/* ─── Favorites ──────────────────────────────────────────── */
+
+.favorite-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.9rem;
+  height: 1.9rem;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: var(--muted);
+  font-size: 1.05rem;
+  line-height: 1;
+  cursor: pointer;
+  transition: color 120ms, opacity 120ms, transform 120ms;
+  flex-shrink: 0;
+}
+
+.favorite-btn:hover,
+.favorite-btn:focus-visible {
+  color: var(--accent-strong);
+  transform: scale(1.15);
+}
+
+.favorite-btn.is-liked {
+  color: var(--accent-strong);
+}
+
+/* verse-row: only show favorite-btn on hover */
+.verse .favorite-btn {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.verse:hover .favorite-btn,
+.verse:focus-within .favorite-btn {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+/* story-card overlay */
+.story-card-wrap {
+  position: relative;
+}
+
+.story-card-wrap .favorite-btn {
+  position: absolute;
+  top: 0.55rem;
+  right: 0.55rem;
+  background: rgba(255, 255, 255, 0.88);
+  border: 1px solid var(--border);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* ─── My Space ────────────────────────────────────────────── */
+
+.my-space-hero {
+  display: grid;
+  gap: 0.4rem;
+}
+
+.my-space-content {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.my-space-group {
+  display: grid;
+  gap: 0.65rem;
+}
+
+.my-space-group-title {
+  margin: 0;
+  font-size: 1.08rem;
+  font-family: var(--font-ui);
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-size: 0.82rem;
+}
+
+.my-space-list {
+  display: grid;
+  gap: 0.45rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.my-space-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.7rem;
+  padding: 0.6rem 0.8rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  background: rgba(255, 255, 255, 0.78);
+}
+
+.my-space-item-link {
+  flex: 1 1 0;
+  min-width: 0;
+  color: var(--accent-strong);
+  font-family: var(--font-ui);
+  font-size: 0.97rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.my-space-item-link:hover {
+  text-decoration: underline;
+}
+
+.my-space-remove {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.7rem;
+  height: 1.7rem;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: var(--muted);
+  font-size: 1.05rem;
+  cursor: pointer;
+  flex-shrink: 0;
+  transition: color 120ms;
+}
+
+.my-space-remove:hover {
+  color: var(--accent-strong);
+}
+
+.my-space-empty {
+  color: var(--muted);
+  font-size: 0.94rem;
 }
 
 .tree-panel {

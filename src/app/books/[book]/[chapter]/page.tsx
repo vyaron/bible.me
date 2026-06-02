@@ -14,6 +14,7 @@ import { getHebrewChapter } from '@/lib/hebrew'
 import { getSiteUrl, siteName } from '@/lib/site'
 
 import { VerseDeepLinkHandler } from './verse-deep-link'
+import { FavoriteButton } from '@/app/components/favorite-button'
 
 type ChapterPageProps = {
   params: Promise<{
@@ -121,9 +122,21 @@ export default async function ChapterPage({ params }: ChapterPageProps) {
           )}
         </nav>
         <div>
-          <h1>
-            {book.name} {chapter.number}
-          </h1>
+          <div className="chapter-title-row">
+            <h1>
+              {book.name} {chapter.number}
+            </h1>
+            <FavoriteButton
+              item={{
+                type: 'chapter',
+                slug: `${book.slug}-${chapter.number}`,
+                book: book.slug,
+                number: chapter.number,
+                label: `${book.name} ${chapter.number}`,
+                href: getChapterUrl(book.slug, chapter.number)
+              }}
+            />
+          </div>
           <p>{chapter.verses.length} verses, set up for focused reading and sharing.</p>
           {hebrewChapterData ? (
             <a className="chapter-hebrew-link" href="#original-hebrew-verse">
@@ -167,6 +180,16 @@ export default async function ChapterPage({ params }: ChapterPageProps) {
               </a>
               <div className="verse-body">
                 <div className="verse-text">{verse.text}</div>
+                <FavoriteButton
+                  item={{
+                    type: 'verse',
+                    book: book.slug,
+                    chapter: chapter.number,
+                    verse: verse.number,
+                    text: verse.text,
+                    href: `${getChapterUrl(book.slug, chapter.number)}#verse-${verse.number}`
+                  }}
+                />
                 {hebrewVerseMap.has(verse.number) ? (
                   <details className="hebrew-inline-toggle">
                     <summary

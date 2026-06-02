@@ -53,6 +53,9 @@ export default function RootLayout({
                 <a className="nav-pill" href="/story">
                   Stories
                 </a>
+                <a className="nav-pill" href="/my-space">
+                  My Space
+                </a>
               </nav>
             </div>
           </header>

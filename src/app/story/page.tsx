@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 
 import { storyList } from '@/lib/story-data'
+import { FavoriteButton } from '@/app/components/favorite-button'
 
 export const metadata: Metadata = {
   title: 'Greatest stories ever told',
@@ -62,14 +63,16 @@ export default function StoryPage() {
         </div>
         <div className="story-grid">
           {otStories.map((story) => (
-            <StoryCard
-              key={story.slug}
-              title={story.title}
-              href={`/story/${story.slug}`}
-              summary={story.summary}
-              imageSrc={story.heroMedia.type === 'image' ? story.heroMedia.src : story.heroMedia.poster ?? '/story-media/_shared/texture.svg'}
-              imageAlt={story.heroMedia.type === 'image' ? story.heroMedia.alt : `${story.title} video preview`}
-            />
+            <div key={story.slug} className="story-card-wrap">
+              <StoryCard
+                title={story.title}
+                href={`/story/${story.slug}`}
+                summary={story.summary}
+                imageSrc={story.heroMedia.type === 'image' ? story.heroMedia.src : story.heroMedia.poster ?? '/story-media/_shared/texture.svg'}
+                imageAlt={story.heroMedia.type === 'image' ? story.heroMedia.alt : `${story.title} video preview`}
+              />
+              <FavoriteButton item={{ type: 'story', slug: story.slug, title: story.title }} />
+            </div>
           ))}
         </div>
 
@@ -82,14 +85,16 @@ export default function StoryPage() {
         </div>
         <div className="story-grid">
           {ntStories.map((story) => (
-            <StoryCard
-              key={story.slug}
-              title={story.title}
-              href={`/story/${story.slug}`}
-              summary={story.summary}
-              imageSrc={story.heroMedia.type === 'image' ? story.heroMedia.src : story.heroMedia.poster ?? '/story-media/_shared/texture.svg'}
-              imageAlt={story.heroMedia.type === 'image' ? story.heroMedia.alt : `${story.title} video preview`}
-            />
+            <div key={story.slug} className="story-card-wrap">
+              <StoryCard
+                title={story.title}
+                href={`/story/${story.slug}`}
+                summary={story.summary}
+                imageSrc={story.heroMedia.type === 'image' ? story.heroMedia.src : story.heroMedia.poster ?? '/story-media/_shared/texture.svg'}
+                imageAlt={story.heroMedia.type === 'image' ? story.heroMedia.alt : `${story.title} video preview`}
+              />
+              <FavoriteButton item={{ type: 'story', slug: story.slug, title: story.title }} />
+            </div>
           ))}
         </div>
       </section>
