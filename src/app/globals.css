@@ -1017,6 +1017,8 @@ main {
 }
 
 .tree-modal-image-wrap {
+  display: grid;
+  place-items: center;
   border-radius: var(--radius-md);
   overflow: hidden;
   border: 1px solid var(--border);
@@ -1025,8 +1027,9 @@ main {
 
 .tree-modal-image {
   width: 100%;
-  max-height: 440px;
-  object-fit: cover;
+  height: min(440px, 60vh);
+  object-fit: contain;
+  object-position: center;
 }
 
 .tree-modal-info h2 {
@@ -1040,10 +1043,23 @@ main {
 }
 
 .tree-modal-link {
-  display: inline-block;
-  margin-top: 0.3rem;
+  display: inline-flex;
+  align-items: center;
   font-family: var(--font-ui);
   color: var(--accent-strong);
+}
+
+.tree-modal-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem 1rem;
+  margin-top: 0.3rem;
+}
+
+.tree-modal-actions .tree-modal-link + .tree-modal-link::before {
+  content: '|';
+  color: var(--muted);
+  margin-right: 1rem;
 }
 
 .tree-modal-link:hover {

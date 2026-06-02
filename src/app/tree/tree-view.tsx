@@ -439,6 +439,9 @@ export function BibleTreeView({ persons }: BibleTreeViewProps) {
   }, [selectedPersonId, personById])
 
   const selectedPerson = selectedPersonId ? personById.get(selectedPersonId) : null
+  const selectedMentionHref = selectedPerson?.firstMention
+    ? `/books/${selectedPerson.firstMention.bookSlug}/${selectedPerson.firstMention.chapter}#verse-${selectedPerson.firstMention.verse}`
+    : null
 
   return (
     <>
@@ -527,11 +530,19 @@ export function BibleTreeView({ persons }: BibleTreeViewProps) {
                       <h2>{wikiData?.name || selectedPerson.name}</h2>
                       <p className="tree-modal-description">{wikiData?.description || 'Biblical figure'}</p>
                       <p>{wikiData?.summary || `No reliable Wikipedia summary was found for ${selectedPerson.name}.`}</p>
-                      {wikiData?.url ? (
-                        <a className="tree-modal-link" href={wikiData.url} target="_blank" rel="noreferrer">
-                          Read more on Wikipedia
-                        </a>
-                      ) : null}
+                      <div className="tree-modal-actions">
+                        {selectedMentionHref ? (
+                          <a className="tree-modal-link" href={selectedMentionHref}>
+                            First mention: {selectedPerson.firstMention?.bookName} {selectedPerson.firstMention?.chapter}:
+                            {selectedPerson.firstMention?.verse}
+                          </a>
+                        ) : null}
+                        {wikiData?.url ? (
+                          <a className="tree-modal-link" href={wikiData.url} target="_blank" rel="noreferrer">
+                            Read more on Wikipedia
+                          </a>
+                        ) : null}
+                      </div>
                     </div>
                   </>
                 )}
