@@ -1,7 +1,6 @@
 import type { Metadata } from 'next'
 
 import { getBibleIndex, groupBooksByTestament, getBookUrl } from '@/lib/bible'
-import { siteName } from '@/lib/site'
 import { storyList } from '@/lib/story-data'
 import { getVerseOfDayList } from '@/lib/verse-of-day'
 
@@ -20,26 +19,7 @@ export default async function HomePage() {
   return (
     <>
       <section className="hero home-hero">
-        <p className="hero-kicker">{siteName}</p>
-        <h1>Read the Bible with a simple path to every chapter.</h1>
-        <p>
-          Browse the whole canon by book, jump directly to a chapter, and keep your place with routes
-          that are easy to share and easy to index.
-        </p>
-        <div className="stats" aria-label="Bible content summary">
-          <div className="stat">
-            <strong>{bibleIndex.bookCount}</strong>
-            <span>Books</span>
-          </div>
-          <div className="stat">
-            <strong>{bibleIndex.stats.chapters}</strong>
-            <span>Chapters</span>
-          </div>
-          <div className="stat">
-            <strong>{bibleIndex.stats.verses.toLocaleString()}</strong>
-            <span>Verses</span>
-          </div>
-        </div>
+        <h1>Rooted in Scripture. Alive in Every Story</h1>
       </section>
 
       <VerseOfDayCard verses={versesOfDay} />
@@ -63,7 +43,6 @@ export default async function HomePage() {
             <h2>Bible Tree</h2>
             <p>Explore genealogy and jump to first-mention chapters.</p>
           </div>
-          <span className="badge">new</span>
         </div>
         <a className="home-panel-action" href="/tree">
           Open Bible Tree
@@ -85,7 +64,6 @@ export default async function HomePage() {
               <small>{book.chapters} chapters</small>
               <div className="details">
                 <span>{book.verses.toLocaleString()} verses</span>
-                <span>{book.code}</span>
               </div>
             </a>
           ))}
@@ -107,12 +85,31 @@ export default async function HomePage() {
               <small>{book.chapters} chapters</small>
               <div className="details">
                 <span>{book.verses.toLocaleString()} verses</span>
-                <span>{book.code}</span>
               </div>
             </a>
           ))}
         </div>
       </section>
+
+      <footer className="panel reader section home-footer" aria-label="Bible content summary">
+        <p className="home-footer-copy">
+          Explore the Bible Your Way — Listen, Learn, and Discover.
+        </p>
+        <div className="stats home-footer-stats">
+          <div className="stat">
+            <strong>{bibleIndex.bookCount}</strong>
+            <span>Books</span>
+          </div>
+          <div className="stat">
+            <strong>{bibleIndex.stats.chapters.toLocaleString()}</strong>
+            <span>Chapters</span>
+          </div>
+          <div className="stat">
+            <strong>{bibleIndex.stats.verses.toLocaleString()}</strong>
+            <span>Verses</span>
+          </div>
+        </div>
+      </footer>
     </>
   )
 }

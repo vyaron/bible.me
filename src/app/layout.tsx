@@ -41,7 +41,7 @@ export default function RootLayout({
             <div className="shell site-nav">
               <a className="brand" href="/" aria-label="Bible.me home">
                 <strong>Bible.me</strong>
-                <span>Bible for Everyone</span>
+                <span>Timeless Stories. Modern Experience.</span>
               </a>
               <nav className="nav-links" aria-label="Primary">
                 <a className="nav-pill" href="/">
@@ -59,6 +59,9 @@ export default function RootLayout({
           <main id="content" className="shell">
             {children}
           </main>
+          <footer className="site-footer" aria-label="Site footer">
+            <div className="shell site-footer-inner">Deep Roots. Eternal Stories. One Bible.</div>
+          </footer>
         </div>
       </body>
     </html>

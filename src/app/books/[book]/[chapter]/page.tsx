@@ -84,47 +84,74 @@ export default async function ChapterPage({ params }: ChapterPageProps) {
     <section className="panel reader">
       <VerseDeepLinkHandler />
       <div className="reader-top">
-        <div className="reader-meta">
-          <a href="/">Home</a> <span aria-hidden="true">/</span> <a href={getBookUrl(book.slug)}>{book.name}</a>
+        <div className="chapter-breadcrumb-row">
+          <div className="reader-meta">
+            <a href="/">Home</a> <span aria-hidden="true">/</span> <a href={getBookUrl(book.slug)}>{book.name}</a>
+          </div>
+          <span className="badge chapter-testament-badge">
+            {book.testament === 'OT' ? 'Old Testament' : 'New Testament'}
+          </span>
         </div>
+        <nav className="chapter-icon-nav" aria-label="Chapter navigation">
+          {navigation.previousHref ? (
+            <a
+              className="chapter-icon-button"
+              href={navigation.previousHref}
+              aria-label="Previous chapter"
+              title="Previous chapter"
+            >
+              <span aria-hidden="true">←</span>
+            </a>
+          ) : (
+            <span className="chapter-icon-button is-disabled" aria-disabled="true" title="Start of book">
+              <span aria-hidden="true">←</span>
+            </span>
+          )}
+          <a className="chapter-icon-button" href={getBookUrl(book.slug)} aria-label="Chapter list" title="Chapter list">
+            <span aria-hidden="true">≡</span>
+          </a>
+          {navigation.nextHref ? (
+            <a className="chapter-icon-button" href={navigation.nextHref} aria-label="Next chapter" title="Next chapter">
+              <span aria-hidden="true">→</span>
+            </a>
+          ) : (
+            <span className="chapter-icon-button is-disabled" aria-disabled="true" title="End of book">
+              <span aria-hidden="true">→</span>
+            </span>
+          )}
+        </nav>
         <div>
-          <span className="badge">{book.testament === 'OT' ? 'Old Testament' : 'New Testament'}</span>
           <h1>
             {book.name} {chapter.number}
           </h1>
           <p>{chapter.verses.length} verses, set up for focused reading and sharing.</p>
-        </div>
-        <div className="reader-nav" aria-label="Chapter navigation">
-          {navigation.previousHref ? <a href={navigation.previousHref}>Previous chapter</a> : <span>Start of book</span>}
-          <a href={getBookUrl(book.slug)}>Chapter list</a>
-          <a href="#original-hebrew-verse">Original Hebrew Verse</a>
-          {navigation.nextHref ? <a href={navigation.nextHref}>Next chapter</a> : <span>End of book</span>}
+          {hebrewChapterData ? (
+            <a className="chapter-hebrew-link" href="#original-hebrew-verse">
+              Original Hebrew Verse
+            </a>
+          ) : null}
         </div>
       </div>
 
       <article className="section">
-        <div className="audio-block" aria-label="Chapter audio">
-          <h2>
-            Listen to this chapter <span className="language-badge">EN</span>
-          </h2>
-          {chapterAudio ? (
-            <>
-              <audio controls preload="none" className="audio-player" src={chapterAudio.streamUrl}>
-                <p>Your browser does not support audio playback.</p>
-              </audio>
-              <p className="audio-note">
-                Source: <a href={chapterAudio.sourceUrl}>English Hosanna Audio New Testament</a>
-              </p>
-            </>
-          ) : (
-            <p className="audio-note">Audio unavailable for this chapter.</p>
-          )}
-        </div>
+        {chapterAudio ? (
+          <div className="audio-block" aria-label="Chapter audio">
+            <h2>
+              Listen to this chapter <span className="language-badge">EN</span>
+            </h2>
+            <audio controls preload="none" className="audio-player" src={chapterAudio.streamUrl}>
+              <p>Your browser does not support audio playback.</p>
+            </audio>
+            <p className="audio-note">
+              Source: <a href={chapterAudio.sourceUrl}>English Hosanna Audio New Testament</a>
+            </p>
+          </div>
+        ) : null}
 
         {hebrewChapterAudio ? (
           <div className="audio-block" aria-label="Original hebrew audio">
             <h2>
-              Original hebrew audio <span className="language-badge">HE</span>
+              Listen in Hebrew <span className="language-badge">HE</span>
             </h2>
             <audio controls preload="none" className="audio-player" src={hebrewChapterAudio.streamUrl}>
               <p>Your browser does not support audio playback.</p>
@@ -182,9 +209,7 @@ export default async function ChapterPage({ params }: ChapterPageProps) {
               ))}
             </div>
           </div>
-        ) : (
-          <p className="hebrew-note">Hebrew not available for this book and chapter yet.</p>
-        )}
+        ) : null}
       </div>
     </section>
   )

@@ -83,6 +83,18 @@ main {
   padding: 1.25rem 0 3rem;
 }
 
+.site-footer {
+  padding: 1rem 0 0.25rem;
+}
+
+.site-footer-inner {
+  color: var(--muted);
+  text-align: center;
+  font-family: var(--font-ui);
+  font-size: 0.92rem;
+  letter-spacing: 0.06em;
+}
+
 .site-header {
   position: sticky;
   top: 0.75rem;
@@ -266,6 +278,54 @@ main {
     url('/img/NT.png') center/cover no-repeat;
 }
 
+.home-footer {
+  padding: clamp(1.25rem, 3vw, 2rem);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.home-footer-copy {
+  margin: 0 0 1rem;
+  width: min(68ch, 100%);
+  color: var(--muted);
+  font-family: var(--font-ui);
+  font-size: 1.02rem;
+  text-align: center;
+}
+
+.home-footer-stats {
+  margin-top: 0;
+  gap: 1.25rem 1.75rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-footer-stats .stat {
+  min-width: 7rem;
+  padding: 0.25rem 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.1rem;
+}
+
+.home-footer-stats .stat strong {
+  font-size: clamp(1.65rem, 3vw, 2rem);
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+}
+
+.home-footer-stats .stat span {
+  font-size: 0.82rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
 .home-stories-panel::before,
 .home-tree-panel::before,
 .home-ot-panel::before,
@@ -273,10 +333,19 @@ main {
   content: '';
   position: absolute;
   inset: 0;
+  opacity: 1;
+  transition: opacity 180ms ease;
   background:
     linear-gradient(120deg, rgba(255, 255, 255, 0.72), rgba(255, 255, 255, 0.24) 58%),
     radial-gradient(circle at 85% 8%, rgba(106, 72, 34, 0.2), transparent 50%);
   pointer-events: none;
+}
+
+.home-stories-panel:has(.home-panel-action:hover)::before,
+.home-stories-panel:has(.home-panel-action:focus-visible)::before,
+.home-tree-panel:has(.home-panel-action:hover)::before,
+.home-tree-panel:has(.home-panel-action:focus-visible)::before {
+  opacity: 0.01;
 }
 
 .home-stories-panel > *,
@@ -449,6 +518,17 @@ main {
   font-size: 0.88rem;
 }
 
+.chapter-pill {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2.75rem;
+  padding: 0.65rem 0.95rem;
+  text-align: center;
+  line-height: 1.1;
+  font-family: var(--font-ui);
+}
+
 .book-card .details {
   display: flex;
   justify-content: space-between;
@@ -478,6 +558,60 @@ main {
   display: grid;
   gap: 0.8rem;
   margin-bottom: 1.25rem;
+}
+
+.chapter-breadcrumb-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.chapter-testament-badge {
+  flex: 0 0 auto;
+  white-space: nowrap;
+}
+
+.chapter-icon-nav {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.chapter-icon-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.35rem;
+  height: 2.35rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.72);
+  color: var(--text);
+  font-family: var(--font-ui);
+  font-size: 1rem;
+  line-height: 1;
+  transition: transform 160ms ease, border-color 160ms ease, box-shadow 160ms ease, opacity 160ms ease;
+}
+
+.chapter-icon-button:hover,
+.chapter-icon-button:focus-visible {
+  transform: translateY(-2px);
+  border-color: rgba(90, 55, 25, 0.35);
+  box-shadow: 0 16px 36px rgba(58, 38, 17, 0.1);
+}
+
+.chapter-icon-button.is-disabled {
+  opacity: 0.42;
+  cursor: default;
+}
+
+.chapter-hebrew-link {
+  display: inline-flex;
+  margin-top: 0.45rem;
+  color: var(--accent-strong);
+  font-family: var(--font-ui);
+  font-size: 0.88rem;
 }
 
 .reader-top h1 {
@@ -752,6 +886,18 @@ main {
   background:
     linear-gradient(0deg, rgba(255, 251, 245, 0.86), rgba(255, 251, 245, 0.86)),
     url('/img/book.png') center/cover no-repeat;
+}
+
+.home-verse-of-day::before {
+  opacity: 1;
+  transition: opacity 180ms ease;
+}
+
+.home-verse-of-day:has(.verse-of-day-button:hover)::before,
+.home-verse-of-day:has(.verse-of-day-button:focus-visible)::before,
+.home-verse-of-day:has(.verse-of-day-link:hover)::before,
+.home-verse-of-day:has(.verse-of-day-link:focus-visible)::before {
+  opacity: 0.01;
 }
 
 .verse-of-day::before {
@@ -1225,11 +1371,51 @@ main {
   text-decoration: underline;
 }
 
+.book-footer-art {
+  position: relative;
+  margin: 1.25rem 0 0;
+  overflow: hidden;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.62);
+}
+
+.book-footer-art img {
+  width: 100%;
+  display: block;
+  object-fit: cover;
+  aspect-ratio: 16 / 6;
+}
+
+.book-footer-art-label {
+  position: absolute;
+  left: 50%;
+  top: 0.9rem;
+  transform: translateX(-50%);
+  padding: 0.42rem 0.8rem;
+  border-radius: 999px;
+  background: rgba(13, 16, 20, 0.74);
+  color: #fff;
+  font-family: var(--font-ui);
+  font-size: 0.82rem;
+  letter-spacing: 0.03em;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.18);
+}
+
 @media (max-width: 720px) {
   .site-nav {
     border-radius: var(--radius-xl);
     align-items: start;
     flex-direction: column;
+  }
+
+  .chapter-breadcrumb-row {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .chapter-icon-nav {
+    flex-wrap: wrap;
   }
 
   .reader-nav {
